@@ -1,0 +1,47 @@
+{
+  "promptDelete": false,
+  "livePreview": true,
+  "showInlineTitle": true,
+  "useMarkdownLinks": false,
+  "alwaysUpdateLinks": true,
+  "vimMode": true,
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:insert-wikilink",
+    "editor:insert-embed",
+    "editor:insert-tag",
+    "editor:attach-file",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:toggle-keyboard",
+    "editor:configure-toolbar",
+    "editor:swap-line-up",
+    "editor:swap-line-down"
+  ],
+  "newFileLocation": "current",
+  "spellcheckDictionary": [
+    "denoise",
+    "deconvolution"
+  ],
+  "showUnsupportedFiles": true,
+  "propertiesInDocument": "source",
+  "readableLineLength": false,
+  "userIgnoreFilters": [
+    "literature_note/",
+    "thesis/",
+    "z_literature_notes/",
+    "out_files/"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "minimal-style@@file-header-visibility": "minimal-tab-title-visible",
+  "catppuccin-heading-settings@@ctp-h2": "var(--ctp-mauve)",
+  "catppuccin-heading-settings@@ctp-h3": "var(--ctp-lavender)",
+  "catppuccin-heading-settings@@ctp-h4": "var(--ctp-sky)",
+  "catppuccin-heading-settings@@ctp-h5": "var(--ctp-pink)",
+  "catppuccin-heading-settings@@ctp-h6": "var(--ctp-teal)",
+  "catppuccin-heading-settings@@ctp-h1": "var(--ctp-peach)",
+  "catppuccin-font-styles@@ctp-italic": "var(--ctp-accent)",
+  "catppuccin-heading-settings@@ctp-page-title": "var(--ctp-rosewater)"
+}

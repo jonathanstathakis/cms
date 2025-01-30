@@ -1,0 +1,10 @@
+{
+  "findText": "project/migration_to_main_project/migration_to_main_vault/mres_logbook",
+  "replaceText": "project/migration_to_main_project/migration_to_main_vault/devnotes",
+  "useRegEx": false,
+  "selOnly": false,
+  "caseInsensitive": false,
+  "processLineBreak": false,
+  "processTab": false,
+  "prefillFind": false
+}

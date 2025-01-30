@@ -1,0 +1,413 @@
+{
+  "workspaces": {
+    "zettel_hud": {
+      "main": {
+        "id": "b19df8814a58c1f7",
+        "type": "split",
+        "children": [
+          {
+            "id": "50a370e7eb4f1893",
+            "type": "split",
+            "children": [
+              {
+                "id": "c48645c0048c6416",
+                "type": "split",
+                "dimension": 55.1436515291937,
+                "children": [
+                  {
+                    "id": "c56ecdc0627877a8",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "f62eabc1a87d6c21",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "zettel/pca_required_knowledge.md",
+                            "mode": "source",
+                            "backlinks": true,
+                            "source": false
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "b11db77e073d532e",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "06d60902665cfe52",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "zettel/strang.md",
+                            "mode": "source",
+                            "backlinks": true,
+                            "source": false
+                          }
+                        }
+                      },
+                      {
+                        "id": "91cde396fc680ca9",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "zettel/matrices.md",
+                            "mode": "source",
+                            "backlinks": true,
+                            "source": false
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "direction": "vertical"
+              },
+              {
+                "id": "08a033a94be25037",
+                "type": "split",
+                "dimension": 44.8563484708063,
+                "children": [
+                  {
+                    "id": "e5eeda775058fa39",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "cabf9845d8374416",
+                        "type": "leaf",
+                        "pinned": true,
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "zettel/recent_files.md",
+                            "mode": "source",
+                            "backlinks": true,
+                            "source": false
+                          },
+                          "pinned": true
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "32d3d5034976ac8f",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "3bfc89e45a48b421",
+                        "type": "leaf",
+                        "state": {
+                          "type": "outgoing-link",
+                          "state": {
+                            "file": "zettel/recent_files.md",
+                            "linksCollapsed": false,
+                            "unlinkedCollapsed": false
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "direction": "vertical"
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "ed2e3613cb2eeae9",
+        "type": "split",
+        "children": [
+          {
+            "id": "d1035dd771a662fb",
+            "type": "tabs",
+            "dimension": 66.07445008460236,
+            "children": [
+              {
+                "id": "07b578eb367dbddf",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "zettel/recent_files.md"
+                  }
+                }
+              },
+              {
+                "id": "7f010555b828fbbf",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "46a0d7b04cbbd494",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "pseudoinverse",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "3681d7d8e8741696",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "2207ab7b3efc7aab",
+            "type": "tabs",
+            "dimension": 33.92554991539763,
+            "children": [
+              {
+                "id": "1b60ee66c3d9084f",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "zettel/recent_files.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.9603514997809435,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 361.5024719238281,
+        "collapsed": true
+      },
+      "right": {
+        "id": "2fa0dd337b78af51",
+        "type": "split",
+        "children": [
+          {
+            "id": "066684ccbe94f52a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "732a0092d026bc95",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              },
+              {
+                "id": "6b4e48a26a1169ff",
+                "type": "leaf",
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/Users/jonathan/001_obsidian_vault/0_personal",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "/bin/zsh",
+                        "name": "",
+                        "platforms": {
+                          "darwin": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": true,
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {},
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  }
+                }
+              },
+              {
+                "id": "a64071156fea51dd",
+                "type": "leaf",
+                "state": {
+                  "type": "ReferenceListView",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f407b1b7d117c146",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": null,
+                      "focus": false,
+                      "profile": {
+                        "name": "",
+                        "restoreHistory": true,
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {},
+                        "type": "developerConsole"
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "791df273147506ec",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "zettel/recent_files.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "f6b9169fda1018de",
+                "type": "leaf",
+                "state": {
+                  "type": "zotero-annotation-view",
+                  "state": {
+                    "file": "zettel/recent_files.md",
+                    "itemId": -1,
+                    "attachmentId": -1,
+                    "follow": "zt-reader"
+                  }
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 538.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian42-brat:BRAT": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "terminal:Open terminal": false,
+          "obsidian42-text-transporter:Text Transporter": false,
+          "obsidian-shellcommands:Shell commands: Custom variables": false,
+          "zk-prefixer:Create new unique note": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "darlal-switcher-plus:Open in Headings Mode": false,
+          "darlal-switcher-plus:Open Symbols for the active editor": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "floating": {
+        "id": "617eb4ae6e19be36",
+        "type": "floating",
+        "children": [
+          {
+            "id": "8c0b0e4ff2e3b41e",
+            "type": "window",
+            "children": [
+              {
+                "id": "c349b03cddd3cc9f",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "ee27088cd6557888",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "matrix_vector_multiplication.md",
+                        "mode": "source",
+                        "backlinks": true,
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical",
+            "x": 296,
+            "y": 80,
+            "width": 1024,
+            "height": 800,
+            "maximize": false,
+            "zoom": 0.5
+          }
+        ]
+      },
+      "active": "cabf9845d8374416",
+      "mtime": "2024-08-14T10:22:10+10:00"
+    }
+  },
+  "active": "zettel_hud"
+}

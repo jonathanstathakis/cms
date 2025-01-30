@@ -1,0 +1,326 @@
+---
+title: 
+aliases: []
+tags: []
+type:
+cdt: 2025-01-18T12:44:02
+mdt: 2025-01-28T14:30:34
+citekey: guildsomm_bordeauxexpert
+---
+
+# Guildsomm Bordeaux Expert Study Guide
+
+```toc
+minLevel: 2
+```
+
+## Bordeaux: Frances Largest Vineyard
+
+- 117,500 hectares under vine (2011) means more area under vine than any other region in France.
+- 14% French total vineyard area.
+- 5 - 6 million hectolitres of wine every year.
+- average of 14.5 hectares per domaine.
+- 8000 winegrowers (?).
+- 130km long and 75 km wide.
+- 2 major rivers - Garonne and Dordogne.
+- Garonne and Dordogne converge into the Gironde Estuary prior to joining the Atlantic.
+- Most of Bordeaux appellation is within the Gironde departement except for a stretch of coastal forest.
+- Bordeaux is divided into 5 sub regions:
+	- Médoc
+	- Graves
+	- Entre-Deux-Mers
+	- The Right Bank
+	- Blaye and Bourg
+- Médoc and Graves constitute the Left Bank
+- Saint-Émillion, Pomerol, Fronsac and surrounding appellations constitute the Right Bank. Sometimes Blaye and Bourg are included.
+- Entre-Deux-Mers sits between the Garonne and Dordogne.
+
+## Bordeaux Climates
+
+- influenced by Atlantic Ocean (maritime climate), whose effects are channelled inland through the Gironde Estuary.
+- maritme climate = warm summers, cool winters, tempered extremes.
+- rainfall evenly dispersed throughout the year, no dry season.
+- Médoc most rainfall of any major French wine region.
+- Hazard: rainfall can interrupt flowering in spring, reducing yield. Rot is also a concern.
+- Due to rainfall, Bordeaux climate is unpredictable year on year - sunshine one year, disastrous amounts of rain the next.
+- Unpredictable climate and weather events means change in vintage quality year on year, and accordingly, fluctuating prices (esp. in more premium wines)
+- Warm water from Caribbean sucked up by the Atlantic Gulf Stream keeps Bordeaux climate mild even though its just south of the 45th parallel (?)
+- severe spring frost or dangerously cold winters occur rarely.
+- Cabernet Sauvignon and Petit Verdot are late-ripening varieties who are susceptible to Autumn rain and cold weather
+
+## The Grapes of Bordeaux
+
+- Bordeaux AOP:
+	- 6 red varieties:
+		- Merlot
+		- Cabernet Sauvignon
+		- Cabernet Franc
+		- Petit Verdot
+		- Malbec
+		- Carmenère
+		- 99% of vineyard area dedicated to Merlot, Cabernet Sauvignon, Cabernet Franc.
+	- White Varieties
+		- Sémillon
+		- Sauvignon Blanc
+		- Sauvignon Gris
+		- Muscadelle
+		- Ugni Blanc (minor)
+		- Merlot Blanc (minor)
+		- Colombard (minor)
+- Phylloxera and the winter of 1956 destroyed many vineyards, consequently vineyards have reduced variation of varieties.
+- 89% of vineyard area is dedicated to black grapes.
+- Merlot most planted black vine.
+- Sémillon most planted white vine.
+- significance of blends:
+	- Bordeaux tends toward blends.
+	- Insurance against bad weather. Blends provide insurance as different varieties bud, ripen at different times and rates so adverse weather events don't impact all varieties equally - for example frost damaging early budding varieties, autumn rains affecting late ripening varieties. Another example is weakness to rot and coulure - more rain means more rot etc.
+	- Soil Composition. Different varieties like different soils - for example Merlot prefers cool clay soils, Cabernet warmer gravel.
+	- Blending Complementary Flavors. Bordeaux varieties are complementary in character, each providing elements to the final assembly.
+- Varieties of Bordeaux are related:
+	- Cabernet Franc + Sauvignon Blanc = Cabernet Sauvignon. Franc -> Merlot, Carmenere. Merlot and Malbec are half-siblings sharing a parent Magdeleine Noire des Charentes.
+	- Relation means similar flavors - Pyrazine (2-methoxy-3-isobutylpyrazine) character (bell pepper, grass, sage) common in Cabernet Franc, Carmenere, Cabernet Sauvignon, Sauvignon Blanc. Of the family, only Malbec does not show pyrazine.
+	- Note that Petit Verdot and Muscadelle are not related to the other varieties.
+
+### Merlot
+
+- 63% of red wine plantings
+- dominant grape in vast majority of right bank wines, rising in popularity in left bank (Northern Médoc, Graves where there are non-gravel soils).
+- In Médoc and Haut-Médoc AOP constitutes up to half the blend.
+- Increasing in popularity in Saint-Estèphe and in many second wines.
+- buds and ripens 2 weeks earlier than CS
+- inclined toward high yields
+- for premium wine:
+	- cool soils (e.g. clay) to slow ripening
+	- severe pruning
+- vulnerable to rot: thin skin compared to CS
+- vulnerable to coloure because of early budding
+- less susceptible to wood-rotting diseases i.e. Eutypa dieback
+- longer lived than Cabernet Sauvignon - can reach 100 years of age
+- Cabernet Sauvignon only lives 60 years.
+- warmer vintages can result in over-production of sugar - 2009, 2010 saw potential alcohols of 16%.
+- contribution to blends: lush blue and plum fruit, expansive mid-palate, alcohol warmth. in the right bank it produces fleshy, supply, generous wines appreciated by those with an inclination to fruit.
+
+### Cabernet Sauvignon
+
+- 25% of plantings
+- gravel soil of left bank allows it to ripen fully.
+- thick skins = more resistant to rot.
+- tannic, phenolic.
+
+### Cabernet Franc
+
+- 11% of vineyard plantings
+- in blends it is usually subordinate.
+- Has been replaced by Merlot in importance.
+- Used in the right bank to add acidity and aromatics to Merlot
+
+### Malbec
+
+- prior to its import to Bordeaux, it was known as Pressac Noir. A Bordelais grower named Malbec brought the grape to Bordeaux and bestowed its local name upon it.
+- Shrinking in importance.
+
+### Petit Verdot
+
+- used in the left bank in very small proportions to add color, spice, floral perfume and tannin to Cabernet Sauvignon.
+
+### Sémillon
+
+- ~45% of white plantings.
+- thin skin: prone to botrytis.
+- makes waxy and rich dry whites, balancing sauvignon blanc.
+
+### Sauvignon Blanc
+
+- ~43% vineyard plantings
+- typically the dominant varietal in white blends.
+- Sauvignon Gris is a mutation of Sauvignon Blanc but is genetically identical.
+
+### Muscadelle
+
+- ~5% white vineyard plantings
+- flowery, grapey, intense aromatics.
+- used like petit verdot - small proportions to accentuate a blend.
+
+## The Modern AOP System in Bordeaux
+
+- 39 AOP in Bordeaux
+- 3 regional appellations apply within whole Bordeaux:
+	- Bordeaux AOP
+	- Bordeaux Supérieur AOP
+	- Crémant de Bordeaux AOP
+- Subregional AOPs:
+	- Médoc AOP
+	- Entre-Deux-Mers AOP
+	- Côtes de Bordeaux AOP
+- village appellations:
+	- Pomerol AOP
+	- Margaux AOP
+	- Sauternes AOP
+
+### Bordeaux AOP
+
+- red, white, rosé and clairet - dry, off-dry and medium sweet.
+
+### Bordeaux Supérieur AOP
+
+- red and medium sweet whites
+- requires:
+	- reds to undergo élevage until mid-June of the year following harvest (approx 6 months longer)
+	- higher minimum vine density, lower yield per hectare, more vines per hectare (increase stress = better wine)
+	- lower maximum allowed yield
+	- require higher minimum alcohol
+- Based on using ripeness as predictor for quality - outdated assumption as modern viticulture able to achieved ripeness easily (also climate).
+- Typical Bordeaux Supérieur wine:
+	- Merlot dominant.
+	- aged in older barriques.
+	- may use American oak
+	- may use oak chips.
+	- machine harvest.
+	- 6 - 15 euros in cost.
+
+### Crémant De Bordeaux AOP
+
+- white and rosé sparkling wines.
+- traditional method
+- at least 9 months on lees.
+- small level of production - approximately 200 ha in Gironde départment (out of 99,750 ha, or 0.2%)
+
+### Vin De Pays (IGP) in Bordeaux
+
+- Bordeaux is included in the *Atlantique* IGP which includes the départments of Gironde, Chaente and Charente-Maritime, Dordogne and west of Lot-et-Garone.
+- Can include all styles of wine and a vast array of varieties.
+- Typically users of this designation are in Bergerac, Duras or Cognac rather than Bordeaux.
+
+## History of Bordeaux
+
+*skipped.*
+
+### The 1855 Classification
+
+- A list of the top Bordeaux estates
+- created by *courtiers* on request by Emperor Napoleon III for the 1855 Universal Exposition.
+- Ranked based on price: Médoc Reds and Sauturnes stickies most expensive at the time (still are)
+- excluded Right Bank, Graves (except for Haut-Brion)
+- classification of reds:
+	- included 57 chateaux
+	- chateaux were divided into 5 categories called *growths* (?) under the top level *grand cru classé*
+	- first growths:
+		- Lafite
+		- Latour
+		- Margeaux
+		- Haut-Brion
+- classification of stickies:
+	- 21 chateaux
+	- 3 categories: *second cru*, *premiers crus*, *premier cru supérieur* (Château d'Yquem)
+- changes in status of chateaux over time has added 4 chateaux to the red classification for a total of 61, 27 classified for white (sticky or dry?)
+- in 1973 Château Mouton-Rothschild was elevated to premier cru classé
+- Not the first time classification of Bordeaux was attempted, but certainly the most enduring.
+- a controversial classification - benefits the original included, detracts from less privleged producers.
+
+### Disease
+
+- Between 1852 and 1869 three American diseases struck Bordeaux - oidium (powdery mildew), peronospera (downy mildew) and phylloxera.
+- oidium was treated with sulfur
+- phylloxera was treated by replanting and grafting with resistant rootstock or opting for hybrid vines.
+- downy mildew was treated with Bordeaux Mixture (copper sulfate + lime)
+- result of these three diseases is that Bordeaux Mixture is applied routinely and most all vineyards in Bordeaux are grafted on phylloxera-resistant rootstock.
+- The need for grafting disadvantages poorly graftable vines such as Malbec and Carmenere who have consequently reduced in importance in the area - overall the diversity of varieties has reduced.
+
+### 20th Century Blues and Revival
+
+*skipped, but interesting.*
+
+...
+
+## The Place De Bordeaux and *En Primeur*
+
+- 3 tiered production, brokerage and sales system that evolved in Bordeaux during the second millennium.
+- Production (château):
+	- traditionally operated by aristocracy or church
+- Sales (*négociant):
+	- merchant class
+	- first established in 1600's by dutch and english traders, Germans, Irish followed in 1700's
+- Broker (*courtier*):
+	- appeared in 1800's due to emergence of new estates in Médoc - established négociants of the time dealt with estates in Graves.
+	- Acted as intermediaries between *châteaus* and *négociants*.
+- *En Primeur*
+	- the sales of **yet to be released** wines (i.e. futures) by châteaux to négociants was common in Bordeaux (takes advantage of good years, smoothing out cashflow)
+	- Initially a Bordeaux B2B system, attention from Robert Parker etc. brought public interest.
+	- Current system - tasting of wine is performed, wines are scored, prices announced and futures released for purchase. Futures are released in successively more expensive tranches until all are sold.
+	- Can be a 2 year wait for the futures to become wine - for bottles to be released after maturation.
+	- Future prices can fluctuate wildly.
+	- Notably, Château Latour opted out entirely in 2012 and onwards.
+
+## Bordeaux Vineyard Ownership: The Brand Model
+
+## Viticulture in Bordeaux
+
+- training
+	- guyot system
+		- left bank: double
+		- right bank: simple
+		- tends to produce larger berries more susceptible to grey rot
+	- sweet wines: cordon - makes smaller berries better for botrytis infetion.
+- vineyard density
+	- left bank:
+		- premier appellatoins of Médoc require minimum 7,000 vines per hectare
+		- common for high density 1 x 1 meter spacing similar to Côte d'Or.
+	- right bank:
+		- Pomerol and St Émilion require minimum 5500 vines per hectare, rows separated by 1.3 - 1.5 meters. This is because soils are shallower and vineroot spreads outwards rather than down.
+	- Entre-Deux-Mers
+		- lowest density, Bordeaux AOP allows a maximum of 2.5 meters between vines.
+- height
+	- left bank:
+		- common in medoc for bunches to hand 1 meter off the ground to maximise absorbance of radiant heat from gravel.
+	- right bank:
+		- higher canopies than left bank because frost is more common.
+- organic and biodynamic practices
+	- Bordeaux moving toward organic.
+	- hard because of wet weather, rot, mildew
+	- in 2017 8% of Bordeaux vineyards were certified organic, on par with national average.
+	- due to environmental threats, producers tend to *lutte raisonnée* (practical organic - a conservative approach to the use of non-organic practices) rather than strict organic.
+	- Bordeaux mixture, sulfer and similar concoctions are technically organic
+	- deleafing and greenery stripping around fruit after *véraison* are methods of managing disease without chemicals.
+	- biodynamic practice is increasing, for example Pontet-Canet.
+
+## Winemaking Practices in Bordeaux
+
+- Viticulture
+	- green harvesting is common. It is used to reduce vigor, producing smaller berries resulting in a more concentrated wine
+- Picking and Preprocessing
+	- sorting of fruit by quality. Done by hand, optical sorter and density sorter (only the densest fruit goes into *grand vin*)
+	- destemming is common
+	- chaptalization can be used
+	- removal of water content by vacuum distallation or reverse osmosis - typically used in wet and cool vintages.
+- Fermentation
+	- every kind of vessel is used: large wood casks, stainless steel tank, buried expoxy-lined concrete vat, naked cement vat.
+	- dry and sweet whites wines typically ferment in barrique
+	- some estates blend batches of different fermentation styles to match varietal or parcel character.
+	- cap management:
+		- typically use *remontage* (pumping over [@robinson_Oxfordcompanionwine_2015])
+		- some producers use *pigeage* - risky with rich black grapes such as CS as can overextract phenols and color
+	- MLF:
+		- reds undergo MLF in tank or barrel, typically at the end of harvest year (harvest is in September [@dombrowski_whatexpectgrape_2020]), so 3 months after harvest.
+		- whites are typically not MLF unless overly acidic.
+	- micro-oxygenation
+		- used to soften green, rustic and tannic edges.
+- Élevage
+	- *grand vin*:
+		- spend 18 - 24 months maturing
+		- typically entirely in new oak, generally a range of coopering styles.
+		- racking:
+			- at most once every three months.
+	- whites can spend 12 - 15 months in barrel, at most 50% new oak.
+	- oxygenation *cliquage*:
+		- controversial
+		- small volumes of oxygen applied to a finished wine in barrel to simulate oxygenation introduced via racking
+		- proponents claim it balances reduction introduced through bâtonnage
+		- critics state that it benefits quality in the short term at the cost of long-term bottle maturation.
+- *assemblage*
+	- either done early in the year after harvest prior to *en primeur* tasting in April of that year (*en primeur* judges the wine in barrel, not in bottle) or after the tasting just prior to bottling.
+	- thus for the best wines they either mature for the extent of their time as a blend or as individuals.
+- fining and filtration
+	- both are common, however exceptions exist.
+- bottling
+	- bottling is done the April after harvest.
+	- cork closure universal but not required.

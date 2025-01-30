@@ -1,0 +1,16 @@
+{
+  "promptDelete": false,
+  "propertiesInDocument": "source",
+  "alwaysUpdateLinks": true,
+  "vimMode": true,
+  "userIgnoreFilters": [
+    "z_literature_notes/"
+  ],
+  "livePreview": true,
+  "readableLineLength": true,
+  "showInlineTitle": false,
+  "attachmentFolderPath": "z_attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "inbox",
+  "spellcheck": false
+}

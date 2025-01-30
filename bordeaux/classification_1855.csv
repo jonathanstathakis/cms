@@ -1,0 +1,91 @@
+color,growth, region, subregion, chateau, lat., long.,growth_rank
+white,superior first,graves,sauternes,d'yquem,44.613381619216604,-0.34406911634682147,0
+red,first,medoc,pauillac,lafite,45.22535767408024,-0.7721963578950372,1
+red,first,medoc,pauillac,mouton rothschild,45.21371169312951, -0.7695835843944628,1
+red,first,medoc,margeaux,latour,45.17836617528925, -0.7486545683822913,1
+red,first,medoc,margeaux,margaux,45.05083482814771, -0.6540109937833445,1
+red,first,graves,pessac,haut-brion,44.816970529666214, -0.6084669389337601,1
+white,first,graves,bommes,latour blanche,44.560636962053394, -0.35722203064993086,1
+white,first,graves,bommes,lafaurie-peyraguey,44.553205645503404, -0.33790749555346056,1
+white,first,graves,bommes,clos haut-peyraguey,clos haut-peyraguey,1
+white,first,graves,bommes,de rayne-vigneau,44.55031973017251, -0.3440390201052092,1
+white,first,graves,preignac,suduiraut,44.56068107135539, -0.32517763406377526,1
+white,first,graves,barsac,coutet,44.595779380348006, -0.3261545109690459,1
+white,first,graves,barsac,climens,44.592150629007364, -0.3336157734699746,1
+white,first,graves,sauternes,guiraud,44.53882541454304, -0.3339061421393281,1
+white,first,graves,fargues,rieussec,rieussec,1
+white,first,graves,bommes,rabaud-promis,44.57031957733603, -0.3335527197996819,1
+white,first,graves,bommes,sigalas-rabaud,44.55478186174321, -0.3386841248131514,1
+red,second,medoc,cantenac-margeaux,rauzan-ségla,45.0410977547268, -0.6746967003196256,2
+red,second,medoc,margeaux,rauzan-gassies,45.03697250246238, -0.6748069442078604,2
+red,second,medoc,st-julien,léoville-las cases,45.16875938070422, -0.737690581246541,2
+red,second,medoc,st-julien,léoville-poyferré,45.16497195477745, -0.740189447379054,2
+red,second,medoc,st-julien,léoville-barton,45.15845322530237, -0.7388616779582426,2
+red,second,medoc,margeaux,dufort-vivens,45.041073471078974, -0.6742723473080542,2
+red,second,medoc,st-julien,gruaud-larose,45.1448636550041, -0.7508321939302394,2
+red,second,medoc,st-julien,lascombes,45.042165630379756, -0.6827603901411567,2
+red,second,medoc,cantenac-margeaux,brane-cantenac,45.03048382304561, -0.6738233068176094,2
+red,second,medoc,pauillac,pichon longueville baron (pichon baron),45.18101836425197, -0.7513463664367591,2
+red,second,medoc,pauillac,pichon longueville comtesse de lalande (pichon lalande; pichon comtesse),45.185955158215386, -0.7485339759283722,2
+red,second,medoc,st-julien,ducru-beaucaillo,45.151739310540236, -0.7341968087841919,2
+red,second,medoc,st-estephe,cos d'estournel,45.23466524842159, -0.7750007610101186,2
+red,second,medoc,st-estephe,montrose,45.24854909421506, -0.7608239893787037,2
+white,second,graves,barsac,de myrat,,,2
+white,second,graves,barsac,doisy daëne,,,2
+white,second,graves,barsac,doisy dubroca,,,2
+white,second,graves,barsac,doisy-védrines,,,2
+white,second,graves,,pexoto (defunct - part of rabaud-promis),,,2
+white,second,graves,sauternes,d'arche,,,2
+white,second,graves,sauternes,filhot,,,2
+white,second,graves,barsac,broustet,,,2
+white,second,graves,barsac,nairac,,,2
+white,second,graves,barsac,caillou,,,2
+white,second,graves,barsac,suau,,,2
+white,second,graves,preignac,de malle,,,2
+white,second,graves,fargues,romer,,,2
+white,second,graves,fargues,romer du hayot,,,2
+white,second,graves,sauternes,lamothe,,,2
+white,second,graves,sauternes,lamothe-guignard,,,2
+red,third,medoc,cantenac-margaux,kirwan,45.032853247115554, -0.6591588359134694,3
+red,third,medoc,cantenac-margaux,d'issan,,,3
+red,third,medoc,st-julien,lagrange,,,3
+red,third,medoc,st-julien,langoa-barton,,,3
+red,third,medoc,labarde-margaux,giscours,,,3
+red,third,medoc,margaux,malescot st. exupéry,,,3
+red,third,medoc,cantenac-margaux,cantenac-brown,,,3
+red,third,medoc,margaux,boyd-cantenac,,,3
+red,third,medoc,cantenac-margaux,palmer,,,3
+red,third,medoc,ludon,la lagune,,,3
+red,third,medoc,margaux,desmirail,,,3
+red,third,medoc,margaux,dubignon,,,3
+red,third,medoc,st-estephe,calon,,,3
+red,third,medoc,margaux,ferrière,,,3
+red,third,medoc,margaux,marquis d'alesme becker,,,3
+red,fourth,medoc,st-julien,saint-pierrre,,,4
+red,fourth,medoc,talbot,st-julien,,,4
+red,fourth,medoc,st-julien,branaire-ducru,,,4
+red,fourth,medoc,pauillac,duhart-milon,,,4
+red,fourth,medoc,cantenac-margaux,pouget,,,4
+red,fourth,medoc,st-laurent,la tour carnet,,,4
+red,fourth,medoc,st-estephe,lafon-rochet,,,4
+red,fourth,medoc,st-julien,beychevelle,,,4
+red,fourth,medoc,cantenac-margaux,prieuré-lichine,,,4
+red,fourth,medoc,margaux,marquis de terme,,,4
+red,fifth,medoc,pauillac,pontet-canet,,,5
+red,fifth,medoc,pauillac,batailley,,,5
+red,fifth,medoc,pauillac,haut-batailley,,,5
+red,fifth,medoc,pauillac,puy-lacoste,,,5
+red,fifth,medoc,pauillac,grand-puy-ducasse,,,5
+red,fifth,medoc,pauillac,lynch-bages,,,5
+red,fifth,medoc,pauillac,lynch-moussas,,,5
+red,fifth,medoc,labarde,dauzac,,,5
+red,fifth,medoc,pauillac,d'armailhac,,,5
+red,fifth,medoc,arsac,du tertre,,,5
+red,fifth,medoc,pauillac,haut-bages-libéral,,,5
+red,fifth,medoc,pauillac,pédesclaux,,,5
+red,fifth,medoc,st-laurent,belgrave,,,5
+red,fifth,medoc,st-laurent,camensac,,,5
+red,fifth,medoc,st-estéphe,cos labory,,,5
+red,fifth,medoc,pauillac,clerc-milon,,,5
+red,fifth,medoc,pauillac,croizet bages,,,5
+red,fifth,medoc,macau,cantemerle,,,5

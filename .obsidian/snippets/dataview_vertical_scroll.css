@@ -1,0 +1,13 @@
+/* provide scroll bar for dataview. From https://forum.obsidian.md/t/scrollable-dataview-table/29009/6*/
+
+.block-language-dataview  {
+    display: block;
+    height: 400px;
+    overflow: auto;
+}
+
+.block-language-dataviewjs   {
+    display: block;
+    height: 400px;
+    overflow: auto;
+}

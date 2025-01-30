@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "c960763be267ad93",
+    "type": "split",
+    "children": [
+      {
+        "id": "363d51e2935fba68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "feb42931c5eeab35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "young_peanuts.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "young_peanuts"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4268dec8da4afc44",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "24507f42077d1276",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "9d4b0a64a8b62066",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "barina",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "3f6cf1e6ae1fd55e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "1f75398928190cfa",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "4d4ad8a14481375c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fd2c3538ba28fc5b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "inbox/xarray_plotting_with_hvplot.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "0b13b8b7e7961dfd",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "inbox/xarray_plotting_with_hvplot.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "0d2620534635e3df",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "inbox/xarray_plotting_with_hvplot.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "terminal:Open terminal": false,
+      "obsidian42-text-transporter:Text Transporter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "feb42931c5eeab35",
+  "lastOpenFiles": [
+    "bennelong.md",
+    "young_peanuts.md",
+    "inbox/xarray_plotting_with_hvplot.md",
+    "zettel/homepage_personal.md",
+    "inbox",
+    "zettel/Holden-Barina-TK-2005-2011-Workshop-Manual.pdf.md",
+    "zettel/tasks.md",
+    "zettel/20240716T170735.md",
+    "202407101615.md",
+    "202407081541.md",
+    "202407062305.md",
+    "Untitled.md",
+    "202407051758.md",
+    "202407051722.md"
+  ]
+}

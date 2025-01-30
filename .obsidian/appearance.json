@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "cssTheme": "Catppuccin",
+  "theme": "system",
+  "nativeMenus": true,
+  "translucency": true,
+  "textFontFamily": "Charter",
+  "enabledCssSnippets": [
+    "dataview_vertical_scroll"
+  ]
+}

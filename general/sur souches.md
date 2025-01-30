@@ -1,0 +1,1 @@
+The next step beyond [[en primeur]], *sur souches* (on the stumps) is the sale of a vineyard crop based on the expected price of the bottle of wine that will be made from it [@oxcomp_bordeaux, pp. 3357]

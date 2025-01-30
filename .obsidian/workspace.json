@@ -1,0 +1,296 @@
+{
+  "main": {
+    "id": "b19df8814a58c1f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "138e5501f3eabe12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "736b7c6c4a253ba9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bordeaux/bordeaux.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed2e3613cb2eeae9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1035dd771a662fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07b578eb367dbddf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "bordeaux/bordeaux.md"
+              }
+            }
+          },
+          {
+            "id": "7f010555b828fbbf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "46a0d7b04cbbd494",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "python property",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3681d7d8e8741696",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310.000732421875
+  },
+  "right": {
+    "id": "2fa0dd337b78af51",
+    "type": "split",
+    "children": [
+      {
+        "id": "066684ccbe94f52a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "732a0092d026bc95",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "6b4e48a26a1169ff",
+            "type": "leaf",
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/Users/jonathan/001_obsidian_vault/0_personal",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "/bin/zsh",
+                    "name": "",
+                    "platforms": {
+                      "darwin": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": true,
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
+              }
+            }
+          },
+          {
+            "id": "a64071156fea51dd",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
+          },
+          {
+            "id": "f407b1b7d117c146",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": null,
+                  "focus": false,
+                  "profile": {
+                    "name": "",
+                    "restoreHistory": true,
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "developerConsole"
+                  },
+                  "serial": null
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f6b9169fda1018de",
+            "type": "leaf",
+            "state": {
+              "type": "zotero-annotation-view",
+              "state": {
+                "file": "data_modelling.md",
+                "itemId": -1,
+                "attachmentId": -1,
+                "follow": "zt-reader"
+              }
+            }
+          },
+          {
+            "id": "e9f199ffd452dcf7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "bordeaux/bordeaux.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "fcd6f990cdbe841b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "bordeaux/bordeaux.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 538.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "terminal:Open terminal": false,
+      "obsidian42-text-transporter:Text Transporter": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "obsidian42-brat:BRAT": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "736b7c6c4a253ba9",
+  "lastOpenFiles": [
+    "general/racking.md",
+    "general/water stress.md",
+    "general/sur souches.md",
+    "general/millerandage.md",
+    "general/coulure.md",
+    "general/cliquage.md",
+    "general",
+    "bordeaux/en primeur.md",
+    "bordeaux/classification_1855.ipynb",
+    "bordeaux/Landes forest.md",
+    "bordeaux/Graves Classification.md",
+    "water stress.md",
+    "Graves Classification.md",
+    "Landes forest.md",
+    "coulure.md",
+    "en primeur.md",
+    "racking.md",
+    "sur souches.md",
+    "attachments/Certified-Tasting-Exam-Paper-2024.pdf",
+    "cliquage.md",
+    "millerandage.md",
+    "bordeaux/Sauternes AOP.md",
+    "attachments/Study-Tips-1.pdf",
+    "attachments/CMS-Standards-of-Service-2020.pdf",
+    "attachments/CMS-Oceania-Prospectus-2025.pdf",
+    "attachments/CMS Oceania Intro & Certified Study Resources 2025.pdf",
+    "attachments/CMS Oceania Intro & Certified Study Resources 2025 1.pdf",
+    "attachments/cms_syllabus.pdf",
+    "cms.md",
+    "tasting/cms_deductivetasting.md",
+    "bordeaux/Graves AOP.md",
+    "tasting",
+    "Welcome.md",
+    "attachments/bordeaux_appellations_wikipedia.png",
+    "attachments/naked_map_of_bordeaux_google.png",
+    "reading_notes/oxcomp_bordeaux.md",
+    "reading_notes/reading_notes.md",
+    "reading_notes/guildsomm_bordeauxexpert.md",
+    "attachments/map_of_bordeaux.png",
+    "cms/attachments/map_of_bordeaux.png",
+    "z_attachments/bordeaux_appellations_wikipedia.png",
+    "z_attachments/naked_map_of_bordeaux_google.png",
+    "z_attachments/Pasted image 20250129110135.png",
+    "z_attachments/Pasted image 20241210132135.png",
+    "z_attachments/Pasted image 20241210122721.png",
+    "z_attachments/Screenshot 2024-12-06 at 23.19.37.png"
+  ]
+}

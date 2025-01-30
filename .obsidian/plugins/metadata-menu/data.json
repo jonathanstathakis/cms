@@ -1,0 +1,96 @@
+{
+  "presetFields": [
+    {
+      "type": "DateTime",
+      "tagName": "date",
+      "icon": "calendar-clock",
+      "tooltip": "Accepts a date with time",
+      "colorClass": "date",
+      "options": {
+        "dateShiftInterval": "1 day",
+        "dateFormat": "YYYY-MM-DDTHH:mm",
+        "defaultInsertAsLink": false,
+        "linkPath": ""
+      },
+      "name": "cdt",
+      "id": "EPdAo2",
+      "path": ""
+    },
+    {
+      "type": "DateTime",
+      "tagName": "date",
+      "icon": "calendar-clock",
+      "tooltip": "Accepts a date with time",
+      "colorClass": "date",
+      "options": {
+        "dateShiftInterval": "1 day",
+        "dateFormat": "YYYY-MM-DDTHH:mm",
+        "defaultInsertAsLink": false,
+        "linkPath": ""
+      },
+      "name": "mdt",
+      "id": "Ntr3eW",
+      "path": ""
+    },
+    {
+      "type": "Input",
+      "tagName": "single",
+      "icon": "pencil",
+      "tooltip": "Accepts any value",
+      "colorClass": "single",
+      "options": {},
+      "name": "tags",
+      "id": "k707R0",
+      "path": ""
+    },
+    {
+      "type": "Select",
+      "tagName": "select",
+      "icon": "right-triangle",
+      "tooltip": "Accepts a single value from a list",
+      "colorClass": "select",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "atom",
+          "2": "fleeting",
+          "3": "structural"
+        }
+      },
+      "name": "type",
+      "id": "k0q45P",
+      "path": ""
+    }
+  ],
+  "fileClassQueries": [],
+  "displayFieldsInContextMenu": true,
+  "globallyIgnoredFields": [],
+  "classFilesPath": null,
+  "isAutosuggestEnabled": true,
+  "fileClassAlias": "fileClass",
+  "settingsVersion": "5.5",
+  "firstDayOfWeek": 1,
+  "enableLinks": true,
+  "enableTabHeader": true,
+  "enableEditor": true,
+  "enableBacklinks": true,
+  "enableStarred": true,
+  "enableFileExplorer": true,
+  "enableSearch": true,
+  "enableProperties": true,
+  "tableViewMaxRecords": 20,
+  "frontmatterListDisplay": "asArray",
+  "fileClassExcludedFolders": [],
+  "showIndexingStatusInStatusBar": true,
+  "fileIndexingExcludedFolders": [],
+  "fileIndexingExcludedExtensions": [
+    ".excalidraw.md"
+  ],
+  "fileIndexingExcludedRegex": [],
+  "frontmatterOnly": false,
+  "showFileClassSelectInModal": true,
+  "chooseFileClassAtFileCreation": false,
+  "autoInsertFieldsAtFileClassInsertion": false,
+  "fileClassIcon": "package",
+  "isAutoCalculationEnabled": true
+}
