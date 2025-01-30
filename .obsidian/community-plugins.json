@@ -1,7 +1,6 @@
 [
   "obsidian-minimal-settings",
   "table-editor-obsidian",
-  "terminal",
   "dataview",
   "obsidian-languagetool-plugin",
   "obsidian-linter",
@@ -26,5 +25,6 @@
   "automatic-table-of-contents",
   "sqlseal",
   "heycalmdown-navigate-cursor-history",
-  "obsidian-csv-table"
+  "obsidian-csv-table",
+  "terminal"
 ]

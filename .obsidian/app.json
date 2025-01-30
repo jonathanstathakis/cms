@@ -3,13 +3,11 @@
   "propertiesInDocument": "source",
   "alwaysUpdateLinks": true,
   "vimMode": true,
-  "userIgnoreFilters": [
-    "z_literature_notes/"
-  ],
+  "userIgnoreFilters": null,
   "livePreview": true,
   "readableLineLength": true,
   "showInlineTitle": false,
-  "attachmentFolderPath": "z_attachments",
+  "attachmentFolderPath": "attachments",
   "newFileLocation": "folder",
   "newFileFolderPath": "inbox",
   "spellcheck": false

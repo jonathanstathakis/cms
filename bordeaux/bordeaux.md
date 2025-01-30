@@ -7,7 +7,7 @@ tags:
   - bordeaux
 type:
 cdt: 2025-01-14T13:39:25
-mdt: 2025-01-29T21:29:47
+mdt: 2025-01-31T10:09:26
 ---
 
 # Bordeaux
@@ -47,7 +47,13 @@ A collection of resources for the study of Bordeaux
 
 ##### Map of Appellations
 
+###### Wikipedia
+
 ![[bordeaux_appellations_wikipedia.png]]
+
+###### Guildsomm
+
+![[Bordeaux_v06_2021 Logo.jpg]]
 
 ##### Naked Map
 
