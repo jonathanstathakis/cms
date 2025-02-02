@@ -4,7 +4,7 @@ aliases: []
 tags: []
 type:
 cdt: 2025-01-09T23:02:46
-mdt: 2025-01-28T11:54:41
+mdt: 2025-02-02T19:11:55
 ---
 
 # CMS Intro and Certified
@@ -13,6 +13,10 @@ Examination date: 2025-04-29
 
 ```toc
 minLevel: 2
+```
+
+```dataview
+
 ```
 
 ## Examinations
