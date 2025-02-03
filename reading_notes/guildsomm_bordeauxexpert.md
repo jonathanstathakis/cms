@@ -4,7 +4,7 @@ aliases: []
 tags: []
 type:
 cdt: 2025-01-18T12:44:02
-mdt: 2025-01-28T14:30:34
+mdt: 2025-02-03T12:15:53
 citekey: guildsomm_bordeauxexpert
 ---
 
@@ -243,84 +243,131 @@ minLevel: 2
 - Broker (*courtier*):
 	- appeared in 1800's due to emergence of new estates in Médoc - established négociants of the time dealt with estates in Graves.
 	- Acted as intermediaries between *châteaus* and *négociants*.
-- *En Primeur*
-	- the sales of **yet to be released** wines (i.e. futures) by châteaux to négociants was common in Bordeaux (takes advantage of good years, smoothing out cashflow)
-	- Initially a Bordeaux B2B system, attention from Robert Parker etc. brought public interest.
-	- Current system - tasting of wine is performed, wines are scored, prices announced and futures released for purchase. Futures are released in successively more expensive tranches until all are sold.
-	- Can be a 2 year wait for the futures to become wine - for bottles to be released after maturation.
-	- Future prices can fluctuate wildly.
-	- Notably, Château Latour opted out entirely in 2012 and onwards.
+
+### *En Primeur*
+
+- the sales of **yet to be released** wines (i.e. futures) by châteaux to négociants was common in Bordeaux (takes advantage of good years, smoothing out cashflow)
+- Initially a Bordeaux B2B system, attention from Robert Parker etc. brought public interest.
+- Current system - tasting of wine is performed, wines are scored, prices announced and futures released for purchase. Futures are released in successively more expensive tranches until all are sold.
+- Can be a 2 year wait for the futures to become wine - for bottles to be released after maturation.
+- Future prices can fluctuate wildly.
+- Notably, Château Latour opted out entirely in 2012 and onwards.
 
 ## Bordeaux Vineyard Ownership: The Brand Model
 
 ## Viticulture in Bordeaux
 
-- training
-	- guyot system
-		- left bank: double
-		- right bank: simple
-		- tends to produce larger berries more susceptible to grey rot
-	- sweet wines: cordon - makes smaller berries better for botrytis infetion.
-- vineyard density
-	- left bank:
-		- premier appellatoins of Médoc require minimum 7,000 vines per hectare
-		- common for high density 1 x 1 meter spacing similar to Côte d'Or.
-	- right bank:
-		- Pomerol and St Émilion require minimum 5500 vines per hectare, rows separated by 1.3 - 1.5 meters. This is because soils are shallower and vineroot spreads outwards rather than down.
-	- Entre-Deux-Mers
-		- lowest density, Bordeaux AOP allows a maximum of 2.5 meters between vines.
+### Training
+
+- guyot system
+	- left bank: double
+	- right bank: simple
+	- tends to produce larger berries more susceptible to grey rot
+- sweet wines: cordon - makes smaller berries better for botrytis infetion.
+
+### Vineyard Density
+
+- left bank:
+	- premier appellatoins of Médoc require minimum 7,000 vines per hectare
+	- common for high density 1 x 1 meter spacing similar to Côte d'Or.
+- right bank:
+	- Pomerol and St Émilion require minimum 5500 vines per hectare, rows separated by 1.3 - 1.5 meters. This is because soils are shallower and vineroot spreads outwards rather than down.
+- Entre-Deux-Mers
+	- lowest density, Bordeaux AOP allows a maximum of 2.5 meters between vines.
 - height
 	- left bank:
 		- common in medoc for bunches to hand 1 meter off the ground to maximise absorbance of radiant heat from gravel.
 	- right bank:
 		- higher canopies than left bank because frost is more common.
-- organic and biodynamic practices
-	- Bordeaux moving toward organic.
-	- hard because of wet weather, rot, mildew
-	- in 2017 8% of Bordeaux vineyards were certified organic, on par with national average.
-	- due to environmental threats, producers tend to *lutte raisonnée* (practical organic - a conservative approach to the use of non-organic practices) rather than strict organic.
-	- Bordeaux mixture, sulfer and similar concoctions are technically organic
-	- deleafing and greenery stripping around fruit after *véraison* are methods of managing disease without chemicals.
-	- biodynamic practice is increasing, for example Pontet-Canet.
+
+### Organic and Biodynamic Practices
+
+- Bordeaux moving toward organic.
+- hard because of wet weather, rot, mildew
+- in 2017 8% of Bordeaux vineyards were certified organic, on par with national average.
+- due to environmental threats, producers tend to *lutte raisonnée* (practical organic - a conservative approach to the use of non-organic practices) rather than strict organic.
+- Bordeaux mixture, sulfer and similar concoctions are technically organic
+- deleafing and greenery stripping around fruit after *véraison* are methods of managing disease without chemicals.
+- biodynamic practice is increasing, for example Pontet-Canet.
 
 ## Winemaking Practices in Bordeaux
 
+### Viticulture
+
 - Viticulture
 	- green harvesting is common. It is used to reduce vigor, producing smaller berries resulting in a more concentrated wine
-- Picking and Preprocessing
-	- sorting of fruit by quality. Done by hand, optical sorter and density sorter (only the densest fruit goes into *grand vin*)
-	- destemming is common
-	- chaptalization can be used
-	- removal of water content by vacuum distallation or reverse osmosis - typically used in wet and cool vintages.
-- Fermentation
-	- every kind of vessel is used: large wood casks, stainless steel tank, buried expoxy-lined concrete vat, naked cement vat.
-	- dry and sweet whites wines typically ferment in barrique
-	- some estates blend batches of different fermentation styles to match varietal or parcel character.
-	- cap management:
-		- typically use *remontage* (pumping over [@robinson_Oxfordcompanionwine_2015])
-		- some producers use *pigeage* - risky with rich black grapes such as CS as can overextract phenols and color
-	- MLF:
-		- reds undergo MLF in tank or barrel, typically at the end of harvest year (harvest is in September [@dombrowski_whatexpectgrape_2020]), so 3 months after harvest.
-		- whites are typically not MLF unless overly acidic.
-	- micro-oxygenation
-		- used to soften green, rustic and tannic edges.
-- Élevage
-	- *grand vin*:
-		- spend 18 - 24 months maturing
-		- typically entirely in new oak, generally a range of coopering styles.
-		- racking:
-			- at most once every three months.
-	- whites can spend 12 - 15 months in barrel, at most 50% new oak.
-	- oxygenation *cliquage*:
-		- controversial
-		- small volumes of oxygen applied to a finished wine in barrel to simulate oxygenation introduced via racking
-		- proponents claim it balances reduction introduced through bâtonnage
-		- critics state that it benefits quality in the short term at the cost of long-term bottle maturation.
-- *assemblage*
-	- either done early in the year after harvest prior to *en primeur* tasting in April of that year (*en primeur* judges the wine in barrel, not in bottle) or after the tasting just prior to bottling.
-	- thus for the best wines they either mature for the extent of their time as a blend or as individuals.
-- fining and filtration
-	- both are common, however exceptions exist.
-- bottling
-	- bottling is done the April after harvest.
-	- cork closure universal but not required.
+
+### Picking and Preprocessing
+
+- sorting of fruit by quality. Done by hand, optical sorter and density sorter (only the densest fruit goes into *grand vin*)
+- destemming is common
+- chaptalization can be used
+- removal of water content by vacuum distallation or reverse osmosis - typically used in wet and cool vintages.
+
+### Fermentation
+
+- every kind of vessel is used: large wood casks, stainless steel tank, buried expoxy-lined concrete vat, naked cement vat.
+- dry and sweet whites wines typically ferment in barrique
+- some estates blend batches of different fermentation styles to match varietal or parcel character.
+- cap management:
+	- typically use *remontage* (pumping over [@robinson_Oxfordcompanionwine_2015])
+	- some producers use *pigeage* - risky with rich black grapes such as CS as can overextract phenols and color
+- MLF:
+	- reds undergo MLF in tank or barrel, typically at the end of harvest year (harvest is in September [@dombrowski_whatexpectgrape_2020]), so 3 months after harvest.
+	- whites are typically not MLF unless overly acidic.
+- micro-oxygenation
+	- used to soften green, rustic and tannic edges.
+
+### Élevage
+
+ - *grand vin*:
+	- spend 18 - 24 months maturing
+	- typically entirely in new oak, generally a range of coopering styles.
+	- racking:
+		- at most once every three months.
+- whites can spend 12 - 15 months in barrel, at most 50% new oak.
+- oxygenation *cliquage*:
+	- controversial
+	- small volumes of oxygen applied to a finished wine in barrel to simulate oxygenation introduced via racking
+	- proponents claim it balances reduction introduced through bâtonnage
+	- critics state that it benefits quality in the short term at the cost of long-term bottle maturation.
+
+### *assemblage*
+
+- either done early in the year after harvest prior to *en primeur* tasting in April of that year (*en primeur* judges the wine in barrel, not in bottle) or after the tasting just prior to bottling.
+- thus for the best wines they either mature for the extent of their time as a blend or as individuals.
+
+### Fining and Filtration
+
+- both are common, however exceptions exist.
+
+### Bottling
+
+- bottling is done the April after harvest.
+- cork closure universal but not required.
+
+## Winegrowing Regions of Bordeaux
+
+### Graves
+
+#### Sauternes AOP and Barsac AOP
+
+- located in Southern Graves along left bank of Garonne
+- Sauternes AOP includes the commons of Sauternes, Bommes, Preignac, and Barsac. Barsac does have its own AOP but generally Sauternes AOP is used anyway as it has more prestige.
+- Sauternes AOP is outside Graves AOP. Consequently they can't produce a dry white wine in any AOP apart from Bordeaux AOP.
+- sweet wines produced from Sémillon, Sauvignon Blanc and Muscadelle.
+- created alongside infection by Botrytis cinerea, otherwise known as *pourriture noble* or 'noble rot'.
+- production of this style of wine dates from at least 18th century in Sauternes.
+- Sauternes vineyards located at confluence of Ciron and Garonne which encourages development of morning mists and humidity in early autumn, which in turn encourages development of botyrtis infection.
+- effect of botyrtis:
+	- botrytis pierces grape skin resulting in fruit dehydration - concentrating sugar, acidity and glycerol
+	- adds honey, saffron, ginger spice, dried fruit and iodine characters.
+- botrytis does not affect evenly thus several passes (*tries*) during picking are required for consistent results. Thus is mandated by AOP law. Usually 3 or 4 passes are performed.
+- Quite possible that a vintage will produce a poor botrytised crop and thus the wine will not be made that year.
+- Use of new oak is common.
+- barrel fermentation is common.
+- top wines are fermented in barrique followed by élevage in the same vessel.
+- sulfur dixoide is used liberally to prevent development of volatile acidity and secondary fermentation.
+- Chaptalization and cryo-extraction are permitted.
+- Sauternes can hit 14% alcohol with a residual sugar range of 120 - 160 g/L.
+- the wine is described as viscous, golden, textural with fragrant tones of new oak and botrytis.

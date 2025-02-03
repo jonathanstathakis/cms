@@ -123,5 +123,13 @@
       ],
       "key": "N"
     }
+  ],
+  "heycalmdown-navigate-cursor-history:cursor-position-backward": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "-"
+    }
   ]
 }

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a9b41d4c77716fe9",
+        "id": "8c9a835d9095eb96",
         "type": "tabs",
         "children": [
           {
@@ -17,22 +17,6 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "95f286371f0bd0a1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dcd59659e8f0aba5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "attachments/cms_syllabus.pdf"
               }
             }
           }
@@ -121,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 538.5
+    "width": 538.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,8 +128,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "732a0092d026bc95",
+  "active": "c3fcc1a7e2c8b4c6",
   "lastOpenFiles": [
+    "reading_notes/guildsomm_bordeauxexpert.md",
     "bordeaux/bordeaux.md",
     "attachments/cms_syllabus.pdf",
     "inbox/factors affecting climate.md",

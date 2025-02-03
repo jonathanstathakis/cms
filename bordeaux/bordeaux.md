@@ -7,7 +7,7 @@ tags:
   - bordeaux
 type:
 cdt: 2025-01-14T13:39:25
-mdt: 2025-02-03T11:46:30
+mdt: 2025-02-03T14:58:38
 ---
 
 # Bordeaux
@@ -145,7 +145,7 @@ A collection of resources for the study of Bordeaux
 
 ### Terroir
 
-### Climate
+### Factors Affecting Climate
 
 - maritime climate due to influence from the Gulf Stream in the Atlantic Ocean. Its influence is carried through inland by the wide Gironde Estuary [@oxcomp_bordeaux, p. 556], moderating extremes, protecting from winter freeze, spring frost [@guildsomm_bordeaux_2024].
 - coastal pine forests protect left bank from harsh west/northwesterly winds[@guildsomm_bordeaux_2024].
@@ -178,16 +178,10 @@ A collection of resources for the study of Bordeaux
 	- Boug and Cotes de Bourg
 		- limestone soil [@guildsomm_bordeaux_2024]
 
-### Viticulture
-
-- green harvest: commonly used to reduce vigor to produce smaller berries for a more concentrated wine [@guildsomm_bordeauxexpert].
-
 ### Grape Varietals
 
 - black grapes: cabernet sauvignon merlot, cabernet franc, petit verdot, malbec, Carmenère [@guildsomm_bordeaux_2024]
 - white grapes: Sémillon, Sauvignon Blanc, Muscadelle [@wset_bordeaux]
-
-### Enology
 
 ### Blending - Importance of Varietal in the Blend
 
@@ -240,6 +234,27 @@ blending *assemblage* is important as vintages in Bordeaux vary and the variety 
 		- Cork is used universally [@guildsomm_bordeauxexpert].
 
 ### Botrytis Wine Production
+
+> [!Important Points]
+> - botrytis wines are sweet whites influenced by infection with Botryis cinerea
+> - resulting dehydration concentrates acidity, sugars and glycerol and adds honey, saffron, ginger, dried fruit and iodine character with alcohol up to 14% and RS between 120g - 160g/L.
+> - it is produced in Sauternes AOP which consists of the communes of Sauternes, Barsac, Bommes, and Preignac
+> - Best vineyards are located at the confluence of the Ciron and Garonne where the generated morning mists and humidity are optimal for Botrytis.
+> - *assemblage* (in order of proportion): Sémillon, Sauvignon Blanc, Muscadelle.
+> - Sémillon favors production of Botrytis wines because its relatively thinner skin enhances the effects of the mould.
+> - Cordon training is preferred as it results in smaller berries: more surface area of rot per hectare
+> - Botrytis does not infect evenly so several passes are required to obtain a consistent crop.
+> - as dependence on rot progression introduces another varietal variable, it is unusually common for harvests of potential Botrytis wine to be rejected.
+> - Chaptalization and cryo-extraction are permitted
+> - Premium producers will ferment in new oak barriques followed by élevage in the same vessel
+> - sulfur dioxide is used librerally to minimise volatile acidity and secondary fermentation.
+
+#### Summary
+
+Botrytis wine is sweet white wine whose fruit has been infected by Botrytis cinerea, or noble rot. The mould pierces the skin of the fruit resulting in dehydration that concentrates acidity, sugars and glycerol, adding honey, saffron, ginger, dried fruit and iodine characters. The result is a viscous, golden, textural and aromatic wines. It is produced in the communes belonging to Sauternes AOP: Sauternes, Bommes, Preignac, and Barsac, records indicating that the style was conceived in the 18th century [@guildsomm_bordeauxexpert]. The best vineyards are located at the confluence of Ciron and Garonne where cool morning mists and humidity are generated that benefit noble rot infection [@guildsomm_bordeauxexpert].
+
+The *assemblage* consists of Sémillon, Sauvignon Blanc, and Muscadelle, with sémillon as the dominant varietal because its thinner skin is more prone to infection. Cordon training is preferred as it results in smaller berries which are better for As botrytis does not affect grapes evenly, during picking several passes (*tries*) are required to produce a consistent crop, generally 3 - 4 passes are required. This is mandated by AOP law. If a vintage does not produce quality fruit OR botrytis infection then the wine will not be made [@guildsomm_bordeauxexpert]..  
+Chaptalization and cryo-extraction are permitted. Barrel fermentation is common, often in new oak barrique followed by élevage in the same vessel. Sulfur dixoide is used liberally to prevent development of volatile acidity and secondary fermentation. The final product can reach 14% alcohol with a residual sugar range of 120 - 160 g/L [@guildsomm_bordeauxexpert].
 
 ### Business
 
