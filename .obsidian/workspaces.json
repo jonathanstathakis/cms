@@ -1,119 +1,80 @@
 {
   "workspaces": {
-    "zettel_hud": {
+    "cms": {
       "main": {
         "id": "b19df8814a58c1f7",
         "type": "split",
         "children": [
           {
-            "id": "50a370e7eb4f1893",
+            "id": "6134e685a36735c5",
             "type": "split",
             "children": [
               {
-                "id": "c48645c0048c6416",
-                "type": "split",
-                "dimension": 55.1436515291937,
+                "id": "a9b41d4c77716fe9",
+                "type": "tabs",
+                "dimension": 63.10483870967742,
                 "children": [
                   {
-                    "id": "c56ecdc0627877a8",
-                    "type": "tabs",
-                    "children": [
-                      {
-                        "id": "f62eabc1a87d6c21",
-                        "type": "leaf",
-                        "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "zettel/pca_required_knowledge.md",
-                            "mode": "source",
-                            "backlinks": true,
-                            "source": false
-                          }
-                        }
+                    "id": "c3fcc1a7e2c8b4c6",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "cms.md",
+                        "mode": "preview",
+                        "backlinks": true,
+                        "source": false
                       }
-                    ]
-                  },
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "7bd158a5ea426dd9",
+                "type": "tabs",
+                "dimension": 36.895161290322584,
+                "children": [
                   {
-                    "id": "b11db77e073d532e",
-                    "type": "tabs",
-                    "children": [
-                      {
-                        "id": "06d60902665cfe52",
-                        "type": "leaf",
-                        "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "zettel/strang.md",
-                            "mode": "source",
-                            "backlinks": true,
-                            "source": false
+                    "id": "1367adaefaadd537",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "terminal:terminal",
+                      "state": {
+                        "terminal:terminal": {
+                          "cwd": "/Users/jonathan/jonathan/obs_vaults/cms/",
+                          "focus": false,
+                          "profile": {
+                            "args": [],
+                            "executable": "/bin/zsh",
+                            "name": "",
+                            "platforms": {
+                              "darwin": true
+                            },
+                            "pythonExecutable": "python3",
+                            "restoreHistory": true,
+                            "successExitCodes": [
+                              "0",
+                              "SIGINT",
+                              "SIGTERM"
+                            ],
+                            "terminalOptions": {
+                              "documentOverride": null
+                            },
+                            "type": "integrated",
+                            "useWin32Conhost": true
+                          },
+                          "serial": {
+                            "columns": 169,
+                            "data": "============================\r\n\r\nYour Personal Index\r\n====================\r\n====================\r\n\r\nOrganisation\r\n============\r\n\r\nVarious projects are stored in '~\\projects', for example your sanish study, MRes Thesis, work projects, etc.\r\n\r\nTools\r\n=====\r\n\r\n- use 'git-status-dash .'  to view status of all git repos in '.'\r\n\r\nObsidian Vault Open Commands\r\n---------------\r\nPersonal: obs_personal\r\nCMS: obs_cms\r\n\r\n============================\r\n\u001b[38;5;76m>\u001b[0m \u001b[32mls\r\n\u001b[36;1malsace\u001b[0m        cms.md        \u001b[36;1minbox\r\nattachments\u001b[0m   cms_log.md    \u001b[36;1mreading_notes\r\nbordeaux\u001b[0m      \u001b[36;1mgeneral\u001b[0m       \u001b[36;1mtasting\r\n\u001b[38;5;76;22m>\u001b[0m \u001b[32mgs\r\n\u001b[0mOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/plugins/dataview/data.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cmodified:   cms.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\u001b[38;5;76m>\u001b[0m \u001b[32mgit\u001b[0m diff \u001b[4mcms.md\r\n\u001b[38;5;76;24m>\u001b[0m \u001b[32mgaa\r\n\u001b[38;5;76m>\u001b[0m \u001b[32mgc\u001b[0m \u001b[33m\"add recent files view to homepage\"\r\n\u001b[0m[main 0992b8a] add recent files view to homepage\r\n 3 files changed, 62 insertions(+), 28 deletions(-)\r\n\r\n\u001b[38;5;31;48;5;236m \u001b[38;5;39;1m~\u001b[38;5;31;22m/jonathan/obs_vaults/\u001b[38;5;39;1mcms\u001b[38;5;31;22m \u001b[38;5;244m|\u001b[38;5;76m \u001b[38;5;246mon \u001b[38;5;76mmain >1 \u001b[38;5;240;49m...................................................................................................................\u001b[38;5;66;48;5;236m \u001b[38;5;246mat \u001b[38;5;66m11:10:10 \u001b[0m\r\n\u001b[38;5;76m>\u001b[0m ",
+                            "rows": 14
                           }
                         }
                       },
-                      {
-                        "id": "91cde396fc680ca9",
-                        "type": "leaf",
-                        "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "zettel/matrices.md",
-                            "mode": "source",
-                            "backlinks": true,
-                            "source": false
-                          }
-                        }
-                      }
-                    ]
+                      "pinned": true
+                    }
                   }
-                ],
-                "direction": "vertical"
-              },
-              {
-                "id": "08a033a94be25037",
-                "type": "split",
-                "dimension": 44.8563484708063,
-                "children": [
-                  {
-                    "id": "e5eeda775058fa39",
-                    "type": "tabs",
-                    "children": [
-                      {
-                        "id": "cabf9845d8374416",
-                        "type": "leaf",
-                        "pinned": true,
-                        "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "zettel/recent_files.md",
-                            "mode": "source",
-                            "backlinks": true,
-                            "source": false
-                          },
-                          "pinned": true
-                        }
-                      }
-                    ]
-                  },
-                  {
-                    "id": "32d3d5034976ac8f",
-                    "type": "tabs",
-                    "children": [
-                      {
-                        "id": "3bfc89e45a48b421",
-                        "type": "leaf",
-                        "state": {
-                          "type": "outgoing-link",
-                          "state": {
-                            "file": "zettel/recent_files.md",
-                            "linksCollapsed": false,
-                            "unlinkedCollapsed": false
-                          }
-                        }
-                      }
-                    ]
-                  }
-                ],
-                "direction": "vertical"
+                ]
               }
             ],
             "direction": "horizontal"
@@ -128,7 +89,6 @@
           {
             "id": "d1035dd771a662fb",
             "type": "tabs",
-            "dimension": 66.07445008460236,
             "children": [
               {
                 "id": "07b578eb367dbddf",
@@ -136,7 +96,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "zettel/recent_files.md"
+                    "file": "cms.md"
                   }
                 }
               },
@@ -156,7 +116,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "pseudoinverse",
+                    "query": "python property",
                     "matchingCase": false,
                     "explainSearch": true,
                     "collapseAll": true,
@@ -174,54 +134,11 @@
                 }
               }
             ],
-            "currentTab": 2
-          },
-          {
-            "id": "2207ab7b3efc7aab",
-            "type": "tabs",
-            "dimension": 33.92554991539763,
-            "children": [
-              {
-                "id": "1b60ee66c3d9084f",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "zettel/recent_files.md",
-                    "options": {
-                      "collapse-filter": false,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.9603514997809435,
-                      "close": true
-                    }
-                  }
-                }
-              }
-            ]
+            "currentTab": 1
           }
         ],
         "direction": "horizontal",
-        "width": 361.5024719238281,
-        "collapsed": true
+        "width": 310.000732421875
       },
       "right": {
         "id": "2fa0dd337b78af51",
@@ -265,11 +182,17 @@
                           "SIGINT",
                           "SIGTERM"
                         ],
-                        "terminalOptions": {},
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
                         "type": "integrated",
                         "useWin32Conhost": true
                       },
-                      "serial": null
+                      "serial": {
+                        "columns": 55,
+                        "data": "",
+                        "rows": 53
+                      }
                     }
                   }
                 }
@@ -283,64 +206,36 @@
                 }
               },
               {
-                "id": "f407b1b7d117c146",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": null,
-                      "focus": false,
-                      "profile": {
-                        "name": "",
-                        "restoreHistory": true,
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {},
-                        "type": "developerConsole"
-                      },
-                      "serial": null
-                    }
-                  },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "791df273147506ec",
+                "id": "e9f199ffd452dcf7",
                 "type": "leaf",
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "zettel/recent_files.md",
+                    "file": "cms.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
                     "showSearch": false,
                     "searchQuery": "",
                     "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
+                    "unlinkedCollapsed": false
                   }
                 }
               },
               {
-                "id": "f6b9169fda1018de",
+                "id": "0317de059946d9ef",
                 "type": "leaf",
                 "state": {
-                  "type": "zotero-annotation-view",
+                  "type": "outgoing-link",
                   "state": {
-                    "file": "zettel/recent_files.md",
-                    "itemId": -1,
-                    "attachmentId": -1,
-                    "follow": "zt-reader"
+                    "file": "cms.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
                   }
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 4
           }
         ],
         "direction": "horizontal",
@@ -349,65 +244,27 @@
       },
       "left-ribbon": {
         "hiddenItems": {
-          "obsidian42-brat:BRAT": false,
           "switcher:Open quick switcher": false,
           "graph:Open graph view": false,
           "canvas:Create new canvas": false,
           "daily-notes:Open today's daily note": false,
           "templates:Insert template": false,
           "command-palette:Open command palette": false,
-          "table-editor-obsidian:Advanced Tables Toolbar": false,
-          "terminal:Open terminal": false,
-          "obsidian42-text-transporter:Text Transporter": false,
-          "obsidian-shellcommands:Shell commands: Custom variables": false,
           "zk-prefixer:Create new unique note": false,
-          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian42-text-transporter:Text Transporter": false,
+          "obsidian42-brat:BRAT": false,
           "darlal-switcher-plus:Open in Headings Mode": false,
           "darlal-switcher-plus:Open Symbols for the active editor": false,
-          "workspaces:Manage workspace layouts": false
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "templater-obsidian:Templater": false,
+          "terminal:Open terminal": false,
+          "homepage:Open homepage": false
         }
       },
-      "floating": {
-        "id": "617eb4ae6e19be36",
-        "type": "floating",
-        "children": [
-          {
-            "id": "8c0b0e4ff2e3b41e",
-            "type": "window",
-            "children": [
-              {
-                "id": "c349b03cddd3cc9f",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "ee27088cd6557888",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "matrix_vector_multiplication.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      }
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "vertical",
-            "x": 296,
-            "y": 80,
-            "width": 1024,
-            "height": 800,
-            "maximize": false,
-            "zoom": 0.5
-          }
-        ]
-      },
-      "active": "cabf9845d8374416",
-      "mtime": "2024-08-14T10:22:10+10:00"
+      "active": "c3fcc1a7e2c8b4c6",
+      "mtime": "2025-02-03T11:12:13+11:00"
     }
   },
-  "active": "zettel_hud"
+  "active": "cms"
 }

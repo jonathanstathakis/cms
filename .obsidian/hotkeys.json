@@ -83,14 +83,6 @@
     }
   ],
   "file-explorer:new-file": [],
-  "zk-prefixer": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "N"
-    }
-  ],
   "note-composer:merge-file": [
     {
       "modifiers": [
@@ -122,6 +114,14 @@
         "Shift"
       ],
       "key": "P"
+    }
+  ],
+  "workspace:new-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
     }
   ]
 }

@@ -7,7 +7,7 @@ tags:
   - bordeaux
 type:
 cdt: 2025-01-14T13:39:25
-mdt: 2025-01-31T10:09:26
+mdt: 2025-02-03T11:46:30
 ---
 
 # Bordeaux
@@ -29,41 +29,105 @@ For this topic we will use the following resources:
 - world atlas
 - wset III guide
 
-For each subtopic we will compile notes from each resource.
+For each subtopic we will compile notes from each resource. Some topics will be quicker than others.
 
-Some topics will be quicker than others. Class
+Topics will be organised in a structure that feels natural, and at a given time will check the contents against the syllabus to determine whether the contents is sufficient.
 
 ### Deadline
 
 Friday 31st January for collecting notes, other TODOs are very secondary.
 
-### Resources
+## Syllabus
+
+### Outline
+
+See [[cms_syllabus.pdf]].
+
+- Introductory:
+	- factors affecting climate
+	- soil types
+	- production and ageing techniques
+	- botrytis wine production.
+	- barrique fermentation/ageing
+	- districts, sub-districts and locations.
+	- classification 1855.
+	- top Médoc chateaux and location.
+	- St Émilion classification.
+	- "A" category St Émillion Châteaux.
+	- Top Pomerol Châteaux.
+	- Grape varietals.
+	- Blending - importance of varietal in the blend.
+	- Styles of wine from principal production districts.
+	- Quality levels, AOP, IGP
+	- labelling terms
+	- trade structure: en primeur, negociants.
+- certified:
+	- well known 1st - 5th classified growths from the Médoc, Sauternes, St Émilion and Pessac Leognan
+	- Location of top Bordeaux properties.
+	- Cru Bourgeois classification.
+	- styles of wine from smaller districts.
+	- All Bordeaux subdistricts: Loupiac, Cadillac, St. Croix du Mont, Fronsac
+	- individual commune names in principal districts.
+	- classic vintages.
+
+### Answers
+
+The Syllabus outline for Bordeaux, to be completed by writing a response to each point, for example 'classification 1855' has several sentences (constituting a paragraph) describing the classification.
+
+- Introductory:
+	- factors affecting climate
+	- soil types
+	- production and ageing techniques
+	- botrytis wine production.
+	- barrique fermentation/ageing
+	- districts, sub-districts and locations.
+	- classification 1855.
+	- top Médoc chateaux and location.
+	- St Émilion classification.
+	- "A" category St Émillion Châteaux.
+	- Top Pomerol Châteaux.
+	- Grape varietals.
+	- Blending - importance of varietal in the blend.
+	- Styles of wine from principal production districts.
+	- Quality levels, AOP, IGP
+	- labelling terms
+	- trade structure: en primeur, negociants.
+- certified:
+	- well known 1st - 5th classified growths from the Médoc, Sauternes, St Émilion and Pessac Leognan
+	- Location of top Bordeaux properties.
+	- Cru Bourgeois classification.
+	- styles of wine from smaller districts.
+	- All Bordeaux subdistricts: Loupiac, Cadillac, St. Croix du Mont, Fronsac
+	- individual commune names in principal districts.
+	- classic vintages.
+
+## Resources
 
 A collection of resources for the study of Bordeaux
 
-#### Maps
+### Maps
 
 [geojson repo of Bordeaux appellations](https://github.com/ouwxmaniac/BordeauxWineRegions/blob/master/St-Julien-AOP_Bordeaux_France.geojson)
 
-##### Map of Appellations
+#### Map of Appellations
 
-###### Wikipedia
+##### Wikipedia
 
 ![[bordeaux_appellations_wikipedia.png]]
 
-###### Guildsomm
+##### Guildsomm
 
 ![[Bordeaux_v06_2021 Logo.jpg]]
 
-##### Naked Map
+#### Naked Map
 
 ![[naked_map_of_bordeaux_google.png]]
 
-##### Waterways and Major Appellations of Bordeaux
+#### Waterways and Major Appellations of Bordeaux
 
 ![[waterways and major appellations of bordeaux]]
 
-### TODO
+## TODO
 
 - [ ] assemble notes. For each run through notes from resources mentioned above.
 	- [ ] Terroir
@@ -77,9 +141,11 @@ A collection of resources for the study of Bordeaux
 - [ ] write flashcards
 - [ ] practice flashcards.
 
-## Terroir
+## Notes
 
-### 1. Factors Affecting Climate
+### Terroir
+
+### Climate
 
 - maritime climate due to influence from the Gulf Stream in the Atlantic Ocean. Its influence is carried through inland by the wide Gironde Estuary [@oxcomp_bordeaux, p. 556], moderating extremes, protecting from winter freeze, spring frost [@guildsomm_bordeaux_2024].
 - coastal pine forests protect left bank from harsh west/northwesterly winds[@guildsomm_bordeaux_2024].
@@ -90,7 +156,7 @@ A collection of resources for the study of Bordeaux
 - humid autumns
 - in Sauternes the Ciron converges with the Garonne
 
-### 2. Soil Types
+### Soil Types
 
 - left bank:
 	- bas-medoc
@@ -112,26 +178,23 @@ A collection of resources for the study of Bordeaux
 	- Boug and Cotes de Bourg
 		- limestone soil [@guildsomm_bordeaux_2024]
 
-## Production
+### Viticulture
 
-TODO:
+- green harvest: commonly used to reduce vigor to produce smaller berries for a more concentrated wine [@guildsomm_bordeauxexpert].
 
-- [ ] for each sub-topic collect notes from the resources noted above.
-
-### 11. Grape Varietals
+### Grape Varietals
 
 - black grapes: cabernet sauvignon merlot, cabernet franc, petit verdot, malbec, Carmenère [@guildsomm_bordeaux_2024]
 - white grapes: Sémillon, Sauvignon Blanc, Muscadelle [@wset_bordeaux]
 
-### 12. Blending - Importance of Varietal in the Blend
+### Enology
 
-- blending *assemblage* is important as vintages in Bordeaux vary and the variety that performs best one vintage may not perform so well in the next. Primarily a mix of early and late blooming / ripening varieties, i.e. Merlot and Cabernet Sauvignon, which protects from sporadic spring frost or rain at harvest guarantees a consistently quality and profitable harvest year on year. These varieties are also sensitive to soil types and since Bordeaux has a diverse range of soils, varieties with an affinity for one soil, say Merlot in clay, can carry the blend where say Cabernet Sauvignon is struggling to perform, and vice versa.
+### Blending - Importance of Varietal in the Blend
 
-### 3. & 5. Production and Aging Techniques (Barrique Fermentation/Ageing)
+blending *assemblage* is important as vintages in Bordeaux vary and the variety that performs best one vintage may not perform so well in the next. Primarily a mix of early and late blooming / ripening varieties, i.e. Merlot and Cabernet Sauvignon, which protects from sporadic spring frost or rain at harvest guarantees a consistently quality and profitable harvest year on year. These varieties are also sensitive to soil types and since Bordeaux has a diverse range of soils, varieties with an affinity for one soil, say Merlot in clay, can carry the blend where say Cabernet Sauvignon is struggling to perform, and vice versa.
 
-- viticulture
-	- green harvest:
-		- commonly used to reduce vigor to produce smaller berries for a more concentrated wine [@guildsomm_bordeauxexpert].
+### Production and Aging Techniques (Barrique Fermentation/Ageing)
+
 - sorting:  
 		- fruit sorted by quality to isolate the densest, best fruit for a *grand vin*. Sorting is done optically (fruit appearance) and mechanically via a density sorter (float fruit in a water bath, fruit that sinks is dense enough for a *grand vin*) [@guildsomm_bordeauxexpert].
 - fruit preparation
@@ -176,11 +239,11 @@ TODO:
 	- closure:
 		- Cork is used universally [@guildsomm_bordeauxexpert].
 
-### 4. Botrytis Wine Production
+### Botrytis Wine Production
 
-## Business
+### Business
 
-### 16. Trade Structure - En Primeur, Negociants
+### Trade Structure - En Primeur, Negociants
 
 #### Trade Structure
 
@@ -190,19 +253,19 @@ TODO:
 
 #### Negociants
 
-## Localities
+### Localities
 
-### 6. Districts, Subdistricts and Location
+### Districts, Subdistricts and Location
 
-### 13. Styles of Wine from Principal Production Districts
+### Styles of Wine from Principal Production Districts
 
-## Classifications
+### Classifications
 
 There is a [[Graves Classification]].
 
-### 15. Labelling Terms
+### Labelling Terms
 
-### 14. Quality Levels, AOP, IGP
+### Quality Levels, AOP, IGP
 
 Note that AOC is provided by the French government, while AOP is part of the EU PDO [@guildsomm_frenchwinelaw_2024].
 
@@ -228,33 +291,31 @@ Most notable [@guildsomm_bordeauxexpert, sec. 'Winegrowing Regions of Bordeaux']
 	- [[Sauternes AOP]]
 	- Barsac AOP
 
-### 7. Classification System 1855
+### Classification System 1855
 
 #### First Growths
 
 ```csvtable
-source: cms/attachments/bordeaux_first_growths.csv
+source: attachments/bordeaux_first_growths.csv
 ```
 
-### 9. St Emillion Classification
+### St Emillion Classification
 
-### 3. (Certified) Cru Bourgeois Classification
+### Cru Bourgeois Classification
 
 Introduced in 1932, it originally included 444 properties excluded from the 1855 classification, introduced to provide marketing during the Great Depression and included three tiers: *cru bourgeois exceptionnel*, *cru bourgeois supérieur*, and *cru bourgeois*. It was however banned in 2007 after a controversial reclassification. After much reorganisation it settled in 2020 with 249 châteaux, 14 *crus bourgeois exceptionnels*, 56 *crus bourgeois supérieurs*, to be reviewed every 5 years [@guildsomm_bordeauxexpert, sec. "Other Classifications of the Médoc: Cru Bourgeois and Cru Artisan"].
 
-## Chateaux
+### Chateaux
 
-### 8. Top Médoc Chateaux and Location
+### Top Médoc Chateaux
 
-### 2. (Certified) Location of Top Bordeaux Properties
+### "A" Category St Émilion Châteaux
 
-### 10. "A" Category St Émilion Châteaux
+### (Certified) Well Known 1st - 5th Classified Growths from the Médoc, Sauternes, St Émillion and Pessac Leognan
 
-### 1. (Certified) Well Known 1st - 5th Classified Growths from the Médoc, Sauternes, St Émillion and Pessac Leognan
+### Vintages
 
-## Vintages
-
-### 7. (Certified) Classic Vintages
+### Classic Vintages
 
 - 2009 and 2010 vintages in bordeaux considered of quality. [@oxcomp_bordeaux, pp. 552]
 - 1991 was heavily frost damaged and 1992 diluted [@oxcomp_bordeaux, pp. 552]
