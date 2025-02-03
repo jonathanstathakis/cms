@@ -4,7 +4,7 @@ aliases: []
 tags: []
 type:
 cdt: 2025-01-09T23:02:46
-mdt: 2025-02-02T19:11:55
+mdt: 2025-02-03T11:07:16
 ---
 
 # CMS Intro and Certified
@@ -15,8 +15,16 @@ Examination date: 2025-04-29
 minLevel: 2
 ```
 
-```dataview
+## Recently Modified Files
 
+```dataview
+table
+	mdt
+where
+	file.name != this.file.name
+sort
+	mdt desc
+limit 50
 ```
 
 ## Examinations
