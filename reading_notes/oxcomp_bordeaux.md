@@ -148,3 +148,10 @@ minLevel:2
 - advantage to the purchaser is that the wine is potentially more affordable and ensures they have access to the most highly desired wines.
 - advantages of *en primeur* assume a rising market - in times of downturn the product may be lower valued at the time of recievement.
 - purchaser takes a risk that the sample tasted is a true predictor of future character - not guaranteed by any means.
+
+## Négociant (pp. 2382)
+
+- french term for a merchant.
+- generally speaking a négocient will purchase the raw or semi-processed ingredients of a wine, for example the fruit, must or raw ferment and bottle it under their own label.
+- Famous for making *perfect* blends from variously sourced wines.
+- 

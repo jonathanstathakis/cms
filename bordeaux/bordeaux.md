@@ -7,7 +7,7 @@ tags:
   - bordeaux
 type:
 cdt: 2025-01-14T13:39:25
-mdt: 2025-02-04T12:04:30
+mdt: 2025-02-04T12:33:28
 ---
 
 # Bordeaux
@@ -275,7 +275,15 @@ The current system is as follows: cask samples are shown to critics in the sprin
 
 #### Negociants
 
-- traditionally responsible for the sale of wine to consumers [@guildsomm_bordeauxexpert]
+>[!Important points]
+>- historical:
+>	- traditionally responsible for the sale of wine to consumers [@guildsomm_bordeauxexpert].
+>  	- They had the resources to store the wine and sell it piecemeal, while the chateaux needed to sell their harvest as soon as it was finished fermenting in order to fund next years production. [@guildsomm_bordeaux_2024]
+>  	- in terms of wine lifecycle, négocients provided storage over time in their *chai*[@oxcomp_bordeaux, pp. 570], so the wine could undergo élevage [@guildsomm_bordeaux_2024]
+>- current day négocients focused on negotiating business deals between principals and brokers, wine storage and maturation and sales direct to consumer [@oxcomp_bordeaux].
+>- prominent négocients include Barton, Cruse, Sichel, and Moueix [@oxcomp_bordeaux].
+
+Négociants are french wine merchants who purchased bulk quantities of raw ferment from chateaux, providing them with the financial support required to produce the next vintage. Traditionally they fulfilled the role of *assemblage* and *élevage* in a wines lifecycle, storing the wine in their *chai* or warehouses before selling the finished product direct to consumers[@guildsomm_bordeauxexpert, @guildsomm_bordeaux_2024, @oxcomp_bordeaux, pp. 570]. Contemporarily, négocients are more focused on negotiating business agreements between brokers and principals as well as direct sales to consumers. Prominent négocients include Barton, Cruse, Sichel and Moueix [@oxcomp_bordeaux].
 
 ### Localities
 

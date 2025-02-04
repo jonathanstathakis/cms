@@ -1,5 +1,4 @@
 ---
-title: 
 aliases: []
 tags: []
 type:
