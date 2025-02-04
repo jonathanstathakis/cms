@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c3fcc1a7e2c8b4c6",
+            "id": "52220333336a30b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f0ebab7b4138e6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reading_notes/guildsomm_bordeauxexpert.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -59,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "python property",
+                "query": "en primeur",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -76,11 +90,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 310.000732421875
+    "width": 310.000732421875,
+    "collapsed": true
   },
   "right": {
     "id": "2fa0dd337b78af51",
@@ -128,10 +144,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c3fcc1a7e2c8b4c6",
+  "active": "52220333336a30b2",
   "lastOpenFiles": [
     "reading_notes/guildsomm_bordeauxexpert.md",
     "bordeaux/bordeaux.md",
+    "bordeaux/bordaux_growths_table.md",
+    "reading_notes/oxcomp_bordeaux.md",
+    "reading_notes/guildsomm_1855classification_2024.md",
+    "general/sur souches.md",
+    "reading_notes/guildsomm_bordeaux_2024.md",
     "attachments/cms_syllabus.pdf",
     "inbox/factors affecting climate.md",
     "cms.md",
@@ -143,7 +164,6 @@
     "bordeaux.md",
     "general/racking.md",
     "general/water stress.md",
-    "general/sur souches.md",
     "general/millerandage.md",
     "general/coulure.md",
     "general/cliquage.md",
@@ -160,15 +180,11 @@
     "racking.md",
     "sur souches.md",
     "attachments/Certified-Tasting-Exam-Paper-2024.pdf",
-    "cliquage.md",
-    "millerandage.md",
-    "bordeaux/Sauternes AOP.md",
     "attachments/Study-Tips-1.pdf",
     "attachments/CMS-Standards-of-Service-2020.pdf",
     "attachments/CMS-Oceania-Prospectus-2025.pdf",
     "attachments/CMS Oceania Intro & Certified Study Resources 2025.pdf",
     "attachments/CMS Oceania Intro & Certified Study Resources 2025 1.pdf",
-    "tasting/cms_deductivetasting.md",
     "attachments/bordeaux_appellations_wikipedia.png",
     "attachments/naked_map_of_bordeaux_google.png",
     "attachments/map_of_bordeaux.png",

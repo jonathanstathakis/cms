@@ -4,11 +4,15 @@ aliases: []
 tags: []
 type:
 cdt: 2025-01-29T10:11:55
-mdt: 2025-01-29T13:08:49
+mdt: 2025-02-03T23:53:41
 citekey: oxcomp_bordeaux
 ---
 
 # Oxford Companion to Wine - Bordeaux
+
+```toc
+minLevel:2
+```
 
 ## History
 
@@ -117,7 +121,7 @@ citekey: oxcomp_bordeaux
 ## Bordeaux AOC (pp. 567 - 568)
 
 - red, white, sweet whites, rosé, clairet and sparkling.
--  mostly made by co-operatives and sold for blending into generic wines.
+- mostly made by co-operatives and sold for blending into generic wines.
 - 90% is red, 10% white.
 - sweet white wines may be labelled Bordeaux Moelleux
 - Bordeaux Supérieur, or Bord Sup. represents a more intense style and requires a maximum yield of 56 hl/ha as opposed to 60hl/ha for the base level, and 10 months maturation before release.
@@ -132,3 +136,15 @@ citekey: oxcomp_bordeaux
 - Generally the *négocient* would have more technical know-how (cellarmaster and team)
 - these days the *négocient* is focused more on dealings between the principal and the broker, and focused on wine storage/maturation and selling direct to customer.
 - Prominent *négocients* include: Barton, Cruse, Sichel, Moueix.
+
+## En Primeur (pp. 1340)
+
+- wine sold as futures BEFORE bottling.
+- typically classed growths.
+- cask samples are shown in spring following the vintage.
+- sales are performed through brokers followed by négociants.
+- chateaux tend to release only a proportion of its production (a tranche) *en primeur* depending on its need for immediate funding and potential profit.
+- the purchaser pays in the first spring but waits up to 2 years for the finished product.
+- advantage to the purchaser is that the wine is potentially more affordable and ensures they have access to the most highly desired wines.
+- advantages of *en primeur* assume a rising market - in times of downturn the product may be lower valued at the time of recievement.
+- purchaser takes a risk that the sample tasted is a true predictor of future character - not guaranteed by any means.

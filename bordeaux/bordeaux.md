@@ -7,7 +7,7 @@ tags:
   - bordeaux
 type:
 cdt: 2025-01-14T13:39:25
-mdt: 2025-02-03T14:58:38
+mdt: 2025-02-04T12:04:30
 ---
 
 # Bordeaux
@@ -235,6 +235,11 @@ blending *assemblage* is important as vintages in Bordeaux vary and the variety 
 
 ### Botrytis Wine Production
 
+Botrytis wine is sweet white wine whose fruit has been infected by Botrytis cinerea, or noble rot. The mould pierces the skin of the fruit resulting in dehydration that concentrates acidity, sugars and glycerol, adding honey, saffron, ginger, dried fruit and iodine characters. The result is a viscous, golden, textural and aromatic wines. It is produced in the communes belonging to Sauternes AOP: Sauternes, Bommes, Preignac, and Barsac, records indicating that the style was conceived in the 18th century [@guildsomm_bordeauxexpert]. The best vineyards are located at the confluence of Ciron and Garonne where cool morning mists and humidity are generated that benefit noble rot infection [@guildsomm_bordeauxexpert].
+
+The *assemblage* consists of Sémillon, Sauvignon Blanc, and Muscadelle, with sémillon as the dominant varietal because its thinner skin is more prone to infection. Cordon training is preferred as it results in smaller berries which are better for As botrytis does not affect grapes evenly, during picking several passes (*tries*) are required to produce a consistent crop, generally 3 - 4 passes are required. This is mandated by AOP law. If a vintage does not produce quality fruit OR botrytis infection then the wine will not be made [@guildsomm_bordeauxexpert]..  
+Chaptalization and cryo-extraction are permitted. Barrel fermentation is common, often in new oak barrique followed by élevage in the same vessel. Sulfur dixoide is used liberally to prevent development of volatile acidity and secondary fermentation. The final product can reach 14% alcohol with a residual sugar range of 120 - 160 g/L [@guildsomm_bordeauxexpert].
+
 > [!Important Points]
 > - botrytis wines are sweet whites influenced by infection with Botryis cinerea
 > - resulting dehydration concentrates acidity, sugars and glycerol and adds honey, saffron, ginger, dried fruit and iodine character with alcohol up to 14% and RS between 120g - 160g/L.
@@ -249,24 +254,28 @@ blending *assemblage* is important as vintages in Bordeaux vary and the variety 
 > - Premium producers will ferment in new oak barriques followed by élevage in the same vessel
 > - sulfur dioxide is used librerally to minimise volatile acidity and secondary fermentation.
 
-#### Summary
-
-Botrytis wine is sweet white wine whose fruit has been infected by Botrytis cinerea, or noble rot. The mould pierces the skin of the fruit resulting in dehydration that concentrates acidity, sugars and glycerol, adding honey, saffron, ginger, dried fruit and iodine characters. The result is a viscous, golden, textural and aromatic wines. It is produced in the communes belonging to Sauternes AOP: Sauternes, Bommes, Preignac, and Barsac, records indicating that the style was conceived in the 18th century [@guildsomm_bordeauxexpert]. The best vineyards are located at the confluence of Ciron and Garonne where cool morning mists and humidity are generated that benefit noble rot infection [@guildsomm_bordeauxexpert].
-
-The *assemblage* consists of Sémillon, Sauvignon Blanc, and Muscadelle, with sémillon as the dominant varietal because its thinner skin is more prone to infection. Cordon training is preferred as it results in smaller berries which are better for As botrytis does not affect grapes evenly, during picking several passes (*tries*) are required to produce a consistent crop, generally 3 - 4 passes are required. This is mandated by AOP law. If a vintage does not produce quality fruit OR botrytis infection then the wine will not be made [@guildsomm_bordeauxexpert]..  
-Chaptalization and cryo-extraction are permitted. Barrel fermentation is common, often in new oak barrique followed by élevage in the same vessel. Sulfur dixoide is used liberally to prevent development of volatile acidity and secondary fermentation. The final product can reach 14% alcohol with a residual sugar range of 120 - 160 g/L [@guildsomm_bordeauxexpert].
-
-### Business
-
 ### Trade Structure - En Primeur, Negociants
 
 #### Trade Structure
 
 - historically, chateaux would produce the wine, négociants would sell the wine, and primarily in the Médoc courtiers would broker deals between chateaux and négociants. [@guildsomm_bordeauxexpert]
+- The interwoven business relationship between the chateaux, négocients and courtiers is referred to as 'la Place de Bordeaux' [@vinovest_enprimeur].
 
 #### En Primeur
 
+the sales of **yet to be released** wines (i.e. futures), typically classed growths [@oxcomp_bordeaux, pp. 1340] such as Chateau Petrus [@vinovest_enprimeur]. Historically it was a business deal between chateaux (through courtiers) and négociants to take advantage of good years and smoothing out cashflow. Interest expanded through wine media such as Robert Parker etc. in the 80's [@guildsomm_bordeauxexpert]
+
+The current system is as follows: cask samples are shown to critics in the spring after harvest who score samples [@oxcomp_bordeaux, pp. 1340]. Based on the scores the chateaus (through their *courtiers* [@guildsomm_bordeaux_2024]) set a price of sale to négocients. The négocients then make en primeur available to their customers [@vinovest_enprimeur]. Futures are released in successively more expensive tranches until all are sold. The purchaser then waits up to 2 years for the purchased wine to be delivered [@guildsomm_bordeauxexpert].
+
+> [!Important points]
+> - *en primeur*, or 'in their prime' is the sale of wine futures by chateaux (typically classed growths) through courtiers to négocients, and in turn from négocients to distributors, retailers and consumers.
+> - 6 months after harvest a sample of the wine is presented to a board of critics who supply a score. Based on the rating, chateaux will release a proportion of production, or *tranche* for purchase.
+> - A series of tranches are released, each more expensive than the next until all allocated stock is purchased.
+> - It can take up to 2 years for the purchaser to receive the promised product.
+
 #### Negociants
+
+- traditionally responsible for the sale of wine to consumers [@guildsomm_bordeauxexpert]
 
 ### Localities
 
