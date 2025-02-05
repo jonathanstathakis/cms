@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dbc3827ff061e57f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bordeaux/bordeaux.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +53,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cms.md"
+                "file": "bordeaux/bordeaux.md"
               }
             }
           },
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cms.md",
+                "file": "bordeaux/bordeaux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cms.md",
+                "file": "bordeaux/bordeaux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,8 +173,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "dbc3827ff061e57f",
   "lastOpenFiles": [
+    "bordeaux/classification_1855_dataset/classification_1855.ipynb",
+    "cms.md",
     "attachments/waterways and major appellations of bordeaux.md",
     "bordeaux/bordeaux.md",
     "attachments/cms_syllabus.pdf",
@@ -180,7 +196,6 @@
     "general/sur souches.md",
     "reading_notes/guildsomm_bordeaux_2024.md",
     "inbox/factors affecting climate.md",
-    "cms.md",
     "cms_log.md",
     "attachments/gsomm_bordeaux_appells.jpg",
     "inbox",
@@ -197,7 +212,6 @@
     "bordeaux/classification_1855.ipynb",
     "bordeaux/Landes forest.md",
     "bordeaux/Graves Classification.md",
-    "water stress.md",
     "attachments/Certified-Tasting-Exam-Paper-2024.pdf",
     "attachments/Study-Tips-1.pdf",
     "attachments/bordeaux_appellations_wikipedia.png",

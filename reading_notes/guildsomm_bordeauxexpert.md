@@ -348,9 +348,9 @@ minLevel: 2
 
 ## Winegrowing Regions of Bordeaux
 
-### Left Bank
+### The Left Bank
 
-##### The Médoc
+#### The Médoc
 
 - Divided into the northern Bas-Médoc (lower Médoc) and southern Haut-Médoc (upper).
 - Atlantic to the north, Gironde estuary to the east.
@@ -368,7 +368,7 @@ minLevel: 2
     - Listrac-Médoc AOP
     - Moulis AOP
 
-###### Saint-Estèphe AOP
+##### Saint-Estèphe AOP
 
 - Northernmost evidence of *croupes* formation surrounded by low-lying clay and sandy soil.
 - Divided from Pauillac by the Jalle de Breuil.
@@ -377,7 +377,7 @@ minLevel: 2
 - Increasing use of Merlot is softening the style.
 - 5 classified estates in total.
 
-###### Pauillac AOP
+##### Pauillac AOP
 
 - possesses the deepest croupes.
 - most important site for Cabernet Sauvignon in Bordeaux.
@@ -386,13 +386,13 @@ minLevel: 2
 - very much predominately cabernet, 70 - 80% of total encépagement, in warm vintages the assemblage of the *grands vin* is 80 - 95% CS.
 - The style is power - dark, firm, brooding wines requiring extensive cellaring.
 
-###### Saint-Julien AOP
+##### Saint-Julien AOP
 
 - no first growths, 11 classified growths in total.
 - Dominated by CS.
 - reflects a middle ground of styles - elegence approaching Margaux, power approaching Pauillac.
 
-###### Margaux AOP
+##### Margaux AOP
 
 - Includes the communes of Margaux-Cantenac, Soussans, Arsac and Labarde.
 - includes more variety of soil than comparative commune AOPs.
@@ -403,7 +403,7 @@ minLevel: 2
 - Chateau Palmer is a very notable chateaux that is a 3rd growth.
 - the style is aromatic, silkier and slightly lighter in body compared with the more northern communes.
 
-###### Moulis and Listrac AOPs
+##### Moulis and Listrac AOPs
 
 - More inland than the comparative AOPs
 - Moulis contains some Cru Bourgeois chateaux such as Chasse-Spleen and Poujeaux.
@@ -429,7 +429,7 @@ minLevel: 2
   - sweet whites
   - 40 - 50 g/L residual sugar.
 
-###### Graves Classification
+##### Graves Classification
 
 - started in 1953, finalised in 1959.
 - commisioned by *courtiers* and sanctioned by INAO
@@ -442,7 +442,7 @@ minLevel: 2
 - While it is not immutable no review has been conducted.
 - La Tour Haut-Brion stopped production in 2005 and Laville Haut-Brion in 2008, so while the classification includes 16 châteaux, only 14 are producing wine (they instead supply fruit for Château La Mission Haut-Brion).
 
-###### Pessac-Léognan AOP
+##### Pessac-Léognan AOP
 
 - formed in the 80's.
 - allows for dry red and white wines.
@@ -452,7 +452,7 @@ minLevel: 2
 - Haut-Brion includes more Merlot than CS.
 - dry whites produces in the area are a blend of Sémillon and Sauvignon Blanc although examples of 100% SB exist.
 
-###### Sauternes AOP and Barsac AOP
+##### Sauternes AOP and Barsac AOP
 
 - located in Southern Graves along left bank of Garonne
 - Sauternes AOP includes the commons of Sauternes, Bommes, Preignac, and Barsac. Barsac does have its own AOP but generally Sauternes AOP is used anyway as it has more prestige.
@@ -474,7 +474,7 @@ minLevel: 2
 - Sauternes can hit 14% alcohol with a residual sugar range of 120 - 160 g/L.
 - the wine is described as viscous, golden, textural with fragrant tones of new oak and botrytis.
 
-###### Cérons AOP
+##### Cérons AOP
 
 - Includes communes of Cérons, Podensac and Illats.
 - sweet whites.
@@ -483,3 +483,143 @@ minLevel: 2
   - permitted yields are higher
   - resulting wines are less concentrated.
   - less production of botrytised wines as production costs for quality of final product dont match.
+
+### The Right Bank
+
+- Includes the appellations of Saint-Émilion, Pomerol, Fronsac and their satellites.
+- 10 AOP's in total.
+- Can include Bourg and Blaye and Côtes de Bordeaux.
+- Produce red exclusively, except Bourg and Blaye which does produce some white.
+- elevation increases as one moves west reaching 90 meters compared to Médoc topping out at 30 meters.
+- less gravel, more cool clay and calcareous clay - better for Merlot than CS.
+- Generally the encépagement is 70% Merlot, 30% Cabernet Franc.
+- Merlot ripens happily in the cooler soil, is less susceptible to disease, evenly ripening and longer-lived wine than CF.
+- Merlot began adoption after Phylloxera and increasingly so after the freeze and frosts of 1956 killed established vines.
+- Merlot has thinner skin making it susceptible to rot. In response to this INAO encouraged growers to replace it with CS however CS does not perform well in the area.
+- CF provides bright acidity and restrained alcohol to the blend.
+- no appellation provided for white wines in the Right Bank apart from Bordeaux AOP.
+- Fronsac has the highest proportion of chinese owned estates.
+- garagiste movement:
+  - started in Saint-Emilion
+  - small production
+  - low-yielding
+  - severe selection
+  - lots of new oak.
+  - favor winemaking over terroir to compensate for the provinence of the fruit - lesser vineyards.
+
+#### Saint-Émilion AOP and Saint-Émilion Grand Cru AOP
+
+- historic sites on côtes of limestone plateau near Saint-Émilion commune.
+- the top of the plateau hosts cool clay soil favoring Merlot.
+- due to the plateau, most Saint-Émilion classified chateaux are clustered around the commune.
+- Pomerol contains a gravel terrace.
+- more gravel than clay, favors CF.
+- Château Figeac is a notable grower of quality CS, situated between the gravel of Pomerol and Saint-Emilion.
+- Cheval Blanc also located here, more CF than Merlot.
+- soil types are divided between *côtes* and *graves*.
+- every *premier grand cru classé* is either in *côtes* or *graves*.
+- Saint Émilion has 2 red wine only AOPs: "Saint Émilion" AOP (1936) and "Sant-Émilion Grand Cru" AOP (1954). One difference between the two is that the former can be négocient bottled, wheras the latter must be estate-bottled. ALso the later requires longer élevage
+- most Grand Cru AOP estates are on the côtes.
+- classified estates must produce Grand Cru AOP wines (?)
+- "Saint-Émilion Grand Cru" = appellation. “Saint-Émilion Grand Cru Classé” = classified producer within the appellation.
+
+#### The Saint-Émilion Classification
+
+- drafted with consent from the INAO
+- conducted by INAO based on soil analysis, topography, viticulture and enology and a decade long vertical tasting.
+- reviewed every 10 years - last was in 2022.
+- 4 tiers: premier grand cru classé A and B, grand cru classé, grand cru.
+- current standing:
+  - premier grand cru classé A:
+    - Pavie, Figeac
+  - premier grand cru classé B:
+    - 12 estates
+  - grand cru classé:
+    - 71
+  - grand cru:
+    - ?
+- to be classified the wine must be sold within the Place de Bordeaux
+
+#### Pomerol AOP
+
+- most important site for Merlot
+- bounded by the Isle and Barbanne rivers and Libourne
+- Cheval Blanc, Petrus are notable chateaux.
+- Petrus possesses blue clay soil.
+- Petrus produces 100% merlot grand vin in most years.
+- POmerols soils conist of gravel interwoven with clay and ion rich sand dubbed *crasse de fer*.
+- Pomerol consists of three rising terraces with the lowest near Liborune and running north east (?)
+- terrace 1: light sandy soil.
+- gravel soils enable the fruit to ripen earlier than St Émilion.
+- Petrus is centered on the *buttonière*, or buttonhole - deep blue clay. Cheval blanc on this soil too.
+- While Merlot took over from Cabernet Franc in the mid 20th century, global warming has growers looking yet again to CF to contend with Merlot's eagerness to overripen.
+- notable chateaux include:
+  - Petrus
+  - Veux Château Certan
+  - Lafleur
+  - l'Evangile
+  - Trotanoy
+  - Clinet
+  - la Conseillante
+  - Petit Village
+  - Le Pin
+  - le Bon Pasteur
+- position on the plateau predicts the soil composition which in turn predicts wine quality and cost.
+- no classification system in Pomerol.
+- two styles coexist: rich, luxurious new world-esque examples and classic hard-edged, tannic wines.
+
+#### Fronsac AOP and Canon-Fronsac AOP
+
+- Fronsac was historically renowned but faded into mediocrity after Phylloxera.
+- Fronsac is divided by Lalande-de-Pomerol by the Isle river and from Entre-Deux-Mers by the Dordogne.
+- Commonly high to completely Merlot wines.
+- Canon-Fronsac held in higher esteem.
+- Notable châteaux: Grand-Renouil, Gaby, Dalem, de La Dauphine, Fontenil.
+
+#### Right Bank Satellites
+
+- 4 AOPs orbit Saint-Émilion:
+  - Lussac-Saint-Émilion AOP
+  - Puisseguin-Saint-Émilion AOP
+  - Montagne-Saint-Émilion AOP
+  - Saint-Georges-Saint-Émilion AOP.
+  - Merlot dominant
+  - notable producers:
+    - Producteurs Réunis
+- 1 AOPs orbit Pomerol:
+  - Lalande-de-Pomerol AOP
+
+#### Entre-Deux-Mers
+
+- Entre-Deux-Mers AOP allows red and whites.
+- base-level wines - lighter, generic, no new oak, immediate consumption.
+
+#### Côtes de Bordeaux
+
+- unification of outlying appellations under one label.
+- Includes:
+  - Premières Côtes de Bordeaux (western edge of Entre-Deux-Mers)
+  - An area adjacent to the eastern border of St-Émilion and Puisseguin-Saint-Émilion AOPs
+  - an area between Entre-Deux-Mers and Bergerac.
+  - Blaye AOP (which remains as a seperate apellation)
+- Merlot-based red wine
+- different requirements based on a geographic sub-designation: Castillon, Francs, Cadillac, Blaye and Sainte-Foy.
+- Blaye, Francs and Sainte-Foy can produce white wine as well.
+- Cadillac AOP is sweet white wine only.
+- Côtes de Bordeaux AOP is sweet white wine only.
+
+#### Bourg and Blaye
+
+- located far north of Right Bank across from Médoc.
+- Wine production since Roman times.
+- Already fading in importance by the 19th century, Phylloxera was a death knell
+- Lots of its production headed to Cognac prior to their delimitation in 1909.
+- Bourg AOP:
+  - red and white wines (not much white).
+  - Merlot blended with CS.
+  - most notable produer is Roc de Cambes.
+- Blaye AOP:
+  - red wine.
+  - red wines can be labelled Blaye AOP, Côtes de Bordeaux AOP.
+  - Blaye AOP requires sale ~ 18 months (?) after harvest minimum.
+- Côtes de Blaye AOP can be used to sell white blends of Ugni Blanc and Colombard.
