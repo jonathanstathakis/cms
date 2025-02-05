@@ -287,9 +287,20 @@ Négociants are french wine merchants who purchased bulk quantities of raw ferme
 
 ### Localities
 
+See [locality](../misc_appendix/locality.md).
+
 ### Districts, Subdistricts and Location
 
+The Bordeaux winegrowing region can be divided into the Left Bank and Right Bank of the Gironde Estuary, with the Left Bank further divided into the localities of Médoc, Graves and Sauternes, and the Right Bank into Pomerol and St Émilion in the west, centered around Libourne. Between these two divisions and the rivers of Dordogne and Garonne lies the Entre-Deux-Mers [@johnson_worldatlaswine_2019, pp. 84].
+
 ### Styles of Wine from Principal Production Districts
+
+- Left Bank
+  - Médoc
+  - Graves
+  - Sauternes
+- Right Bank
+- Entre-Deux-Mers
 
 ### Classifications
 

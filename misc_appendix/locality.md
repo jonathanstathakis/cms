@@ -1,0 +1,1 @@
+A locality is a suburb, neighbourhood, place or district^[https://www.wordnik.com/words/locality].
