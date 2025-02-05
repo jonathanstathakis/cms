@@ -178,3 +178,9 @@ I think it is best to study the technical topics first then the taxonomic so tha
 31. [ ] [[cms_sake|Saké]]
 
 But how to study? It would be great if I could assemble notes for all the topics by half way to the exam then revise for the remainder. That would require assembling notes on 4 topics a week. Doable. That's the plan then. 7 weeks to assemble all the notes, then revise afterwards.
+
+# Misc. Appendix
+
+A collection of general terms relevant to the study that don't fit elsewhere.
+
+[locality](./misc_appendix/locality.md)
