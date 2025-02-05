@@ -4,7 +4,7 @@ aliases: []
 tags: []
 type:
 cdt: 2025-01-18T12:44:02
-mdt: 2025-02-03T12:15:53
+mdt: 2025-02-05T15:57:52
 citekey: guildsomm_bordeauxexpert
 ---
 
@@ -204,14 +204,10 @@ minLevel: 2
 - classification of reds:
 	- included 57 chateaux
 	- chateaux were divided into 5 categories called *growths* (?) under the top level *grand cru classé*
-	- first growths:
-		- Lafite
-		- Latour
-		- Margeaux
-		- Haut-Brion
+	- first growths: Lafite, Latour, Margaux, and Haut-Brion
 - classification of stickies:
-	- 21 chateaux
 	- 3 categories: *second cru*, *premiers crus*, *premier cru supérieur* (Château d'Yquem)
+	- 21 chateaux in total.
 - changes in status of chateaux over time has added 4 chateaux to the red classification for a total of 61, 27 classified for white (sticky or dry?)
 - in 1973 Château Mouton-Rothschild was elevated to premier cru classé
 - Not the first time classification of Bordeaux was attempted, but certainly the most enduring.
@@ -361,12 +357,12 @@ minLevel: 2
 - eight AOP in Médoc:
   - Médoc AOP (usually used for wines from Bas-Médoc)
   - Haut-Médoc AOP. and within Haut-Médoc AOP the commune appellations of..:
-    - Saint-Estèphe AOP
-    - Pauillac AOP
-    - Saint-Julien AOP
-    - Margaux AOP
-    - Listrac-Médoc AOP
-    - Moulis AOP
+	- Saint-Estèphe AOP
+	- Pauillac AOP
+	- Saint-Julien AOP
+	- Margaux AOP
+	- Listrac-Médoc AOP
+	- Moulis AOP
 
 ##### Saint-Estèphe AOP
 
@@ -410,14 +406,14 @@ minLevel: 2
 - Listrac was the last commune AOP assigned, in 1957.
 - Due to inland location, CS does not ripen as dependably and Merlot is being planted more.
 
-##### Graves
+#### Graves
 
 - Graves extends from Bordeaux city to Langon, following the Garonne west.
 - Landes forest protects the area from the sea.
 - produces dry whites, dry reds and sweet whites.
 - dominated by gravel soils.
 - Northern Graves famous for some of best reds and whites in Bordeaux.
-- Northern Graves posseses *croupes* like those of Médoc.
+- Northern Graves possesses *croupes* like those of Médoc.
 - AOP's
   - Graves AOP
   - Graves Supérieur AOP
@@ -432,7 +428,7 @@ minLevel: 2
 ##### Graves Classification
 
 - started in 1953, finalised in 1959.
-- commisioned by *courtiers* and sanctioned by INAO
+- commissioned by *courtiers* and sanctioned by INAO
 - one category: *cru classé*.
 - 15 châteaux included.
 - 7 châteaux were classified for red wines
@@ -518,7 +514,7 @@ minLevel: 2
 - Cheval Blanc also located here, more CF than Merlot.
 - soil types are divided between *côtes* and *graves*.
 - every *premier grand cru classé* is either in *côtes* or *graves*.
-- Saint Émilion has 2 red wine only AOPs: "Saint Émilion" AOP (1936) and "Sant-Émilion Grand Cru" AOP (1954). One difference between the two is that the former can be négocient bottled, wheras the latter must be estate-bottled. ALso the later requires longer élevage
+- Saint Émilion has 2 red wine only AOPs: "Saint Émilion" AOP (1936) and "Sant-Émilion Grand Cru" AOP (1954). One difference between the two is that the former can be négocient bottled, whereas the latter must be estate-bottled. ALso the later requires longer élevage
 - most Grand Cru AOP estates are on the côtes.
 - classified estates must produce Grand Cru AOP wines (?)
 - "Saint-Émilion Grand Cru" = appellation. “Saint-Émilion Grand Cru Classé” = classified producer within the appellation.
@@ -531,13 +527,13 @@ minLevel: 2
 - 4 tiers: premier grand cru classé A and B, grand cru classé, grand cru.
 - current standing:
   - premier grand cru classé A:
-    - Pavie, Figeac
+	- Pavie, Figeac
   - premier grand cru classé B:
-    - 12 estates
+	- 12 estates
   - grand cru classé:
-    - 71
+	- 71
   - grand cru:
-    - ?
+	- ?
 - to be classified the wine must be sold within the Place de Bordeaux
 
 #### Pomerol AOP
@@ -555,7 +551,7 @@ minLevel: 2
 - While Merlot took over from Cabernet Franc in the mid 20th century, global warming has growers looking yet again to CF to contend with Merlot's eagerness to overripen.
 - notable chateaux include:
   - Petrus
-  - Veux Château Certan
+  - Veux Château Certain
   - Lafleur
   - l'Evangile
   - Trotanoy
@@ -585,7 +581,7 @@ minLevel: 2
   - Saint-Georges-Saint-Émilion AOP.
   - Merlot dominant
   - notable producers:
-    - Producteurs Réunis
+	- Producteurs Réunis
 - 1 AOPs orbit Pomerol:
   - Lalande-de-Pomerol AOP
 
@@ -594,14 +590,14 @@ minLevel: 2
 - Entre-Deux-Mers AOP allows red and whites.
 - base-level wines - lighter, generic, no new oak, immediate consumption.
 
-#### Côtes de Bordeaux
+#### Côtes De Bordeaux
 
 - unification of outlying appellations under one label.
 - Includes:
   - Premières Côtes de Bordeaux (western edge of Entre-Deux-Mers)
   - An area adjacent to the eastern border of St-Émilion and Puisseguin-Saint-Émilion AOPs
   - an area between Entre-Deux-Mers and Bergerac.
-  - Blaye AOP (which remains as a seperate apellation)
+  - Blaye AOP (which remains as a separate apellation)
 - Merlot-based red wine
 - different requirements based on a geographic sub-designation: Castillon, Francs, Cadillac, Blaye and Sainte-Foy.
 - Blaye, Francs and Sainte-Foy can produce white wine as well.
