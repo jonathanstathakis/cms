@@ -13,40 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cms.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbc3827ff061e57f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "bordeaux/bordeaux.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "7b48722e2aa6a2a1",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "47e5b315985c5895",
+            "id": "be48564ba661d797",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "attachments/cms_syllabus.pdf"
+                "file": "bordeaux/bordeaux/oxcomp_bordeaux.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -110,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 544
+    "width": 544,
+    "collapsed": true
   },
   "right": {
     "id": "2fa0dd337b78af51",
@@ -187,8 +171,74 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "07b578eb367dbddf",
+  "floating": {
+    "id": "46d0b2c79a66e05a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "babfe0c5c2137b05",
+        "type": "window",
+        "children": [
+          {
+            "id": "3e2cb274c1efcad3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8668861455a9744a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "bordeaux/bordeaux/guildsomm_bordeauxexpert.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "7e1eb9781f581ada",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0f526420550dd1b8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "bordeaux/bordeaux/guildsomm_bordeauxexpert.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1920,
+        "y": 596,
+        "width": 840,
+        "height": 1050,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "bordeaux/bordeaux/oxcomp_bordeaux.md",
+    "bordeaux/bordeaux.md",
+    "bordeaux/bordeaux/guildsomm_bordeauxexpert.md",
+    "bordeaux/bordeaux/guildsomm_bordeaux_2024.md",
+    "bordeaux/classification_1855_dataset/bordeaux.db.wal",
+    "cms.md",
+    "bordeaux/bordeaux/guildsomm_1855classification_2024.md",
+    "bordeaux/bordeaux",
+    "attachments/cms_syllabus.pdf",
     "bordeaux/classification_1855_dataset/database/schema.sql",
     "bordeaux/classification_1855_dataset/database/load.sql",
     "bordeaux/classification_1855_dataset/database",
@@ -196,25 +246,15 @@
     "database/load.sql",
     "database",
     "bordeaux.db.wal",
-    "bordeaux.db",
-    "bordeaux/classification_1855_dataset/database/class_____.csv",
-    "bordeaux/classification_1855_dataset/bordeaux.db.wal",
-    "bordeaux/classification_1855_dataset/bordeaux_database/schema.sql",
     "inbox/syllabus_bordeaux.md",
-    "bordeaux/bordeaux.md",
-    "cms.md",
     "attachments/waterways and major appellations of bordeaux.md",
     "bordeaux/pavilion blanc second vin.md",
     "bordeaux/classification_1855_dataset/README.md",
     "misc_appendix/locality.md",
     "cms-deductivetasting-deductive-tasting.md",
     "cms-foodandwinepairings-food-and-wine-pairings.md",
-    "reading_notes/guildsomm_bordeauxexpert.md",
     "bordeaux/bordaux_growths_table.md",
-    "reading_notes/oxcomp_bordeaux.md",
-    "reading_notes/guildsomm_1855classification_2024.md",
     "general/sur souches.md",
-    "reading_notes/guildsomm_bordeaux_2024.md",
     "inbox/factors affecting climate.md",
     "cms_log.md",
     "attachments/gsomm_bordeaux_appells.jpg",
