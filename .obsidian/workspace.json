@@ -35,6 +35,22 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "7b48722e2aa6a2a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47e5b315985c5895",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/cms_syllabus.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,13 +106,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 544,
-    "collapsed": true
+    "width": 544
   },
   "right": {
     "id": "2fa0dd337b78af51",
@@ -173,20 +187,26 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "dbc3827ff061e57f",
+  "active": "07b578eb367dbddf",
   "lastOpenFiles": [
-    "bordeaux/classification_1855_dataset/classification_1855.ipynb",
+    "bordeaux/classification_1855_dataset/database/schema.sql",
+    "bordeaux/classification_1855_dataset/database/load.sql",
+    "bordeaux/classification_1855_dataset/database",
+    "database/schema.sql",
+    "database/load.sql",
+    "database",
+    "bordeaux.db.wal",
+    "bordeaux.db",
+    "bordeaux/classification_1855_dataset/database/class_____.csv",
+    "bordeaux/classification_1855_dataset/bordeaux.db.wal",
+    "bordeaux/classification_1855_dataset/bordeaux_database/schema.sql",
+    "inbox/syllabus_bordeaux.md",
+    "bordeaux/bordeaux.md",
     "cms.md",
     "attachments/waterways and major appellations of bordeaux.md",
-    "bordeaux/bordeaux.md",
-    "attachments/cms_syllabus.pdf",
     "bordeaux/pavilion blanc second vin.md",
-    "bordeaux/pavilion blanc second vin",
     "bordeaux/classification_1855_dataset/README.md",
-    "bordeaux/classification_1855_dataset/classification_1855.csv",
-    "bordeaux/classification_1855_dataset",
     "misc_appendix/locality.md",
-    "misc_appendix",
     "cms-deductivetasting-deductive-tasting.md",
     "cms-foodandwinepairings-food-and-wine-pairings.md",
     "reading_notes/guildsomm_bordeauxexpert.md",
@@ -198,7 +218,6 @@
     "inbox/factors affecting climate.md",
     "cms_log.md",
     "attachments/gsomm_bordeaux_appells.jpg",
-    "inbox",
     "attachments/Bordeaux_v06_2021 Logo.jpg",
     "Bordeaux_v06_2021 Logo.jpg",
     "bordeaux.md",
@@ -207,13 +226,8 @@
     "general/millerandage.md",
     "general/coulure.md",
     "general/cliquage.md",
-    "general",
     "bordeaux/en primeur.md",
-    "bordeaux/classification_1855.ipynb",
     "bordeaux/Landes forest.md",
-    "bordeaux/Graves Classification.md",
-    "attachments/Certified-Tasting-Exam-Paper-2024.pdf",
-    "attachments/Study-Tips-1.pdf",
     "attachments/bordeaux_appellations_wikipedia.png",
     "attachments/naked_map_of_bordeaux_google.png",
     "attachments/map_of_bordeaux.png",
