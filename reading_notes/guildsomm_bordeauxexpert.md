@@ -348,9 +348,111 @@ minLevel: 2
 
 ## Winegrowing Regions of Bordeaux
 
-### Graves
+### Left Bank
 
-#### Sauternes AOP and Barsac AOP
+##### The Médoc
+
+- Divided into the northern Bas-Médoc (lower Médoc) and southern Haut-Médoc (upper).
+- Atlantic to the north, Gironde estuary to the east.
+- winegrowing occurs within a dozen km of the Gironde.
+- best vineyards and chateaux in Haut-Médoc.
+- Landes forest to the west shield vineyards from ocean winds.
+- flat terrain except for gentle slopes of gravel *croupes*.
+- eight AOP in Médoc:
+  - Médoc AOP (usually used for wines from Bas-Médoc)
+  - Haut-Médoc AOP. and within Haut-Médoc AOP the commune appellations of..:
+    - Saint-Estèphe AOP
+    - Pauillac AOP
+    - Saint-Julien AOP
+    - Margaux AOP
+    - Listrac-Médoc AOP
+    - Moulis AOP
+
+###### Saint-Estèphe AOP
+
+- Northernmost evidence of *croupes* formation surrounded by low-lying clay and sandy soil.
+- Divided from Pauillac by the Jalle de Breuil.
+- Cos d'Estournel, Montrose are notable chateaux from the AOP.
+- style is described as rustic, aggressive, and sturdy, requiring many years to yield.
+- Increasing use of Merlot is softening the style.
+- 5 classified estates in total.
+
+###### Pauillac AOP
+
+- possesses the deepest croupes.
+- most important site for Cabernet Sauvignon in Bordeaux.
+- 3 first growths.
+- Lafite-Rothschild most northern, Latour most southern.
+- very much predominately cabernet, 70 - 80% of total encépagement, in warm vintages the assemblage of the *grands vin* is 80 - 95% CS.
+- The style is power - dark, firm, brooding wines requiring extensive cellaring.
+
+###### Saint-Julien AOP
+
+- no first growths, 11 classified growths in total.
+- Dominated by CS.
+- reflects a middle ground of styles - elegence approaching Margaux, power approaching Pauillac.
+
+###### Margaux AOP
+
+- Includes the communes of Margaux-Cantenac, Soussans, Arsac and Labarde.
+- includes more variety of soil than comparative commune AOPs.
+- the gravel is shallower means that CS ripens slightly earlier.
+- sand, limestone, clay as well especially in the outskirts.
+- 65% CS
+- 21 classified growths.
+- Chateau Palmer is a very notable chateaux that is a 3rd growth.
+- the style is aromatic, silkier and slightly lighter in body compared with the more northern communes.
+
+###### Moulis and Listrac AOPs
+
+- More inland than the comparative AOPs
+- Moulis contains some Cru Bourgeois chateaux such as Chasse-Spleen and Poujeaux.
+- Listrac was the last commune AOP assigned, in 1957.
+- Due to inland location, CS does not ripen as dependably and Merlot is being planted more.
+
+##### Graves
+
+- Graves extends from Bordeaux city to Langon, following the Garonne west.
+- Landes forest protects the area from the sea.
+- produces dry whites, dry reds and sweet whites.
+- dominated by gravel soils.
+- Northern Graves famous for some of best reds and whites in Bordeaux.
+- Northern Graves posseses *croupes* like those of Médoc.
+- AOP's
+  - Graves AOP
+  - Graves Supérieur AOP
+  - Pessac-Léognan AOP
+- Graves AOP
+  - allows for dry red and white wines.
+  - tends to be used for produces from the more mediocre south.
+- Graves Supérieur AOP
+  - sweet whites
+  - 40 - 50 g/L residual sugar.
+
+###### Graves Classification
+
+- started in 1953, finalised in 1959.
+- commisioned by *courtiers* and sanctioned by INAO
+- one category: *cru classé*.
+- 15 châteaux included.
+- 7 châteaux were classified for red wines
+- 2 châteaux were classified for white wines
+- 6 for both red and white wines
+- in 1968 Château Couhins, which was classified for whites, split into 2, both new properties were added to the classification, increasing the number of included châteaux to 16.
+- While it is not immutable no review has been conducted.
+- La Tour Haut-Brion stopped production in 2005 and Laville Haut-Brion in 2008, so while the classification includes 16 châteaux, only 14 are producing wine (they instead supply fruit for Château La Mission Haut-Brion).
+
+###### Pessac-Léognan AOP
+
+- formed in the 80's.
+- allows for dry red and white wines.
+- 80% red.
+- Cabernet Sauvignon and Merlot in equal proportion.
+- includes Château Haut-Brion.
+- Haut-Brion includes more Merlot than CS.
+- dry whites produces in the area are a blend of Sémillon and Sauvignon Blanc although examples of 100% SB exist.
+
+###### Sauternes AOP and Barsac AOP
 
 - located in Southern Graves along left bank of Garonne
 - Sauternes AOP includes the commons of Sauternes, Bommes, Preignac, and Barsac. Barsac does have its own AOP but generally Sauternes AOP is used anyway as it has more prestige.
@@ -371,3 +473,13 @@ minLevel: 2
 - Chaptalization and cryo-extraction are permitted.
 - Sauternes can hit 14% alcohol with a residual sugar range of 120 - 160 g/L.
 - the wine is described as viscous, golden, textural with fragrant tones of new oak and botrytis.
+
+###### Cérons AOP
+
+- Includes communes of Cérons, Podensac and Illats.
+- sweet whites.
+- compared with Sauternes:
+  - Botrytis develops less reliably
+  - permitted yields are higher
+  - resulting wines are less concentrated.
+  - less production of botrytised wines as production costs for quality of final product dont match.
