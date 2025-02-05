@@ -7,7 +7,7 @@ tags:
   - bordeaux
 type:
 cdt: 2025-01-14T13:39:25
-mdt: 2025-02-05T14:26:24
+mdt: 2025-02-05T16:00:38
 ---
 
 # Bordeaux
@@ -187,6 +187,8 @@ The Bordeaux winegrowing region can be divided into the Left Bank and Right Bank
 
 #### Classification System 1855
 
+An immutable classification of the best chateaux (most expensive) in Bordeaux in 1855, commissioned by Emperor Napoleon III for the Universal Exposition and carried out by Bordelais courtiers. Included red and sweet white wine producers, with 5 ranks or growths for red and 3 ranks for white. Red: First Growths (*premiers Crus*), Second Growths (*Deuxièmes Crus*), Third Growths (*Troisèmes Crus*), Fourth Growths (*Quatrièmes Crus*), Fifth Growths (*Cinquièmes Crus*), white: Superior First Growth (*Premier Cru Supérieur*), First Growth (*Premier Cru*), Second Growths (*Deuxième Crus*) [@wiki_class1855]. The red first growths are Chateaux Lafite, Latour, Mouton Rothschild, Margaux, and Haut-Brion. While it is regarded as immutable, there have been some changes, for example Mouton-Rothschild was elevated from second to first growth in 1973. It is a controversial classification because it favours long-established, wealthy, jealous and generally conservative chateaux [@guildsomm_bordeaux_2024, @guildsomm_bordeauxexpert].
+
 ##### First Growths
 
 ```csvtable
@@ -195,7 +197,19 @@ source: attachments/bordeaux_first_growths.csv
 
 #### Top Médoc Chateaux and Location
 
+- Cos d'Estournel (second, St-Estèphe)[@guildsomm_bordeaux_2024]
+- Montrose (seocnd, St-Éstephe) [@guildsomm_bordeauxexpert]
+- Lafite (Pauillac)
+- Mouton-Rothschild (Pauillac)
+- Léoville Las Cases (second growth, St-Julien) [@guildsomm_bordeaux_2024]
+- Ducru-Beaucaillou (second growth, St-Julien) [@guildsomm_bordeaux_2024]
+- Latour (Margaux)
+- Margaux (Margaux)
+- Palmer (third growth, Margaux) [@guildsomm_bordeaux_2024]
+
 #### St Emillion Classification
+
+
 
 #### "A" Category St Émilion Châteaux
 
