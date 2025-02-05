@@ -1,0 +1,1 @@
+Chateau Margaux released a second wine to its seminal Médoc white Pavilion blanc on 25th January 2024^[https://www.thedrinksbusiness.com/2024/01/chateau-margaux-unveils-a-second-wine-for-pavillon-blanc/].
