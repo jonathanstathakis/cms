@@ -6,6 +6,8 @@ A README regarding the bordeaux_growths.csv dataset.
 
 A tabulation of the 1855 Classification, constructed on 2025-01-27 with data from [wikipedia](https://en.wikipedia.org/wiki/Bordeaux_Wine_Official_Classification_of_1855).
 
+The second wines were sourced from [somm digi](https://sommdigiblog.com/study/guide-to-medocs-1855-bordeaux-chteaux-second-labels).
+
 ## Expectations
 
 The dataset should contain the following:
