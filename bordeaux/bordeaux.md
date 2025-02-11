@@ -7,7 +7,7 @@ tags:
   - bordeaux
 type:
 cdt: 2025-01-14T13:39:25
-mdt: 2025-02-05T16:00:38
+mdt: 2025-02-05T17:15:03
 ---
 
 # Bordeaux
@@ -209,11 +209,23 @@ source: attachments/bordeaux_first_growths.csv
 
 #### St Emillion Classification
 
+The St-Émilion Classification was first drafted in 1955. and reviewed every 10 years or so, with the last review in 2022. After much discord, its current format possesses 3 tiers and includes 85 estates^[[vins-saint-emilion](https://vins-saint-emilion.com/en/welcome-in-the-vineyard/saint-emilion-wine-classification/)] - premier grand cru classé A (Pavie, Figeac), premier grand cru classé B (12 estates), grand cru classé (71 estates). To participate in the classification the wine must be sold within La Place de Bordeaux.
 
+```csvtable
+source: bordeaux/attachments/st_emilion_class_2022.csv
+```
 
 #### "A" Category St Émilion Châteaux
 
+```csvtable
+source: bordeaux/attachments/st_emilion_class_2022_class_A.csv
+```
+
 #### Top Pomerol Châteaux
+
+```csvtable
+source: bordeaux/attachments/top_pomerol_chateaux.csv
+```
 
 #### Grape Varietals
 
@@ -252,19 +264,21 @@ There are 47 AOC in Bordeaux [@wiki_bordeauxaop].
 
 Most notable [@guildsomm_bordeauxexpert, sec. 'Winegrowing Regions of Bordeaux']:
 
-- Medoc:
-	- Medoc
-	- Haut-Medoc
-	- St-Estèphe
-	- Pauillac
-	- St-Julien
-	- Margaux
-- Graves
-	- [[Graves AOP]]
-	- [[Graves Supérieur AOP]]
-	- [[Pessac-Léognan AOC]]
-	- [[Sauternes AOP]]
-	- Barsac AOP
+- Left Bank:
+	- Medoc:
+		- Medoc
+		- Haut-Medoc
+		- St-Estèphe
+		- Pauillac
+		- St-Julien
+		- Margaux
+	- Graves
+		- [[Graves AOP]]
+		- [[Graves Supérieur AOP]]
+		- [[Pessac-Léognan AOC]]
+		- [[Sauternes AOP]]
+		- Barsac AOP
+- 
 
 #### Trade Structure - En Primeur, Negociants
 
@@ -300,6 +314,8 @@ Négociants are french wine merchants who purchased bulk quantities of raw ferme
 ### Certified
 
 #### Well Known 1st - 5th Classified Growths from the Médoc, Sauternes, St Émillion and Pessac Leognan
+
+
 
 #### Location of top Bordeaux Properties
 

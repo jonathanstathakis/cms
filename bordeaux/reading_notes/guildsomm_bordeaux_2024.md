@@ -4,7 +4,7 @@ aliases: []
 tags: []
 type:
 cdt: 2025-01-14T14:01:47
-mdt: 2025-02-05T15:35:12
+mdt: 2025-02-05T17:11:58
 citekey: guildsomm_bordeaux_2024
 url: https://www.guildsomm.com/learn/study/w/study-wiki/152/bordeaux
 ---
@@ -371,9 +371,9 @@ style: nestedOrderedList
 
 Petrus, Vieux-Chateau-Certan, Chateau Lafleur, Chateau Le Pin, Chateau Trotanoy.
 
-#### Notable Chateaux
+#### Petrus
 
-- Petrus is a notable Pomerol merlot wine.Petrus is notable for its subsoil clay which is very close to the surface. The wines of petrus are known as being hedonistic, plump and opulent.
+is a notable Pomerol merlot wine.Petrus is notable for its subsoil clay which is very close to the surface. The wines of petrus are known as being hedonistic, plump and opulent.
 
 #### Garagistes
 
