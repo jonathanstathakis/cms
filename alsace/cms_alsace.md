@@ -139,8 +139,10 @@ minLevel:2
 
 ### Labelling Terms
 
+#### General
+
 - [@wsearch_alsacelabel]
-	- label can consist od:
+	- in alsace, the label can consist of the following fields, depending on its consigned appellation:
 		- vineyard name
 		- grape variety
 		- appellation title
@@ -149,8 +151,34 @@ minLevel:2
 		- producer location
 		- alcohol percentage.
 
+#### Alsace GC
+
+- Alsace GC labels display the following information:
+	- compulsorily:
+		- “Alsace Grand Cru”
+		- vineyard name
+		- grape variety
+
+#### Alsace AOC
+
+- Alsace AOC
+	- “Alsace AOC”
+	- (optional): GI
+	- (optional): vineyard name
+	- (compulsory): variety, or “Edelzwicker” indicates a white blend
+
+#### Cremant d’Alsace
+
+- Cremant d’Alsace
+	- indicates the wine is a white or rosé sparkling made from a blend of: pinot blanc, pinot gris, chardonnay and pinot noir, typically made dry
+
+### SGN and VT
+
+SGN and VT can be specified on Alsace AOC and Alsace GC bottles. 
 ## Certified
 
 ### Identify Grand Cru Varietals and Sites
+
+
 
 
