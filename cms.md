@@ -30,7 +30,7 @@ limit 50
 
 An outline of the top level topics taken from the syllabus (in the order of appearance in the syllabus document).
 
-1. [[cms_alsace|Alsace]]
+1. [[alsace|Alsace]]
 2. [[bordeaux|Bordeaux]]
 3. [[cms_burgundy|Burgundy]]
 4. [[cms_champagne|Champagne]]
@@ -157,7 +157,7 @@ I think it is best to study the technical topics first then the taxonomic so tha
 10. [ ] [[cms_sparkling_wines|Sparkling Wines]]
 11. [ ] [[cms_germany|Germany]]
 12. [ ] [[cms_austria|Austria]]
-13. [ ] [[cms_alsace|Alsace]]
+13. [ ] [[alsace|Alsace]]
 14. [ ] [[cms_loire|Loire]]
 15. [ ] [[cms_rhonevalley|Rhone Valley]]
 16. [ ] [[cms_southoffrance|South of France]]

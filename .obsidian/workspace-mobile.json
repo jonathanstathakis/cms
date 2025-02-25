@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cms.md",
-                "mode": "preview",
+                "file": "bordeaux/bordeaux.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cms"
+              "title": "bordeaux"
             }
           }
         ]
@@ -140,7 +140,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "alsace/cms_alsace.md",
+            "file": "bordeaux/bordeaux.md",
             "followCursor": true,
             "showSearch": false,
             "searchQuery": ""
@@ -172,8 +172,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "alsace/alsace.md",
     "cms.md",
-    "alsace/cms_alsace.md",
     "attachments/cms_syllabus.pdf",
     "Clippings/lutte raisonnée.md",
     "Clippings",
