@@ -73,7 +73,7 @@ minLevel:2
 - hengst, kirchberg de barr and Hengst vineyards can bottle GC PN [@cms_alsacejurasavoie]
 - handharvesting required [@cms_alsacejurasavoie]
 - maximum alcohol 11% for riesling and muscat, 12.5% for PG and GW, also depends on vineyard[@cms_alsacejurasavoie]
-- in 2011 moved to individual GC vineyard appellations like cote d’or rather rhan like chavlis[@cms_alsacejurasavoie]
+- in 2011 moved to individual GC vineyard appellations like cote d’or rather than like chablis [@cms_alsacejurasavoie]
 - Because Alsace GC AOP is inconsistent some producers choose not to use[@cms_alsacejurasavoie]
 - required to note the lieu-dit name [@vinalsace_grandcruaop]
 
@@ -153,7 +153,7 @@ minLevel:2
 
 #### Alsace GC
 
-- Alsace GC labels display the following information:
+- Alsace GC labels display the following information [@wsearch_alsacelabel]:
 	- compulsorily:
 		- “Alsace Grand Cru”
 		- vineyard name
@@ -161,7 +161,7 @@ minLevel:2
 
 #### Alsace AOC
 
-- Alsace AOC
+- Alsace AOC [@wsearch_alsacelabel]
 	- “Alsace AOC”
 	- (optional): GI
 	- (optional): vineyard name
@@ -169,15 +169,26 @@ minLevel:2
 
 #### Cremant d’Alsace
 
-- Cremant d’Alsace
+- Cremant d’Alsace [@wsearch_alsacelabel]
 	- indicates the wine is a white or rosé sparkling made from a blend of: pinot blanc, pinot gris, chardonnay and pinot noir, typically made dry
 
 ### SGN and VT
 
-SGN and VT can be specified on Alsace AOC and Alsace GC bottles. 
+SGN and VT can be specified on Alsace AOC and Alsace GC bottles . 
 ## Certified
 
 ### Identify Grand Cru Varietals and Sites
+
+- [@cms_alsacejurasavoie]
+	- 2/3 in Haut Rhin
+	- single varietal wines made from noble grapes only except some exceptions
+	- schlossberg first gc vineyard in 1975
+	-  exceptions:
+		- altenberg de bergheim and kaefferkopf can use blends
+		- zotzenberg can use slyvanar
+		- Hengst, Kirchberg de Barr, and Vorbourg can make Pinot Noir
+
+The rule is thus: all sites must bottle varietal wine except for Altenberg de bergheim and Kaefferkopf, who can make blends from the Noble Grapes. Zotzenberg can use Sylvanar, ans Hengst, Kirchberg de Barr, and Vorbourg can make Pinot Noir.
 
 
 
