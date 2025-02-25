@@ -12,6 +12,10 @@ mdt: 2025-01-09T23:19:44
 See [[cms#Syllabus]]
 
 Each topic has introductory and certified examination topics.
+
+```toc
+minLevel:2
+```
 ## Introductory
 ### Factors affecting Climate
 
@@ -92,13 +96,25 @@ Each topic has introductory and certified examination topics.
 
 #### AOC Alsace
 
-- AOC Alsace.. (continue here )https://www.vinsalsace.com/en/gouts-et-couleurs/aoc/aoc-alsace/
+- AOC Alsace.. (continue here ) https://www.vinsalsace.com/en/gouts-et-couleurs/aoc/aoc-alsace/
+-  [@vinsalsace_alsaceaoc]
+	- introduced in 1962
+	- in 2011 the subcategories of Communales and Lieux-dits were introduced.
+	- monovarietal or blend (edelzwicker)
+	- bottled in “wine of the Rhine” /Flute of Alsace
+	- overlooked by INAO
+	
 ##### Communale (Villages)
+
+- 14 communes [@vinsalsace_alsaceaoc]
+- AOC Alsace: Bergheim, Blienschwiller, Côtes de Barr, Côte de Rouffach, Coteaux du Haut-Koenigsbourg, Klevener de Heiligenstein, Ottrott, Rodern, Saint-Hippolyte, Scherwiller, Vallée Noble, Val Saint-Grégoire, Wolxheim [@vinsalsace_alsaceaoc]
+- restrictions on varietals planted, vine density, pruning, trellising, grape maturity, yields [@vinsalsace_alsaceaoc]
 
 ##### Lieu dit (Locations)
 
 - A named vineyard
-- required to be noted on bottles claiming alsace grand cru ststus [@vinalsace_grandcruaop]
+- more stringent restrictions than Communales [@vinsalsace_alsaceaoc]
+- label the name of the vineyard alongside the AOC/AOP [@vinsalsace_alsaceaoc]
 
 ### Styles of wine VT and SGN
 
@@ -123,6 +139,18 @@ Each topic has introductory and certified examination topics.
 
 ### Labelling Terms
 
+- [@wsearch_alsacelabel]
+	- label can consist od:
+		- vineyard name
+		- grape variety
+		- appellation title
+		- producer name
+		- estste bottling statement
+		- producer location
+		- alcohol percentage.
+
 ## Certified
 
 ### Identify Grand Cru Varietals and Sites
+
+
