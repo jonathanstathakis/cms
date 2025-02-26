@@ -7,7 +7,7 @@ tags:
   - bordeaux
 type:
 cdt: 2025-01-14T13:39:25
-mdt: 2025-02-05T17:15:03
+mdt: 2025-02-12T00:26:44
 ---
 
 # Bordeaux
@@ -62,6 +62,10 @@ A collection of resources for the study of Bordeaux
 #### Waterways and Major Appellations of Bordeaux
 
 ![[waterways and major appellations of bordeaux]]
+
+### Map of Pessac
+
+<img src="https://www.premiumvins.com.au/files/aop_maps/graves-pessac-map.jpeg">
 
 ## TODO
 
@@ -278,7 +282,6 @@ Most notable [@guildsomm_bordeauxexpert, sec. 'Winegrowing Regions of Bordeaux']
 		- [[Pessac-Léognan AOC]]
 		- [[Sauternes AOP]]
 		- Barsac AOP
-- 
 
 #### Trade Structure - En Primeur, Negociants
 
@@ -315,9 +318,9 @@ Négociants are french wine merchants who purchased bulk quantities of raw ferme
 
 #### Well Known 1st - 5th Classified Growths from the Médoc, Sauternes, St Émillion and Pessac Leognan
 
-
-
 #### Location of top Bordeaux Properties
+
+![[medoc_first_growth_reds_map]]
 
 #### Cru Bourgeois Classification
 
