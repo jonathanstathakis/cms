@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/cms_champagne.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cms_champagne"
-            }
-          },
-          {
-            "id": "ece9b1ef5bc473ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "cms.md",
                 "mode": "preview",
                 "source": false,
@@ -54,9 +30,51 @@
               "icon": "lucide-file",
               "title": "cms"
             }
+          },
+          {
+            "id": "ece9b1ef5bc473ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "burgundy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "burgundy"
+            }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "047963ad9aff5f97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4e492dbb8c26a19",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/syllabus.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "syllabus"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,13 +93,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cms.md",
+                "file": "burgundy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cms"
+              "title": "Outline of burgundy"
             }
           },
           {
@@ -124,12 +142,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 544
+    "width": 433,
+    "collapsed": true
   },
   "right": {
     "id": "2fa0dd337b78af51",
@@ -214,30 +232,34 @@
   },
   "active": "ece9b1ef5bc473ca",
   "lastOpenFiles": [
-    "inbox/cms_champagne.md",
+    "attachments/syllabus.pdf",
+    "burgundy.md",
     "cms.md",
+    "alsace/alsace.md",
+    "inbox/cms_champagne.md",
+    "inbox",
+    "docs.html",
+    "css.css",
+    "attachments/medoc_first_growth_reds_map.md",
+    "alsace/cms_alsace.md",
+    "documents/cms_intro_certified_invoice.pdf",
+    "cms_intro_certified_invoice.pdf",
+    "cms_intro_certified_invoice.textClipping",
+    "documents",
+    "untitled folder",
     "attachments/cms_syllabus.pdf",
     "bordeaux/bordeaux.md",
     "bordeaux/reading_notes/guildsomm_bordeauxexpert.md",
     "attachments/medoc_first_growth_map.md",
     "bordeaux/attachments/waterways and major appellations of bordeaux.md",
-    "bordeaux/bordeaux.db.wal",
     "bordeaux/reading_notes/oxcomp_bordeaux.md",
     "bordeaux/reading_notes/guildsomm_bordeaux_2024.md",
-    "bordeaux/attachments/top_pomerol_chateaux.csv",
     "bordeaux/Sauternes AOP.md",
     "bordeaux/Pessac-Léognan AOC.md",
     "bordeaux/pavilion blanc second vin.md",
     "bordeaux/attachments/map_of_bordeaux.png",
     "bordeaux/attachments/gsomm_bordeaux_appells.jpg",
-    "bordeaux/attachments/st_emilion_class_2022_class_A.csv",
-    "bordeaux/attachments/st_emilion_class_2022.csv",
-    "bordeaux/classification_1855_dataset/bordeaux.db.wal",
-    "bordeaux/attachments",
     "bordeaux/bordeaux/guildsomm_1855classification_2024.md",
-    "bordeaux/reading_notes",
-    "bordeaux/classification_1855_dataset/database/schema.sql",
-    "bordeaux/classification_1855_dataset/database/load.sql",
     "inbox/syllabus_bordeaux.md",
     "bordeaux/classification_1855_dataset/README.md",
     "misc_appendix/locality.md",
@@ -249,10 +271,6 @@
     "cms_log.md",
     "attachments/Bordeaux_v06_2021 Logo.jpg",
     "Bordeaux_v06_2021 Logo.jpg",
-    "bordeaux.md",
-    "general/racking.md",
-    "general/water stress.md",
-    "general/millerandage.md",
     "bordeaux/attachments/bordeaux_appellations_wikipedia.png",
     "bordeaux/attachments/naked_map_of_bordeaux_google.png",
     "cms/attachments/map_of_bordeaux.png",
