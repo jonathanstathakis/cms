@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bordeaux/bordeaux.md",
-                "mode": "source",
+                "file": "cms.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "bordeaux"
+              "title": "cms"
             }
           }
         ]
@@ -140,7 +140,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "bordeaux/bordeaux.md",
+            "file": "attachments/syllabus.pdf",
             "followCursor": true,
             "showSearch": false,
             "searchQuery": ""
@@ -172,13 +172,17 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "alsace/alsace.md",
+    "attachments/syllabus.pdf",
+    "burgundy.md",
+    "syllabus.pdf.md",
+    "cms_burgundy.md",
+    "burgundy",
     "cms.md",
-    "attachments/cms_syllabus.pdf",
+    "bordeaux/bordeaux.md",
+    "alsace/alsace.md",
     "Clippings/lutte raisonnée.md",
     "Clippings",
     "cms_log.md",
-    "bordeaux/bordeaux.md",
     "misc_appendix/locality.md",
     "misc_appendix",
     "reading_notes/french_wine_law.md",
@@ -189,7 +193,6 @@
     "attachments/Certified-Tasting-Exam-Paper-2024.pdf",
     "attachments/CMS-Oceania-Prospectus-2025.pdf",
     "attachments/CMS Oceania Intro & Certified Study Resources 2025 1.pdf",
-    "attachments/bordeaux_first_growths.csv",
     "bordeaux/reading_notes/guildsomm_bordeaux_2024.md",
     "bordeaux/reading_notes/oxcomp_bordeaux.md",
     "bordeaux/reading_notes/guildsomm_bordeauxexpert.md",
@@ -207,9 +210,6 @@
     "bordeaux/Sauternes AOP.md",
     "bordeaux/Graves Supérieur AOP.md",
     "bordeaux/Pessac-Léognan AOC.md",
-    "bordeaux/Graves AOP.md",
-    "general/sur souches.md",
-    "general/racking.md",
-    "general/millerandage.md"
+    "bordeaux/Graves AOP.md"
   ]
 }
