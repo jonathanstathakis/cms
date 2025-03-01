@@ -15,6 +15,15 @@ mdt: 2025-02-26T11:57:48
 
 ### Climatic Influences
 
+#### Chablis
+
+- northerly location
+- Serein river carries cold winds and frost through the region
+- cool continental climate
+- 
+
+
+
 [@gs_burg]
 
 ### AOP Districts and Locations
@@ -39,7 +48,7 @@ mdt: 2025-02-26T11:57:48
 
 ### Premier Cru and Grand Cru Wines of Côte d'Or
 
-### Location of Mácon Villages and Côte Chalronnaise Districts
+### Location of Mácon Villages and Côte Chalonnaise Districts
 
 ### Beaujolais Cru's
 

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cms.md",
-                "mode": "preview",
+                "file": "burgundy.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cms"
+              "title": "burgundy"
             }
           }
         ]
@@ -140,7 +140,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "attachments/syllabus.pdf",
+            "file": "burgundy.md",
             "followCursor": true,
             "showSearch": false,
             "searchQuery": ""
@@ -154,30 +154,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian42-text-transporter:Text Transporter": false,
       "obsidian42-brat:BRAT": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "templater-obsidian:Templater": false,
-      "terminal:Open terminal": false,
       "homepage:Open homepage": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "attachments/syllabus.pdf",
+    "cms.md",
     "burgundy.md",
+    "attachments/syllabus.pdf",
     "syllabus.pdf.md",
     "cms_burgundy.md",
     "burgundy",
-    "cms.md",
     "bordeaux/bordeaux.md",
     "alsace/alsace.md",
     "Clippings/lutte raisonnée.md",

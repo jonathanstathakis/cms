@@ -17,27 +17,14 @@
   "editor-status": true,
   "bookmarks": true,
   "markdown-importer": false,
-<<<<<<< HEAD
   "zk-prefixer": false,
-=======
-  "zk-prefixer": true,
->>>>>>> 265322a (update)
   "random-note": false,
   "outline": true,
   "word-count": true,
   "slides": false,
   "audio-recorder": false,
-<<<<<<< HEAD
   "workspaces": false,
   "file-recovery": true,
   "publish": false,
-  "sync": false
   "sync": true
-=======
-  "workspaces": true,
-  "file-recovery": true,
-  "publish": false,
-  "sync": false,
-  "webviewer": false
->>>>>>> 265322a (update)
 }
