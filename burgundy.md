@@ -74,6 +74,7 @@ check compendium for definitive list
 - more clay closet to river Saone
 - plain around the Saone full of nitrogen rich, humid, cooler clay soil - bad for vines
 - soil more complex at mouths of *combes* thanks to erosion.
+
 ##### cote de nuits
 
 - more limestone leas marl
@@ -106,7 +107,49 @@ check compendium for definitive list
 
 #### Traditional
 
+##### Chablis
+
+- classic prem cru no new oak
+- grand cru use new oak as richness complements it
+
+##### cote dor
+
+- producers divided between whole cluster (bunch?) or destemmed. current trend toward whole cluster.
+- bâtonnage is used for white wines - more used to soften wines for immedite consumption. Current trend away from *bâtonnage*
+- red white aged in 228L *pièce* barrels. Movement toward larger format for whites
+- bourgone aop and village little to no new oak
+- premier and grand cru more new oak depending on quality: some 50 - 100%
+- note de nuits more osk than beaune
+- top examples of reds 15 - 18 months in barrel. whites 12 months.
+
 #### Macération Carbonique
+
+- carbonic and semi-carbonic mac.
+- semi-csrb more common.
+- fruity and floral character. associations od bubblegum, banana, or peardrop may not indicate carb mac directly but rather locally used yest strains or young wine relesed earlier bc of carb mac technique. correl. not cause.
+- softer tannic struct
+- commonly used in *nouveau* wines
+- also used in cru wine.
+
+
+##### carbonic maceration
+
+1. seal whole clusters in tank and pump w co2
+2. in oxygen free environ cells metab malic acid and glucose forming co2 and alcohol withoutnyeast
+3. tannins and anthocyanins leech, providinv color
+4. reach approx 2% alcohol b4 grpe dies
+5. either grape ruptures, exposing flesh to yesst, or winemaker presses the fruit.
+6. carbonically macerated juice is then fermented to dryness as normal.
+
+##### semi-carbonic maceration
+
+- same as carbonic but co2 nit added, co2 generated from an initial normal yeast ferment.
+
+1. clusters added to vat
+2. weight of clusters crush bottom fruit
+3. yeast ferment thr relesed juice, producing co2.
+4. co2 evacuates oxygen, carbonic macerarion of surviving fruit begins.
+5. carbonic maceration cont8nues until grapes rupture and yeast fermentstion begins anew
 
 ### Quality Levels
 
