@@ -53,11 +53,147 @@ mdt: 2025-02-26T11:57:48
 
 ### AOP Districts and Locations
 
-check the compendium for a definitive list
+*check the compendium for a definitive list*
+
+all info in this sextion taken from https://www.guildsomm.com/research/compendium/w/france/76/burgundy.
+
+#### Regional
+
+- Bourgogne AOP
+- Bourgogne Aligote AOP
+- Bourgogne Mousseaux AOP
+- Bourgogne Passe-tout-grains AOP
+- Coteaux Bourguignons AOP
+- Crémant de Bourgogne AOP
+
+#### Chablis
+
+- petit-chablis AOP
+- chablis AOP
+- chablis grand cru aop
+- irancy aop
+- saint-bris aop
+- vézelay aop
+
+#### cote dor
+
+##### cote de nuits
+
+###### commune appellations
+
+- cote de nuits villages
+- marsannay
+- fixin
+- gevry-chambertin
+- morey-saint-denis
+- chambolle-musigny
+- vougeot
+- vosne-romanee
+- nuits-saint-georges
+
+###### grand cru appellations
+
+https://www.guildsomm.com/research/compendium/w/france/385/grand-cru-appellations-of-the-cote-de-nuits
+
+Grand cru appellations are each contained within one of the communal appellations mentioned above (?).
+
+- mazis-chambertin
+- ruchottes-chambertin
+- chambertin clos de bèze
+- chapelle-chambertin
+- griotte-chambertin
+- chambertin
+- charmes-chambertin
+- latricières-chambertin
+- mazoyères-chambertin
+- clos de la roche
+- clos saint-denis
+- clos des lambrays
+- clos de tart
+- bonnes mares
+- musigny
+- clos de vougeot/clos vogeot
+- echézeaux
+- grands-echézeaux
+- richebourg
+- romanée-saint-vivant
+- romanée-conti
+- romanée
+- la grande rue
+- la tâche
+
+### côte de beaune
+
+#### communal aop
+
+- côte de beaune
+- côte de beaune-villages
+- ladoix
+- aloxe-corton
+- pernard-vergelesses
+- savigny-lés-beaune
+- chorey-lés-beaune
+- beaune
+- pommard
+- volnay
+- monthélie
+- auxey-duresses
+- saint-romain
+- meursault
+- blagney
+- puligny-montrachet
+- saint-aubin
+- chassagne-montrachet
+- santenay
+- maranges
+
+#### grand cru aops
+
+://www.guildsomm.com/research/compendium/w/france/386/grand-cru-appellations-of-the-cote-de-beaune
+
+- corton
+- corton-charlemagne
+- charlemagne
+- chevalier-montrachet
+- montrachet
+- bienvenues-bâtard-montrachet
+- criots-Bâtard-montrachet
+
+### côte chalonnaise
+
+- bouzeron
+- rully
+- mercurey
+- givry
+- montagny
+
+### mâconnais
+
+- mâcon
+- viré-clessé
+- pouilly-fuissé
+- pouilly-loché
+- pouilly-vinzelles
+- saint-véran
+
+### beaujolais
+
+- beaujolais
+- saint-amour
+- juliénas
+- chénas
+- moulin-à-vent
+- fleurie
+- chrioubles
+- morgon
+- régnié
+- côte de brouilly
+- brouilly
+- côteaux du lyonnais
 
 ### Permitted Grape Varietals
 
-check compendium for definitive list
+*check compendium for definitive list*
 
 ### Soil Types
 
@@ -106,6 +242,8 @@ check compendium for definitive list
 ### Production and Aging Techniques (Traditional / Macération Carbonique)
 
 #### Traditional
+
+Traditional production and aging techniques include decisions between whether to use whole bunch or destemmed fruit, oak (old or new) or steel vessels, and  whether to apply bâtonnage when resting white wines.
 
 ##### Chablis
 
@@ -156,6 +294,8 @@ check compendium for definitive list
 #### Generic
 
 *what is genric level, give rxamples*
+
+..
 
 #### District
 
