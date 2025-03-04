@@ -53,8 +53,6 @@ mdt: 2025-02-26T11:57:48
 
 ### AOP Districts and Locations
 
-*check the compendium for a definitive list*
-
 all info in this sextion taken from https://www.guildsomm.com/research/compendium/w/france/76/burgundy.
 
 #### Regional
@@ -66,7 +64,7 @@ all info in this sextion taken from https://www.guildsomm.com/research/compendiu
 - Coteaux Bourguignons AOP
 - Crémant de Bourgogne AOP
 
-#### Chablis
+#### chablis
 
 - petit-chablis AOP
 - chablis AOP
@@ -122,9 +120,9 @@ Grand cru appellations are each contained within one of the communal appellation
 - la grande rue
 - la tâche
 
-### côte de beaune
+#### côte de beaune
 
-#### communal aop
+##### communal aop
 
 - côte de beaune
 - côte de beaune-villages
@@ -147,7 +145,7 @@ Grand cru appellations are each contained within one of the communal appellation
 - santenay
 - maranges
 
-#### grand cru aops
+##### grand cru aops
 
 ://www.guildsomm.com/research/compendium/w/france/386/grand-cru-appellations-of-the-cote-de-beaune
 
@@ -159,7 +157,7 @@ Grand cru appellations are each contained within one of the communal appellation
 - bienvenues-bâtard-montrachet
 - criots-Bâtard-montrachet
 
-### côte chalonnaise
+#### côte chalonnaise
 
 - bouzeron
 - rully
@@ -167,7 +165,7 @@ Grand cru appellations are each contained within one of the communal appellation
 - givry
 - montagny
 
-### mâconnais
+#### mâconnais
 
 - mâcon
 - viré-clessé
@@ -176,7 +174,7 @@ Grand cru appellations are each contained within one of the communal appellation
 - pouilly-vinzelles
 - saint-véran
 
-### beaujolais
+#### beaujolais
 
 - beaujolais
 - saint-amour
