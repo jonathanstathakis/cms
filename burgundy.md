@@ -191,7 +191,9 @@ Grand cru appellations are each contained within one of the communal appellation
 
 ### Permitted Grape Varietals
 
-*check compendium for definitive list*
+Pinot Noir, Chardonnay, Gamay, Aligóte, Sauvignon Blanc, Pinot Beaurot, Melon, César, Tressot.
+
+https://www.burgundy-report.com/discover-burgundy/03-the-vines-of-burgundy/
 
 ### Soil Types
 
