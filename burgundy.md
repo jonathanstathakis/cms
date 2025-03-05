@@ -343,19 +343,106 @@ Traditional production and aging techniques include decisions between whether to
 
 ### District and Wines of Chablis
 
-*what is the district of Chablis and what wines are produced*
+- most northerly district in burgundy
+- northwest of Dijon in Yonne Department
+- part of *Grand Auxerrois*
+- second largest producer for whites
+- lies on the Serein river
+- AOP:
+								* Petit-Chablis
+								* Chablis
+								* Chablis Grand Cru
+								* still white wine made from Chardonnay
+- most all AOP wine on kimmeridgian marl
+- petit chablis on portlandean limestone
+- 17 diff communes
+- 40 premier cru AOP
+- 8 Grand Cru GI:
+								* Les Clos
+								* Vaudésir
+								* Valmur
+								* Preuses
+								* Blanchot
+								* Bougros
+								* Grenouilles
+								* La Moutonne (Monopole, unofficial)
+- style:
+								* prem cru:
+																+ pronounced acidity
+																+ medium weight
+																+ less character
+																+ intense minerality
+																+ steel
+																+ no new oak
+								* grand cru:
+																+ similar to premier cru
+																+ richer
+																+ riper
+																+ new oak influence (optional)
+								* aged:
+																+ hazelnut
+																+ lemon
+																+ oystershell
 
 ### Principal Communes of the Côte d'Or and Location
 
-*what are the principal communes of the cote dor and where are they in relation to each other*
+- Côte de Nuits:
+								* Gevry-Chambertin
+								* Chambolle-Musigny
+								* Vougeot
+								* Vosne-Romanée
+								* Nuits-Saint-Georges
+- Côte de Beaune:
+								* Aloxe-Corton
+								* Ladoix-Serrigny
+								* Pernand-Vergelesses
+								* Pommard
+								* Volnay
+								* Meursault
+								* Puligny-Montrachet
+								* Chassagne-Montrachet
 
 ### Premier Cru and Grand Cru Wines of Côte d'Or
 
-*what are premier cru and grand cru wine in cote dor. Provide notable examples*
+- Premier Cru wine in Côte d'Or are wine produced from vineyards acknowledged to be of superior wuality, and are labelled as being from the commune and premier cru. the fruit can be sourced from multiple premier cru sites, in which case it can be labelled as premier cru, or if from a single site it can also include the name of the vineyard.
+- Grand Cru wines:
+								* are made from vineyards singled out for their quality and are given their own AOP.
+								* tend to lie on slopes no steeper than grade 10%
+								* if monopole must be hand-harvested
+								* 32 grand cru
+								* there is no generic Grand Cru appellation. All fruit must be from same vineyard as stated on label
 
 ### Location of Mácon Villages and Côte Chalonnaise Districts
 
-*where are the villages of macon districts of the cote chalonnaise*
+- Mácon Village AOP:
+								* villages:
+																+ Pouilly-Fuisse
+																+ Pouilly-Loche
+																+ Pouilly-Vinzelles
+																+ Saint-Véran
+																+ Vire-Clessé
+								* location:
+																+ fuisse, loche, vinzelle and st-véran are south west of Mâcon
+																+ Vire-Clessé is NNE of Mâcon
+- Côte Chalonnaise Districts:
+								* districts:
+																+ bouzeron
+																+ givry
+																+ mercurey
+																+ montagny
+																+ rully
+								* location:
+																+ north south
+																								+ Bouzeron
+																								+ Rully
+																								+ Mercurey
+																								+ Givry
+																								+ Montagny
+																+ Description:
+																								+ starting from Chagney, Bouzeron and Rully are close to the SW
+																								+ Mercurey is south of them
+																								+ Givry eaually south of Mercurey
+																								+ 3 times SSW is Bouzeron
 
 ### Beaujolais Cru’s
 
@@ -380,6 +467,12 @@ Traditional production and aging techniques include decisions between whether to
 words.
 
 ### Smaller Production Districts: St Bris, Irancy, Montagny, Bouzeron, Givry, Mercurey, Pouilly Fuissé & St. Veran
+
+- Grand Auxerrois
+								* Irancy:
+																+ light reds made from PN.
+								* St-Bris:
+																+ Appellation of Sauvignon Blanc. Only one in Burgundy.
 
 *describe each of the smaller production districts of burgundy mentioned above*
 
