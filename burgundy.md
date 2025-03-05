@@ -49,8 +49,6 @@ mdt: 2025-02-26T11:57:48
 - similar climate to cote chalonnaise
 - flatter
 
-[@gs_burg]
-
 ### AOP Districts and Locations
 
 all info in this sextion taken from https://www.guildsomm.com/research/compendium/w/france/76/burgundy.
@@ -295,15 +293,53 @@ Traditional production and aging techniques include decisions between whether to
 
 *what is genric level, give rxamples*
 
-..
+- also known as *régionale*
+- include:
+	1. Bourgogne AOP (1)
+	2. Coteaux Bourguignons AOP (2)
+	3. Bourgogne Aligoté AOP (3)
+	4. Bourgogne Passe-Tout-Grains AOP
+	5. Crémant de Bourgogne AOP
+	6. Bourgogne Mousseux AOP
+- (1) and (2):
+	* both cover burgundy in entirety
+	* can produce red, white and rosé
+	* CH, PN, PG, PB Cés
+	* (1) cant use Gamay, (2) can
+	* tend to name variety on label
+- (3): aligoté only
+- (4):
+	* red and rosè blends of PN and Gam
+	* 30% and 15% min respect
+	* must be vinified together
+- (5):
+	* hand-harvested
+	* white and rosé sparkling
+	* CH, PN
+- (6):
+	* sparkling reds
+	* traditional method
+- 
+
 
 #### District
 
-*what is district level, give rxamples*
+- Legally approved GI under Bourgogne AOP
+- e.g.:
+	* Bourgogne Côte Chalonnaise
+	* Bourgogne Haut Côtes de Beaune
 
 #### Villages
 
-*what is village/commune level, give examples*
+- more terroir focus
+- known as *commune*
+- Cote de Beaune-Villages AOP (1), Côte de Nuits-Villages AOP (2)
+	* (1) makes red wine from every village in cdB apart from Pommard, Volnay, Aloxe-Corton and Beaune
+	* (2) red or white from Fixin, Brochon, Prissey, Corgoloin, and Comblanchien.
+- premier cru:
+	* vineyards are GI designatoions appended to vilage AOP
+	* harsher restrictions on yield, must weight, min pot alc
+	* can blend multiple cru together and label as *premier cru* or include vineyard name if only from that vineyard
 
 ### District and Wines of Chablis
 
@@ -332,6 +368,12 @@ Traditional production and aging techniques include decisions between whether to
 ### Structure of Trade
 
 *what is the trade structure in burgundy*
+
+- mix of negociant and domaines
+- negocients buy wine from various growers
+- domaines bottke wine from fruit they grow (read *estate*)
+- often domaines also act as negocients and vice versa: e.g. Maison Faiveley, Bouchard Père & Fils
+- Specialty negocients such as remoissenet or licien le moine produce negocient bottlings at domai e prices..
 
 ### Certified
 
