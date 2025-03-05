@@ -450,7 +450,7 @@ Traditional production and aging techniques include decisions between whether to
 
 ### Labelling Terms
 
-*what labelling terms are used in burgundy*
+- 
 
 ### Structure of Trade
 
@@ -464,7 +464,6 @@ Traditional production and aging techniques include decisions between whether to
 
 ### Certified
 
-words.
 
 ### Smaller Production Districts: St Bris, Irancy, Montagny, Bouzeron, Givry, Mercurey, Pouilly Fuissé & St. Veran
 
@@ -472,9 +471,32 @@ words.
 								* Irancy:
 																+ light reds made from PN.
 								* St-Bris:
-																+ Appellation of Sauvignon Blanc. Only one in Burgundy.
+								+ Appellation of Sauvignon Blanc. Only one in Burgundy.
 
-*describe each of the smaller production districts of burgundy mentioned above*
+- Côte Chalonnaise:
+								* Montagny:
+																+ white wine
+								* Bouzeron:
+																+ aligoté only
+								* Givry:
+																+ red or white
+																+ best wines in region
+																+ much more red than white
+																+ PN
+								* Mercurey:
+																+ same as Givry
+- Mâcon:
+								* Pouilly-Fuisse:
+																+ includes fruit from four communes: Fuissé, Solutré-Pouilly, Vergisson, and Chaintré
+																+ geography dominated by 2 rocks: Solutré and Vergisson
+																+ most highly regarded appellation in the area
+																+ one of the first French whites to enter US market for mass consumption
+																+ only CH
+								* St. Veran:
+																+ split in 2 by Pouilly-Fuisé
+																+ production levels similar to Pouilly-Fuissé
+																+ quality generally lower than Pouilly-Fuissé.
+
 
 ### Classic Vintages
 
