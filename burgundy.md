@@ -13,54 +13,46 @@ mdt: 2025-02-26T11:57:48
 
 ## Introductory
 
-### Climatic Influences
 
-#### Chablis
+### 1.Climatic Influences
 
-- northerly location
-- Serein river carries cold winds and frost through the region
-- cool continental climate
+- inland
+- northerly
+- continental - semicontinental
+- hot summers
+- potentially bad autumn weather
+- chablis cooler, wetter, more vulnerable to frost(spring). Most northerly, Serein carries cold winds ans frost. Continental.
+- cote dor has *combes* that run perpendicular tk the saone river valley beinging cooling breezes and hail. CdN cooler than CdB.
+- Chalonnais, Mâcon, and Beaujolais warmer due to sohtherly location. Chalonnais experiences cooling westerly winds.
 
-#### Cote dOr
 
-- *combes* run perpendicular to Saone river valley bringing in cool breezes and hail.
-
-#### Cote de Nuits
-
-- more northerly than cote de beaune
-- cooler mesoclimate than cote de beaune
-- east facing
-
-#### Cote de Beaune
-
-- more southerly than cote de nuits
-- warmer mesoclimate than cote de nuits
-- south east facing
-
-#### Cote Chalonnaise
-
-- cool westerly winds
-- south of cote de beaune
-
-#### Maconnaise
-
-#### Beaujolais
-
-- similar climate to cote chalonnaise
-- flatter
-
-### AOP Districts and Locations
+### 2. AOP Districts and Locations
 
 all info in this sextion taken from https://www.guildsomm.com/research/compendium/w/france/76/burgundy.
 
 #### Regional
 
-- Bourgogne AOP
-- Bourgogne Aligote AOP
-- Bourgogne Mousseaux AOP
-- Bourgogne Passe-tout-grains AOP
-- Coteaux Bourguignons AOP
-- Crémant de Bourgogne AOP
+- Bourgogne AOP:
+    * cover burgundy in entirety
+    * can produce red, white and rosé
+    * CH, PN, PG, PB Cés
+    * cant use Gamay 
+    * tend to name variety on label
+- Coteaux Bourguignons AOP:
+    * same as Bourgogne AOP but can use Gamay.
+- Bourgogne Aligoté AOP:
+    * aligoté only
+- Bourgogne Passe-Tout-Grains AOP:
+    * red and rosè blends of PN and Gam
+    * 30% and 15% min respect
+    * must be vinified together
+- Crémant de Bourgogne AOP:
+    * hand-harvested
+    * white and rosé sparkling
+    * CH, PN
+- Bourgogne Mousseux AOP:
+    * sparkling reds
+    * traditional method
 
 #### chablis
 
@@ -71,13 +63,17 @@ all info in this sextion taken from https://www.guildsomm.com/research/compendiu
 - saint-bris aop
 - vézelay aop
 
+
 #### cote dor
+
 
 ##### cote de nuits
 
+
 ###### commune appellations
 
-- cote de nuits villages
+- Côte de Nuits-Villages AOP:
+    * red or white from Fixin, Brochon, Prissey, Corgoloin, and Comblanchien.
 - marsannay
 - fixin
 - gevry-chambertin
@@ -118,12 +114,14 @@ Grand cru appellations are each contained within one of the communal appellation
 - la grande rue
 - la tâche
 
+
 #### côte de beaune
 
 ##### communal aop
 
 - côte de beaune
-- côte de beaune-villages
+- Cote de Beaune-Villages AOP:
+    * makes red wine from every village in cdB apart from Pommard, Volnay, Aloxe-Corton and Beaune
 - ladoix
 - aloxe-corton
 - pernard-vergelesses
@@ -143,6 +141,7 @@ Grand cru appellations are each contained within one of the communal appellation
 - santenay
 - maranges
 
+
 ##### grand cru aops
 
 ://www.guildsomm.com/research/compendium/w/france/386/grand-cru-appellations-of-the-cote-de-beaune
@@ -155,6 +154,7 @@ Grand cru appellations are each contained within one of the communal appellation
 - bienvenues-bâtard-montrachet
 - criots-Bâtard-montrachet
 
+
 #### côte chalonnaise
 
 - bouzeron
@@ -162,6 +162,7 @@ Grand cru appellations are each contained within one of the communal appellation
 - mercurey
 - givry
 - montagny
+
 
 #### mâconnais
 
@@ -172,9 +173,17 @@ Grand cru appellations are each contained within one of the communal appellation
 - pouilly-vinzelles
 - saint-véran
 
+
 #### beaujolais
 
+
+##### Regional
+
 - beaujolais
+- côteaux du lyonnais
+
+##### Cru
+
 - saint-amour
 - juliénas
 - chénas
@@ -185,78 +194,71 @@ Grand cru appellations are each contained within one of the communal appellation
 - régnié
 - côte de brouilly
 - brouilly
-- côteaux du lyonnais
 
-### Permitted Grape Varietals
+
+### 3. Permitted Grape Varietals
 
 Pinot Noir, Chardonnay, Gamay, Aligóte, Sauvignon Blanc, Pinot Beaurot, Melon, César, Tressot.
 
 https://www.burgundy-report.com/discover-burgundy/03-the-vines-of-burgundy/
 
-### Soil Types
 
-#### Chablis
+### 4. Soil Types
 
-- kimmeridgian marl
-- kimmerdigian marl under portlandian limestone (petit chablis)
 
-#### cote dor
+* more limestone: *argillaceous limestone*
+* more clay: *marl* or *calcareous clay*.
 
-- limestone and clay
-- if more limestone, called *argillaceous limestone*
-- if more clay, called *marl* or *calcareous clay*.
-- more clay closet to river Saone
-- plain around the Saone full of nitrogen rich, humid, cooler clay soil - bad for vines
-- soil more complex at mouths of *combes* thanks to erosion.
+- Chablis:
+				* Vill, Prem, GCru: kimmeridgian marl
+				* P.Chab: kimm. marl under portland l.stone.
+- cote dor:
+				* limestone and clay
+				* more clay closet to river Saone - bad.
+				* soil complex at mouths *combes* bc erosion.
+- cote de nuits:
+				* argillaceous limestone
+- cote de beaune:
+				* calcareous clay.
+				* Montrachet exception - a. lstone.
+- cote chalonnaise:
+				* calcareous clay like CdB
+- Maconnais:
+				* limestone-clay
+- Beaujolais:
+				* granite hillsides in the north
+				* south flatter with less granite
+				* limestone-clay like Mâconnais
 
-##### cote de nuits
-
-- more limestone leas marl
-
-##### cote de beaune
-
-- more marl, less limestone (except for Montrachet)
-
-#### cote chalonnaise
-
-- similar to cote de beaune: weathered limestone and clay
-
-#### Maconnais
-
-- limestone-clay
-
-#### Beaujolais
-
-##### North
-
-- granite hillsides
-
-##### South
-
-- flat
-- less granite
-- limestone-clay similar to Maconnais
-
-### Production and Aging Techniques (Traditional / Macération Carbonique)
+### 5. Production and Aging Techniques (Traditional / Macération Carbonique)
 
 #### Traditional
 
 Traditional production and aging techniques include decisions between whether to use whole bunch or destemmed fruit, oak (old or new) or steel vessels, and  whether to apply bâtonnage when resting white wines.
 
-##### Chablis
+- bâtonnage used to soften wines for immedite consumption. 
 
-- classic prem cru no new oak
-- grand cru use new oak as richness complements it
+- decisions:
+								* pick: whole bunch or destem
+								* vessel: old or new oak or steel
+								* whites: use bâtonnage or not
 
-##### cote dor
+- Chablis:
+								* classic prem cru no new oak
+								* grand cru new oak as more robust.
 
-- producers divided between whole cluster (bunch?) or destemmed. current trend toward whole cluster.
-- bâtonnage is used for white wines - more used to soften wines for immedite consumption. Current trend away from *bâtonnage*
-- red white aged in 228L *pièce* barrels. Movement toward larger format for whites
-- bourgone aop and village little to no new oak
-- premier and grand cru more new oak depending on quality: some 50 - 100%
-- note de nuits more osk than beaune
-- top examples of reds 15 - 18 months in barrel. whites 12 months.
+- cote dor:
+								* whole cluster or destemmed.
+								* current trend toward whole cluster.
+								* bâtonnage common.
+								* Current trend away from *bâtonnage*
+								* red, white aged in 228L *pièce* barrels.
+								* Movement toward larger format for whites
+								* regional and village no new oak
+								* cru new oak: 50 - 100%
+								* note de nuits more oak than beaune
+								* reds 6 - 18 months in barrel.
+								* whites 12 months.
 
 #### Macération Carbonique
 
@@ -266,86 +268,66 @@ Traditional production and aging techniques include decisions between whether to
 - softer tannic struct
 - commonly used in *nouveau* wines
 - also used in cru wine.
+- carbonic maceration:
+				* seal whole clusters in tank
+				* pump w co2 oxygen free environ
+				* cells metab
+				* malic acid and glucose -> co2 and alc
+				* extract tannins and anthocyanins
+				* reach approx 2% alcohol b4 grpe dies
+				* grape ruptures or wmaker press.
+				* yeast ferment to dry.
 
+- semi-carbonic maceration
+				* same as carbonic but co2 nit added, co2 generated from an initial normal yeast ferment.
+- process:
+				* clusters added to vat
+				* weight of clusters crush bottom fruit
+				* yeast ferment thr relesed juice, producing co2.
+				* co2 evacuates oxygen, carbonic macerarion of surviving fruit begins.
+				* carbonic maceration cont8nues until grapes rupture and yeast fermentstion begins anew
 
-##### carbonic maceration
+### 6. Quality Levels
 
-1. seal whole clusters in tank and pump w co2
-2. in oxygen free environ cells metab malic acid and glucose forming co2 and alcohol withoutnyeast
-3. tannins and anthocyanins leech, providinv color
-4. reach approx 2% alcohol b4 grpe dies
-5. either grape ruptures, exposing flesh to yesst, or winemaker presses the fruit.
-6. carbonically macerated juice is then fermented to dryness as normal.
-
-##### semi-carbonic maceration
-
-- same as carbonic but co2 nit added, co2 generated from an initial normal yeast ferment.
-
-1. clusters added to vat
-2. weight of clusters crush bottom fruit
-3. yeast ferment thr relesed juice, producing co2.
-4. co2 evacuates oxygen, carbonic macerarion of surviving fruit begins.
-5. carbonic maceration cont8nues until grapes rupture and yeast fermentstion begins anew
-
-### Quality Levels
-
-#### Generic
-
-*what is genric level, give rxamples*
-
-- also known as *régionale*
-- include:
-	1. Bourgogne AOP (1)
-	2. Coteaux Bourguignons AOP (2)
-	3. Bourgogne Aligoté AOP (3)
-	4. Bourgogne Passe-Tout-Grains AOP
-	5. Crémant de Bourgogne AOP
-	6. Bourgogne Mousseux AOP
-- (1) and (2):
-	* both cover burgundy in entirety
-	* can produce red, white and rosé
-	* CH, PN, PG, PB Cés
-	* (1) cant use Gamay, (2) can
-	* tend to name variety on label
-- (3): aligoté only
-- (4):
-	* red and rosè blends of PN and Gam
-	* 30% and 15% min respect
-	* must be vinified together
-- (5):
-	* hand-harvested
-	* white and rosé sparkling
-	* CH, PN
-- (6):
-	* sparkling reds
-	* traditional method
-- 
-
-
-#### District
-
-- Legally approved GI under Bourgogne AOP
-- e.g.:
-	* Bourgogne Côte Chalonnaise
-	* Bourgogne Haut Côtes de Beaune
-
-#### Villages
-
-- more terroir focus
-- known as *commune*
-- Cote de Beaune-Villages AOP (1), Côte de Nuits-Villages AOP (2)
-	* (1) makes red wine from every village in cdB apart from Pommard, Volnay, Aloxe-Corton and Beaune
-	* (2) red or white from Fixin, Brochon, Prissey, Corgoloin, and Comblanchien.
+- Generic:
+    * also known as *régionale*
+    * Base level of wine in Burgundy
+    * generally label variety used
+    * varietal focus - typically regional blends.
+    * e.g.:
+        + Bourgogne AOP
+        + Côtes de Bourguigogne AOP
+- District:
+    * Legally approved GI under Bourgogne AOP
+    * e.g.:
+        + Bourgogne Côte Chalonnaise
+        + Bourgogne Haut Côtes de Beaune
+    * more terroir quality, distinct character.
+- Villages:
+    * more terroir focus
+    * known as *commune*
+    * named for the commune which the vyard nears
 - premier cru:
-	* vineyards are GI designatoions appended to vilage AOP
-	* harsher restrictions on yield, must weight, min pot alc
-	* can blend multiple cru together and label as *premier cru* or include vineyard name if only from that vineyard
+    * subset of Village AOP
+    * GI designations appended to vilage AOP
+    * harsher restrictions:
+        + yield
+        + must weight
+        + min pot. alc
+    * generic:
+        + made from a blend of premier cru fruit
+        + label as *village* *premier cru*
+    * site-specific:
+        + single site fruit only
+        + add *vineyard* to schema above.
+        
 
-### District and Wines of Chablis
+### 7. District and Wines of Chablis
 
+
+- part of *Grand Auxerrois*
 - most northerly district in burgundy
 - northwest of Dijon in Yonne Department
-- part of *Grand Auxerrois*
 - second largest producer for whites
 - lies on the Serein river
 - AOP:
@@ -384,7 +366,7 @@ Traditional production and aging techniques include decisions between whether to
 																+ lemon
 																+ oystershell
 
-### Principal Communes of the Côte d'Or and Location
+### 8. Principal Communes of the Côte d'Or and Location
 
 - Côte de Nuits:
 								* Gevry-Chambertin
@@ -402,17 +384,26 @@ Traditional production and aging techniques include decisions between whether to
 								* Puligny-Montrachet
 								* Chassagne-Montrachet
 
-### Premier Cru and Grand Cru Wines of Côte d'Or
+### 9. Premier Cru and Grand Cru Wines of Côte d'Or
 
-- Premier Cru wine in Côte d'Or are wine produced from vineyards acknowledged to be of superior wuality, and are labelled as being from the commune and premier cru. the fruit can be sourced from multiple premier cru sites, in which case it can be labelled as premier cru, or if from a single site it can also include the name of the vineyard.
+- Premier Cru:
+    * vineyards of superior quality
+    * label:
+        + commune
+        + premier cru
+        + name of the vineyard if only source
 - Grand Cru wines:
-								* are made from vineyards singled out for their quality and are given their own AOP.
-								* tend to lie on slopes no steeper than grade 10%
-								* if monopole must be hand-harvested
-								* 32 grand cru
-								* there is no generic Grand Cru appellation. All fruit must be from same vineyard as stated on label
+    * best vineyards
+    * own AOP.
+    * if monopole must be hand-harvested
+    * 32 grand cru
+    * single source only for appell.
+    * label:
+        + vineyard name
+        + some aop allow name of segment of vyard.
 
-### Location of Mácon Villages and Côte Chalonnaise Districts
+
+### 10. Location of Mácon Villages and Côte Chalonnaise Districts
 
 - Mácon Village AOP:
 								* villages:
@@ -432,7 +423,7 @@ Traditional production and aging techniques include decisions between whether to
 																+ montagny
 																+ rully
 								* location:
-																+ north south
+                + north south
 																								+ Bouzeron
 																								+ Rully
 																								+ Mercurey
@@ -444,17 +435,30 @@ Traditional production and aging techniques include decisions between whether to
 																								+ Givry eaually south of Mercurey
 																								+ 3 times SSW is Bouzeron
 
-### Beaujolais Cru’s
+### 11. Beaujolais Cru’s
 
-*what are the crus of beajolais*
+- saint-amour
+- juliénas
+- chénas
+- moulin-à-vent
+- fleurie
+- chrioubles
+- morgon
+- régnié
+- côte de brouilly
+- brouilly
 
-### Labelling Terms
+### 12. Labelling Terms
 
-- 
+- producer term
+- village name
+- vineyard name
+- applation title
+- mis en boutielle
+- producer location
+- alcohol content
 
-### Structure of Trade
-
-*what is the trade structure in burgundy*
+### 13. Structure of Trade
 
 - mix of negociant and domaines
 - negocients buy wine from various growers
@@ -465,7 +469,7 @@ Traditional production and aging techniques include decisions between whether to
 ### Certified
 
 
-### Smaller Production Districts: St Bris, Irancy, Montagny, Bouzeron, Givry, Mercurey, Pouilly Fuissé & St. Veran
+### 1. Smaller Production Districts: St Bris, Irancy, Montagny, Bouzeron, Givry, Mercurey, Pouilly Fuissé & St. Veran
 
 - Grand Auxerrois
 								* Irancy:
@@ -474,30 +478,34 @@ Traditional production and aging techniques include decisions between whether to
 								+ Appellation of Sauvignon Blanc. Only one in Burgundy.
 
 - Côte Chalonnaise:
-								* Montagny:
-																+ white wine
-								* Bouzeron:
-																+ aligoté only
-								* Givry:
-																+ red or white
-																+ best wines in region
-																+ much more red than white
-																+ PN
-								* Mercurey:
-																+ same as Givry
+				* Montagny:
+								+ white wine
+				* Bouzeron:
+								+ aligoté only
+				* Givry:
+								+ red or white
+								+ best wines in region
+								+ much more red than white
+								+ PN
+				* Mercurey:
+								+ same as Givry
 - Mâcon:
-								* Pouilly-Fuisse:
-																+ includes fruit from four communes: Fuissé, Solutré-Pouilly, Vergisson, and Chaintré
-																+ geography dominated by 2 rocks: Solutré and Vergisson
-																+ most highly regarded appellation in the area
-																+ one of the first French whites to enter US market for mass consumption
-																+ only CH
-								* St. Veran:
-																+ split in 2 by Pouilly-Fuisé
-																+ production levels similar to Pouilly-Fuissé
-																+ quality generally lower than Pouilly-Fuissé.
+				* Pouilly-Fuisse:
+        + communes:
+            + Fuissé
+            + Solutré-Pouilly
+            + Vergisson
+            + Chaintré
+								+ geography defined by:
+            - Solutré:
+            - Vergisson:
+								+ best region in Mâcon
+								+ only CH
+				* St. Veran:
+								* split in 2 by Pouilly-Fuisé
+								* similar prod. quant. to PF but less qual
 
 
-### Classic Vintages
+### 2. Classic Vintages
 
 *identify the classic vintages of burgundy, give a summary of each.*
