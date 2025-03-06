@@ -16,14 +16,25 @@ mdt: 2025-02-26T11:57:48
 
 ### 1.Climatic Influences
 
-- inland
-- northerly
-- continental - semicontinental
-- hot summers
-- potentially bad autumn weather
-- chablis cooler, wetter, more vulnerable to frost(spring). Most northerly, Serein carries cold winds ans frost. Continental.
-- cote dor has *combes* that run perpendicular tk the saone river valley beinging cooling breezes and hail. CdN cooler than CdB.
-- Chalonnais, Mâcon, and Beaujolais warmer due to sohtherly location. Chalonnais experiences cooling westerly winds.
+- general:
+				* inland
+				* northerly
+				* continental - semicontinental
+				* hot summers
+				* potentially bad autumn weather
+- chablis:
+				- cooler
+				- wetter
+				- vulnerable to frost(spring).
+				- Most northerly,
+				- Serein carries cold winds and frost.
+				- Continental.
+- cote dor:
+				* *combes* cooling breezes and hail.
+				* CdN cooler than CdB.
+- Chalonnais, Mâcon, and Beaujolais:
+				* warmer due to sohtherly location.
+				* Chalonnais has cooling westerly winds.
 
 
 ### 2. AOP Districts and Locations
@@ -205,7 +216,6 @@ https://www.burgundy-report.com/discover-burgundy/03-the-vines-of-burgundy/
 
 ### 4. Soil Types
 
-
 * more limestone: *argillaceous limestone*
 * more clay: *marl* or *calcareous clay*.
 
@@ -214,7 +224,7 @@ https://www.burgundy-report.com/discover-burgundy/03-the-vines-of-burgundy/
 				* P.Chab: kimm. marl under portland l.stone.
 - cote dor:
 				* limestone and clay
-				* more clay closet to river Saone - bad.
+				* more clay closer to river Saone - bad.
 				* soil complex at mouths *combes* bc erosion.
 - cote de nuits:
 				* argillaceous limestone
