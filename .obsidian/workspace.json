@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "efc29e8ec0198c23",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "5f0c2a2ea14dac3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,49 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "cms"
-            }
-          },
-          {
-            "id": "ece9b1ef5bc473ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "burgundy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "burgundy"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "047963ad9aff5f97",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d4e492dbb8c26a19",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "attachments/syllabus.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "syllabus"
             }
           }
         ]
@@ -220,8 +177,6 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
@@ -230,11 +185,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ece9b1ef5bc473ca",
+  "active": "5f0c2a2ea14dac3a",
   "lastOpenFiles": [
-    "attachments/syllabus.pdf",
-    "burgundy.md",
     "cms.md",
+    "burgundy.md",
+    "attachments/syllabus.pdf",
     "alsace/alsace.md",
     "inbox/cms_champagne.md",
     "inbox",
