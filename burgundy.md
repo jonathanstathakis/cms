@@ -126,10 +126,10 @@ Grand cru appellations are each contained within one of the communal appellation
 - côte de beaune
 - Cote de Beaune-Villages AOP:
   - makes red wine from every village in cdB apart from:
-  - Pommard
-  - Volnay
-  - Aloxe-Corton
-  - Beaune
+    - Pommard
+    - Volnay
+    - Aloxe-Corton
+    - Beaune
 - ladoix
 - aloxe-corton
 - pernard-vergelesses
@@ -234,31 +234,26 @@ Pinot Noir, Chardonnay, Gamay, Aligóte, Sauvignon Blanc, Pinot Beaurot, Melon, 
 
 #### Traditional
 
-Traditional production and aging techniques include decisions between whether to use whole bunch or destemmed fruit, oak (old or new) or steel vessels, and whether to apply bâtonnage when resting white wines.
+Traditional production and aging decisions:
 
-- bâtonnage used to soften wines for immedite consumption.
-
-- decisions:
-
-  - pick: whole bunch or destem
-  - vessel: old or new oak or steel \* whites: use bâtonnage or not
-
+- general decision:
+  - preprocessing:
+    - whole cluster or destemmed.
+    - current trend toward whole cluster.
+  - elevage:
+    - vessel: old or new oak or steel
+    - red, white aged in 228L \*pièce\* barrels.
+    - whether to apply bâtonnage when resting white wines.
+    - Current trend away from _bâtonnage_
 - Chablis:
-
   - classic prem cru no new oak
   - grand cru new oak as more robust.
-
 - cote dor:
-  - whole cluster or destemmed.
-  - current trend toward whole cluster.
-  - bâtonnage common.
-  - Current trend away from _bâtonnage_
-  - red, white aged in 228L \*pièce\* barrels.
   - Movement toward larger format for whites
-    - regional and village no new oak
-    - cru new oak: 50 - 100%
-    - note de nuits more oak than beaune
-    - reds 6 - 18 months in barrel. \* whites 12 months.
+  - regional and village no new oak
+  - cru new oak: 50 - 100%
+  - note de nuits more new oak than beaune
+  - reds 6 - 18 months in barrel. \* whites 12 months.
 
 #### Macération Carbonique
 
@@ -386,23 +381,23 @@ Traditional production and aging techniques include decisions between whether to
     - vineyard name
     - some aop allow name of segment of vyard.
 
-### 10. Location of Mácon Villages and Côte Chalonnaise Districts
+### 10. Location of Macon Villages and Côte Chalonnaise Districts
 
-- Mácon Village AOP:
+- Macon Village AOP:
   - villages: + Pouilly-Fuisse + Pouilly-Loche + Pouilly-Vinzelles + Saint-Véran + Vire-Clessé
   - location: + fuisse, loche, vinzelle and st-véran are south west of Mâcon + Vire-Clessé is NNE of Mâcon
 - Côte Chalonnaise Districts:
   - districts: + bouzeron + givry + mercurey + montagny + rully
   - location: + north south + Bouzeron + Rully + Mercurey + Givry + Montagny + Description: + starting from Chagney, Bouzeron and Rully are close to the SW + Mercurey is south of them + Givry eaually south of Mercurey + 3 times SSW is Bouzeron
 
-### 11. Beaujolais Cru’s
+### 11. Beaujolais Cru
 
 - saint-amour
 - juliénas
 - chénas
 - moulin-à-vent
 - fleurie
-- chrioubles
+- chiroubles
 - morgon
 - régnié
 - côte de brouilly
