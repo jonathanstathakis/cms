@@ -427,11 +427,16 @@ Traditional production and aging decisions:
 
 - Grand Auxerrois
 
-  - Irancy: + light reds made from PN.
-  - St-Bris: + Appellation of Sauvignon Blanc. Only one in Burgundy.
+  - Irancy: 
+					- light reds made from PN.
+  - St-Bris:
+					- Appellation of Sauvignon Blanc.
+					- Only one in Burgundy.
 
 - Côte Chalonnaise:
-  - Montagny: + white wine
+  - Montagny:
+					- white wine
+					- primarily chardonnay
   - Bouzeron:
     - aligoté only
   - Givry:
@@ -442,7 +447,17 @@ Traditional production and aging decisions:
   - Mercurey:
     - same as Givry
 - Mâcon:
-  - Pouilly-Fuisse: + communes: + Fuissé + Solutré-Pouilly + Vergisson + Chaintré + geography defined by: - Solutré: - Vergisson: + best region in Mâcon + only CH
+  - Pouilly-Fuisse:
+	- communes:
+				- Fuissé
+				- Solutré-Pouilly
+				- Vergisson
+				- Chaintré
+				- geography defined by:
+								- Solutré:
+								- Vergisson
+				- best region in Mâcon
+				- only CH
   - St. Veran:
     - split in 2 by Pouilly-Fuisé
     - similar prod. quant. to PF but less qual
@@ -579,38 +594,38 @@ be ignored for vintages earlier than that.
 
 #### Whites
 
-| year | winevest | burgrep | winespec | winespec |
-| ---- | -------- | ------- | -------- | -------- |
-| 2022 |          |         | x        | x        |
-| 2021 |          |         |          |          |
-| 2020 | x        | x       |          | x        |
-| 2019 |          |         |          |          |
-| 2018 | x        |         |          |          |
-| 2017 | x        | x       |          | x        |
-| 2016 |          | x       |          |          |
-| 2015 |          |         | x        |          |
-| 2014 | x        | x       | x        | x        |
-| 2013 |          |         |          |          |
-| 2012 |          |         |          |          |
-| 2011 |          |         |          |          |
-| 2010 |          |         |          |          |
-| 2009 |          |         |          |          |
-| 2008 | x        | x       |          | x        |
-| 2007 |          | x       |          |          |
-| 2006 |          |         |          |          |
-| 2005 | x        | x       |          | x        |
-| 2004 |          |         |          |          |
-| 2003 |          |         |          |          |
-| 2002 |          | x       | x        | x        |
-| 2001 |          |         |          |          |
-| 2000 |          |         |          |          |
-| 1999 |          |         |          |          |
-| 1998 |          |         |          |          |
-| 1997 | x        |         |          |          |
-| 1996 | x        |         | x        | x        |
-| 1995 |          |         |          |          |
-| 1994 |          |         |          |          |
-| 1993 |          |         |          |          |
-| 1992 | x        |         |          |          |
-| 1991 |          |         |          |          |
-| 1990 |          |         |          |          |
+| year | winevest | burgrep | winespec | average |
+| ---- | -------- | ------- | -------- | --------|
+| 2022 |          |         | x        | x       |
+| 2021 |          |         |          |         |
+| 2020 | x        | x       |          | x       |
+| 2019 |          |         |          |         |
+| 2018 | x        |         |          |         |
+| 2017 | x        | x       |          | x       |
+| 2016 |          | x       |          |         |
+| 2015 |          |         | x        |         |
+| 2014 | x        | x       | x        | x       |
+| 2013 |          |         |          |         |
+| 2012 |          |         |          |         |
+| 2011 |          |         |          |         |
+| 2010 |          |         |          |         |
+| 2009 |          |         |          |         |
+| 2008 | x        | x       |          | x       |
+| 2007 |          | x       |          |         |
+| 2006 |          |         |          |         |
+| 2005 | x        | x       |          | x       |
+| 2004 |          |         |          |         |
+| 2003 |          |         |          |         |
+| 2002 |          | x       | x        | x       |
+| 2001 |          |         |          |         |
+| 2000 |          |         |          |         |
+| 1999 |          |         |          |         |
+| 1998 |          |         |          |         |
+| 1997 | x        |         |          |         |
+| 1996 | x        |         | x        | x       |
+| 1995 |          |         |          |         |
+| 1994 |          |         |          |         |
+| 1993 |          |         |          |         |
+| 1992 | x        |         |          |         |
+| 1991 |          |         |          |         |
+| 1990 |          |         |          |         |
