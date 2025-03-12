@@ -98,7 +98,6 @@ TODO: decide whether to limit to one example AOP or list all AOP. At the moment 
     - Saint-Pourcain AOP
     - Châteaumeillant AOP
     - Côtes d'Auvergne AOP
-    -
 
 ### 05. Styles of Wine
 
@@ -127,7 +126,7 @@ Possible choices:
   - Blanc
   - Rouge
   - Vin Mousseux blanc
-  - Vin Mousseaux Rosé
+  - Vin Mousseux Rosé
   - Liquoreux
   - Blanc Sec to Doux
 - Touraine:
@@ -161,6 +160,7 @@ guide.
   - Anjou:
     - Anjou AOP
     - Savennieres AOP
+    - Roche Aux moines AOP
     - Coulée de Serrant AOP (monopole)
     - Coteaux de Layon AOP (sweet)
     - coteaux de l'Aubance AOP (sweet)
@@ -218,14 +218,15 @@ TODO: see if there are anymore terms.
   - Not specify sub-appellation.
 - Val de Loire:
   - EU IGP indicating the wine is from the Loire Valley. Optional.
-- sec: dry
-- Demi-Sec: offdry
-- Moelleux: sweeter
-- Doux: very sweet.
+- sweetness level:
+  - sec: dry
+  - Demi-Sec: offdry
+  - Moelleux: sweeter
+  - Doux: very sweet.
 
 ## 02. Certified
 
-### 01. Principal Wines From Districts
+### 01. Principal Wines
 
 - Coteaux du Layon:
   - sweet botyrtised affected wine made from Chenin Blanc
@@ -274,6 +275,8 @@ Sources:
 - bottled without filtering (off the fine lees) between March 1 and November 30 year following harvest
 
 ### 04. Smaller AC's of the Loire and Wines Produced
+
+TODO: add other AOC's.
 
 - St. Pourcain AOP:
   - southernmost and most remote region under Loire.
