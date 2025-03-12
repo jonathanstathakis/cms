@@ -4,9 +4,6 @@
 
 ### 01. Climatic Influences
 
-TODO: identify the climatic influences of both Loire Valley in general and
-for each district.
-
 - General:
 - Pays Nantais:
   - cool
@@ -27,8 +24,6 @@ for each district.
 
 ### 02. Principal Soil Types
 
-- General:
-  - ...
 - Pays Nantais:
   - sevre-et-maine: mix of gneiss, silica, clay, granite
 - Anjou-Saumur:
@@ -46,34 +41,115 @@ for each district.
 
 ### 03. Districts and Sub-Districts of the Region
 
-- Pays Nantais
-- Anjou-Saumur
-- Touraine
-- Central Vineyards
-- Other Appellations of Central France
+- Lower Loire:
+  - Pays Nantais
+- Middle Loire:
+  - Anjou-Saumur
+  - Touraine
+- Central Vineyards / Center Loire
+- Other Appellations of Central France / Upper Loire
+
+Categories taken from guildsomm and [winefolly](https://winefolly.com/deep-dive/loire-valley-wine-guide/).
 
 ### 04. Principal Grape Varietals and Wines Produced From Them
 
 TODO: add wines produced from each variety
+TODO: decide whether to limit to one example AOP or list all AOP. At the moment just listing a few.
 
 - White:
-  - Chenin Blanc
-  - Sauvignon Blanc
-  - Melon de Bourgogne
+  - Chenin Blanc:
+    - Dry white wine eg. Savennieres AOP
+    - botrytised sweet white wine e.g. Quarts de Chaume AOP
+    - dry to sweet sparkling wine, e.g. Vouray AOP.
+  - Sauvignon Blanc:
+    - dry white wine, e.g. Saumur AOP, Sancerre AOP, Pouilly-Fume AOP, Touraine AOP.
+  - Melon de Bourgogne:
+    - dry white wine as Muscadet e.g.: Muscadet AOP, Muscadet Coteaux de la Loire AOP, Muscadet Côtes de Grandlieu AOP, Muscadet Sèvre-et-Maine AOP
 - Red:
-  - Cabernet Franc
-  - Pinot Noir
-  - Gamay
-  - Cabernet Sauvignon
-  - Malbec
+  - Cabernet Franc:
+    - rouge:
+      - Anjou AOP
+      - Anjou-Villages AOP (CF/CS blends)
+      - Anjou Brissac AOP
+      - Saumur AOP (CF/CS/Pineau d'Aunis blends)
+      - Saumur-Champigny AOP
+      - Chinon AOP
+      - Orlèans AOP
+      - Orlèans-Cléry AOP
+    - rosé:
+      - Saumur AOP: CF dominant blends
+    - rosé Mousseux:
+      - Touraine AOP
+  - Groslot/Grolleau:
+    - rosé:
+      - Anjou AOP
+      - Touraine AOP
+    - rosé Mousseux:
+      - Touraine AOP
+    - rouge:
+      - Touraine AOP
+  - Pinot Noir:
+    - rouge:
+      - Cheverny AOP: Pinot Noir blends
+      - Valencay AOP
+    - rosé:
+      - Cheverny AOP: PN blends
+  - Gamay:
+    - Saint-Pourcain AOP
+    - Châteaumeillant AOP
+    - Côtes d'Auvergne AOP
+    -
 
 ### 05. Styles of Wine
 
-TODO: list each of the styles and give an example of each
+TODO: add description of each, possible varieties to make from them.
+
+Possible choices:
+
+- Blanc
+- Rosé
+- Rouge
+- Vin Mousseux Blanc
+- Vin Mousseux Rosé
+- Vin Pétillant Blanc
+- Vin Pétillant Rosé
+- Blanc Sec
+- Blanc Demi-Sec
+- Blanc Moelleux
+- Blanc Doux
+- Liquoreux.
+
+- Pays Nantais:
+  - Blanc
+  - Rosé
+  - Rouge
+- Anjou-Saumur:
+  - Blanc
+  - Rouge
+  - Vin Mousseux blanc
+  - Vin Mousseaux Rosé
+  - Liquoreux
+  - Blanc Sec to Doux
+- Touraine:
+  - Blanc
+  - Rosé
+  - Rouge
+  - Mousseux Blanc
+  - Mousseux Rosé
+  - Pétillant Blanc
+  - Pétillant Rosé
+- Central Vineyards:
+  - Blanc
+  - Rosé
+  - Rouge
+- Other
 
 ### 06. Principal AOP's
 
-TODO: summarise each aop
+TODO: summarise each AOP
+
+The list of _principal_ AOP is based on the AOP for each district described in the guildsomm intro study
+guide.
 
 - General:
 - Pays Nantais:
@@ -100,44 +176,56 @@ TODO: summarise each aop
     - Haut-Poitou AOP
 - Touraine:
   - Chinon AOP
-  - bourgeil aop
-  - saint-nicholas-de-bourgeil aop
-  - vouray aop
-  - montlouis-sur-loire aop
-  - touraine aop
-  - touraine-noble-joué aop
-  - coteaux du loire aop
-  - jasnières aop
-  - coteaux du vendomois aop
-  - cheverny aop
-  - cour-cheverny aop
-  - Valency aop
+  - bourgeil AOP
+  - saint-nicholas-de-bourgeil AOP
+  - vouray AOP
+  - montlouis-sur-loire AOP
+  - touraine AOP
+  - touraine-noble-joué AOP
+  - coteaux du loire AOP
+  - jasnières AOP
+  - coteaux du vendomois AOP
+  - cheverny AOP
+  - cour-cheverny AOP
+  - Valency AOP
 - Central Vineyards:
-  - Sancerre aop
-  - pouilly-fumé aop
-  - pouilly-sur-loire aop
-  - menetou-salon aop
-  - reuilly aop
-  - quincy aop
-  - coteaux de giennois aop
-  - orléans aop
-  - orléans-cléry aop
+  - Sancerre AOP
+  - pouilly-fumé AOP
+  - pouilly-sur-loire AOP
+  - menetou-salon AOP
+  - reuilly AOP
+  - quincy AOP
+  - coteaux de giennois AOP
+  - orléans AOP
+  - orléans-cléry AOP
 - Other Appellations of Central France:
-  - cotes du forez aop
-  - cote roannise aop
-  - chateaumeillant aop
-  - cotes d'auvergne aop
-  - saint-pourcain aop
+  - cotes du forez AOP
+  - cote roannise AOP
+  - chateaumeillant AOP
+  - cotes d'auvergne AOP
+  - saint-pourcain AOP
 
 ### 07. Labelling Terms
 
-TODO: identify any relevant and distinct labelling terms.
+TODO: see if there are anymore terms.
+
+- Sur Lie:
+  - originate from one of:
+    - Muscadet Coteaux de la Loire AOP
+    - Muscadet Côtes de Grandlieu AOP
+    - Muscadet Sèvre-et-Maine AOP
+  - wines are matured _Sur Lie_.
+  - Not specify sub-appellation.
+- Val de Loire:
+  - EU IGP indicating the wine is from the Loire Valley. Optional.
+- sec: dry
+- Demi-Sec: offdry
+- Moelleux: sweeter
+- Doux: very sweet.
 
 ## 02. Certified
 
 ### 01. Principal Wines From Districts
-
-TODO: identify the principal wine from each of the listed districts.
 
 - Coteaux du Layon:
   - sweet botyrtised affected wine made from Chenin Blanc
@@ -167,16 +255,40 @@ TODO: identify the principal wine from each of the listed districts.
 
 ### 02. Grape Variety Synonyms
 
-TODO: list the mapping of conventional name to synonym.
+| Gen.    | Local                             |
+| ------- | --------------------------------- |
+| CF      | Breton                            |
+| Malb    | Cot                               |
+| Groslot | Grolleau                          |
+| CB      | Pinear de la Loire, Plant d'Anjou |
+| Melon B | Melon de Bourgogne                |
+
+Sources:
+
+- <https://flatiron-wines.com/blogs/the-latest/grapes-of-the-loire-valley>
+- [winefolly](https://winefolly.com/deep-dive/loire-valley-wine-guide/)
 
 ### 03. Sur Lie Aging Requirements
 
-TODO: describe sur lie aging requirements for AOP's.
+- aged on lees over winter
+- bottled without filtering (off the fine lees) between March 1 and November 30 year following harvest
 
 ### 04. Smaller AC's of the Loire and Wines Produced
 
-TODO: describe the smaller AOP's listed.
-
-- St. Pourcain
-- Cheverny
-- Orleans
+- St. Pourcain AOP:
+  - southernmost and most remote region under Loire.
+  - Allier department.
+  - produce: Blanc, Rose, Rouge
+  - blanc: Chardonnay dominant whites
+  - Rose: Gamay
+  - Rouge: Gamay Pinot Noir blends.
+- Cheverny AOP:
+  - Touraine, eastern edge.
+  - Rouge: Pinot Noir and Gamay
+  - White: lean Sauvignon Blanc dominant.
+- Orleans AOP:
+  - Central Vineyards
+  - just east of Touraine
+  - all three wines
+  - rouge: large amount of PM
+  - blanc: large amount of CH

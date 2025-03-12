@@ -427,16 +427,11 @@ Traditional production and aging decisions:
 
 - Grand Auxerrois
 
-  - Irancy: 
-					- light reds made from PN.
-  - St-Bris:
-					- Appellation of Sauvignon Blanc.
-					- Only one in Burgundy.
+  - Irancy: - light reds made from PN.
+  - St-Bris: - Appellation of Sauvignon Blanc. - Only one in Burgundy.
 
 - Côte Chalonnaise:
-  - Montagny:
-					- white wine
-					- primarily chardonnay
+  - Montagny: - white wine - primarily chardonnay
   - Bouzeron:
     - aligoté only
   - Givry:
@@ -448,21 +443,18 @@ Traditional production and aging decisions:
     - same as Givry
 - Mâcon:
   - Pouilly-Fuisse:
-	- communes:
-				- Fuissé
-				- Solutré-Pouilly
-				- Vergisson
-				- Chaintré
-				- geography defined by:
-								- Solutré:
-								- Vergisson
-				- best region in Mâcon
-				- only CH
+  - communes: - Fuissé - Solutré-Pouilly - Vergisson - Chaintré - geography defined by: - Solutré: - Vergisson - best region in Mâcon - only CH
   - St. Veran:
     - split in 2 by Pouilly-Fuisé
     - similar prod. quant. to PF but less qual
 
 ### 2. Classic Vintages
+
+#### Sources of Data
+
+ve-vigne [has](http://www.vin-vigne.com/vignoble/vin-bourgogne.html) data going back to 1900.
+
+#### Analysis
 
 Best vintages according to [wineinvestment](https://www.wineinvestment.com/learn/insights/best-burgundy-vintage-years/):
 
@@ -548,7 +540,7 @@ best vintages according to winespectator (score >= 95):
 
 Note, wine spectator defines a 95 - 100 scoring vintage as a _classic_.
 
-#### reds
+##### reds
 
 Table of top ranked vintages for 3 sources: wineinvestment, Burgundy-Report
 and Wine Spectator.
@@ -592,10 +584,10 @@ be ignored for vintages earlier than that.
 | 1991 |          |         |          |         |
 | 1990 | x        |         |          |         |
 
-#### Whites
+##### Whites
 
 | year | winevest | burgrep | winespec | average |
-| ---- | -------- | ------- | -------- | --------|
+| ---- | -------- | ------- | -------- | ------- |
 | 2022 |          |         | x        | x       |
 | 2021 |          |         |          |         |
 | 2020 | x        | x       |          | x       |

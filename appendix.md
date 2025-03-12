@@ -1,1 +1,3 @@
 - bâtonnage used to soften wines for immedite consumption.
+- vin mousseux: catch all for sparkling wine made from any method^[[oray-wine](https://oray-wine.com/what-is-a-vin-mousseux/)]
+- vin petillant: pet nat?
