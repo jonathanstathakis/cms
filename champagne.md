@@ -5,7 +5,8 @@
 ### 01 Climatic Influences
 
 - cold
-- influenced by Atlantic OCean
+- continental
+- influenced by Atlantic Ocean
 - hazards:
   - Frost
   - rain
@@ -31,6 +32,14 @@
   - Côte des Blancs (CH dom.)
   - Côte de Sézanne (CH dom.)
   - Côte des Bar (Aube) (PN dom.)
+
+  - Coteaux Champenois AOP:
+    - red
+    - white
+    - rosé
+  - Rosé de Riceys AOP:
+    - 100% PN rosé
+    - produced in Les Riceys (cru village in the Aube)
 
 ### 03 Permitted Grape Varietals
 
@@ -62,7 +71,7 @@
 
 - Méthode Champenoise:
   - Press:
-    - limit to 2550 liters from 4000kg
+    - extraction limit: 2550L/4000kg (one _marc_) = 102L/160 kg = 66L/ha
     - juice division: first 2050L dubbed _vin de cuvée_, remaining 500L _vin de taille_
     - second press _rebêche_ required by law to amount 1 - 10% of total extraction, used for distillate
   - pre-ferment processing:
@@ -121,25 +130,37 @@
 
 ### 06 Styles
 
-- Sparkling:
-  - Non-Vintage (NV):
-  - Vintage:
-  - Blanc de Blancs:
-  - Blanc de Noirs
-  - Prestige Cuvée (Tête de Cuvée)
-  - Single Vineyard Champagne
-  - Special Club Prestige Cuvée
-  - Rosé Champagne
-- Still:
-  - Coteaux Champenois AOP:
-    - red
-    - white
-    - rosé
-  - Rosé de Riceys AOP:
-    - 100% PN rosé
-    - produced in Les Riceys (cru village in the Aube)
+1. sparkling or still
+2. vintage or non-vintage
+3. encepagement
+4. single or multi-vineyard
+5. sweetness
+
+Variables in style of wines in Champagne.
+1. Sparkling:
+				a. vintage or non-vintage
+				b. encapagement:
+								i. classic champagne cuvée
+								ii. blanc de blanc
+								iii. blanc de noir
+				c. single or multi-vineyard
+				d. extraction (blanc or rosé)
+				e. sweetness levels:
+					- brut nature: 0- 3 g/L, no added dosage
+					- Extra Brut: 0 - 6 g/L
+					- Brut: 0 - 12 g/L
+					- Extra Dry: 12 - 17 g/L
+					- Sec: 17 - 32 g/L
+					- Demi-Sec: 32 - 50 g/L
+					- Doux: >= 50 g/L
+2. Still:
+				a. red
+				b. white
+				c. rosé
 
 ### 07 Qualities
+
+TODO: check whether 'Quality' is a specific term.
 
 - Cru:
   - Premier Cru
@@ -191,10 +212,113 @@ TODO: expand on dryness levels and the producer terms.
 
 ### 01 Yields and Extraction Amounts
 
+- Yield:
+				- limit: 10,400kg/ha
+				- considered high for France
+				- called _rendemont de base_
+- Extraction limit: see 01.05.
+
 ### 02 Bottle Sizes and Volumes
+
+see 01.09.
 
 ### 03 Quality Marques from Leading Producers
 
+- Syndicat de grandes marques de Champagne?
+- Grandes Marques
+- Les Grandes Marques de Champagne
+- Club des Grandes Marques
+
+- Aÿ:
+				* Ayala:
+						 + grand cuvee 
+				* Bollinger:
+						 + Vieilles Vignes, Francaises, R.D. 
+				* Deutz:
+						 + Amour de Deutz 
+- Mareuil-sur-Aÿ:
+				* Billecart-Salmon:
+						 + Clos St Hilare 
+- Ludes:
+				* Canard-Duchêne:
+						 + Grande, Cuvée, Charles VII 
+- Èpernay:
+				* Gosset:
+								+ Celebris, Grand Millésime
+				* Heidsieck & Co Monopole:
+						 + Diamant Bleu 
+				* Mercier:
+						 + Vendange 
+				* Moët & Chandon:
+						 + Dom Perignon 
+				* Perrier Jouët:
+						 + Belle Époque 
+				* Pol Roger:
+						 + Sir Winston Churchill 
+- Reims:
+				* Charles Hiedsieck:
+						 + Blanc des Millénaires 
+				* Krug:
+						 + Krug, Clos du Mesnil 
+				* Lanson:
+						 + Noble Cuvée 
+				* GH Mumm:
+						 + Mumm de Cremant 
+				* Piper-Heidsieck:
+						 + Rare 
+				* Pommery:
+						 + Cuvèe Louise 
+				* Louis Roderer:
+						 + Cristal 
+				* Ruinart:
+								+ Dom Ruinart, Ruinart Blanc de blancs 
+				* Taittinger:
+								+ Comtes de Champagne
+				* Veuve Cliquot:
+								+ La Grande Dame, Carte Jaune, Cliquot Rich Reserve 
+- Marne:
+				* Joseph Perrier:
+						 + Josephine
+- Tours-sur-Marne:
+				* Laurent-Perrier:
+						 + Grand Siècle 
+- Le Mesnil-sur-Oger:
+				* Salon:
+								+ Champagne Salon 
+ 
+
 ### 04 Coteaux Champenois Wines
 
-### Classic Vintages Last 10 Years
+- still wine appellation
+- red, white, rosé
+- dominantly songle varietal wines
+- varietals:
+				* CH
+				* PN
+				* Meu
+				* Arbane
+				* Petit Meslier
+				* PB
+				* PG
+- can use up to 10% Voltis in the blend.
+
+### Classic Vintages 10 Years
+
+2014
+2013
+2012
+2008
+2002
+2000
+1999
+1998
+1997
+1996
+1995
+1989
+1988
+1985
+1982
+
+source: [vinovest](https://www.vinovest.co/blog/best-champagne-vintages)
+
