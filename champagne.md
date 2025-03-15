@@ -130,12 +130,6 @@
 
 ### 06 Styles
 
-1. sparkling or still
-2. vintage or non-vintage
-3. encepagement
-4. single or multi-vineyard
-5. sweetness
-
 Variables in style of wines in Champagne.
 1. Sparkling:
 				a. vintage or non-vintage
@@ -161,6 +155,9 @@ Variables in style of wines in Champagne.
 ### 07 Qualities
 
 TODO: check whether 'Quality' is a specific term.
+TODO: verify definition of Cru wine
+
+Champagne has Cru designation fo villages that are deemed to produce wine of superiro quality. There are Premier Cru and Grand Cru levels. Any producer in that village can label their wine Cru.
 
 - Cru:
   - Premier Cru
@@ -168,7 +165,7 @@ TODO: check whether 'Quality' is a specific term.
 
 ### 08 Labelling Terms
 
-TODO: expand on dryness levels and the producer terms.
+TODO: check if there are other labeling terms.
 
 - Cru: Premier or Grand Cru
 - Champagne: wine is made in accordance with Champagne AOP. Note does not need to include "AOC/AOP" on the label
@@ -178,17 +175,32 @@ TODO: expand on dryness levels and the producer terms.
 - Blanc de Blancs: Chardonnay based wine
 - Blanc de Noir: Pinot Noir/PM based wine
 - dryness level:
-  - Brut Nature
-  - Extra Brut
-  - Brut
-  - Extra dry
-  - Sec
-  - Demi-sec
-  - doux
+  - Brut Nature:
+					* 0 - 3 g/L, no dosage
+  - Extra Brut:
+					* 0 - 6 g/L
+  - Brut:
+					* 0 - 12 g/L
+  - Extra dry:
+					* 12 -17 g/L
+  - Sec:
+					* 17 - 32 g/L
+  - Demi-sec:
+					* 32 - 50 g/L
+  - doux:
+					* >=50 g/L
+
 - VP: _Vieillissement Prolonge_
-- NM: _Négociant Manipulant_
-- RM: _Récoltant Manipulant_
-- ND: _Nègocant Distributeur_
+
+- CIVC:
+				1. NM (_Négociant Manipulant_):
+								a. classic négociant buying fruit from growers and vinifying undder their own label
+				2. RM (_Récoltant Manipulant_): grower-producer, u.e. a Burgundian Domaine.
+				3. CM (_Coopérative Manipulant_): growers coop making wine under a single brand
+				4. RC (_Récoltant Coopérateur_): grower who has used a coop to vinify their fruit but sells the wine under their own label
+				5. SR (Société de Récoltants_): a group of growers making wine through a firm rarher than coop, and marketing wine under several brands
+				6. ND (_Nègocant Distributeur_): the producer sells wine that it did not personally produce (?)
+				7. MA (_Marque d'Acheteur_): A brand that the buyer itself commisioned, typically latge restaurnt chains or supermarkets. The wine is sold under the buyers label.
 
 <https://grapecollective.com/articles/understanding-champagne-labels>
 
