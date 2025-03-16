@@ -69,35 +69,51 @@
 
 ### 05 Production Methods
 
+key steps to make Champagne:
+
+1. Press
+2. Pre-ferment processing
+3. primary fermentation
+4. secondary fermentation (MLF)
+5. post primary ferm.:
+				a. clarification
+				b. maturation
+				c. blending
+6. post-blending processing
+7. second primary fermentation
+8. bottled lees maturation
+9. disgorgement (dégorgement)
+10. dosage
+
 - Méthode Champenoise:
-  - Press:
+  01. Press:
     - extraction limit: 2550L/4000kg (one _marc_) = 102L/160 kg = 66L/ha
     - juice division: first 2050L dubbed _vin de cuvée_, remaining 500L _vin de taille_
     - second press _rebêche_ required by law to amount 1 - 10% of total extraction, used for distillate
-  - pre-ferment processing:
+  02. pre-ferment processing:
     - settle (_débourbage_):
       - cool temperature
       - 8 - 15 hours
       - solids (_bourbes_) racked after setting before ferment
     - chaptalization (optional)
-  - primary fermentation:
+  03. primary fermentation:
     - result = high-acid base wine (_vins clairs_)
     - fermented to 11% alcohol
     - steel or used oak barrels, sometimes new
-  - secondary fermentation:
+  04. secondary fermentation:
     - MLF (common not req.)
-  - clarification:
+  05. clarification:
     - fining/filtering/centrifuge
-  - maturation:
+  06. maturation:
     - vessel: steel, barrel, sometimes Bottle
     - until late feb / march year following harvest
-  - blending (_assemblage_):
+  07. blending (_assemblage_):
     - house blend formed (NV)
     - base red added (rosé)
-  - post-blending processing:
+  08. post-blending processing:
     - cold stabilization
     - racking
-  - second fermentation (_prise de mousse_):
+  09. second fermentation (_prise de mousse_):
     - bottled
     - liqeur de tirage added (mix of still wine, yeasts, sugar, and fining agents)
     - sealed with crown cap and bidule (captures sediment during _remuage_)
@@ -106,9 +122,9 @@
     - CO2 creates pressure of 5 - 6 atm.
     - bottles stored horizontally (_sur latte_)
     - autolysis forms sediment (lees)
-  - bottle lees maturation:
+  10. bottle lees maturation:
     - minimum 12 months for NV wine
-  - dégorgement:
+  11. dégorgement:
     - removal of lees from bottle after maturation period.
     - riddling / _remuage_:
       - sharp twists + bottle inversion
@@ -124,7 +140,7 @@
       - neck of bottle dipped in freezing brine solution
       - bottle turned upright
       - internal pressure pushes sediment (and small vol. wine) out once crown cap opened
-  - dosage (_liqeur d'expédition_):
+  12. dosage (_liqeur d'expédition_):
     - liquid mixture of sugar syrup and wine
     - conc. of sugar determines final sweetness level
 
@@ -167,14 +183,25 @@ Champagne has Cru designation fo villages that are deemed to produce wine of sup
 
 TODO: check if there are other labeling terms.
 
-- Cru: Premier or Grand Cru
-- Champagne: wine is made in accordance with Champagne AOP. Note does not need to include "AOC/AOP" on the label
-- Matriculation Number: unique identifier for the wine.
-- Special Club: Champagne producer belongs to the Special Club
-- NV/MV: multivintage blend.
-- Blanc de Blancs: Chardonnay based wine
-- Blanc de Noir: Pinot Noir/PM based wine
-- dryness level:
+1. Cru: Premier or Grand Cru
+2. Champagne: wine is made in accordance with Champagne AOP. Note does not need to include "AOC/AOP" on the label
+3. Matriculation Number. unique identifier for the wine:
+				1. NM (_Négociant Manipulant_):
+								a. classic négociant buying fruit from growers and vinifying undder their own label
+				2. RM (_Récoltant Manipulant_): grower-producer, u.e. a Burgundian Domaine.
+				3. CM (_Coopérative Manipulant_): growers coop making wine under a single brand
+				4. RC (_Récoltant Coopérateur_): grower who has used a coop to vinify their fruit but sells the wine under their own label
+				5. SR (Société de Récoltants_): a group of growers making wine through a firm rarher than coop, and marketing wine under several brands
+				6. ND (_Nègocant Distributeur_): the producer sells wine that it did not personally produce (?)
+				7. MA (_Marque d'Acheteur_): A brand that the buyer itself commisioned, typically latge restaurnt chains or supermarkets. The wine is sold under the buyers label.
+4. Special Club: Champagne producer belongs to the Special Club
+5. NV/MV: multivintage blend.
+6. encapagement:
+				* Blanc de Blancs: Chardonnay based wine
+				* Blanc de Noir: Pinot Noir/PM based wine
+7. color:
+				* white or rosé
+8. dryness level:
   - Brut Nature:
 					* 0 - 3 g/L, no dosage
   - Extra Brut:
@@ -189,18 +216,7 @@ TODO: check if there are other labeling terms.
 					* 32 - 50 g/L
   - doux:
 					* >=50 g/L
-
-- VP: _Vieillissement Prolonge_
-
-- CIVC:
-				1. NM (_Négociant Manipulant_):
-								a. classic négociant buying fruit from growers and vinifying undder their own label
-				2. RM (_Récoltant Manipulant_): grower-producer, u.e. a Burgundian Domaine.
-				3. CM (_Coopérative Manipulant_): growers coop making wine under a single brand
-				4. RC (_Récoltant Coopérateur_): grower who has used a coop to vinify their fruit but sells the wine under their own label
-				5. SR (Société de Récoltants_): a group of growers making wine through a firm rarher than coop, and marketing wine under several brands
-				6. ND (_Nègocant Distributeur_): the producer sells wine that it did not personally produce (?)
-				7. MA (_Marque d'Acheteur_): A brand that the buyer itself commisioned, typically latge restaurnt chains or supermarkets. The wine is sold under the buyers label.
+9. VP: _Vieillissement Prolonge_
 
 <https://grapecollective.com/articles/understanding-champagne-labels>
 
