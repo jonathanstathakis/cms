@@ -58,32 +58,81 @@ list of tete de cuvee by producer and the producer website. A first start to lat
   - Ayala:
     - Perle d'Ayala 2015:
       - [website](https://www.champagne-ayala.fr/en/champagne/perle-dayala/)
-  - Bollinger: + Vieilles Vignes, Francaises, R.D.
-  - Deutz: + Amour de Deutz
+  - Bollinger:
+		- Vieilles Vignes
+		- Francaises
+		- R.D.
+  - Deutz:
+		- Amour de Deutz
 - Mareuil-sur-Aÿ:
-  - Billecart-Salmon: + Clos St Hilare
+  - Billecart-Salmon:
+		- Clos St Hilare:
+						* https://www.champagne-billecart.fr/en/the-house/clos-saint-hilaire-en
 - Ludes:
-  - Canard-Duchêne: + Grande, Cuvée, Charles VII
+  - Canard-Duchêne:
+		- Grande
+		- Cuvée
+		- Charles VII
 - Èpernay:
-  - Gosset: + Celebris, Grand Millésime
-  - Heidsieck & Co Monopole: + Diamant Bleu
-  - Mercier: + Vendange
-  - Moët & Chandon: + Dom Perignon
-  - Perrier Jouët: + Belle Époque
-  - Pol Roger: + Sir Winston Churchill
+  - Gosset:
+		- Celebris:
+						* https://www.champagne-gosset.com/en/gosset-celebris/gosset-celebris-vintage-2008/
+		- Grand Millésime:
+						*://www.champagne-gosset.com/en/our-champagne-wines/gosset-grand-millesime-2016/:w
+  - Heidsieck & Co Monopole:
+		- Diamant Bleu:
+						* 
+  - Mercier:
+		- Vendange
+  - Moët & Chandon:
+		- Dom Perignon
+						* https://www.domperignon.com/product/vintage
+  - Perrier Jouët:
+		- Belle Époque:
+						* BdB:
+										+ https://www.perrier-jouet.com/en-ww/collection/champagnes-bruts 
+						* Brut:
+										+ https://www.perrier-jouet.com/en-ww/collection/champagnes-bruts 
+						* Rosé:
+										+ https://www.perrier-jouet.com/en-ww/collection/champagnes-roses 
+  - Pol Roger:
+		- Sir Winston Churchill:
+						* http://m.polroger.com/en/champagnes/4/cuvee-sir-winston-churchill
 - Reims:
-  _ Charles Hiedsieck: + Blanc des Millénaires
-  _ Krug: + Krug, Clos du Mesnil
-  _ Lanson: + Noble Cuvée
-  _ GH Mumm: + Mumm de Cremant
-  _ Piper-Heidsieck: + Rare
-  _ Pommery: + Cuvèe Louise
-  _ Louis Roderer: + Cristal
-  _ Ruinart: + Dom Ruinart, Ruinart Blanc de blancs
-  _ Taittinger: + Comtes de Champagne
-  _ Veuve Cliquot: + La Grande Dame, Carte Jaune, Cliquot Rich Reserve
-  Marne: + Joseph Perrier: + Josephine
+  _ Charles Hiedsieck:
+		- Blanc des Millénaires:
+						* https://charlesheidsieck.com/en/wines/blanc-des-millenaires-2014
+  _ Krug:
+		- Grand Cuvee:
+						* https://www.krug.com/en-int/champagne/krug-grande-cuvee-172eme-edition
+		- Clos du Mesnil:
+						* https://www.krug.com/en-int/champagne/krug-clos-du-mesnil-2008
+  _ Lanson:
+		- Noble Cuvée:
+						* https://www.noblechampagne.com/index-fr.php
+  _ GH Mumm:
+		- Mumm de Cremant:
+						* cuvée Lalou:
+										+ https://www.mumm.com/en-ww/product/lalou-2008/
+						* 
+  _ Piper-Heidsieck:
+		- Rare
+  _ Pommery:
+		- Cuvèe Louise
+  _ Louis Roderer:
+		- Cristal
+  _ Ruinart:
+		- Dom Ruinart, Ruinart Blanc de blancs
+  _ Taittinger:
+		- Comtes de Champagne
+  _ Veuve Cliquot:
+		- La Grande Dame, Carte Jaune, Cliquot Rich Reserve
+  Marne:
+		- Joseph Perrier:
+		- Josephine
 - Tours-sur-Marne:
-  - Laurent-Perrier: + Grand Siècle
+  - Laurent-Perrier:
+		- Grand Siècle
 - Le Mesnil-sur-Oger:
-  - Salon: + Champagne Salon
+  - Salon:
+		- Champagne Salon
