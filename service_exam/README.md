@@ -1,0 +1,1 @@
+Assembled notes to prepare for the practice service exam on 2025-10-17. Information within this directory should eventually be recycled into more formalised documents, i.e. tete de cuvee descriptions, wine by the glass descriptions, pairing descriptions, etc.
