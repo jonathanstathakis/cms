@@ -134,7 +134,7 @@ list of the tete de cuvee and other notable wine by region and house. A first st
       - Vintage:
         - url:
           - <https://www.piper-heidsieck.com/en/vintage>
-      - Rare
+      - Rare:
         - url:
           - <https://www.rare-champagne.com/millesimes>
   - Pommery:
