@@ -1,0 +1,186 @@
+# Champagne Houses
+
+list of the tete de cuvee and other notable wine by region and house. A first start to later fill out.
+
+- Aÿ:
+  - Ayala:
+    - Perle d'Ayala 2015:
+      - url:
+        - <https://www.champagne-ayala.fr/en/champagne/perle-dayala/>
+  - Bollinger:
+    - Tete de Cuvee:
+      - la grande annee:
+        - url:
+          - <https://www.champagne-bollinger.com/champagne#la-grande-annee>
+      - Vieilles Vignes Francaises:
+        - url:
+          - <https://www.champagne-bollinger.com/la-collection/vieilles-vignes-francaises>
+      - R.D.:
+        - url:
+          - <https://www.champagne-bollinger.com/champagne#bollinger-rd>
+  - Deutz:
+    - Tete de Cuvee:
+      - Amour de Deutz:
+        - url:
+          - <https://www.champagne-deutz.com/en/produits/cuvee-prestige-amour-deutz>
+- Mareuil-sur-Aÿ:
+  - Billecart-Salmon:
+    - Clos St Hilare:
+      - <https://www.champagne-billecart.fr/en/the-house/clos-saint-hilaire-en>
+- Èpernay:
+  - Gosset:
+    - Celebris:
+      - <https://www.champagne-gosset.com/en/gosset-celebris/gosset-celebris-vintage-2008/>
+    - Grand Millésime:
+      - <https://www.champagne-gosset.com/en/our-champagne-wines/gosset-grand-millesime-2016/>
+  - Heidsieck & Co Monopole:
+  - Moët & Chandon:
+    - Dom Perignon:
+      - url:
+        - <https://www.domperignon.com/product/vintage>
+  - Perrier Jouët:
+    - Tete de Cuvee:
+      - Belle Époque:
+        - BdB:
+          - url:
+            - <https://www.perrier-jouet.com/en-ww/collection/champagnes-bruts>
+        - Brut:
+          - url:
+            - <https://www.perrier-jouet.com/en-ww/collection/champagnes-bruts>
+        - Rosé:
+          - url:
+            - <https://www.perrier-jouet.com/en-ww/collection/champagnes-roses>
+  - Pol Roger:
+    - Tete de Cuvee:
+      - Sir Winston Churchill:
+        - url:
+          - <http://m.polroger.com/en/champagnes/4/cuvee-sir-winston-churchill>
+- Reims:
+  - Charles Hiedsieck:
+    - Tete de Cuvee:
+      - Blanc des Millénaires:
+        - url:
+          - <https://charlesheidsieck.com/en/wines/blanc-des-millenaires-2014>
+        - desc:
+          - Blanc de Blanc
+          - villages:
+            - Vertus
+            - Le Mesnil-sur-Oger
+            - Oger
+            - Avize
+            - Cramant
+          - 8 vintages: 2014, 2007, 2006, 2004, 1995, 1990, 1985, 1983
+  - Krug:
+    - house wine:
+      - Grand Cuvee:
+        - desc:
+          - New edition every year
+          - blend of over 120 individual base wines
+          - blend of over 10 different vintages
+          - Brut sweetness ^[[Champagne 411](https://www.champagne411.com/krug/grand-cuvee.html)]
+        - releases:
+          - eme172:
+            - url:
+              - <https://www.krug.com/en-int/champagne/krug-grande-cuvee-172eme-edition>
+            - desc:
+              - 2016 harvest composes the core wine
+              - 146 wines
+              - 11 vintages: 1998 - 2016
+              - 42% reserve wine
+              - 44% PN, 36% CH, 20% Meu
+    - Tete de Cuvee:
+      - Clos du Mesnil:
+        - url:
+          - <https://www.krug.com/en-int/champagne/krug-clos-du-mesnil-2008>
+        - desc:
+          - Located in Le Mesnil-sur-Oger (Côte des Blancs)
+          - Blanc de Blanc
+          - been made since 1979
+          - pair with oysters, halibut, John Dory
+        - releases:
+          - 2008:
+            - character_desc:
+              - text:
+                - Aroma:
+                  - lime zest
+                  - citrus oil
+                  - salt
+                  - marzipan
+                  - orchard fruit
+                  - brioche
+                  - pastry
+                - Palette:
+                  - iodine
+                  - full bodied
+                  - structured
+                  - sea characters
+                  - minerality
+                  - see nose for fruit desc.
+              - source:
+                - <https://www.cellartracker.com/wine.asp?iWine=4408056&searchId=1092093D%23selected%253DW4408056_2_K715d48c6080242539c16009f5cc55e5d>
+  - Lanson:
+    - Tete de Cuvee:
+      - Noble Cuvée:
+        - url:
+          - <https://www.noblechampagne.com/index-fr.php>
+  - GH Mumm:
+    - Tete de Cuvee:
+      - Mumm de Cremant:
+      - Cuvée Lalou:
+        - url:
+          - <https://www.mumm.com/en-ww/product/lalou-2008/>
+  - Piper-Heidsieck:
+    - Tete de Cuvee:
+      - Vintage:
+        - url:
+          - <https://www.piper-heidsieck.com/en/vintage>
+      - Rare
+        - url:
+          - <https://www.rare-champagne.com/millesimes>
+  - Pommery:
+    - Tete de Cuvee:
+      - Cuvèe Louise:
+        - url:
+          - <https://www.champagnepommery.com/wines/louise>
+  - Louis Roderer:
+    - Tete de Cuvee:
+      - Cristal:
+        - url:
+          - <https://www.louis-roederer.com/en/wine/cristal>
+  - Ruinart:
+    - Tete de Cuvee:
+      - Dom Ruinart:
+        - bdb:
+          - url:
+            - <https://www.ruinart.com/en-int/cpdomruinartblancdeblancs2013.html>
+        - rose:
+          - url:
+            - <https://www.ruinart.com/en-int/cpdomruinartrose2009.html>
+  - Taittinger:
+    - Tete de Cuvee:
+      - Comtes de Champagne:
+        - url:
+          - <https://www.taittinger.com/en/comtes-de-champagne>
+  - Veuve Cliquot:
+    - Tete de Cuvee:
+      - La Grande Dame (blanc, rosé):
+        - url:
+          - <https://www.veuveclicquot.com/en-au/la-grande-dame/>
+- Marne:
+  - Joseph Perrier:
+    - Tete de Cuvee:
+      - Josephine:
+        - url:
+          - <https://www.josephperrier.com/en/produit/josephine-2014/>
+- Tours-sur-Marne:
+  - Laurent-Perrier:
+    - Tete de Cuvee:
+      - Grand Siècle:
+        - url:
+          - <https://www.laurent-perrier.com/en/champagnes/grand-siecle/>
+- Le Mesnil-sur-Oger:
+  - Salon:
+    - Tete de Cuveee:
+      - Champagne Salon:
+        - url:
+          - <https://www.champagne-salon.fr/fr#millesimes>
