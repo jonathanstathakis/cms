@@ -1,0 +1,80 @@
+# Cocktails
+
+- cocktails:
+  - source:
+    - url:
+      - <https://courtofmastersommeliers.org/wp-content/uploads/2023/05/Classic-cocktails.pdf>
+  - cocktails:
+    - gin based:
+      - classic gin martini:
+        - ingredients:
+          - gin:
+            - volume:
+              - 60
+          - noilly prat:
+            - volume:
+              - 5
+        - glass:
+          - martini glass
+        - preparation method:
+          - shake and strain
+        - garnish:
+          - lemon twist
+          - olive
+      - Vesper Martini:
+        - ingredients:
+          - gin:
+            - volume:
+              - 90
+          - vodka:
+            - volume:
+              - 30
+          - lillet blanc:
+            - volume:
+              - 15
+        - glass:
+          - martini glass
+        - preparation method:
+          - shake and strain
+        - garnish:
+          - lemon twist
+      - Negroni:
+        - ingredients:
+          - gin:
+            - volume:
+              - 45
+          - campari:
+            - volume:
+              - 45
+          - red vermouth:
+            - volume:
+              - 45
+          - soda water:
+            - optional
+        * glass:
+          - highball
+        * preparation method:
+          - build
+        * garnish:
+          - slice of lemon and orange
+      - John/Tom Collins:
+        - ingredients:
+          - gin:
+            - volume:
+              - 120
+          - lemon juice:
+            - volume:
+              - 22.5
+          - sugar syrup:
+            - volume:
+              - 5
+          - soda water:
+            - volume:
+              - top
+        - glass:
+          - highball
+        - garnish:
+          - twist of lemon
+        - preparation method:
+          - build
+    -
