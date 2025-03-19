@@ -51,11 +51,11 @@
               - 45
           - soda water:
             - optional
-        * glass:
+        - glass:
           - highball
-        * preparation method:
+        - preparation method:
           - build
-        * garnish:
+        - garnish:
           - slice of lemon and orange
       - John/Tom Collins:
         - ingredients:
@@ -77,4 +77,423 @@
           - twist of lemon
         - preparation method:
           - build
-    -
+      - White Lady:
+        - ingredients:
+          - gin:
+            - volume:
+              - 60
+          - lemon juice:
+            - volume:
+              - 22.5
+          - cointreau:
+            - volume:
+              - 22.5
+          - caster sugar:
+            - volume:
+              - 5
+          - egg white:
+            - units:
+              - 1
+        * preparation method:
+          - shake and strain
+        * glass:
+          - martini
+      - Pink Gin:
+        - ingredients:
+          - gin:
+            - volume:
+              - 120
+          - angostura bitters:
+            - units:
+              - 2
+        - preparation method:
+          - chill martini glass
+          - coat glass with bitters
+          - discard excess bitters
+          - add gin
+        - glass:
+          - martini glass
+      - Singapore Gin Sling:
+        - ingredients:
+          - gin:
+            - volume:
+              - 60
+          - cointreau:
+            - volume:
+              - 15
+          - lime juice:
+            - volume:
+              - 45
+          - caster sugar:
+            - unit:
+              - 1
+          - sugar syrup:
+            - volume:
+              - 5
+          - cherry herring:
+            - volume:
+              - 22.5
+        - preparation method:
+          - shake gin, cointreau, lime juice, caster sugar and sugar syrup
+          - strain into collins glass
+          - top with soda
+          - float chery herring
+          - garnish
+        - glass:
+          - collins glass
+        - garnish:
+          - lime
+      - bronx:
+        - ingredients:
+          - gin:
+            - volume:
+              - 60
+          - vermouth (dry):
+            - volume:
+              - 15
+          - vermouth (sweet):
+            - volume:
+              - 15
+          - orange juice:
+            - volume:
+              - 15
+        - preparation method:
+          - shake and strain
+        - glass:
+          - martini
+        - garnish:
+          - cherry
+      - gimlet:
+        - ingredients:
+          - gin:
+            - volume:
+              - 67.25
+          - lime cordial (Rose's):
+            - volume:
+              - 22.5
+        - preparation method:
+          - shake and strain
+        - glass:
+          - martini
+      - french 75:
+        - ingredients:
+          - gin:
+            - volume:
+              - 60
+          - lemon juice:
+            - volume:
+              - 15
+          - sugar syrup:
+            - volume:
+              - 5
+          - champagne:
+            - volume:
+              - top
+      - preparation method:
+        - shake gin, lemon juice, sugar syrup
+        - strain into champagne glass
+        - top with champagne
+        - garnish
+      - glass:
+        - champagne
+      - garnish:
+        - lemon twist
+  - vodka based cocktails:
+    - classic vodka martini:
+      - ingredients:
+      * vodka:
+        - volume:
+          - 60
+      * noilly prat:
+        - volume:
+          - 5
+    - preparation method:
+      - shake and strain
+    - glass:
+      - martini
+    - garnish:
+      - 1:
+        - olive
+      - 2:
+        - lemon twist
+    - bloody mary:
+      - ingredients:
+        - vodka:
+          - volume:
+            - 60
+        - tomato juice:
+          - volume:
+            - 120
+        - lemon juice:
+          - volume:
+            - 15
+        - worcestershire sauce:
+          - volume:
+            - 5
+        - spices:
+          - optional
+      - preparation method:
+        - build
+      - glass:
+        - highball
+      - garnish:
+        - 1. slice of lemon and celery stick
+        - 2. nothing
+    - cosmopolitan:
+      - ingredients:
+        - vodka:
+          - volume:
+            - 60
+        - cointreau:
+          - volume:
+            - 30
+        - lime juice:
+          - volume:
+            - 15
+        - cranberry juice:
+          - volume:
+            - splash
+      - preparation method:
+        - shake and strain
+      - glass:
+        - martini
+      - garnish:
+        - orange twist
+    - seabreeze:
+      - ingredients:
+        - vodka:
+          - volume:
+            - 60
+        - cranberry juice:
+          - volume:
+            - 60
+        - grapefruit juice:
+          - volume:
+            30
+      - preparation method:
+        - shake and strain
+      - glass:
+        - martini
+      - garnish:
+        - orange twist
+    - harvey wallbanger:
+      - ingredients:
+        - vodka:
+          - volume:
+            - 45
+        - galliano:
+          - volume:
+            - 7.5
+        - orange juice:
+          - volume:
+            - 105
+      - preparation method:
+        - shake and strain
+      - glass:
+        - highball
+    - screwdriver:
+      - ingredients:
+        - vodka:
+          - volume:
+            - 60
+        - orange juice:
+          - volume:
+            - 120
+      - preparation method:
+        - build
+      - glass:
+        - highball
+      - garnish:
+        - orange slice
+    - french martini:
+      - ingredients:
+        - vodka:
+          - volume:
+            - 60
+        - chambord:
+          - volume:
+            - dash
+        - pineapple juice:
+          - volume:
+            - dash
+      - preparation method:
+        - shake and strain
+      - glass:
+        - martini
+    - godmother:
+      - ingredients:
+        - vodka:
+          - volume:
+            - 60
+        - amaretto:
+          - volume:
+            - 30
+      - preparation method:
+        - build
+      - glass:
+        - old fashioned
+  - tequila based cocktails:
+    - tequila sunrise:
+      - tequila:
+        - volume:
+          - 60
+      - orange juice:
+        - volume:
+          - 105
+      - lime:
+        - volume:
+          - dash
+      - grenadine:
+        - volume:
+          - dash
+    - preparation method:
+      - build ingredients bar grenadine
+      - slow pour grenadine to finish
+    - glass:
+      - highball
+    - margarita:
+      - ingredients:
+        - tequila:
+          - volume:
+            - 60
+        - cointreau:
+          - volume:
+            - 30
+        - lime juice:
+          - volume:
+            - 30
+      - preparation method:
+        - shake and strain
+      - glass:
+        - martini
+      - garnish:
+        - salt on rim of glass (optional)
+    - matador:
+      - ingredients:
+        - tequila:
+          - volume:
+            - 60
+        - cointreau:
+          - volume:
+            - 7.5
+        - lime juice:
+          - volume:
+            - 7.5
+        - sugar syrup:
+          - volume:
+            - 5
+      - preparation method:
+        - build
+      - glass:
+        - highball
+      - garnish:
+        - rim glass with sugar
+    - rosalita:
+      - ingredients:
+        - tequila:
+          - volume:
+            - 22.5
+        - vermouth (dry):
+          - volume:
+            - 7.5
+        - vermouth (sweet):
+          - volume:
+            - 7.5
+        - campari:
+          - volume:
+            - 7.5
+      - preparation method:
+        - shake and strain
+      - glass:
+        - martini
+  - sparking wine-based cocktails:
+    - black velvet:
+      - ingredients:
+        - guinness:
+          - volume:
+            - 90
+        - champagne:
+          - volume:
+            - 90
+      - preparation method:
+        - build
+      - glass:
+        - 1. beer
+        - 2. highball
+    - bellini:
+      - ingredients:
+        - peach purée
+        - lemon juice:
+          - volume:
+            - dash
+        - peach brandy:
+          - volume:
+            - dash
+        - prosecco/champagne:
+          - volume:
+            - top
+      - preparation method:
+        - build
+      - glass:
+        - champagne
+    - buck's fizz:
+      - ingredients:
+        - orange juice:
+          - volume:
+            - 60
+        - champagne:
+          - volume:
+            - top
+      - preparation method:
+        - build
+      - glass:
+        - champagne
+    - mimosa:
+      - ingredients:
+        - orange juice:
+          - volume:
+            - 60
+        - curacao (orange):
+          - volume:
+            - dash
+        - champagne:
+          - volume:
+            - top
+      - preparation method:
+        - build
+      - glass:
+        - champagne
+    - kir royal:
+      -
+    - champagne cocktail
+  - misc. cocktails:
+    - long island iced tea
+    - americano
+    - grasshopper
+    - golden cadillac
+  - rum-based cocktails:
+    - caipirinha
+    - mojito
+    - cuba libre
+    - daiquiri
+    - mai tai
+    - piña colada
+  - brandy-based cocktails:
+    - brandy alexander
+    - pousse café
+    - horse's neck
+    - side car
+    - french connection
+    - deauville
+    - stinger
+  - whisky based cocktails:
+    - rye highball
+    - manhatten
+    - rob roy
+    - old fashioned
+    - rusty nail
+    - whisky sour
+    - godfather
+    - sazerac
+    - affinity
+    - brooklyn
