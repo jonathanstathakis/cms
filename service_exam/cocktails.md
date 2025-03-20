@@ -7,22 +7,25 @@
   - cocktails:
     - gin based:
       - classic gin martini:
-        - ingredients:
+        - description:
+          - classic gin martini. Ask guest if they want a lemon twist or olive garnish.
+        * ingredients:
           - gin:
             - volume:
               - 60
           - noilly prat:
             - volume:
               - 5
-        - glass:
+        * glass:
           - martini glass
-        - preparation method:
+        * preparation method:
           - shake and strain
-        - garnish:
+        * garnish:
           - lemon twist
           - olive
       - Vesper Martini:
-        - ingredients:
+        - james bond cocktail made iwth gin, vodka and lillet blanc, a french apertific.
+        * ingredients:
           - gin:
             - volume:
               - 90
@@ -32,14 +35,16 @@
           - lillet blanc:
             - volume:
               - 15
-        - glass:
+        * glass:
           - martini glass
-        - preparation method:
+        * preparation method:
           - shake and strain
-        - garnish:
+        * garnish:
           - lemon twist
       - Negroni:
-        - ingredients:
+        - description:
+          - italian aperitif made from gin, campari and sweet red vermouth. Optionally can be served with soda water.
+        * ingredients:
           - gin:
             - volume:
               - 45
@@ -51,14 +56,16 @@
               - 45
           - soda water:
             - optional
-        - glass:
+        * glass:
           - highball
-        - preparation method:
+        * preparation method:
           - build
-        - garnish:
+        * garnish:
           - slice of lemon and orange
       - John/Tom Collins:
-        - ingredients:
+        - description:
+          - long sour gin cocktail made with gin, lemon, sugar and soda.
+        * ingredients:
           - gin:
             - volume:
               - 120
@@ -71,14 +78,16 @@
           - soda water:
             - volume:
               - top
-        - glass:
+        * glass:
           - highball
-        - garnish:
+        * garnish:
           - twist of lemon
-        - preparation method:
+        * preparation method:
           - build
       - White Lady:
-        - ingredients:
+        - description:
+          - gin sour with gin, lemon, cointreau and egg white for froth.
+        * ingredients:
           - gin:
             - volume:
               - 60
@@ -94,27 +103,29 @@
           - egg white:
             - units:
               - 1
-        * preparation method:
+        - preparation method:
           - shake and strain
-        * glass:
+        - glass:
           - martini
       - Pink Gin:
-        - ingredients:
+        - Stiff gin cocktail flavoured with angostura bitters.
+        * ingredients:
           - gin:
             - volume:
               - 120
           - angostura bitters:
             - units:
               - 2
-        - preparation method:
+        * preparation method:
           - chill martini glass
           - coat glass with bitters
           - discard excess bitters
           - add gin
-        - glass:
+        * glass:
           - martini glass
       - Singapore Gin Sling:
-        - ingredients:
+        - long gin cocktail with gin, cointreau, lime and a cherry herring float.
+        * ingredients:
           - gin:
             - volume:
               - 60
@@ -133,18 +144,20 @@
           - cherry herring:
             - volume:
               - 22.5
-        - preparation method:
+        * preparation method:
           - shake gin, cointreau, lime juice, caster sugar and sugar syrup
           - strain into collins glass
           - top with soda
           - float chery herring
           - garnish
-        - glass:
+        * glass:
           - collins glass
-        - garnish:
+        * garnish:
           - lime
       - bronx:
-        - ingredients:
+        - description:
+          - aromatic gin cocktail with dry and sweet vermouth and orange juice served up.
+        * ingredients:
           - gin:
             - volume:
               - 60
@@ -157,26 +170,29 @@
           - orange juice:
             - volume:
               - 15
-        - preparation method:
+        * preparation method:
           - shake and strain
-        - glass:
+        * glass:
           - martini
-        - garnish:
+        * garnish:
           - cherry
       - gimlet:
-        - ingredients:
+        - sour, stiff gin cocktail with gin and lime cordial served up.
+        * ingredients:
           - gin:
             - volume:
               - 67.25
           - lime cordial (Rose's):
             - volume:
               - 22.5
-        - preparation method:
+        * preparation method:
           - shake and strain
-        - glass:
+        * glass:
           - martini
       - french 75:
-        - ingredients:
+        - description:
+          - gin and champagne cocktail flavored with lemon juice and balanced with sugar, served in a champagne glass.
+        * ingredients:
           - gin:
             - volume:
               - 60
@@ -200,13 +216,15 @@
         - lemon twist
   - vodka based cocktails:
     - classic vodka martini:
-      - ingredients:
-      * vodka:
-        - volume:
-          - 60
-      * noilly prat:
-        - volume:
-          - 5
+      - description:
+        - classic dry vodka martini, served up. Ask guest if they'd like a lemon twist or an olive garnish.
+      * ingredients:
+        - vodka:
+          - volume:
+            - 60
+        - noilly prat:
+          - volume:
+            - 5
     - preparation method:
       - shake and strain
     - glass:
@@ -217,7 +235,9 @@
       - 2:
         - lemon twist
     - bloody mary:
-      - ingredients:
+      - description:
+        - long vodka and tomato juice cocktail flavored with lemon, worcestershire sauce and spices, optionally. Garnished with a lemon slice and celary stick.
+      * ingredients:
         - vodka:
           - volume:
             - 60
@@ -232,15 +252,17 @@
             - 5
         - spices:
           - optional
-      - preparation method:
+      * preparation method:
         - build
-      - glass:
+      * glass:
         - highball
-      - garnish:
+      * garnish:
         - 1. slice of lemon and celery stick
         - 2. nothing
     - cosmopolitan:
-      - ingredients:
+      - description:
+        - a fresh and fruity vodka cocktail flavored with cointreau, lime and cranberry juice, served up.
+      * ingredients:
         - vodka:
           - volume:
             - 60
@@ -253,14 +275,16 @@
         - cranberry juice:
           - volume:
             - splash
-      - preparation method:
+      * preparation method:
         - shake and strain
-      - glass:
+      * glass:
         - martini
-      - garnish:
+      * garnish:
         - orange twist
     - seabreeze:
-      - ingredients:
+      - description:
+        - a fruity vodka cocktail made from vodka, cranberry and grapefruit juice, shaken and served up.
+      * ingredients:
         - vodka:
           - volume:
             - 60
@@ -270,14 +294,16 @@
         - grapefruit juice:
           - volume:
             30
-      - preparation method:
+      * preparation method:
         - shake and strain
-      - glass:
+      * glass:
         - martini
-      - garnish:
+      * garnish:
         - orange twist
     - harvey wallbanger:
-      - ingredients:
+      - description:
+        - long vodka and orange juice cocktail flavored with galliano.
+      * ingredients:
         - vodka:
           - volume:
             - 45
@@ -287,26 +313,30 @@
         - orange juice:
           - volume:
             - 105
-      - preparation method:
+      * preparation method:
         - shake and strain
-      - glass:
+      * glass:
         - highball
     - screwdriver:
-      - ingredients:
+      - description:
+        - long orange juice cocktail spiked with vodka and garnished with an orange slice.
+      * ingredients:
         - vodka:
           - volume:
             - 60
         - orange juice:
           - volume:
             - 120
-      - preparation method:
+      * preparation method:
         - build
-      - glass:
+      * glass:
         - highball
-      - garnish:
+      * garnish:
         - orange slice
     - french martini:
-      - ingredients:
+      - description:
+        - vodka cocktail with a dash of chambord and pineapple juice, shaken and served up.
+      * ingredients:
         - vodka:
           - volume:
             - 60
@@ -316,24 +346,28 @@
         - pineapple juice:
           - volume:
             - dash
-      - preparation method:
+      * preparation method:
         - shake and strain
-      - glass:
+      * glass:
         - martini
     - godmother:
-      - ingredients:
+      - description:
+        - vodka and amaretto digestif built in an old fashioned glass.
+      * ingredients:
         - vodka:
           - volume:
             - 60
         - amaretto:
           - volume:
             - 30
-      - preparation method:
+      * preparation method:
         - build
-      - glass:
+      * glass:
         - old fashioned
   - tequila based cocktails:
-    - tequila sunrise:
+    - description:
+      - long juicy cocktail of tequila, orange juice, and lime with a grenadine sink.
+    * tequila sunrise:
       - tequila:
         - volume:
           - 60
@@ -346,13 +380,15 @@
       - grenadine:
         - volume:
           - dash
-    - preparation method:
+    * preparation method:
       - build ingredients bar grenadine
       - slow pour grenadine to finish
-    - glass:
+    * glass:
       - highball
-    - margarita:
-      - ingredients:
+    * margarita:
+      - description:
+        - classic sour cocktail with tequila, cointreau and lime juice served up, optionally with salt on the rim.
+      * ingredients:
         - tequila:
           - volume:
             - 60
@@ -362,14 +398,16 @@
         - lime juice:
           - volume:
             - 30
-      - preparation method:
+      * preparation method:
         - shake and strain
-      - glass:
+      * glass:
         - martini
-      - garnish:
+      * garnish:
         - salt on rim of glass (optional)
-    - matador:
-      - ingredients:
+    * matador:
+      - description:
+        - long tequila drink modified with cointreau, lime juice, and sugar syrup with a sugar rim.
+      * ingredients:
         - tequila:
           - volume:
             - 60
@@ -382,14 +420,15 @@
         - sugar syrup:
           - volume:
             - 5
-      - preparation method:
+      * preparation method:
         - build
-      - glass:
+      * glass:
         - highball
-      - garnish:
+      * garnish:
         - rim glass with sugar
-    - rosalita:
-      - ingredients:
+    * rosalita:
+      - stiff tequila aperitif with dry and sweet vermouth and campari, served up.
+      * ingredients:
         - tequila:
           - volume:
             - 22.5
@@ -402,26 +441,29 @@
         - campari:
           - volume:
             - 7.5
-      - preparation method:
+      * preparation method:
         - shake and strain
-      - glass:
+      * glass:
         - martini
   - sparking wine-based cocktails:
     - black velvet:
-      - ingredients:
+      - decadent long drink of equal parts guinness and champagne.
+      * ingredients:
         - guinness:
           - volume:
             - 90
         - champagne:
           - volume:
             - 90
-      - preparation method:
+      * preparation method:
         - build
-      - glass:
+      * glass:
         - 1. beer
         - 2. highball
     - bellini:
-      - ingredients:
+      - description:
+        - sparkling wine cocktail with peach puree, fortified with peach brandy
+      * ingredients:
         - peach purée
         - lemon juice:
           - volume:
@@ -432,24 +474,27 @@
         - prosecco/champagne:
           - volume:
             - top
-      - preparation method:
+      * preparation method:
         - build
-      - glass:
+      * glass:
         - champagne
     - buck's fizz:
-      - ingredients:
+      - description:
+        - orange juice topped with champagne, served in a champagne glass.
+      * ingredients:
         - orange juice:
           - volume:
             - 60
         - champagne:
           - volume:
             - top
-      - preparation method:
+      * preparation method:
         - build
-      - glass:
+      * glass:
         - champagne
     - mimosa:
-      - ingredients:
+      - orange juice topped with champagne and foritfied with orange curacao, served in a champagne glass.
+      * ingredients:
         - orange juice:
           - volume:
             - 60
@@ -459,12 +504,11 @@
         - champagne:
           - volume:
             - top
-      - preparation method:
+      * preparation method:
         - build
-      - glass:
+      * glass:
         - champagne
-    - kir royal:
-      -
+    - kir royal
     - champagne cocktail
   - misc. cocktails:
     - long island iced tea
