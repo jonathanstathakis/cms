@@ -1,0 +1,68 @@
+# Wine Pairing
+
+- key considerations:
+  - flavor
+  - texture
+  - taste:
+    - sweet
+    - sour
+    - salty
+    - bitter
+    - heat
+  - acidity:
+    - ultimate contrast
+    - balance high acid ingredients
+    - highlights core focal point ingredients
+  - sugar:
+    - required for sweet foods
+    - counters aromatic heat i.e. chilli - Provencal, Italian, North African
+    - can balance salt
+  - Alcohol:
+    - balance weight/body
+    - is easily accentuated by salt, heat etc.
+  - oak
+  - tannin:
+    - always counterbalanced by protein/fat
+    - fades with age
+  - key points:
+    - weight with weight
+    - acid loves and needs acidity
+    - fish oils love acidity, hate tannin
+    - tannin loves fat, hates fish oil
+    - acidity can cut saltiness
+    - sweet needs sweet
+    - intensity couples intensity
+    - alcohol and spice is bad, both are accentuated
+    - sugar neutralises spice
+  - pair reds with bold-flavored meats
+  - pair whites with light=intensity meats i.e. fish, chicken
+  - bitterness in wine is balanced with fat
+  - match the sauce rather than the meat
+  - white, sparkling and rosé create complementary pairings (few shared characters, increasing the complexity of the overall flavour scape)
+  - reds tend to create congruent pairings (lots of shared characters)
+  - consider:
+    - salt
+    - acid
+    - sweet
+    - bitter
+    - fat
+    - spice
+  - wines can be grouped into 3 main categories based on taste:
+    - bitterness: red wines
+    - acidity: white, rosé and sparkling
+    - sweet: sweet wines
+  - when considering the dish, identify its dominant tastes:
+    - beef wellington:
+      - fat
+      - umami
+      - salty
+  - find complementary or Congruent pairings. E.g. mac and cheese:
+    - complementary pairing: SB. Acidity, fruit and floral character expands the flavorscape while working well with the fattiness
+    - congruent pairing: creamy rich chardonnay shares many similarities with the dish, enhancing the already present character.
+  - consider distinctive elements, for example smoky gouda or hazelnuts
+  -
+
+## Sources
+
+- [cms](https://courtofmastersommeliers.org/wp-content/uploads/foodandwine.pdf)
+- [winefolly](https://winefolly.com/wine-pairing/getting-started-with-food-and-wine-pairing/)
