@@ -137,6 +137,8 @@ Crus:
 
 ### Calvados
 
+Note: this format currently (25-03-24) differs from the other sections as in an attempt to match markdown spec I am using level 1 bullets rather than headings for each of the subtopics.
+
 - from Normandy
 - brandy made from apples and/or pears
 - first record of distillation in 1553.
@@ -150,7 +152,7 @@ Crus:
     - single continuous distillation in column still
   - double distillation required for _Calvados Pays d'Auge_
 - Appellations:
-  - Calvados AOC:
+  - Calvados AOC departments:
     - Calvados
     - Manche
     - Orne
@@ -165,7 +167,7 @@ Crus:
     - farm-made
     - made on farm
     - production in traditional, agricultural manner
-- quality:
+- quality/ageing:
   - two years of age:
     - VS
     - Trois étoiles \*\*\*
@@ -186,14 +188,12 @@ Crus:
     - Napoléon
     - _Hors d'Auge_
     - _Tres Vielle Reserve_
+- producers:
+  - Eric Bordelet
+  - Boulard
+  - Charles de Granville
 
-#### Methods of Production
-
-#### Qualities
-
-#### Terms Used In Prod
-
-#### Ageing
+![map of Calvados](/Users/jonathan/jonathan/cms/cms/map_calvados.jpg)
 
 ### Tequila
 
