@@ -1,0 +1,346 @@
+# GuildSomm Austria
+
+Reading notes from [Germany, Austria and Switzerland](https://www.guildsomm.com/learn/study/w/study-wiki/164/germany-austria-and-switzerland), specifically Austria.
+
+- Vineyard area confined to eastern portion
+- 4 winemaking regions _Weinbaugebiete_ (north to south):
+  - Niederösterreich (Lower Austria)
+  - Wien (Vienna)
+  - Burgenland
+  - Steiermark (Styria)
+- Niederösterreich + Burgenland = 90% of vineyards.
+- GV 31% of total vineyard area
+- GV indigenous to Austria.
+- varieties of Austria:
+  - white:
+    - GV
+    - Welschriesling
+    - Müller Thurgau
+    - Weißburgunder
+    - Riesling
+    - Chardonnay (mirillon, Feinburgunder)
+  - red:
+    - Zweigelt (Blaufränkisch x St. Laurent)
+    - Blaufränkish
+    - St. Laurent
+    - Blauer Portugieser
+    - Blauburger (Blaurer Portugieser x Blaufränkish)
+- 67% white to 33% red plantings
+- quality:
+  - 3 levels of wine quality: _Wein_, _Landwein_, _Qualitätswein_.
+  - _Qualitätswein_:
+    - fruit sourced from single _Weinbaugebiet_ or subregions
+    - made from 40+ grapes
+    - 80% of Austrias production
+    - must pass a tasting panel and chemical analysis
+    - label contains a _Prüfnummer_ (State Control Number) and red and white **banderole**.
+    - subcategories:
+      - Prädikatswein:
+        - similar to German Prädikatswein
+        - minimum alcohol of 5%
+        - does not include Kabinett
+        - strohwein:
+          - sweet wine made using dried grapes, at least as swwet as Beerenauslese
+        - Ausbruch:
+          - speciality of Rust
+        - sweet wines are made around the lake of Neusiedlersee in Burgenland
+      - Districtus Austriae Controllatus (DAC):
+        - dry wines
+        - imitation of French and Italian quality systems
+        - 18 DAC:
+          - Weinviertel DAC
+          - Muttelburgenland DAC
+          - Traisental DAC
+          - Kremstal DAC
+          - Kamptal DAC
+          - Leithaberg DAC
+          - Eisenberg DAC
+          - Neusiedlersee DAC
+          - Wiener Gemischter Satz DAC
+          - Rosalia DAC
+          - Vulkanland Steiermark DAC
+          - Südsteiermark DAC
+          - Weststeiermark DAC
+          - Carnuntum DAC
+          - Wachau DAC
+          - Ruster Ausbruch DAC
+          - Wagram DAC
+          - Thermenregion DAC
+  - _Wein_:
+    - label contains: vintage date and variety
+    - label can only state that the wine is from _Österreich_.
+  - _Landwein_:
+    - same 40 varieties as _Qualitätswein_
+    - label can only specify one of three geographic areas (_Weinbauregionen_):
+      - Weinland: Niederösterreich, Wien and Burgenland
+      - Steirerland: Steiermark
+      - Bergland: remaining vineyard area not covered by the other two, generally throughout the mountains
+  - maximum yield of 9000 kg/ha for all quality levels
+  - minimum must weight increases with quality level.
+- Sekt:
+  - Austrian Sekt PDO:
+    - PDOs:
+      - Sekt Austria
+      - Sekt Austria Reserve
+      - Sekt Austria Grosse Reserve
+    - Sekt Austria PDO:
+      - requires that the grapes from from Austria
+      - 9 motnhs on lees if producted in traditional method
+      - 6 months on lees for tank metod
+      - tan, transfer and traditional methods are allowed
+      - all dosage levels/styles and colors are allowed
+    - Sekt Austria Reserve and Grosse Reserve PDO:
+      - traditional method
+      - hand harvesting
+      - whole-cluster press
+      - fruit must be from Austria Federal states (?)
+      - 18 months on lees minimum
+      - Brut, Extra brut or Brut Nature
+      - can display village of origin on label
+    - Grosse Reserve PDO:
+      - single village origin
+      - must state village on label
+      - can also add vineyard names
+      - require 36 months on lees
+      - Must be maximum 12g/L residual, can be Brut, Extra Brut or Brut Nature
+    - general labeling:
+      - to diff. Sekt Austria PDO from Austrian Sekt, must carry the **banderole** red and white with _Geschützer Ursprung, geprüfte Qualität_ (protected designation of origin and certified quality)
+      - must have indiciation of quality level
+- Niederösterreich:
+  - largest winegrowing area in country
+  - Pannonian Plain
+  - loess soils
+  - continental climate:
+    - hot dry summers
+    - sever winters
+    - much more intense than Western Europe
+  - Subzones are located along the Danube
+  - Cut by the Danube River
+  - 8 subzones:
+    - Weinviertel DAC
+    - Carnuntum DAC
+    - Traisental DAC
+    - Wagram DAC
+    - Kremstal DAC
+    - Kamptal DAC
+    - Wachau DAC
+    - Thermenregion DAC
+  - Weinviertel DAC:
+    - Austria's first DAC
+    - located in hills north of Danube and Pannonian Plain
+    - relatively cooler
+    - fresh, lighter wines
+    - DAC wines must be from GV
+    - DAC wines must be at least 12% alcohol
+    - tasting panel enforces typicity:
+      - pepper character
+      - no wood
+      - no botrytis
+    - Reserve:
+      - fuller-bodied
+      - minium alcohol 13%
+      - can possess botrytis and wood as fuller character supports these notes
+  - Traisental and Kremstal DACa:
+    - GV or RI
+    - _Klassik_:
+      - 12% alcohol
+      - no botrytis or wood
+    - Reserve:
+      - 13% alcohol
+  - Kamptal DAC:
+    - permitted varieties:
+      - GV
+      - Riesling
+      - Chardonnay
+      - Weißburgunder
+      - PG
+    - GV displays more delicate spice than white pepper
+    - Important towns:
+      - Langenlois
+    - important vineyards:
+      - Heiligenstein
+      - Lamm
+      - Dechant
+      - labeling:
+        - producers may use _Ried_ where others would use _village_ to indicate a top site
+      - _Österreichische Traditionsweingüter_:
+        - association of producers who assign quality status to vineyards
+        - 81 vineyards can use an assigned _Erste Lage_ quality status
+        - not legally enforced
+  * Wachau DAC: many of the best vineyards are found here
+    - Wachau DAC is a narrow band of steep slopes between Melk and Krems following the banks of the Danube
+    - Danube River moderates the severe continental climate
+    - river and cool northern winds chill summer nights enabling grapes to retain acidtiy
+    - best land on terraced slopes on north bank of the river similar to Mosel
+    - soil: loess and _Gföhl_ (gneiss), alluvial sand in lower vineyards
+    - produces most extracted, ageworthy whites in Austria
+    - top vineyards:
+      - Achleiten in Weissenkirchen
+    - Top producers:
+      - Pichler
+      - Prager
+      - Emmerich Knoll
+    - Vinea Wachau:
+      - organisation of estates that follow natural winemaking according to Codex Wachau:
+        - no additives
+        - no aromatization
+        - no fractionation (de-alcoholisation)
+      - wines released by members must be bottled in region and vinified from grapes grown in Wachau
+      - founded in 1983
+      - control 85%+ of vineyards in Wachau
+    - Heirachy:
+      - _Gebietsweine_ (regional wines):
+        - 17 permitted varieties
+      - _Ortsweine_ (village wines):
+        - 9 varities
+      - _Riedenweine_ (single-vineyard):
+        - Riesling or GV
+        - no chaptalisation
+        - no oak
+    - must be hand-harvested
+    - Vinea Wachau styles:
+      - must be dry:
+        - levels:
+          - _Steinfelder_:
+            - named for a local grass in the area
+            - lightest style
+            - minimum must weight 15° KMW
+            - maxium alcohol 11.5%
+          - _Federspiel_:
+            - named for a medieval falconers lure
+            - minimum must weight of 17° KMW
+            - alcohol 11.5 - 12.5%
+          - _Smaragd_:
+            - named for an emerald lizard who basks on terraces
+            - minimum alcohol 12.5%
+            - minmum must wieght 18.2° KMW
+            - equivalent to Spätlese
+            - can reach high alcohol
+            - can shoe a high degree of extract
+            - can display notes of botrytis
+  * Wagram:
+    - lies upstream from Vienna
+    - GV main grape
+    - Roter Veltliner is a red grape produced as a white wine, a speciality of the area
+  * Thermenregion DAC:
+    - far from the Danube, no moderation of continental climate
+    - cultivates Rotgipfler and Zierfandler
+    - wines:
+      - mono-varietal
+      - Spätrot-Rotgipfler, a blend
+  * Carnuntum DAC:
+    - climate similar to Burgenland - sunny.
+    - focus on red wines from Zeigelt
+    - produce traditional field blend _Gemischeter Satz_
+- Burgenland:
+  - best reds and whites
+  - borders Hungary, shares viticultural and climatctic traits with those of Sopron
+  - Hot continental, Pannonian climate tempered by Neusiedlersee
+  - DAC zones:
+    - Mittelburgenland DAC
+    - Leithaberg DAC
+    - Eisenberg DAC
+    - Neusiedlersee DAC
+    - Rosalia DAC
+    - Rust DAC
+  - Muttelburgenland DAC:
+    - red wines from Blaufränkisch
+    - must be sold August 1 the year after harvest (9 months?)
+  - Reserve wines require 13%
+  - DAC requires large casks or old wood
+  - Leithaberg DAC:
+    - allows red and white wines
+    - whites:
+      - varietals:
+        - GV
+        - Chardonnay
+        - Neuburger
+        - Weißburgunder
+      - can be blends or mono-varietal
+    - reds:
+      - minimum 85% Blaufränkisch
+    - similar rules about wood as Mittelburgenland DAC
+  - Eisenberg DAC:
+    - red wines from Blaufränkisch
+  - reds of Burgenland:
+    - Blaufränkisch
+    - Zweigelt
+    - St. Laurent
+  - Neusiedlersee DAC:
+    - red wines based on Zweigelt
+    - classic or reserve qualities
+    - reserve requires a year before release
+    - sweet white wines:
+      - Alois Kracher estate:
+        - located in village of Illmitz
+        - produce eiswein, BA, and TBA
+        - famous for TBA Scheurebe
+  - Rosalia DAC:
+    - mono-varietal wine from:
+      - Blaufränkisch
+      - Zweigelt
+    - require 12% abv
+    - maximum 4 g/L residual sugar
+    - reserve:
+      - single vineyard (ried) can be on bottle
+      - minimum alcohol 13%
+    - rosé:
+      - made from a red Qualitätswein grape
+      - cannot label variety
+      - can label _ried_.
+    - Ruster Ausbruch DAC:
+      - made in Rust
+      - production:
+        - grapes harvested ast minimum 30° KMW
+        - made similar to Tokaji
+        - botyrtis-affected must is added to less concentrated must from fruit from same vineyard
+        - fermented together
+        - aged in barrel before release
+      - traditionally used Furmint, today:
+        - CH
+        - Muskateller
+        - PB
+        - Neuburger
+        - Welschriesling
+        - Traminer
+        - Pinot Gris
+- Styria (Steiermark):
+  - Mountainous region south of Burgenland
+  - three subregions:
+    - Südsteiermark DAC
+    - Weststeiermark DAC
+    - Vulkanland Steiermark DAC
+  - varities:
+    - SB (most common)
+    - Welschriesling
+    - Weißburgunder
+    - Traminer
+  - volcanic slopes
+  - SB best in Südsteiermark
+  - Manfred Tement is a notable producer of unoaked and barrique-aged SB
+  - Vulkanland Steiermark DAC:
+    - produces a rosé from Blauer Wildbacher that can be _Klassic_ or _Ried_.
+  - quality levels:
+    - levels:
+      - Regional wines
+      - _Ortswein_: village
+      - _Riedenwein_: single vineyard
+    - ortswein and riedenwein require aging and specific varieties
+- Wien (Vienna):
+  - lies on the Danube
+  - wines:
+    - Gemischter Satz
+    - Heuriger: _nouveau_ wines
+    - Sturm: half-fermented sparkling grape juice
+  - DAC:
+    - Gemischter Satz:
+      - white
+      - blend of 3 varities
+- St. Laurent:
+  - thin skinned
+  - low tannin
+- Blaufränkisch:
+  - known in Germany as Lemberger
+  - known in Hungary as Kékfrankos
+  - makes medium weight wines with supple texture, dep color, spicy red and black fruit
+-
