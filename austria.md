@@ -18,35 +18,39 @@
 
 ### Austrian Quality Structure Qba & QmP
 
-- QbA: Qualitätiswein Bestimmter Anbaugebiete:
-  - base:
-    - referred to as Qualitätswein
-    - German quality classification
-    - translates as: "quality wine from designated cultivation areas"
-    - can use chaptalization
-    - basic wine meant for everyday drinking
-    - grapes must be picked and wine vinified in a single winegrowing region OR in the winegrowing region bordering it
-    - produced from Qualitätswein grapes
-    - minimum of 9% ABV
-  - Kabinett:
-    - riper fruit
+- Austria has several interwoven quality systems, all of which are valid
+- One is the german styled Qualitätswein system
+- levels:
+  - 1. Landwein: equivalent to Vin de Pays, a IGP wine
+  - 2. QbA: Qualitätiswein Bestimmter Anbaugebiete:
+    - base:
+      - referred to as Qualitätswein
+      - German quality classification
+      - translates as: "quality wine from designated cultivation areas"
+      - can use chaptalization
+      - basic wine meant for everyday drinking
+      - grapes must be picked and wine vinified in a single winegrowing region OR in the winegrowing region bordering it
+      - produced from Qualitätswein grapes
+      - minimum of 9% ABV
+    - Kabinett:
+      - higher quality subset of Qualitätswein
+      * riper fruit
+      * no chaptalisation
+      * maximum of 13% ABV
+      * no sweetening
+      * wines that show a regional typicity.
+  - 3. QmP: Qualitätiswein mit Prädikat:
+    - old term for Prädikat.
+    - fruit for the wine is inspected and certified
     - no chaptalisation
-    - maximum of 13% ABV
-    - no sweetening
-  - DAC:
-    - wines that show a regional typicity.
-- QmP: Qualitätiswein mit Prädikat:
-  - old term for Prädikat.
-  - fruit for the wine is inspected and certified
-  - no chaptalisation
-  - residual sugar is only from interruption of fermentation
-  - categories:
-    - Spätlese
-    - Auslese
-    - Beernauslese
-    - Eiswein
-    - Strohwein/Schilfwein
-    - Trockenbeerenauslese
+    - residual sugar is only from interruption of fermentation
+    - categories (_Prädikats_) (increasing must weight):
+      - 1. Spätlese
+      - 2. Auslese
+      - 3. Beernauslese
+      - 4. Eiswein
+      - 5. Strohwein/Schilfwein
+      - 6. Trockenbeerenauslese/Ausbruch
 
 Sources:
 
@@ -77,16 +81,32 @@ Sources:
 ### DAC Quality Structure & Levels
 
 - Qualitätswein that meets additional regionally specific requirements can take on a DAC name
-- There are three levels of narrowing geographical specificity:
+- There are three levels of GI:
   - Gebietswein: regional wine
   - Ortswein: village wine
   - Riedenwein: single vineyard wine
+- there are two style levels as well:
+  - _Klassic_: light, fresh wine without any oak or botrytis
+  - _Reserve_: richer wine with oak or botrytis character
+- a full label might read _Riedenwein Reserve_ or _Gebietswein Klassic_.
 
 ### Wachau Quality Terms
 
-1. Steinfeder: max 11.5% abv, min 15° KMW
-2. Federspiel: 11.5 - 12.5% abv, min 17° KMW
-3. Smaragd: min 12.5% abv, min 18.2° KMW
+- Wachau System, created by _Vinea Wachau_, a winegrower alliance:
+  - 3 levels:
+    - steinfeder:
+      - fresh, fruity, tangy
+      - named for a grass that grows in Wachau's stony terraces
+      - max 11.5% abv, min 15° KMW
+    - federspiel:
+      - fuller level: 11.5% - 12.5% alcohol
+      - named for falconry
+      - 11.5 - 12.5% abv, min 17° KMW
+    - Smaragd:
+      - richest
+      - min 12.5% abv, min 18.2° KMW
+      - translates literally to emerald but refers to emerald-green lizard who sunbaths on the stone terraces of Wachau
+  - Typically riesling, GV or rosé made from Zweigelt.
 
 ### Principal Grape Varietals & Production Districts where Best Grown
 
@@ -134,33 +154,11 @@ Sources:
 
 - banderole:
   - red and white label on the capsule that indicates that the wine has passed Austria's stringent quality control.
-- DAC:
-  - Districtus Austriae Controllatus:
-    - region based appellation system
-    - _Klassik_: DAC _Klassik_ for lighter fruit driven wines
-    - _Reserve_: DAC _Reserve_ for fuller wines with possible oak or botrytis
-  - implies that the wine presents regional typicity
-  - follows certain defined restrictions to enforce typicity
-- sweetness level
+- DAC: see [DAC Quality Structure Levels](#dac-quality-structure-levels), [DAC Districts and Locations](#dac-districts-and-location)
+- Qualitätswein quality levels and indications. See [Austrian Quality Structure Qba & QmP](#austrian-quality-structure-qba-qmp)
 - erzeugerabfüllung: bottled at property
 - Quality control number
-- quality tier (choose one):
-  - Landwein: equivalent to Vin de Pays, a IGP wine
-  - Qualitätswein: level above Landwein, a regional wine made from one of the recognised winegrowing regions and from a restricted set of varieties
-  - Prädikatswein: indicates that the fruit is premium, measured on must weight. Divided into 5 levels, or _Prädikats_.
-- Wachau System, created by _Vinea Wachau_, a winegrower alliance:
-  - 3 levels:
-    - steinfeder:
-      - fresh, fruity, tangy
-      - named for a grass that grows in Wachau's stony terraces
-    - federspiel:
-      - fuller level: 11.5% - 12.5% alcohol
-      - named for falconry
-    - Smaragd:
-      - richest
-      - minimum 12% alcohol
-      - translates literally to emerald but refers to emerald-green lizard who sunbaths on the stone terraces of Wachau
-  - Typically riesling, GV or rosé made from Zweigelt.
+- Wachau Quality levels
 - Abfüller: bottler or shipper
 - Gutsabfüllung: producer bottled wine
 - halbtroken: medium dry
@@ -246,6 +244,8 @@ Sources:
 - dry reds.
 - dry sparkling whites.
 
+See other sections. Not sure what to put here.
+
 ### Wine Terms
 
 - Traubenmost: grape must from grapes harvested and pressed in Austria
@@ -255,16 +255,9 @@ Sources:
   - min 9% ABV
   - 3 ATM
   - any winemaking method
-- Reserve:
-  - minimum 13% abv for Qualitatswein
-- Trocken:
-  - dry
-  - max 9 g/L
-- Halbtrocken:
-  - off-dry
-  - max 18 g/L
 - Lieblich:
   - med-sweet
   - max. 45 g/L
 - Sweet:
   - min. 45 g/l
+- _Weinbaugebiete_: winemaking regions i.e. Niederösterreich, Wien, Burgenland, and Steiermark.
