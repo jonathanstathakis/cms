@@ -7,7 +7,7 @@
 
 ## Intro
 
-### Climatic Influences (Pannonian Effect)
+### 01 Climatic Influences (Pannonian Effect)
 
 - severely continental climate
 - Danube river warms nearby wine regions
@@ -16,7 +16,7 @@
   - cool winds from northern forests at night
 - Styria: maritime influence provides longer, warmer days compared to other regions in Austria
 
-### Austrian Quality Structure Qba & QmP
+### 02 Austrian Quality Structure Qba & QmP
 
 - Austria has several interwoven quality systems, all of which are valid
 - One is the german styled Qualitätswein system
@@ -57,7 +57,7 @@ Sources:
 - https://www.winespectator.com/glossary/show/id/qualit%C3%A4tswein_bestimmter_anbaugebiete_(qba)
 - https://www.winespectator.com/glossary/show/id/pr%C3%A4dikatswein
 
-### Define Ausbruch / Strohwein
+### 03 Define Ausbruch / Strohwein
 
 - Strohwein:
   - sweet wine
@@ -78,7 +78,7 @@ Sources:
 
 - https://www.austrianwine.com/our-wine/wine-law/categories-of-wine-according-to-origin/wine-with-protected-designation-of-origin/
 
-### DAC Quality Structure & Levels
+### 04 DAC Quality Structure & Levels
 
 - Districtus Austriae Controllatus (DAC)
 - Qualitätswein that meets additional regionally specific requirements can take on a DAC name
@@ -91,7 +91,7 @@ Sources:
   - _Reserve_: richer wine with oak or botrytis character
 - a full label might read _Riedenwein Reserve_ or _Gebietswein Klassic_.
 
-### Wachau Quality Terms
+### 05 Wachau Quality Terms
 
 - Wachau System, created by _Vinea Wachau_, a winegrower alliance:
   - 3 levels:
@@ -109,7 +109,7 @@ Sources:
       - translates literally to emerald but refers to emerald-green lizard who sunbaths on the stone terraces of Wachau
   - Typically riesling, GV or rosé made from Zweigelt.
 
-### Principal Grape Varietals & Production Districts where Best Grown
+### 06 Principal Grape Varietals & Production Districts where Best Grown
 
 - white:
   - Grüner Veltliner:
@@ -151,7 +151,7 @@ Sources:
 - https://www.austrianwine.com/our-wine/grape-varieties/
 - https://www.guildsomm.com/research/expert_guides/w/expert-guides/2449/austria#05
 
-### Labelling Terms
+### 07 Labelling Terms
 
 - banderole:
   - red and white label on the capsule that indicates that the wine has passed Austria's stringent quality control.
@@ -179,7 +179,7 @@ Sources:
 
 ## Certified
 
-### DAC Districts and Location
+### 01 DAC Districts and Location
 
 - DAC:
   - Burgenland:
@@ -237,7 +237,7 @@ Sources:
 
 </details>
 
-### Wines Produced
+### 02 Wines Produced
 
 - dry white.
 - off-dry whites.
@@ -247,7 +247,7 @@ Sources:
 
 See other sections. Not sure what to put here.
 
-### Wine Terms
+### 03 Wine Terms
 
 - Traubenmost: grape must from grapes harvested and pressed in Austria
 - Sturm: partially fermented grape must
