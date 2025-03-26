@@ -117,7 +117,7 @@ Sources:
 <details>
 <summary>Map of Oregon Wine Regions</summary>
 
-![Oregon](./attachments/oregon_wine_map.jpg)
+![Oregon](./attachments/oregon_wine_map.png)
 
 </details>
 
@@ -131,14 +131,15 @@ Sources:
     - Pinot Noir
     - Syrah
 - Colombia Valley (Columbia Gorge AVA):
-  - white:
+  - split between Washington and Oregon
+  * white:
     - Chardonnay
     - Pinot Gris
     - Riesling
-  - red:
+  * red:
     - Pinot Noir
 - Walla Walla (Walla Walla Valley AVA):
-  - split between Washing ton and Oregon
+  - split between Washington and Oregon
   - reds:
     - Syrah
     - Cabernet
@@ -148,16 +149,70 @@ Sources:
 
 - [Willamette Valley](https://www.guildsomm.com/research/compendium/w/united_states/2521/willamette-valley-ava)
 - [Colombia Valley](https://www.guildsomm.com/research/compendium/w/united_states/2583/columbia-gorge-ava-oregon)
-- [Walla Walla]()
+- [Walla Walla](https://www.guildsomm.com/research/compendium/w/united_states/2548/walla-walla-valley-ava)
 
 ### 05 Principal Wine Districts of Washington
 
-- Colombia Valley
-- Walla Walla
-- Puget Sound
-- Yakima Valley
+<details>
+<summary>Map of Washington Wine Area</summary>
+
+![washington_wine_map](./attachments/washington_wine_map.jpg)
+
+</details>
+
+- Colombia Valley (Colombia Gorge AVA (Washington)):
+  - Shared with Oregon
+  - Major Grapes:
+    - white:
+      - Chardonnay
+      - Pinot Gris
+      - Riesling
+    - red:
+      - Pinot Noir
+- Walla Walla (Walla Walla Valley AVA):
+  - share with Oregon
+  - white:
+    - None
+  - red:
+    - Cabernet Sauvignon
+    - Merlot
+    - Syrah
+- Puget Sound (Puget Sound AVA):
+  - Red:
+    - Pinot Noir
+    -
+  - White:
+    - Riesling
+    - Müller-Thurgau
+    - Siegerrebe
+    - Madeline Angevine
+- Yakima Valley (Yakima Valley AVA):
+  - red:
+    - Cabernet Sauvignon
+    - Syrah
+  - white:
+    - Chardonnay
+    - Riesling
+
+Sources:
+
+- [Colombia Gorge AVA (Washington)](https://www.guildsomm.com/research/compendium/w/united_states/2582/columbia-gorge-ava-washington)
+- [Walla Walla Valley AVA](https://www.guildsomm.com/research/compendium/w/united_states/2548/walla-walla-valley-ava)
+- [Puget Sound AVA](https://www.guildsomm.com/research/compendium/w/united_states/2581/puget-sound-ava)
+- [Yakima Valley AVA](https://www.guildsomm.com/research/compendium/w/united_states/2550/yakima-valley-ava)
 
 ### 06 Climate Related to Topography
+
+TODO: flesh out this section. Cant find anything specifically discussing influence of topography on viticulture in US.
+
+- In Eastern Washington an increase in height increases degree-day, temperasture and frost-free day of the growing area.
+- In Sonoma a complex topography helps maintain a warm climate to enable ripening of grapes, protecting from cooling influences such as the Petaluma Gap
+- In cooler locations east facing slopes, like in Burgundy are required to fully ripen grapes.
+
+Sources:
+
+- [Guildsomm - Pacific Northwest, see Washington East of the Cascades](https://www.guildsomm.com/research/expert_guides/w/expert-guides/2446/pacific-northwest)
+- [Guildsomm - Sonoma County and North Coast, See Coastal Sonoma](https://www.guildsomm.com/research/expert_guides/w/expert-guides/2474/sonoma-county-and-north-coast)
 
 ## 02 Certified
 
