@@ -85,9 +85,9 @@ Reading notes from [Germany, Austria and Switzerland](https://www.guildsomm.com/
       - Sekt Austria Grosse Reserve
     - Sekt Austria PDO:
       - requires that the grapes from from Austria
-      - 9 motnhs on lees if producted in traditional method
-      - 6 months on lees for tank metod
-      - tan, transfer and traditional methods are allowed
+      - 9 months on lees if produced in traditional method
+      - 6 months on lees for tank method
+      - tank, transfer and traditional methods are allowed
       - all dosage levels/styles and colors are allowed
     - Sekt Austria Reserve and Grosse Reserve PDO:
       - traditional method

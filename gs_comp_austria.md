@@ -1,0 +1,115 @@
+# GuildSomm Compendium - Austria
+
+Taken from [GS - Austria](https://www.guildsomm.com/research/compendium/w/austria)
+
+- Wine Categories:
+  - No GI:
+    - Wein
+  - PGI:
+    - Landwein
+  - PDO Wine:
+    - Qualitätswein:
+      - Kabinett
+      - Spätlese
+      - Beerenauslese
+      - Eiswein
+      - Strohwein/Schilfwein
+      - Ausbruch
+      - Trockenbeerenauslese
+    - Sekt Austria
+- Varities:
+  - Gruner Veltliner
+  - Zweigelt
+  - Welschriesling
+  - Blaufränkish
+  - Riesling
+  - Chardonnay
+  - Wiesser Burgunder
+  - Sauvignon Blanc
+  - Muskateller
+  - Müller Thurgau
+- Regions:
+  - Weinland:
+    - Burgenland:
+      - Eisenberg DAC:
+        - Blaufänkish
+      - Leithaberg DAC:
+        - white:
+          - GV, Neuburger, Chardonnay, Weissburgunder
+        - red:
+          - Blaufränkisch
+      - Neusiedlersee DAC:
+        - major varieties:
+          - Zeigelt
+          - Gruner Veltliner
+        - DAC:
+          - red:
+            - zweigelt
+          - white:
+            - spätlese and Auslese: white Qualitatswein varieties including Welschriesling, Weissburgunder, Chardonnay
+      - Rosalia DAC:
+        - red:
+          - blaufrankisch
+          - zweigelt
+        - rosé:
+          - red Qualitatswein
+      - Mittelburgenland DAC:
+        - blaufrankisch
+      - Ruster Ausbruch DAC:
+        - white Qualitatswein varieties
+    - Neusiedlersee DAC
+      - minimum must weight 30° KMW (trokenbeerenauslese)
+      - botrytized grapes
+      - hand harvested
+      - vintage labelled
+      - production bottling must occur in Rust
+    * Niederösterreich:
+      - major varieties:
+        - Gruner Veltliner
+        - Welschriesling
+      * districts:
+        - Wachau DAC:
+          - quality levels:
+            - Steinfelder: max 11.5% abv, min 15° KMW
+            - Federspiel: 11.5 - 12.5% abv: min 17° KMW
+            - Smaragd: min. 12.5% abv, min 18.2° KMW
+        - Kamptal DAC
+        - Traisental DAC
+        - Wagram DAC
+        - Weinviertel DAC
+        - Carnuntum DAC
+        - Thermenregion DAC
+    * Wien:
+      - Weiner Gemischter Satz DAC
+  - Steirland:
+    - Steiermark:
+      - Südsteiermark DAC
+      - Vulkanland Steiermark DAC
+      - Weststeiermark DAC
+  - Bergland:
+    - Vorarlberg
+    - Tirol
+    - Salzburg
+    - Oberösterreich
+    - Kärnten
+- Specific Terms:
+  - Traubenmost: grape must from grapes harvested and pressed in Austria
+  - Sturm: partially fermented grape must
+  - Perlwein:
+    - sparkling Wine
+    - min 9% ABV
+    - 3 ATM
+    - any winemaking method
+  - Reserve:
+    - minimum 13% abv for Qualitatswein
+  - Trocken:
+    - dry
+    - max 9 g/L
+  - Halbtrocken:
+    - off-dry
+    - max 18 g/L
+  - Lieblich:
+    - med-sweet
+    - max. 45 g/L
+  - Sweet:
+    - min. 45 g/L
