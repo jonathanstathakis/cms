@@ -70,8 +70,6 @@ Sources:
     - barrel aged
     * Traditionally Furmint
 
-Broken into No GI, PGI and PDO. PDO _Qualitätswein_ has ranks like Germany with increasing minimum KMW requirements.
-
 Sources:
 
 - https://www.austrianwine.com/our-wine/wine-law/categories-of-wine-according-to-origin/wine-with-protected-designation-of-origin/
@@ -278,5 +276,3 @@ Sources:
   - max. 45 g/L
 - Sweet:
   - min. 45 g/l
-
-Note: See other sections for more terms (avoiding duplication).
