@@ -76,19 +76,11 @@ Sources:
 
 ### DAC Quality Structure & Levels
 
-- No GI: _Wein_
-- PGI: _Landwein_
-- PDO:
-  - _Qualitätswein_
-  - Sekt Austria
-  - Kabinet Qualitätswein
-  - Spätlese Prädikatswein
-  - Auslese Prädikatswein
-  - Beerenauslese Prädikatswein
-  - Eiswein Prädikatswein
-  - Strohwein/Schilfwein Prädikatswein
-  - Ausbruch Prädikatswein
-  - Trockenbeerenauslese Prädikatswein
+- Qualitätswein that meets additional regionally specific requirements can take on a DAC name
+- There are three levels of narrowing geographical specificity:
+  - Gebietswein: regional wine
+  - Ortswein: village wine
+  - Riedenwein: single vineyard wine
 
 ### Wachau Quality Terms
 
