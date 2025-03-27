@@ -218,9 +218,96 @@ Sources:
 
 ### 01 Associated AVA's
 
-- Sonoma
-- Napa
-- Monterey
-- Santa Barbara
+TODO: breakdown each list of AVAs into groups no greater than 5
+TODO: find maps of each region.
+
+#### Sonoma County
+
+- Alexander Valley AVA
+- Bennet Valley AVA
+- Chalk Hill AVA
+- Dry Creek Valley AVA
+- Fort Ross - Seaview AVA
+- Fountaingrove District AVA
+- Green Valley of the Russian River Valley AVA
+- Knights Valley AVA
+- Los Carneros AVA (Sonoma)
+- Moon Mountain District Sonoma County AVA
+- Northern Sonoma AVA
+- Petaluma Gap AVA
+- Pine Mountain - Cloverdale AVA
+- Rockpile AVA
+- Russian River Valley AVA
+- Sonoma Coast AVA
+- Sonoma Mountain AVA
+- Sonoma Valley AVA
+- West Sonoma Coast AVA
+
+<details>
+<summary>Map of Sonoma AVA</summary>
+
+<img src="./attachments/sonoma wine map.jpg" alt="Sonoma AVA map"/>
+
+</details>
+
+#### Nappa Valley
+
+1. Atlas Peak AVA
+2. Calistoga AVA
+3. Chiles Valley AVA
+4. Coombsville AVA
+5. Crystal Springs of Napa Valley AVA
+6. Diamond Mountain District AVA
+7. Howell Mountain AVA
+8. Los Carneros AVA
+9. Mount Veeder AVA
+10. Oak Knoll District of Napa Valley AVA
+11. Oakville AVA
+12. Rutherford AVA
+13. Spring Mountain District AVA
+14. St. Helena AVA
+15. Stags Leap District AVA
+16. Wild Horse Valley AVA
+17. Yountville AVA
+
+<details><summary>Map of Napa Valley AVAs</summary>
+
+<img src="./attachments/nappa_AVA.png" alt="Map of Napa Valley AVas"/>
+
+</details>
+
+#### Monterey
+
+1. Arroyo Seco AVA
+2. Carmel Valley AVA
+3. Hames Valley AVA
+4. Monterey AVA
+5. San Antonio AVA
+6. San Bernabe AVA
+7. San Lucas AVA
+8. Santa Lucia AVA
+9. Chalone AVA
+10. Gabilan Mountains AVA
+
+<details><summary>Map of Monterey AVAs</summary>
+
+<img src="./attachments/monterey_wine_map.png" alt="Map of Monterey AVAs">
+
+</details>
+
+#### Santa Barbara
+
+1. Alisos Canyon AVA
+2. Ballard Canyon AVA x
+3. Happy Canyon of Santa Barbara AVA x
+4. Los Olivos District AVA x
+5. Santa Ynez Valley AVA x
+6. Sta. Rita Hills AVA x
+7. Santa Maria Valley AVA x
+
+<details>
+<summary>Map of Santa Barbara AVAs</summary>
+<img src="./attachments/santa_barbara_map_ava.png" alt="Map of Santa Barbara AVAs">
+</details>
 
 ### 02 Principal Wine Districts of Washingon / Oregon
