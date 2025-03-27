@@ -311,3 +311,31 @@ TODO: find maps of each region.
 </details>
 
 ### 02 Principal Wine Districts of Washingon / Oregon
+
+#### Washington
+
+- Columbia Valley AVA
+- Yakima Valley AVA:
+  - Snipes Mountain AVA
+  - Rattlesnake Hills AVA
+  - Red Mountain AVA
+  - Candy Mountain AVA
+  - Goose Gap AVA
+- Walla Walla Valley AVA
+- Horse Heaven Hills AVA
+
+#### Oregon
+
+- Willamette Valley:
+  - Dundee Hills AVA
+  - Eola-Amity Hills AVA
+  - Ribbon Ridge AVA
+  - McMinnville AVA
+  - Yamhill-Carlton District
+  - Chehalem Mountains
+  - Van Duzer Corridor AVA
+  - Laurelwood District AVA
+  - Tualatin Hills AVA
+  - Lower Long Tom AVA
+  - Mount Pisgah Polk Country Oregon AVA
+  - Chehalem Mountains AVA
