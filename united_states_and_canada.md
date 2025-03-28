@@ -264,30 +264,26 @@ Sources:
 
 ### 01 Associated AVA's
 
-TODO: identify top AVA's to memorise.
-
-TODO: breakdown each list of AVAs into groups no greater than 5
-
 #### Sonoma County
 
-AVAs. Principle AVAs are marked with '\*' based on preponderance of premium wines on [winesearcher](https://www.wine-searcher.com/find/sonoma?Xsort_order=P&Xsavecurrency=Y):
+AVAs. Principle AVAs are marked with 'x' based on preponderance of premium wines on [winesearcher](https://www.wine-searcher.com/find/sonoma?Xsort_order=P&Xsavecurrency=Y):
 
-- - Alexander Valley AVA
+- x Alexander Valley AVA
 - Bennet Valley AVA
 - Chalk Hill AVA
-- - Dry Creek Valley AVA
+- x Dry Creek Valley AVA
 - Fort Ross - Seaview AVA
 - Fountaingrove District AVA
 - Green Valley of the Russian River Valley AVA
-- - Knights Valley AVA
+- x Knights Valley AVA
 - Los Carneros AVA (Sonoma)
 - Moon Mountain District Sonoma County AVA
 - Northern Sonoma AVA
 - Petaluma Gap AVA
 - Pine Mountain - Cloverdale AVA
 - Rockpile AVA
-- - Russian River Valley AVA
-- - Sonoma Coast AVA
+- x Russian River Valley AVA
+- x Sonoma Coast AVA
 - Sonoma Mountain AVA
 - Sonoma Valley AVA
 - West Sonoma Coast AVA
@@ -310,6 +306,7 @@ AVAs:
    b. Diamont Mountain District AVA
    c. Spring Mountain District AVA
    d. Howell Mountain AVA
+   i. Crystal Springs of Napa Valley AVA (newest, added 2024)
 2. St. Helena:
    a. St. Helena AVA
    b. Rutherford AVA
@@ -324,8 +321,6 @@ AVAs:
    e. Mount Veeder AVA
    f. Los Carneros AVA (Split with Sonoma)
    g. Wild Horse Valley AVA
-4. Other:
-   i. Crystal Springs of Napa Valley AVA (newest, added 2024)
 
 ##### Napa Valley AVAs Map
 
@@ -337,16 +332,21 @@ AVAs:
 
 #### Monterey
 
-1. Arroyo Seco AVA
-2. Carmel Valley AVA
-3. Hames Valley AVA
-4. Monterey AVA
-5. San Antonio AVA
-6. San Bernabe AVA
-7. San Lucas AVA
-8. Santa Lucia AVA
-9. Chalone AVA
-10. Gabilan Mountains AVA
+north:
+
+1. Monterey AVA
+2. Gabilan Mountains AVA
+3. Chalone AVA
+4. Carmel Valley AVA
+5. Santa Lucia AVA
+6. Arroyo Seco AVA
+
+south:
+
+9. San Bernabe AVA
+10. San Lucas AVA
+11. Hames Valley AVA
+12. San Antonio Valley AVA
 
 ##### Monterey AVAs Map
 
@@ -393,12 +393,14 @@ AVAs:
 
 [Oregon Wine Districts Map](#oregion-wine-region-map)
 
-- Willamette Valley:
-  - Dundee Hills AVA
-  - Eola-Amity Hills AVA
-  - Ribbon Ridge AVA
+Principle wine districts identified by any wine worth >~$100 on [winesearcher](https://www.wine-searcher.com/)
+
+- x Willamette Valley AVA:
+  - x Dundee Hills AVA
+  - x Eola-Amity Hills AVA
+  - x Ribbon Ridge AVA
   - McMinnville AVA
-  - Yamhill-Carlton District
+  - x Yamhill-Carlton District
   - Chehalem Mountains
   - Van Duzer Corridor AVA
   - Laurelwood District AVA
