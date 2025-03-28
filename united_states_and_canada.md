@@ -4,6 +4,26 @@
 
 ### 01 Climatic Influences
 
+- General:
+  - Hot to Moderate Maritime climate due to proximity to Pacific Ocean
+  * California Ocean Current: cold air
+  * Hot interior
+  * rugged landscape encourages microclimates
+  * lack of rain due to rain shadows i.e. Colombia Valley AVA (Cascade Mts)
+- California:
+  - Fog:
+    - cooler night time temperatures bring fog in from Pacific Ocean
+    - fog lingers during morning, slowing day warm up
+    - influence strongly felt in Sonoma, southern Napa Valley
+- Washington:
+  - northerly location = cool
+
+Sources:
+
+- <https://www.guildsomm.com/research/expert_guides/w/expert-guides/2443/napa-valley#03>
+- <https://www.guildsomm.com/learn/study/w/study-wiki/208/north-america#04>
+- Understanding Wines: Explaining Style and Quality (WSET)
+
 ### 02 AVA Principles
 
 - American Viticultural Areas (AVAs)
@@ -16,7 +36,7 @@
   - climatic
 - require that 85% of the fruit originates from the stated AVA
 - no style requirements
-- single-vineyard requires 95% of the fruit to come from the stated aVA
+- single-vineyard requires 95% of the fruit to come from the stated AVA
 - GI:
   - AVA: 85%
   - state/country:
@@ -30,21 +50,20 @@
   - AVA: 75%
   - State/County: 75%
   - Vitus Lambrusca: 51%
-- Alcohol:
-  - must be labelled, +- 1.5%
-  - wines between 7 - 14% can be simply labelled as table wine or light wine.
-- must include term "contains sulfites" on the label
-- must include a government health warning.
-- estate bottled:
-  - must declare name and address of the bottler
-  - 100% of the fruit must come from land owned or controlled by the winery
-  - all fruit must be from same AVA
 
 Sources:
 
 - https://www.guildsomm.com/learn/study/w/study-wiki/208/north-america#01
 
-### 03 Principal Wine Districts of California and Varietals Associated with These Areas
+### 03 Climatic Conditions West Coast
+
+See [01 Climatic Influences](#01-climatic-influences)
+
+### 04 Principal Wine Districts of California and Varietals Associated with These Areas
+
+TODO: Identify Varietal associated with San Francisco Bay Area
+
+#### California Wine Regions Map
 
 <details>
   <summary>Map of Wine in California</summary>
@@ -52,6 +71,8 @@ Sources:
 ![California](./attachments/california_wine_map.jpg)
 
 </details>
+
+#### Principal Wine Districts and their Varietals
 
 - Napa:
   - red:
@@ -112,7 +133,9 @@ Sources:
 - [Paso Robles](https://en.wikipedia.org/wiki/Paso_Robles_AVA#Wine_Industry)
 - [Monterey](https://en.wikipedia.org/wiki/Monterey_County_wine#Unique_Grapes)
 
-### 04 Principal Wine Districts of Oregon and Varietals Produced
+### 05 Principal Wine Districts of Oregon and Varietals Produced
+
+#### Oregion Wine Region Map
 
 <details>
 <summary>Map of Oregon Wine Regions</summary>
@@ -120,6 +143,8 @@ Sources:
 ![Oregon](./attachments/oregon_wine_map.png)
 
 </details>
+
+#### Principle Wine Districts of Oregon and their Varieties
 
 - Willamette Valley AVA:
   - white:
@@ -151,7 +176,9 @@ Sources:
 - [Colombia Valley](https://www.guildsomm.com/research/compendium/w/united_states/2583/columbia-gorge-ava-oregon)
 - [Walla Walla](https://www.guildsomm.com/research/compendium/w/united_states/2548/walla-walla-valley-ava)
 
-### 05 Principal Wine Districts of Washington
+### 06 Principal Wine Districts of Washington
+
+#### Washington Wine Districts Map
 
 <details>
 <summary>Map of Washington Wine Area</summary>
@@ -159,6 +186,8 @@ Sources:
 ![washington_wine_map](./attachments/washington_wine_map.jpg)
 
 </details>
+
+#### Principle Wine Districts of Washington and their Varietals
 
 - Colombia Valley (Colombia Gorge AVA (Washington)):
   - Shared with Oregon
@@ -201,13 +230,30 @@ Sources:
 - [Puget Sound AVA](https://www.guildsomm.com/research/compendium/w/united_states/2581/puget-sound-ava)
 - [Yakima Valley AVA](https://www.guildsomm.com/research/compendium/w/united_states/2550/yakima-valley-ava)
 
-### 06 Climate Related to Topography
+### 07 Climate Related to Topography
 
-TODO: flesh out this section. Cant find anything specifically discussing influence of topography on viticulture in US.
+Eastern Washington:
 
 - In Eastern Washington an increase in height increases degree-day, temperasture and frost-free day of the growing area.
+- Cascade mountains provide a rain shadow to Colombia Valley AVA making irrigation necessary. Long daylight hours, consistent summer temperatures.
+
+Sonoma:
+
 - In Sonoma a complex topography helps maintain a warm climate to enable ripening of grapes, protecting from cooling influences such as the Petaluma Gap
 - In cooler locations east facing slopes, like in Burgundy are required to fully ripen grapes.
+
+Napa Valley:
+
+- The rugged, varied topography can protect from protect from or amplify cooling or warming factors
+- allows for wide range of varieties. e.g.:
+  - in the Spring Mountains AVAs high-quality Chardonnay, Sauvignon Blanc and Riesling.
+- rising above fog line removes cooling effect
+
+Southern Oregon:
+
+- Warm growing Conditions
+- folds in hillsides and valleys can profivde relief
+- able to grow cool and warm climate varieties equally.
 
 Sources:
 
@@ -218,30 +264,35 @@ Sources:
 
 ### 01 Associated AVA's
 
+TODO: identify top AVA's to memorise.
+
 TODO: breakdown each list of AVAs into groups no greater than 5
-TODO: find maps of each region.
 
 #### Sonoma County
 
-- Alexander Valley AVA
+AVAs. Principle AVAs are marked with '\*' based on preponderance of premium wines on [winesearcher](https://www.wine-searcher.com/find/sonoma?Xsort_order=P&Xsavecurrency=Y):
+
+- - Alexander Valley AVA
 - Bennet Valley AVA
 - Chalk Hill AVA
-- Dry Creek Valley AVA
+- - Dry Creek Valley AVA
 - Fort Ross - Seaview AVA
 - Fountaingrove District AVA
 - Green Valley of the Russian River Valley AVA
-- Knights Valley AVA
+- - Knights Valley AVA
 - Los Carneros AVA (Sonoma)
 - Moon Mountain District Sonoma County AVA
 - Northern Sonoma AVA
 - Petaluma Gap AVA
 - Pine Mountain - Cloverdale AVA
 - Rockpile AVA
-- Russian River Valley AVA
-- Sonoma Coast AVA
+- - Russian River Valley AVA
+- - Sonoma Coast AVA
 - Sonoma Mountain AVA
 - Sonoma Valley AVA
 - West Sonoma Coast AVA
+
+##### Sonoma County AVAs Map
 
 <details>
 <summary>Map of Sonoma AVA</summary>
@@ -250,25 +301,33 @@ TODO: find maps of each region.
 
 </details>
 
-#### Nappa Valley
+#### Napa Valley
 
-1. Atlas Peak AVA
-2. Calistoga AVA
-3. Chiles Valley AVA
-4. Coombsville AVA
-5. Crystal Springs of Napa Valley AVA
-6. Diamond Mountain District AVA
-7. Howell Mountain AVA
-8. Los Carneros AVA
-9. Mount Veeder AVA
-10. Oak Knoll District of Napa Valley AVA
-11. Oakville AVA
-12. Rutherford AVA
-13. Spring Mountain District AVA
-14. St. Helena AVA
-15. Stags Leap District AVA
-16. Wild Horse Valley AVA
-17. Yountville AVA
+AVAs:
+
+1. Calistoga:
+   a. Calistoga AVA
+   b. Diamont Mountain District AVA
+   c. Spring Mountain District AVA
+   d. Howell Mountain AVA
+2. St. Helena:
+   a. St. Helena AVA
+   b. Rutherford AVA
+   c. Oakville AVA
+   d. Chiles Valley AVA
+   e. Atlas Peak AVA
+3. Napa:
+   a. Yountville AVA
+   b. Stags Leap District AVA
+   c. Oak Knoll District of Napa Valley AVA
+   d. Coombsville AVA
+   e. Mount Veeder AVA
+   f. Los Carneros AVA (Split with Sonoma)
+   g. Wild Horse Valley AVA
+4. Other:
+   i. Crystal Springs of Napa Valley AVA (newest, added 2024)
+
+##### Napa Valley AVAs Map
 
 <details><summary>Map of Napa Valley AVAs</summary>
 
@@ -289,6 +348,8 @@ TODO: find maps of each region.
 9. Chalone AVA
 10. Gabilan Mountains AVA
 
+##### Monterey AVAs Map
+
 <details><summary>Map of Monterey AVAs</summary>
 
 <img src="./attachments/monterey_wine_map.png" alt="Map of Monterey AVAs">
@@ -298,21 +359,25 @@ TODO: find maps of each region.
 #### Santa Barbara
 
 1. Alisos Canyon AVA
-2. Ballard Canyon AVA x
-3. Happy Canyon of Santa Barbara AVA x
-4. Los Olivos District AVA x
-5. Santa Ynez Valley AVA x
-6. Sta. Rita Hills AVA x
-7. Santa Maria Valley AVA x
+2. Ballard Canyon AVA
+3. Happy Canyon of Santa Barbara AVA
+4. Los Olivos District AVA
+5. Santa Ynez Valley AVA
+6. Sta. Rita Hills AVA
+7. Santa Maria Valley AVA
+
+##### Santa Barbara AVAs Map
 
 <details>
 <summary>Map of Santa Barbara AVAs</summary>
 <img src="./attachments/santa_barbara_map_ava.png" alt="Map of Santa Barbara AVAs">
 </details>
 
-### 02 Principal Wine Districts of Washingon / Oregon
+### 02 Principal Wine Districts of Washington / Oregon
 
 #### Washington
+
+[Washington Wine Districts Map](#washington-wine-districts-map)
 
 - Columbia Valley AVA
 - Yakima Valley AVA:
@@ -325,6 +390,8 @@ TODO: find maps of each region.
 - Horse Heaven Hills AVA
 
 #### Oregon
+
+[Oregon Wine Districts Map](#oregion-wine-region-map)
 
 - Willamette Valley:
   - Dundee Hills AVA
