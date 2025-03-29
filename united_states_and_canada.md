@@ -334,6 +334,8 @@ AVAs. Principle AVAs are marked with 'x' based on preponderance of premium wines
 
 #### Monterey
 
+Principle AVAs are marked with an 'x'. Identification based on presence of wines values >$100 on [winesearcher](https://www.wine-searcher.com/find/monterey+wine?Xsort_order=P).
+
 north:
 
 1. Monterey AVA
