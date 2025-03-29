@@ -302,29 +302,29 @@ AVAs:
 
 1. Calistoga:
 
-a. Calistoga AVA
-b. Diamont Mountain District AVA
-c. Spring Mountain District AVA
-d. Howell Mountain AVA
-e. Crystal Springs of Napa Valley AVA (newest, added 2024)
+1. Calistoga AVA
+1. Diamont Mountain District AVA
+1. Spring Mountain District AVA
+1. Howell Mountain AVA
+1. Crystal Springs of Napa Valley AVA (newest, added 2024)
 
-2. St. Helena:
+1. St. Helena:
 
-a. St. Helena AVA
-b. Rutherford AVA
-c. Oakville AVA
-d. Chiles Valley AVA
-e. Atlas Peak AVA
+1. St. Helena AVA
+1. Rutherford AVA
+1. Oakville AVA
+1. Chiles Valley AVA
+1. Atlas Peak AVA
 
-3. Napa:
+1. Napa:
 
-a. Yountville AVA
-b. Stags Leap District AVA
-c. Oak Knoll District of Napa Valley AVA
-d. Coombsville AVA
-e. Mount Veeder AVA
-f. Los Carneros AVA (Split with Sonoma)
-g. Wild Horse Valley AVA
+1. Yountville AVA
+1. Stags Leap District AVA
+1. Oak Knoll District of Napa Valley AVA
+1. Coombsville AVA
+1. Mount Veeder AVA
+1. Los Carneros AVA (Split with Sonoma)
+1. Wild Horse Valley AVA
 
 ##### Napa Valley AVAs Map
 
@@ -397,7 +397,7 @@ south:
 
 [Oregon Wine Districts Map](#oregion-wine-region-map)
 
-Principle wine districts identified by any wine worth >~$100 on [winesearcher](https://www.wine-searcher.com/)
+Principle wine districts identified by any wine worth >~$100 on [winesearcher](https://www.wine-searcher.com/).
 
 - x Willamette Valley AVA:
   - x Dundee Hills AVA
