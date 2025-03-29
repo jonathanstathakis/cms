@@ -239,7 +239,6 @@ Eastern Washington:
 
 Sonoma:
 
-- In Sonoma a complex topography helps maintain a warm climate to enable ripening of grapes, protecting from cooling influences such as the Petaluma Gap
 - In cooler locations east facing slopes, like in Burgundy are required to fully ripen grapes.
 
 Napa Valley:
@@ -302,25 +301,30 @@ AVAs. Principle AVAs are marked with 'x' based on preponderance of premium wines
 AVAs:
 
 1. Calistoga:
-   a. Calistoga AVA
-   b. Diamont Mountain District AVA
-   c. Spring Mountain District AVA
-   d. Howell Mountain AVA
-   i. Crystal Springs of Napa Valley AVA (newest, added 2024)
+
+a. Calistoga AVA
+b. Diamont Mountain District AVA
+c. Spring Mountain District AVA
+d. Howell Mountain AVA
+e. Crystal Springs of Napa Valley AVA (newest, added 2024)
+
 2. St. Helena:
-   a. St. Helena AVA
-   b. Rutherford AVA
-   c. Oakville AVA
-   d. Chiles Valley AVA
-   e. Atlas Peak AVA
+
+a. St. Helena AVA
+b. Rutherford AVA
+c. Oakville AVA
+d. Chiles Valley AVA
+e. Atlas Peak AVA
+
 3. Napa:
-   a. Yountville AVA
-   b. Stags Leap District AVA
-   c. Oak Knoll District of Napa Valley AVA
-   d. Coombsville AVA
-   e. Mount Veeder AVA
-   f. Los Carneros AVA (Split with Sonoma)
-   g. Wild Horse Valley AVA
+
+a. Yountville AVA
+b. Stags Leap District AVA
+c. Oak Knoll District of Napa Valley AVA
+d. Coombsville AVA
+e. Mount Veeder AVA
+f. Los Carneros AVA (Split with Sonoma)
+g. Wild Horse Valley AVA
 
 ##### Napa Valley AVAs Map
 
@@ -407,4 +411,4 @@ Principle wine districts identified by any wine worth >~$100 on [winesearcher](h
   - Tualatin Hills AVA
   - Lower Long Tom AVA
   - Mount Pisgah Polk Country Oregon AVA
-  - Chehalem Mountains AVA
+  - Chehalem Mountains AV
