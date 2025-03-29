@@ -362,15 +362,15 @@ south:
 
 #### Santa Barbara
 
-Principle AVAs marked in bold based on wine >$100 on [winesearcher](https://www.wine-searcher.com/find/santa+barbara+california?Xsort_order=P).
+Principle AVAs marked with a '>'. Identification is based on wine >$100 on [winesearcher](https://www.wine-searcher.com/find/santa+barbara+california?Xsort_order=P).
 
 1. Alisos Canyon AVA
-2. **Ballard Canyon AVA**
+2. > Ballard Canyon AVA
 3. Happy Canyon of Santa Barbara AVA
 4. Los Olivos District AVA
 5. Santa Ynez Valley AVA
-6. **Sta. Rita Hills AVA**
-7. **Santa Maria Valley AVA**
+6. > Sta. Rita Hills AVA
+7. > Santa Maria Valley AVA
 
 ##### Santa Barbara AVAs Map
 
