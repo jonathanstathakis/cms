@@ -339,8 +339,8 @@ north:
 1. Monterey AVA
 2. Gabilan Mountains AVA
 3. Chalone AVA
-4. Carmel Valley AVA
-5. Santa Lucia Highlands AVA
+4. x Carmel Valley AVA
+5. x Santa Lucia Highlands AVA
 6. Arroyo Seco AVA
 
 south:
