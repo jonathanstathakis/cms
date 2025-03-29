@@ -298,8 +298,6 @@ AVAs. Principle AVAs are marked with 'x' based on preponderance of premium wines
 
 #### Napa Valley
 
-AVAs:
-
 ##### 1. Calistoga
 
 1. Calistoga AVA
@@ -308,7 +306,7 @@ AVAs:
 1. Howell Mountain AVA
 1. Crystal Springs of Napa Valley AVA (newest, added 2024)
 
-##### 2 St. Helena
+##### 2. St. Helena
 
 1. St. Helena AVA
 1. Rutherford AVA
@@ -342,7 +340,7 @@ north:
 2. Gabilan Mountains AVA
 3. Chalone AVA
 4. Carmel Valley AVA
-5. Santa Lucia AVA
+5. Santa Lucia Highlands AVA
 6. Arroyo Seco AVA
 
 south:
