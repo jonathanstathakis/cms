@@ -98,7 +98,7 @@ Sources:
     - steinfeder:
       - fresh, fruity, tangy
       - named for a grass that grows in Wachau's stony terraces
-      - max 11.5% abv, min 15° KMW
+      - max 11.5% abv, min 15° KMW*
     - federspiel:
       - fuller level: 11.5% - 12.5% alcohol
       - named for falconry
@@ -109,6 +109,11 @@ Sources:
       - translates literally to emerald but refers to emerald-green lizard who sunbaths on the stone terraces of Wachau
   - Typically riesling, GV or rosé made from Zweigelt.
 
+* KMW: Klosterneuburg Must Weight. A scale of grape must weight measurement where 1 KMW = 1g sugar / 100g must. 1 KMW = 5 Öchcle^[Wine Austria](https://www.austrianwine.com/our-wine/wine-law/klosterneuburg-must-weight-scale-kmw/)].
+
+Sources:
+
+- 
 ### 06 Principal Grape Varietals & Production Districts where Best Grown
 
 - white:
