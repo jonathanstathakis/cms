@@ -300,7 +300,7 @@ AVAs. Principle AVAs are marked with 'x' based on preponderance of premium wines
 
 AVAs:
 
-1. Calistoga:
+##### 1. Calistoga
 
 1. Calistoga AVA
 1. Diamont Mountain District AVA
@@ -308,7 +308,7 @@ AVAs:
 1. Howell Mountain AVA
 1. Crystal Springs of Napa Valley AVA (newest, added 2024)
 
-1. St. Helena:
+##### 2 St. Helena
 
 1. St. Helena AVA
 1. Rutherford AVA
@@ -316,7 +316,7 @@ AVAs:
 1. Chiles Valley AVA
 1. Atlas Peak AVA
 
-1. Napa:
+##### 3. Napa
 
 1. Yountville AVA
 1. Stags Leap District AVA
