@@ -101,7 +101,37 @@ See [01 Climatic Influences](#01-climatic-influences).
     - Andes
   - intended to indicate style based on latitude-oriented climate differences
 
-### 04 Key Districts: Casablanca, Maipo & Rapel
+### 04 5 Wine Regions of Chile and Sub-Districts
+
+1. Atacama DO:
+   a. Valle de Copiapó DO
+   b. Valle del Huasco DO
+2. Coquimbo DO:
+   a. Valle del Elqui DO
+   b. Valle del Limarí DO
+   c. Valle del Choapa DO
+3. Aconcagua DO:
+   a. Valle del Aconcagua DO
+   b. Valle de Casablanca DO
+   c. Valle de San Antonio DO
+4. Central Valley DO:
+   a. Valle del Maipo DO
+   b. Valle del Rapel DO
+   c. Valle de Curicó DO
+   d. Valle del Maule DO
+5. South DO:
+   a. Valle del Itata DO
+   b. Valle del Bío-Bío DO
+   c. Valle del Malleco DO
+6. Austral DO:
+   a. Valle del Cautín DO
+   b. Valle de Osorno DO
+
+Sources:
+
+- [Compendium - Chile](https://www.guildsomm.com/research/compendium/w/chile1)
+
+### 05 Key Districts: Casablanca, Maipo & Rapel
 
 #### Map of Chile Wine Regions
 
@@ -183,7 +213,7 @@ Sources:
 
 </details>
 
-### 05 Principle Varietals of Chile and Argentina
+### 06 Principle Varietals of Chile and Argentina
 
 #### Chile
 
@@ -217,11 +247,11 @@ Sources:
 - WSET, _Understanding Wines: Explaining Style and Quality_ 2016, _Chile_
 - WSET, _Understanding Wines: Explaining Style and Quality_ 2016, _Argentina_
 
-### 06 Regions and Varietals Grown
+### 07 Regions and Varietals Grown
 
 #### Chile
 
-Regiones Vitivinícolas:
+Regiones Viticolas:
 
 - Atacama DO:
   - Pisco grapes
@@ -279,7 +309,14 @@ Sources:
 
 Regions:
 
-- ## Atlantic:
+- Atlantic:
+  - White:
+    - SB
+    - CH
+  - Red:
+    - Mal.
+    - CS
+    - Mer.
 - ## Center:
 - Cuyo IG:
   - white:
@@ -327,38 +364,13 @@ Regions:
 Sources:
 
 - [Compendium](https://www.guildsomm.com/research/compendium/w/argentina)
+- [Atlantic](https://www.vinerra.com/wine-region/argentina-patagonia-and-atlantic-region)
 
 ## Cert
 
 ### 01 Sub Districts of Chilean Wine Regions
 
-1. Atacama DO:
-   a. Valle de Copiapó DO
-   b. Valle del Huasco DO
-2. Coquimbo DO:
-   a. Valle del Elqui DO
-   b. Valle del Limarí DO
-   c. Valle del Choapa DO
-3. Aconcagua DO:
-   a. Valle del Aconcagua DO
-   b. Valle de Casablanca DO
-   c. Valle de San Antonio DO
-4. Central Valley DO:
-   a. Valle del Maipo DO
-   b. Valle del Rapel DO
-   c. Valle de Curicó DO
-   d. Valle del Maule DO
-5. South DO:
-   a. Valle del Itata DO
-   b. Valle del Bío-Bío DO
-   c. Valle del Malleco DO
-6. Austral DO:
-   a. Valle del Cautín DO
-   b. Valle de Osorno DO
-
-Sources:
-
-- [Compendium - Chile](https://www.guildsomm.com/research/compendium/w/chile1)
+See [04 5 Wine Regions of Chile and Sub-Districts](#04-5-wine-regions-of-chile-and-sub-districts).
 
 ### 02 Sub districts of Mendoza
 
