@@ -1,4 +1,4 @@
-# Wine Pairing
+# Wine Pairing Theory
 
 ## Elements of a Pairing
 
@@ -135,6 +135,14 @@
     - creamy rich chardonnay
     - character similar to dish, enhances already present character.
 - consider distinctive elements, for example smoky gouda or hazelnuts
+
+## Balancing Bitter
+
+Bitter foods can be paired by masking or subduing the bitterness. This can be achieved through residual sugar or high acidity while avoiding adding bitterness through for example high tannins. Bitter foods include: Karela, endives, grapefruit, arugula, and asparagus. Wines with residual sugar include Alsatian RI, GV, and Gewurz. Wines with high acidity but no bitterness include: Chablis, Etna Bianco, SB, and sparkling wine (unoaked).
+
+Sources
+
+- <https://www.beverlycrandon.com/post/tips-for-pairing-wines-with-bitter-foods>
 
 ## Sources
 
