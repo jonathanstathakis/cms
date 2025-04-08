@@ -9,7 +9,23 @@ mdt: 2025-01-11T12:49:17
 
 # CMS - Deductive Tasting
 
-Started 20250111
+<!-- vim-markdown-toc Marked -->
+
+- [Resources](#resources)
+- [Introductory](#introductory)
+  - [Understand the principles of deductive tasting](#understand-the-principles-of-deductive-tasting)
+  - [Sight](#sight)
+  - [Nose](#nose)
+  - [Palate. understand taste characteristics of principal grape varieties](#palate.-understand-taste-characteristics-of-principal-grape-varieties)
+  - [Structure](#structure)
+  - [Conclusion](#conclusion)
+- [Certified](#certified)
+  - [identify principal classic grape varieties by sight, nose and palate](#identify-principal-classic-grape-varieties-by-sight,-nose-and-palate)
+  - [evaluate wine structure and finish](#evaluate-wine-structure-and-finish)
+  - [identify any common faults](#identify-any-common-faults)
+  - [comment on origin of wine and quality level](#comment-on-origin-of-wine-and-quality-level)
+
+<!-- vim-markdown-toc -->
 
 ## Resources
 
@@ -19,11 +35,12 @@ Started 20250111
 
 ### Understand the principles of deductive tasting
 
-- sight:
-  - colour
-  - hue
-  - viscosity
-  - signs of ageing
+### Sight
+
+- colour
+- hue
+- viscosity
+- signs of ageing
 
 ### Nose
 
