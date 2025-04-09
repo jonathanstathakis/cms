@@ -352,4 +352,4 @@ Tête de Cuvées.
 #### Sources
 
 - [Charles Heidsieck - Blanc de Millénaires](https://charlesheidsieck.com/en/wines/blanc-des-millenaires-2014)
-- [Wine Spectator](https://www.winespectator.com/vintage-charts/region/champagne)
+  [Wine Spectator](https://www.winespectator.com/vintage-charts/region/champagne)
