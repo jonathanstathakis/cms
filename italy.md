@@ -131,33 +131,181 @@
 
 TODO:
 
-### 06 Production Methods
+- North:
+  - Piedmont:
+    - Red:
+      - Nebbiolo
+      - Dolcetto
+      - Barbera
+    - white:
+      - Gavi: Cortese
+    - sweet:
+    - Moscato d'Asti: Moscato Bianco
+    - Brachetto
+  - Lombardy:
+    - Franciacorta: sparkling wine from Chardonnay, Pinot Noir, Pinot Bianco
+    - Pinot Noir
+    - Vatellina: Nebbiolo (Chiavennasca)
+    - Sforzato: Nebbiolo made with dried grapes
+    - Moscato di Scanzo: Red Moscato
+    - Oltrepò Pavese metodo Classico DOCG: min. 70% Pinot Nero
+  - Liguria:
+    - Colli di Luni: Pigato
+    - Riviera Ligure di Ponente Blanc: Pigato
+    - Riviera Ligure di Ponente Rosso: Rossese
+  - Emilia-Romagna:
+    - Romagna Albana: Albana
+    - Colli Bolognesi Pignoletto: Grechetto
+    - Lambrusco: Lambrusco
+  - Trentino-Alto Adige:
+    - white:
+      - Gewürztraminer
+    - red:
+      - Schiava
+      - Lagrein
+      - Pinot Noir
+      - Teroldego
+  - Veneto:
+    - sparkling:
+      - Prosecco: 85% Glera
+    - white:
+      - Pinot-Grigio
+      - Soave DOC:
+        - 70% Garganega + 30% Trebbiano di Soave and/or Chardonnay
+    - red:
+      - Valpolicella DOC: 45-95% Corvina + Rondinella
+        - subcategories:
+          - Amarone della Valpolicella
+          - Recioto della Valpolicella
+      - Bardolino DOC: Corvina + Rondinella
+  - Fruili-Venezia Giulia:
+    - white:
+      - Pinot Bianco
+      - Pinot Grigio
+      - Sauvignon (Sauvignon Blanc)
+      - Riabolla Gialla
+      - Friulano
+    - sweet:
+      - Verduzzo Gialla (ramandolo)
+    - red:
+      - Cabernet
+      - Merlot
+    - orange wine
+- Central:
+  - Tuscany:
+    - red:
+      - Chianti DOCG: Sangiovese blend
+      - Chianti Classico DOCG: Sangiovese blend
+      - Carmignano DOCG: Sangiovese blend
+      - Vino Nobile de Montepulciano DOCG: Sangiovese blend
+      - Mrellino di Scansano DOCG: Sangiovese blend
+      - Montecucco Sangiovese DOCG: Sangiovese blend
+      - Brunello di Montalcino DOCG: 100% Sangiovese
+      - Super-Tuscans: Sangiovese + Cabernet Sauvignon and/or Merlot
+    - white:
+      - Trebbiano
+      - Malvasia
+  - Umbria
+  - Marches
+  - Abuzzo
+  - Lazio
+  - Molise
+- South:
+  - Campania
+  - Apulia
+  - Basilicata
+  - Calabria
+  - Sicilia
+  - Sardinia
 
-TODO:
+### 06 Production Methods
 
 #### Recioto
 
-TODO:
+- appassimento method:
+- grapes are dried before fermentation
+- 3 months
+- dried in special lofts called _fruttai_
+- concentrates sugar and extract
+- Recioto wines (Recioto della Valpolicella) dried for an additional month
+- fermentation is stopped before completion
+- wine is semi-sweet or sweet
 
 #### Ripasso
 
-TODO:
+- lit. "re-passed"
+- a secondary fermentation of a wine
+- use unpressed skins of grapes used for Amarone or Recioto wine
 
 #### Amarone
 
-TODO:
+- appassimento method
+- fermented to dry or near dryness
+- traditionally aged in _botti_
+- contemporary winemakers may use barrique.
 
 #### Vin Santo
 
-TODO:
+- Trebbiano and Malvasia
+- grapes are dried by hanging from rafters
+- usually dried for ~9 months (1st December following harvest)
+- fermentation is slow
+- fermentation and maturation in _caratelli_ barrels
+- traditionally chestnut used for rapid oxidation
+- oak becoming more prevalent
 
 ### 07 Labelling Terms
 
-TODO:
+- Tenuta: estate
+- Azienda: Company
+- Castello: Castle
+- Cascina: farmhouse
+- Imbottigliato all'origine/dal produttore: estate-bottled
+- Vigna/Vigneto: indication of single vineyard origin
+- Liquoroso: fortified wine
+
+Sources:
+
+- <https://www.cellartours.com/blog/italy/decoding-italian-wine-labels-a-guide-for-curious-drinkers>
 
 ### 08 Prosecco Quality levels and Production Methods
 
-TODO:
+- production:
+- Charmat method:
+  - also known as tank method
+  - process:
+    - make a still base wine
+    - put it in a pressurised tank
+    - add yeast and sugar to begin 2nd ferment
+    - wait 1 - 6 weeks
+    - chill to 0°C to stop ferment
+    - dosage mix of wine and sugar to achieve desired sweetness level
+    - filter and bottle
+- secondary ferment in large steel autoclaves
+- styles:
+- Frizzante:
+  - slightly sparkling
+- Spumante superiore:
+  - fully sparkling
+  - sweetness:
+    - brut
+    - demi-sec:
+      - secondary ferment in bottle
+- quality levels (in ascending order):
+  1. prosecco DOC
+  2. Prosecco DOC Treviso/Trieste
+  3. Asolo DOCG/Conegliano Valdobbiadene DOCG
+  4. Superiore di Cartizze Rive DOCG
+- non-vintage
+- 85% of the wine is Glera
+
+![Prosecco Quality Hierarchy](attachments/italy/prosecco_quality_hierarchy.png)
+
+Sources:
+
+- <https://wineacademy.com.au/the-charmat-method/>
+- <https://www.guildsomm.com/research/compendium/w/italy/1338/prosecco-doc>
+- <https://i1.wp.com/socialvignerons.com/wp-content/uploads/2017/10/Infografic-guide-Prosecco-quality-level-doc-docg-conegliano-valdobbiadene-treviso-veneto-asolo.jpg?resize=818%2C519>
 
 ## Cert
 
@@ -199,17 +347,17 @@ TODO:
     - Valpolliella:
       - Recioto della Valpollicella DOCG
       - Amarone della Valpolicella DOCG
-    * Bardolino Superiore DOCG
-    * Soave:
+    - Bardolino Superiore DOCG
+    - Soave:
       - Recioto di Soave DOCG
       - Soave Superiore DOCG
-    * Recioto di Gambellara DOCG
-    * Prosecco:
+    - Recioto di Gambellara DOCG
+    - Prosecco:
       - Valdobbiadene Prosecco DOCG
       - Asolo Prosecco DOCG
-    * Colli Euganei Fior d'Arancio DOCG
-    * Plave Malanotte DOCG
-    * Lison DOCG
+    - Colli Euganei Fior d'Arancio DOCG
+    - Plave Malanotte DOCG
+    - Lison DOCG
   - Fruili-Venezia Giulia:
     - Ramandolo DOCG
     - Colli Orientali del Friuli-Picolit DOCG
@@ -263,43 +411,67 @@ TODO:
 
 ### 02 Aging Requirements and Specified Terms
 
-TODO:
-
 #### Barolo
 
-TODO:
-
-- Aging Requirements:
-- Terms:
+- base:
+  - min. 38 months from November 1 of harvest year
+  - min. 18 months in wood
+- Riserva: 62 months
 
 #### Barbaresco
 
-TODO:
-
-- Aging Requirements:
-- Terms:
+- base:
+  - min. 26 months from November 1 of harvest year
+  - must include 9 months in cask
+- Riserva: min. 50 months.
 
 #### Chianti
 
-TODO:
-
-- Aging Requirements:
-- Terms:
+- Chianti DOCG:
+  - Chianti Normale: released 1 March year follwoing harvest
+  - Riserva: 2 years of aging
+  - Superiore: Riserva with +0.5 alcohol and lower vineyard yields
+- Chianti Classico DOCG:
+  - base: Release October 1st year following harvest
+  - Riserva:
+    - min. 24 months
+    - 3 months in bottle
+    - min. alcohol 12.5%
+  - Gran Selezione:
+    - min. 30 months
+    - 3 months in bottle
+    - min. 13% ABV
+    - min. 90% Sangiovese
 
 #### Vino Nobile
 
-TODO:
-
-- Aging Requirements:
-- Terms:
+- base:
+  - min. 2 years
+  - min. 1 year in wood
+- Riserva:
+  - min. 3 years
+  - include min. 6 months in bottle
 
 #### Brunello di Montalcino
 
-TODO:
-
-- Aging Requirements:
-- Terms:
+- base:
+  - min. 2 years in cask
+  - min. 4 months in bottle
+  - canot be releasd until January 1st of the 5th year following harvest
+- Riserva:
+  - min. 2 years in cask
+  - min. 6 months in bottle
+  - cannot be released until 6 years following harvest
 
 ### 03 Sub-Districts of Chianti
 
-TODO:
+- Classico
+- Rùfina
+- Colli Fiorentini
+- Colli Senesi
+- Colline Pisane
+- Colli Aretini
+- Mntalbano
+- Montespertoli
+
+![Map of Chianti and Included Regions](attachments/italy/map_chianti.png)
