@@ -129,12 +129,11 @@
 
 ### 05 Principal Wines of Each Region and Varietals Used in Production
 
-TODO:
-
 - North:
   - Piedmont:
     - Red:
-      - Nebbiolo
+      - Barbaresco DOCG: Nebbiolo
+      - Barolo DOCG: Nebbiolo
       - Dolcetto
       - Barbera
     - white:
@@ -205,18 +204,51 @@ TODO:
     - white:
       - Trebbiano
       - Malvasia
-  - Umbria
-  - Marches
-  - Abuzzo
-  - Lazio
-  - Molise
+  - Umbria:
+    - White:
+      - Ovrieto DOC:
+        - Grechetto/Trebbino Toascano
+    - red:
+      - Sagrantino di Montefalco DOCG/Torgiano Rosso Riserva DOCG: Sagrantino
+  - Marches:
+    - white:
+      - Verdicchio di Matelica Riserva DOCG: Verdicchio
+      - Casteli di Jesi Verdicchio Riserva DOCG: Verdicchio
+    - red:
+      - still:
+        - Conero Rosso Riseva DOCG: Montepulciano/Sangiovese
+      - sparkling: Vernaccia di Serrapetrona DOCG: Vernaccia
+  - Abuzzo:
+    - red:
+      - Montepulciano d'Abruzzo DOC: Montepulciano
+      - Colline Teramane Montepulciano d'Abruzzo DOCG: Montepulciano
+  - Lazio:
+    - Catelli Romani DOC: Trebbiano Toscano
 - South:
-  - Campania
-  - Apulia
-  - Basilicata
-  - Calabria
-  - Sicilia
-  - Sardinia
+  - Campania:
+    - red:
+      - Taurasi DOCG: Agliancio
+      - Aglianico del Taburno DOCG: Aglianico
+  - Apulia:
+    - Castel del Monte Rosso Riserva DOCG:
+      - 65% Nero Di Troia
+    - Castel del Monte Nero di Troia Riserva DOCG:
+      - 90% Nero di Troia
+    - Primitivo di Manduria Dolce Naturale DOCG: Primativo
+  - Basilicata:
+    - red:
+      - Aglianico del Vulture Superiore DOCG: Agliancioi
+  - Sicilia:
+    - white:
+      - Catarrato
+      - Etna DOC: Carricante
+    - red:
+      - Etna DOC: Nerello Macalese
+      - Cerasuolo di Vittoria DOCG: Nero d'Avola
+  - Sardinia:
+    - Cannonau (Grenache)
+    - Carignano (Carignan)
+    - Vermentino di Gallura DOCG: Vermentino
 
 ### 06 Production Methods
 
