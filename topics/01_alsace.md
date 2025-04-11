@@ -1,12 +1,3 @@
----
-title: 
-aliases: []
-tags: []
-type:
-cdt: 2025-01-09T23:19:43
-mdt: 2025-01-09T23:19:44
----
-
 # CMS - Alsace
 
 See [[cms#Syllabus]]
@@ -16,7 +7,9 @@ Each topic has introductory and certified examination topics.
 ```toc
 minLevel:2
 ```
+
 ## Introductory
+
 ### Factors affecting Climate
 
 - Vosges provides a rainshadow meaning that Alsace has one of the sunniest and driest climates of any winemaking area in France [@cms_alsacejurasavoie].
@@ -32,33 +25,33 @@ minLevel:2
 
 - alsace js divided into two departments: Haut-Rhin and Bas-Rhin[@cms_alsacejurasavoie]
 - Haut-Rhin contains generally higher wuality wine - 2/3 grcu vineyards[@cms_alsacejurasavoie]
-- 
+-
 
 ### Location of the best vineyards and variety of soils
 
 - Location of best vineyards:
-	- 2/3 gcru in Haut-Rhin [@cms_alsacejurasavoie]
-	- east a d south eastern exposure in the best vineyards [@cms_alsacejurasavoie]
+  - 2/3 gcru in Haut-Rhin [@cms_alsacejurasavoie]
+  - east a d south eastern exposure in the best vineyards [@cms_alsacejurasavoie]
 - soil types:
-	- granite
-	- limestone
-	- schist
-	- clay
-	- gravel
-	- chalk
-	- loess
-	- gres de vosges (pink sandstone)
-	- steeper mountain slopes consist of schist, granite, volcanic sediment.[@cms_alsacejurasavoie]
-	- lower slopes possess limestone *base* [@cms_alsacejurasavoie]
-	- valley floor rich alluvial clay and gravel soils [@cms_alsacejurasavoie]
+  - granite
+  - limestone
+  - schist
+  - clay
+  - gravel
+  - chalk
+  - loess
+  - gres de vosges (pink sandstone)
+  - steeper mountain slopes consist of schist, granite, volcanic sediment.[@cms_alsacejurasavoie]
+  - lower slopes possess limestone _base_ [@cms_alsacejurasavoie]
+  - valley floor rich alluvial clay and gravel soils [@cms_alsacejurasavoie]
 
 ### Grape Varietals
 
 - Nobles Grapes:
-	- Riesling
-	- Pinot Gris
-	- Muscat
-	- Gewurtztraminer
+  - Riesling
+  - Pinot Gris
+  - Muscat
+  - Gewurtztraminer
 
 ### Appellations of Alsace
 
@@ -81,15 +74,15 @@ minLevel:2
 
 - sparkling wine
 - styles and encapagement:
-	- mousseaux blanc: ri, pb, pn, pg, ax, ch
-	- rose: pn
+  - mousseaux blanc: ri, pb, pn, pg, ax, ch
+  - rose: pn
 - minimum alc: 9%
 - minimum must weight: 144g/L
 - other:
-	- traditional method
-	- 9 months on lees before disgorgement
-	- 12 mths total ageing with 9 months on leess from 2012
-	- minimum 4 atm of pressure
+  - traditional method
+  - 9 months on lees before disgorgement
+  - 12 mths total ageing with 9 months on leess from 2012
+  - minimum 4 atm of pressure
 - harvesting: manual
 - minimum density: 4000 vines per hectare
 - established 1976
@@ -97,13 +90,13 @@ minLevel:2
 #### AOC Alsace
 
 - AOC Alsace.. (continue here ) https://www.vinsalsace.com/en/gouts-et-couleurs/aoc/aoc-alsace/
--  [@vinsalsace_alsaceaoc]
-	- introduced in 1962
-	- in 2011 the subcategories of Communales and Lieux-dits were introduced.
-	- monovarietal or blend (edelzwicker)
-	- bottled in “wine of the Rhine” /Flute of Alsace
-	- overlooked by INAO
-	
+- [@vinsalsace_alsaceaoc]
+  - introduced in 1962
+  - in 2011 the subcategories of Communales and Lieux-dits were introduced.
+  - monovarietal or blend (edelzwicker)
+  - bottled in “wine of the Rhine” /Flute of Alsace
+  - overlooked by INAO
+
 ##### Communale (Villages)
 
 - 14 communes [@vinsalsace_alsaceaoc]
@@ -123,73 +116,70 @@ minLevel:2
 - apply to both Alsace AOP and Alsace GC AOP wines
 - require the wine to be single-varietal and pass a blind-tasting
 - hand-harvested
-- 
+-
 - SGN:
-	- botrytised
-	- favor botrytis character over varietal
-	- fruit picked in tries
-	- generally always sweet
-	- picking conc (g/L) musc, ri / pg, gw: 276 / 306
+  - botrytised
+  - favor botrytis character over varietal
+  - fruit picked in tries
+  - generally always sweet
+  - picking conc (g/L) musc, ri / pg, gw: 276 / 306
 - VT:
-	- botyrtised (maybe)
-	- fsvor varital character over botrytis.
-	- passerillage (raisinating fruit)
-	- sweet and dry(ish)
-	- picking sugar conc: 224 g/l for muscat and ri, 270 for PG And GW
+  - botyrtised (maybe)
+  - fsvor varital character over botrytis.
+  - passerillage (raisinating fruit)
+  - sweet and dry(ish)
+  - picking sugar conc: 224 g/l for muscat and ri, 270 for PG And GW
 
 ### Labelling Terms
 
 #### General
 
 - [@wsearch_alsacelabel]
-	- in alsace, the label can consist of the following fields, depending on its consigned appellation:
-		- vineyard name
-		- grape variety
-		- appellation title
-		- producer name
-		- estste bottling statement
-		- producer location
-		- alcohol percentage.
+  - in alsace, the label can consist of the following fields, depending on its consigned appellation:
+    - vineyard name
+    - grape variety
+    - appellation title
+    - producer name
+    - estste bottling statement
+    - producer location
+    - alcohol percentage.
 
 #### Alsace GC
 
 - Alsace GC labels display the following information [@wsearch_alsacelabel]:
-	- compulsorily:
-		- “Alsace Grand Cru”
-		- vineyard name
-		- grape variety
+  - compulsorily:
+    - “Alsace Grand Cru”
+    - vineyard name
+    - grape variety
 
 #### Alsace AOC
 
 - Alsace AOC [@wsearch_alsacelabel]
-	- “Alsace AOC”
-	- (optional): GI
-	- (optional): vineyard name
-	- (compulsory): variety, or “Edelzwicker” indicates a white blend
+  - “Alsace AOC”
+  - (optional): GI
+  - (optional): vineyard name
+  - (compulsory): variety, or “Edelzwicker” indicates a white blend
 
 #### Cremant d’Alsace
 
 - Cremant d’Alsace [@wsearch_alsacelabel]
-	- indicates the wine is a white or rosé sparkling made from a blend of: pinot blanc, pinot gris, chardonnay and pinot noir, typically made dry
+  - indicates the wine is a white or rosé sparkling made from a blend of: pinot blanc, pinot gris, chardonnay and pinot noir, typically made dry
 
 ### SGN and VT
 
-SGN and VT can be specified on Alsace AOC and Alsace GC bottles . 
+SGN and VT can be specified on Alsace AOC and Alsace GC bottles .
+
 ## Certified
 
 ### Identify Grand Cru Varietals and Sites
 
 - [@cms_alsacejurasavoie]
-	- 2/3 in Haut Rhin
-	- single varietal wines made from noble grapes only except some exceptions
-	- schlossberg first gc vineyard in 1975
-	-  exceptions:
-		- altenberg de bergheim and kaefferkopf can use blends
-		- zotzenberg can use slyvanar
-		- Hengst, Kirchberg de Barr, and Vorbourg can make Pinot Noir
+  - 2/3 in Haut Rhin
+  - single varietal wines made from noble grapes only except some exceptions
+  - schlossberg first gc vineyard in 1975
+  - exceptions:
+    - altenberg de bergheim and kaefferkopf can use blends
+    - zotzenberg can use slyvanar
+    - Hengst, Kirchberg de Barr, and Vorbourg can make Pinot Noir
 
 The rule is thus: all sites must bottle varietal wine except for Altenberg de bergheim and Kaefferkopf, who can make blends from the Noble Grapes. Zotzenberg can use Sylvanar, ans Hengst, Kirchberg de Barr, and Vorbourg can make Pinot Noir.
-
-
-
-
