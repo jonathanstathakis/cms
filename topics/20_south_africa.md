@@ -1,7 +1,7 @@
 # South Africa
 
 <details><summary>GU of South Africa</summary>
-<img src="./attachments/map_south_africa_gu.jpg" alt="GU of South Africa">
+<img src="../attachments/map_south_africa_gu.jpg" alt="GU of South Africa">
 </details>
 
 ## Intro
@@ -152,13 +152,13 @@ Sources:
 
 <details><summary>Map of South Africas Wine Regions</summary>
 
-<img src="./attachments/south_africa_wine_map.jpg" alt="Map of South African Wine Regions">
+<img src="../attachments/south_africa_wine_map.jpg" alt="Map of South African Wine Regions">
 
 </details>
 
 <details><summary></summary>
 
-<img src="./attachments/south_africa_wine_map_2.jpg" alt="An alternative map">
+<img src="../attachments/south_africa_wine_map_v2.jpg" alt="An alternative map">
 
 </details>
 
@@ -264,7 +264,7 @@ Means _French Quarter_.
 
 Sources:
 
-- [Compendium: Paarl](https://wwwa.guildsomm.com/research/compendium/w/safrica/919/paarl)
+- [Compendium: Paarl](https://www.guildsomm.com/research/compendium/w/safrica/919/paarl)
 - [Guildsomm: South Africa (Intro)](https://www.guildsomm.com/learn/study/w/study-wiki/207/south-africa#01)
 
 #### Constantia
@@ -313,7 +313,7 @@ Sources:
 
 Sources:
 
-- [Compendium: Walker Bay](https://www.guildsomm.com/research/compendium/w/safrica/934/walker-bayhttps://www.guildsomm.com/research/compendium/w/safrica/934/walker-bay)
+- [Compendium: Walker Bay](https://www.guildsomm.com/research/compendium/w/safrica/934/walker-bay)
 - [Guildsomm: South Africa (Intro)](https://www.guildsomm.com/learn/study/w/study-wiki/207/south-africa#01)
 
 #### Elgin

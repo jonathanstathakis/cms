@@ -31,7 +31,7 @@
 
 ### Maps
 
-![https://vinepair.com/wine-blog/intro-wines-of-germany-map-infographic/](attachments/germany/map_of_german_wine_regions.png)
+![https://vinepair.com/wine-blog/intro-wines-of-germany-map-infographic/](../attachments/germany/map_of_german_wine_regions.png)
 
 ### Resources
 
@@ -181,13 +181,13 @@ Sources:
 
 <details><summary>Map of Middle Mosel</summary>
 
-![Map of Middle Mosel](attachments/germany/map_middle_mosel.png)
+![Map of Middle Mosel](../attachments/germany/map_middle_mosel.png)
 
 </details>
 
 <details><summary>Map of Mosel Aunbaugebeite</summary>
 
-![Map of Mosel Aunbaugebeite](attachments/germany/map_mosel_aunbaugebeite.png)
+![Map of Mosel Aunbaugebeite](../attachments/germany/map_mosel_aunbaugebeite.png)
 
 </details>
 
@@ -207,7 +207,7 @@ Sources:
 <details>
 <summary>Map of Rheingau Aunbaugebeite</summary>
 
-![Map of Rheingau Wine Villages](attachments/germany/map_of_rheingau_wine_villages.png)
+![Map of Rheingau Wine Villages](../attachments/germany/map_of_rheingau_wine_villages.png)
 
 </details>
 
@@ -224,7 +224,7 @@ Sources:
 
 <details><summary>Map of Pfalz Wine Villages</summary>
 
-![Map of Pfalz Wine Villages](../../../assets/germany/pfalz_villages_map.png)
+![Map of Pfalz Wine Villages](../attachments/germany/pfalz_villages_map.png)
 
 </details>
 
@@ -238,7 +238,7 @@ Sources:
 
 <details><summary>Map of Rheinhessen Wine Villages</summary>
 
-![Map of Rheinhessen Wine Villages](./attachments/germany/map_of_rheinhessen_villages.png)
+![Map of Rheinhessen Wine Villages](../attachments/germany/map_of_rheinhessen_villages.png)
 
 </details>
 

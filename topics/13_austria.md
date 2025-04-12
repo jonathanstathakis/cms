@@ -98,7 +98,7 @@ Sources:
     - steinfeder:
       - fresh, fruity, tangy
       - named for a grass that grows in Wachau's stony terraces
-      - max 11.5% abv, min 15° KMW*
+      - max 11.5% abv, min 15° KMW\*
     - federspiel:
       - fuller level: 11.5% - 12.5% alcohol
       - named for falconry
@@ -157,8 +157,8 @@ Sources:
 
 - banderole:
   - red and white label on the capsule that indicates that the wine has passed Austria's stringent quality control.
-- DAC: see [DAC Quality Structure Levels](#dac-quality-structure-levels), [DAC Districts and Locations](#dac-districts-and-location)
-- Qualitätswein quality levels and indications. See [Austrian Quality Structure Qba & QmP](#austrian-quality-structure-qba-qmp)
+- DAC: see [DAC Quality Structure Levels](#04-dac-quality-structure-levels), [DAC Districts and Locations](#01-dac-districts-and-location)
+- Qualitätswein quality levels and indications. See [Austrian Quality Structure Qba & QmP](#02-austrian-quality-structure-qba-qmp)
 - erzeugerabfüllung: bottled at property
 - Quality control number
 - Wachau Quality levels
@@ -171,9 +171,9 @@ Sources:
 - Weisswein: white wine
 - Winzergenossenschaft: cooperative
 
-<img src="./attachments/austria_banderole.jpg" alt='banderole' height="200" />
+<img src="../attachments/austria_banderole.jpg" alt='banderole' height="200" />
 
-![wachau levels](./attachments/wachau_wines.webp)
+![wachau levels](../attachments/wachau_wines.webp)
 
 Sources:
 
@@ -213,7 +213,7 @@ Sources:
 <details>
 <summary>DAC MAP</summary>
 
-![dac map](./attachments/austria_DAC.jpeg)
+![dac map](../attachments/austria_DAC.jpeg)
 
 </details>
 
@@ -221,21 +221,21 @@ Sources:
 <summary> Burgenland DACs
   </summary>
 
-![burgenland](./attachments/austria_burgenland_dac.jpg)
+![burgenland](../attachments/austria_burgenland_dac.jpg)
 
 </details>
 
 <details>
 <summary>Niederösterreich DACs</summary>
 
-![Niederösterreich](./attachments/austria_niederosterreich_dac.jpg)
+![Niederösterreich](../attachments/austria_niederosterreich_dac.jpg)
 
 </details>
 
 <details>
 <summary>Steiermark DACs</summary>
 
-![Steiermark](./attachments/austria_steiermark_dac.jpg)
+![Steiermark](../attachments/austria_steiermark_dac.jpg)
 
 </details>
 

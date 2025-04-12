@@ -95,36 +95,36 @@ All info in this section taken from <https://www.guildsomm.com/research/compendi
 Grand cru appellations are each contained within one of the communal appellations mentioned above (?).
 
 - Chambertin:
-				* Mazis-Chambertin AOP
-				* Ruchottes-Chambertin AOP
-				* Chambertin Clos De Bèze AOP
-				* Chapelle-Chambertin AOP
-				* Griotte-Chambertin AOP
-				* Chambertin AOP
-				* Charmes-Chambertin AOP
-				* Latricières-Chambertin AOP
-				* Mazoyères-Chambertin AOP
+  - Mazis-Chambertin AOP
+  - Ruchottes-Chambertin AOP
+  - Chambertin Clos De Bèze AOP
+  - Chapelle-Chambertin AOP
+  - Griotte-Chambertin AOP
+  - Chambertin AOP
+  - Charmes-Chambertin AOP
+  - Latricières-Chambertin AOP
+  - Mazoyères-Chambertin AOP
 - Morey-Saint-Denis:
-				* Clos De La Roche AOP
-				* Clos Saint-Denis AOP
-				* Clos Des Lambrays AOP
-				* Clos De Tart AOP
-				* Bonnes Mares (Shared By Chambolle-Musigny) AOP
+  - Clos De La Roche AOP
+  - Clos Saint-Denis AOP
+  - Clos Des Lambrays AOP
+  - Clos De Tart AOP
+  - Bonnes Mares (Shared By Chambolle-Musigny) AOP
 - Chambolle-Musigny:
-				* Musigny AOP
-				* Bonnes Mares AOP (Shared With Morey-Saint-Denis)
+  - Musigny AOP
+  - Bonnes Mares AOP (Shared With Morey-Saint-Denis)
 - Vougeot:
-				* Clos De Vougeot/Clos Vogeot AOP
+  - Clos De Vougeot/Clos Vogeot AOP
 - Flagey-Echezeaux:
-				* Echézeaux AOP
-				* Grands-Echézeaux AOP
+  - Echézeaux AOP
+  - Grands-Echézeaux AOP
 - Vosne-Romanée:
-				* Richebourg AOP
-				* Romanée-Saint-Vivant AOP
-				* Romanée-Conti AOP
-				* Romanée AOP
-				* La Grande Rue AOP
-				* La Tâche AOP
+  - Richebourg AOP
+  - Romanée-Saint-Vivant AOP
+  - Romanée-Conti AOP
+  - Romanée AOP
+  - La Grande Rue AOP
+  - La Tâche AOP
 
 The 6 Grand Cru villages of Côtes de Nuits are: Chamberin, Morey-Saint-Denis, Chambolle-Musigny, Vougeot, Flagey-Echezeaux and Vosne-Romanée.
 
@@ -163,32 +163,32 @@ The 6 Grand Cru villages of Côtes de Nuits are: Chamberin, Morey-Saint-Denis, C
 <https://www.guildsomm.com/research/compendium/w/france/386/grand-cru-appellations-of-the-cote-de-beaune>
 
 - Corton:
-				* Corton AOP:
-								+ styles:
-												+ blanc
-												+ rouge
-				* Corton-Charlemagne AOP:
-								+ styles:
-												+ blanc
-				* Charlemagne AOP:
-								+ styles:
-												+ blanc
+  - Corton AOP:
+    - styles:
+      - blanc
+      - rouge
+  - Corton-Charlemagne AOP:
+    - styles:
+      - blanc
+  - Charlemagne AOP:
+    - styles:
+      - blanc
 - Montrachet:
-				1. Chevalier-Montrachet AOP:
-								+ styles:
-												+ blanc
-				2. Montrachet AOP:
-								+ styles
-												+ blanc
-				3. Bâtard-Montrachet AOP:
-								+ styles:
-												+ blanc
-				4. Bienvenues-Bâtard-Montrachet AOP:
-								+ styles:
-												+ blanc
-				5. Criots-Bâtard-Montrachet AOP:
-								+ styles:
-												+ blanc
+  - Chevalier-Montrachet AOP:
+    - styles:
+      - blanc
+  - Montrachet AOP:
+    - styles
+      - blanc
+  - Bâtard-Montrachet AOP:
+    - styles:
+      - blanc
+  - Bienvenues-Bâtard-Montrachet AOP:
+    - styles:
+      - blanc
+  - Criots-Bâtard-Montrachet AOP:
+    - styles:
+      - blanc
 
 The Grand Cru AOP of Corton are clustered around the hill of Corton in the north of the Côte de Beaune. The Grand Cru of Montrachet are likewise clustered around the hill of Montrachet in the southen wnd of the Côte de Beaune. Corton is located at the northern border of Cote de Beaune and Cotes de Nuits, north of the city of Beaune. It is surrounded by Pernand-Vergelesses to the west, Buisson to the north, Ladoix-Serrigny to the east and Aloxe-Corton to the south. Montrachet is situated south of Meursault roughly in the centered between St-Aubin to the west, Blagny and Meursault to the North, Pulignt-Montrachet to the east and Chassagne-Montrachet to the south. These predominantly white wine areas are seperated by the red wine appellations of Pommard and Volnay.
 

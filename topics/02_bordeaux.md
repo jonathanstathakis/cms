@@ -134,13 +134,13 @@ source: attachments/bordeaux_first_growths.csv
 The St-Émilion Classification was first drafted in 1955. and reviewed every 10 years or so, with the last review in 2022. After much discord, its current format possesses 3 tiers and includes 85 estates^[[vins-saint-emilion](https://vins-saint-emilion.com/en/welcome-in-the-vineyard/saint-emilion-wine-classification/)] - premier grand cru classé A (Pavie, Figeac), premier grand cru classé B (12 estates), grand cru classé (71 estates). To participate in the classification the wine must be sold within La Place de Bordeaux.
 
 ```csvtable
-source: bordeaux/attachments/st_emilion_class_2022.csv
+source: bordeau../attachments/st_emilion_class_2022.csv
 ```
 
 ### "A" Category St Émilion Châteaux
 
 ```csvtable
-source: bordeaux/attachments/st_emilion_class_2022_class_A.csv
+source: bordeau../attachments/st_emilion_class_2022_class_A.csv
 ```
 
 | class | Chateau |
@@ -153,7 +153,7 @@ source: bordeaux/attachments/st_emilion_class_2022_class_A.csv
 ````
 
 ```csvtable
-source: bordeaux/attachments/top_pomerol_chateaux.csv
+source: bordeau../attachments/top_pomerol_chateaux.csv
 ````
 
 - Petrus

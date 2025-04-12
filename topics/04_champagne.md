@@ -250,7 +250,9 @@ TODO: check if there are other labeling terms.
 
 9. VP: _Vieillissement Prolonge_
 
-<https://grapecollective.com/articles/understanding-champagne-labels>
+Sources:
+
+- <https://grapecollective.com/articles/understanding-champagne-labels>
 
 ### 09 Bottle Sizes
 

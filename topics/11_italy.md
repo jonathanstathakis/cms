@@ -331,7 +331,7 @@ Sources:
 - non-vintage
 - 85% of the wine is Glera
 
-![Prosecco Quality Hierarchy](attachments/italy/prosecco_quality_hierarchy.png)
+![Prosecco Quality Hierarchy](../attachments/italy/prosecco_quality_hierarchy.png)
 
 Sources:
 
@@ -506,4 +506,4 @@ Sources:
 - Mntalbano
 - Montespertoli
 
-![Map of Chianti and Included Regions](attachments/italy/map_chianti.png)
+![Map of Chianti and Included Regions](../attachments/italy/map_chianti.png)

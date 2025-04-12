@@ -137,7 +137,7 @@ Sources:
 
 <details><summary>Map of Chile Wine Regions</summary>
 
-<img src="./attachments/chile_wine_map.jpg" alt="Map of Chile Wine Regions">
+<img src="../attachments/chile_wine_map.jpg" alt="Map of Chile Wine Regions">
 
 </details>
 
@@ -154,7 +154,7 @@ Sources:
   - Mer.
   - Syr.
 
-<img src="./attachments/aconagua_wine_map.jpeg" alt="Aconcagua wine region with Valle de Casablanca DO indicated.">
+<img src="../attachments/aconagua_wine_map.jpeg" alt="Aconcagua wine region with Valle de Casablanca DO indicated.">
 
 sources:
 
@@ -174,7 +174,7 @@ sources:
   - Syr
   - Ch
 
-<img src="./attachments/valle_del_maipo_do_map.jpeg alt='map of Valle del Maipo DO">
+<img src="../attachments/valle_del_maipo_do_map.jpeg" alt='map of Valle del Maipo DO'>
 
 Sources:
 
@@ -199,7 +199,7 @@ Sources:
   - Syr.
   - Ch.
 
-<img src="./attachments/valle_del_rapel_map.jpeg" alt="map of Valle del Rapel wine regions">
+<img src="../attachments/valle_del_rapel_map.jpeg" alt="map of Valle del Rapel wine regions">
 
 Sources:
 
@@ -209,7 +209,7 @@ Sources:
 
 <details><summary>Map of Argentine Wine Regions</summary>
 
-<img src="./attachments/wine_regions_argentina_map.png" alt="Map of Argentina Wine Regions">
+<img src="../attachments/wine_regions_argentina_map.png" alt="Map of Argentina Wine Regions">
 
 </details>
 
@@ -374,7 +374,7 @@ See [04 5 Wine Regions of Chile and Sub-Districts](#04-5-wine-regions-of-chile-a
 
 ### 02 Sub districts of Mendoza
 
-<img src="./attachments/mendoza_wine_map.png" alt="Map of the Mendoza wine region">
+<img src="../attachments/mendoza_wine_map.png" alt="Map of the Mendoza wine region">
 
 - Primera Zona:
   - Luján de Cuyo DOC:
