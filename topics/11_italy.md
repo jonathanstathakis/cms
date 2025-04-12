@@ -303,17 +303,7 @@ Sources:
 ### 08 Prosecco Quality levels and Production Methods
 
 - production:
-- Charmat method:
-  - also known as tank method
-  - process:
-    - make a still base wine
-    - put it in a pressurised tank
-    - add yeast and sugar to begin 2nd ferment
-    - wait 1 - 6 weeks
-    - chill to 0°C to stop ferment
-    - dosage mix of wine and sugar to achieve desired sweetness level
-    - filter and bottle
-- secondary ferment in large steel autoclaves
+  - charmat method. See [Charmat Method](/topics/05_sparkling_wines.md#charmat)
 - styles:
 - Frizzante:
   - slightly sparkling
