@@ -1,15 +1,49 @@
----
-title:
-aliases: []
-tags: []
-type:
- cdt: 2025-02-26T11:35:50
-mdt: 2025-02-26T11:57:48
----
-
 # Burgundy
 
-<https://www.guildsomm.com/learn/study/w/study-wiki/153/burgundy>
+## TOC
+
+<!-- vim-markdown-toc GFM -->
+
+- [Introductory](#introductory)
+  - [1.Climatic Influences](#1climatic-influences)
+  - [2. aop districts and locations](#2-aop-districts-and-locations)
+    - [Regional](#regional)
+    - [chablis](#chablis)
+    - [cote dor](#cote-dor)
+      - [cote de nuits](#cote-de-nuits)
+        - [commune appellations](#commune-appellations)
+        - [grand cru appellations](#grand-cru-appellations)
+    - [côte de beaune](#côte-de-beaune)
+      - [communal aop](#communal-aop)
+      - [grand cru aops](#grand-cru-aops)
+    - [côte chalonnaise](#côte-chalonnaise)
+    - [mâconnais](#mâconnais)
+    - [beaujolais](#beaujolais)
+      - [Regional](#regional-1)
+      - [Cru](#cru)
+  - [3. Permitted Grape Varietals](#3-permitted-grape-varietals)
+  - [4. Soil Types](#4-soil-types)
+  - [5. Production and Aging Techniques (Traditional / Macération Carbonique)](#5-production-and-aging-techniques-traditional--macération-carbonique)
+    - [Traditional](#traditional)
+    - [Macération Carbonique](#macération-carbonique)
+  - [6. Quality Levels](#6-quality-levels)
+  - [7. District and Wines of Chablis](#7-district-and-wines-of-chablis)
+  - [8. Principal Communes of the Côte d'Or and Location](#8-principal-communes-of-the-côte-dor-and-location)
+  - [9. Premier Cru and Grand Cru Wines of Côte d'Or](#9-premier-cru-and-grand-cru-wines-of-côte-dor)
+  - [10. Location of Macon Villages and Côte Chalonnaise Districts](#10-location-of-macon-villages-and-côte-chalonnaise-districts)
+  - [11. Beaujolais Cru](#11-beaujolais-cru)
+  - [12. Labelling Terms](#12-labelling-terms)
+  - [13. Structure of Trade](#13-structure-of-trade)
+  - [Certified](#certified)
+  - [1. Smaller Production Districts: St Bris, Irancy, Montagny, Bouzeron, Givry, Mercurey, Pouilly Fuissé & St. Veran](#1-smaller-production-districts-st-bris-irancy-montagny-bouzeron-givry-mercurey-pouilly-fuissé--st-veran)
+  - [2. Classic Vintages](#2-classic-vintages)
+    - [Sources of Data](#sources-of-data)
+    - [Analysis](#analysis)
+      - [reds](#reds)
+      - [Whites](#whites)
+- [Sources](#sources)
+
+<!-- vim-markdown-toc -->
 
 ## Introductory
 
@@ -377,7 +411,6 @@ Traditional production and aging decisions:
   - prem cru: + pronounced acidity + medium weight + less character + intense minerality + steel + no new oak
   - grand cru: + similar to premier cru + richer + riper + new oak influence (optional) \* aged: + hazelnut + lemon + oystershell
 
-
 ![[Pasted image 20250416144520.jpg]]
 
 ### 8. Principal Communes of the Côte d'Or and Location
@@ -655,3 +688,7 @@ be ignored for vintages earlier than that.
 | 1992 | x        |         |          |         |
 | 1991 |          |         |          |         |
 | 1990 |          |         |          |         |
+
+## Sources
+
+- <https://www.guildsomm.com/learn/study/w/study-wiki/153/burgundy>

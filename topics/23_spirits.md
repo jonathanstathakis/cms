@@ -1,5 +1,68 @@
 # Spirits
 
+## TOC
+
+<!-- vim-markdown-toc GFM -->
+
+- [Intro](#intro)
+  - [Principals of Distillation](#principals-of-distillation)
+  - [Methods of Production, Terms Used and Qualities of the Following Products](#methods-of-production-terms-used-and-qualities-of-the-following-products)
+    - [Scotch Whisky](#scotch-whisky)
+      - [Malt](#malt)
+        - [Methods of Production](#methods-of-production)
+        - [Qualities](#qualities)
+        - [Terms Used In Prod](#terms-used-in-prod)
+      - [Blended](#blended)
+        - [Methods of Production](#methods-of-production-1)
+        - [Qualities](#qualities-1)
+        - [Terms Used In Prod](#terms-used-in-prod-1)
+    - [Irish Whiskey Types and Production](#irish-whiskey-types-and-production)
+      - [Methods of Production](#methods-of-production-2)
+      - [Qualities](#qualities-2)
+      - [Terms Used In Prod](#terms-used-in-prod-2)
+    - [US Whiskey Types](#us-whiskey-types)
+      - [Methods of Production](#methods-of-production-3)
+      - [Qualities](#qualities-3)
+      - [Terms Used In Prod](#terms-used-in-prod-3)
+    - [Cognac](#cognac)
+      - [Methods of Production](#methods-of-production-4)
+      - [Qualities](#qualities-4)
+      - [Terms Used In Prod](#terms-used-in-prod-4)
+      - [Ageing](#ageing)
+      - [Examples of Products](#examples-of-products)
+      - [Sources](#sources)
+    - [Calvados](#calvados)
+    - [Tequila](#tequila)
+      - [Methods of Production](#methods-of-production-5)
+      - [Qualities](#qualities-5)
+      - [Terms Used In Prod](#terms-used-in-prod-5)
+    - [Gin:](#gin)
+      - [Methods of Production](#methods-of-production-6)
+      - [Qualities](#qualities-6)
+      - [Terms Used In Prod](#terms-used-in-prod-6)
+    - [Vodka:](#vodka)
+      - [Methods of Production](#methods-of-production-7)
+      - [Qualities](#qualities-7)
+      - [Terms Used In Prod](#terms-used-in-prod-7)
+    - [Rum:](#rum)
+      - [Methods of Production](#methods-of-production-8)
+      - [Qualities](#qualities-8)
+      - [Terms Used In Prod](#terms-used-in-prod-8)
+  - [Cert](#cert)
+    - [Identify Specific Spirit Types](#identify-specific-spirit-types)
+      - [Islay Whisky](#islay-whisky)
+      - [Fine Champagne](#fine-champagne)
+      - [Armagnac](#armagnac)
+        - [Producers](#producers)
+        - [Specific Terms](#specific-terms)
+        - [Sources](#sources-1)
+        - [Further Reading](#further-reading)
+      - [Marc/Grappa](#marcgrappa)
+      - [Tequila & Mezcal](#tequila--mezcal)
+      - [Eau de Vie (Fruit Spirits)](#eau-de-vie-fruit-spirits)
+
+<!-- vim-markdown-toc -->
+
 # Intro
 
 ## Principals of Distillation
