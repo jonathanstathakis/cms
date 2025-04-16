@@ -1,37 +1,56 @@
 # CMS - Alsace
 
-See [[cms#Syllabus]]
+## TOC
 
-Each topic has introductory and certified examination topics.
+<!-- vim-markdown-toc GFM -->
 
-```toc
-minLevel:2
-```
+- [Introductory](#introductory)
+  - [01 Factors affecting Climate](#01-factors-affecting-climate)
+  - [02 Importance of the Vosges](#02-importance-of-the-vosges)
+  - [03 Subdistricts](#03-subdistricts)
+  - [04 Location of the best vineyards and variety of soils](#04-location-of-the-best-vineyards-and-variety-of-soils)
+  - [05 Grape Varietals](#05-grape-varietals)
+  - [06 Appellations of Alsace](#06-appellations-of-alsace)
+    - [Alsace Grand Cru](#alsace-grand-cru)
+    - [Crémant](#crémant)
+    - [AOC Alsace](#aoc-alsace)
+      - [Communale (Villages)](#communale-villages)
+      - [Lieu dit (Locations)](#lieu-dit-locations)
+  - [06 Styles of wine VT and SGN](#06-styles-of-wine-vt-and-sgn)
+  - [07 Labelling Terms](#07-labelling-terms)
+- [Certified](#certified)
+  - [01 Identify Grand Cru Varietals and Sites](#01-identify-grand-cru-varietals-and-sites)
+
+<!-- vim-markdown-toc -->
 
 ## Introductory
 
-### Factors affecting Climate
+### 01 Factors affecting Climate
 
-- Vosges provides a rainshadow meaning that Alsace has one of the sunniest and driest climates of any winemaking area in France [@cms_alsacejurasavoie].
-- semi-continental [@cms_alsacejurasavoie]
-- Rhine river [@cms_alsacejurasavoie].
+- Vosges:
+  - rainshadow: sunniest and driest climates of any winemaking area in France.
+- semi-continental
+- Rhine river.
 
-### Importance of the Vosges
+### 02 Importance of the Vosges
 
-- Provides a rainshadow over the area generating an exceedingly dry and sunny climate .[@cms_alsacejurasavoie]
-- Foothulls and slopes provide growing locations with drainage, south east and eastern slope exposure maximising sunlight.[@cms_alsacejurasavoie]
+- Provides a rainshadow over the area generating an exceedingly dry and sunny climate.
+- Foothulls and slopes:
+  - drainage
+  - south east and eastern slope exposure maximising sunlight.
 
-### Subdistricts
+### 03 Subdistricts
 
-- alsace js divided into two departments: Haut-Rhin and Bas-Rhin[@cms_alsacejurasavoie]
-- Haut-Rhin contains generally higher wuality wine - 2/3 grcu vineyards[@cms_alsacejurasavoie]
--
+- alsace is divided into two departments: Haut-Rhin and Bas-Rhin
+- Haut-Rhin contains generally higher wuality wine - 2/3 grcu vineyards
 
-### Location of the best vineyards and variety of soils
+![Map of Alsace Subdistricts](../attachments/alsace/map_of_subdistricts.png)
+
+### 04 Location of the best vineyards and variety of soils
 
 - Location of best vineyards:
-  - 2/3 gcru in Haut-Rhin [@cms_alsacejurasavoie]
-  - east a d south eastern exposure in the best vineyards [@cms_alsacejurasavoie]
+  - 2/3 gcru in Haut-Rhin
+  - east a d south eastern exposure in the best vineyards
 - soil types:
   - granite
   - limestone
@@ -41,34 +60,66 @@ minLevel:2
   - chalk
   - loess
   - gres de vosges (pink sandstone)
-  - steeper mountain slopes consist of schist, granite, volcanic sediment.[@cms_alsacejurasavoie]
-  - lower slopes possess limestone _base_ [@cms_alsacejurasavoie]
-  - valley floor rich alluvial clay and gravel soils [@cms_alsacejurasavoie]
+  - steeper mountain slopes consist of schist, granite, volcanic sediment.
+  - lower slopes possess limestone _base_
+  - valley floor rich alluvial clay and gravel soils
 
-### Grape Varietals
+![Location of Grand Cru Vineyards Map](../attachments/alsace/locations_of_gcru_vineyards.png)
+
+### 05 Grape Varietals
 
 - Nobles Grapes:
   - Riesling
   - Pinot Gris
   - Muscat
   - Gewurtztraminer
+- Others:
+  - Pinot Noir
+  - Pinot Blanc
+  - Chasselas
+  - Sylvaner
+  - Auxerrois
 
-### Appellations of Alsace
+### 06 Appellations of Alsace
+
+- Alsace./Vin d'Alsace AOP
+- Crémant d'Alsace AOP
+- Côtes de Toul AOP:
+  - PN rouge
+  - Auxerrois and Aubin blanc
+  - Gamay and Pinot Noir blend vin gris
+- Moselle AOP:
+  - Auxerrois white, Pinot Noir rouge, rosé
+- Alsace Grand Cru AOP:
+  - Schlossberg
+  - 51 in total.
+  - notable:
+    - Schlossberg (first)
+    - Rangen
+    - Altenberg de Bergbieten
+    - Brand
+    - Geisberg
+    - Muenchberg
+    - Vorbourg
+    - Schoenenbourg
 
 #### Alsace Grand Cru
 
-- originated in 1975 [@cms_alsacejurasavoie]
-- orginally just schlossberg vineyard [@cms_alsacejurasavoie]
-- 51 GC now [@cms_alsacejurasavoie]
-- only the noble grapes [@cms_alsacejurasavoie]
+- originated in 1975
+- orginally just schlossberg vineyard
+- 51 GC now
+- only the noble grapes
 - generally single-varietal (altenberg de mnhrim and kaefferkopf can blend)
-- zotzenberg can use sylvaner [@cms_alsacejurasavoie]
-- hengst, kirchberg de barr and Hengst vineyards can bottle GC PN [@cms_alsacejurasavoie]
-- handharvesting required [@cms_alsacejurasavoie]
-- maximum alcohol 11% for riesling and muscat, 12.5% for PG and GW, also depends on vineyard[@cms_alsacejurasavoie]
-- in 2011 moved to individual GC vineyard appellations like cote d’or rather than like chablis [@cms_alsacejurasavoie]
-- Because Alsace GC AOP is inconsistent some producers choose not to use[@cms_alsacejurasavoie]
-- required to note the lieu-dit name [@vinalsace_grandcruaop]
+- zotzenberg can use sylvaner
+- hengst, kirchberg de barr and Hengst vineyards can bottle GC PN
+- handharvesting required
+- 2011 moved to individual GC vineyard appellations like cote d’or
+- Because Alsace GC AOP is inconsistent some producers choose not to use
+- required to note the lieu-dit name
+
+Sources:
+
+- [@vinalsace_grandcruaop]
 
 #### Crémant
 
@@ -89,34 +140,58 @@ minLevel:2
 
 #### AOC Alsace
 
-- AOC Alsace.. (continue here ) https://www.vinsalsace.com/en/gouts-et-couleurs/aoc/aoc-alsace/
+- introduced in 1962
+- in 2011 the subcategories of Communales and Lieux-dits were introduced.
+- monovarietal or blend (edelzwicker)
+- bottled in “wine of the Rhine” /Flute of Alsace
+- overlooked by INAO
+
+Sources:
+
 - [@vinsalsace_alsaceaoc]
-  - introduced in 1962
-  - in 2011 the subcategories of Communales and Lieux-dits were introduced.
-  - monovarietal or blend (edelzwicker)
-  - bottled in “wine of the Rhine” /Flute of Alsace
-  - overlooked by INAO
 
 ##### Communale (Villages)
 
-- 14 communes [@vinsalsace_alsaceaoc]
-- AOC Alsace: Bergheim, Blienschwiller, Côtes de Barr, Côte de Rouffach, Coteaux du Haut-Koenigsbourg, Klevener de Heiligenstein, Ottrott, Rodern, Saint-Hippolyte, Scherwiller, Vallée Noble, Val Saint-Grégoire, Wolxheim [@vinsalsace_alsaceaoc]
-- restrictions on varietals planted, vine density, pruning, trellising, grape maturity, yields [@vinsalsace_alsaceaoc]
+- 14 communes
+- AOC Alsace:
+  - Bergheim
+  - Blienschwiller
+  - Côtes de Barr
+  - Côte de Rouffach
+  - Coteaux du Haut-Koenigsbourg
+  - Klevener de Heiligenstein
+  - Ottrott
+  - Rodern
+  - Saint-Hippolyte
+  - Scherwiller
+  - Vallée Noble
+  - Val Saint-Grégoire
+  - Wolxheim
+- restrictions:
+  - varietals planted
+  - vine density
+  - pruning
+  - trellising
+  - grape maturity
+  - yields
 
 ##### Lieu dit (Locations)
 
 - A named vineyard
-- more stringent restrictions than Communales [@vinsalsace_alsaceaoc]
-- label the name of the vineyard alongside the AOC/AOP [@vinsalsace_alsaceaoc]
+- more stringent restrictions than Communales
+- label the name of the vineyard alongside the AOC/AOP
 
-### Styles of wine VT and SGN
+Sources:
+
+- [@vinsalsace_alsaceaoc]
+
+### 06 Styles of wine VT and SGN
 
 - Vendanges de Tardives and Sélections de Grains Nobles added in 1984
 - imply sweetness but not required
 - apply to both Alsace AOP and Alsace GC AOP wines
 - require the wine to be single-varietal and pass a blind-tasting
 - hand-harvested
--
 - SGN:
   - botrytised
   - favor botrytis character over varietal
@@ -130,56 +205,41 @@ minLevel:2
   - sweet and dry(ish)
   - picking sugar conc: 224 g/l for muscat and ri, 270 for PG And GW
 
-### Labelling Terms
+### 07 Labelling Terms
 
-#### General
-
-- [@wsearch_alsacelabel]
-  - in alsace, the label can consist of the following fields, depending on its consigned appellation:
-    - vineyard name
-    - grape variety
-    - appellation title
-    - producer name
-    - estste bottling statement
-    - producer location
-    - alcohol percentage.
-
-#### Alsace GC
-
-- Alsace GC labels display the following information [@wsearch_alsacelabel]:
-  - compulsorily:
-    - “Alsace Grand Cru”
-    - vineyard name
-    - grape variety
-
-#### Alsace AOC
-
-- Alsace AOC [@wsearch_alsacelabel]
+- General:
+  - vineyard name
+  - grape variety
+  - appellation title
+  - producer name
+  - estste bottling statement
+  - producer location
+  - alcohol percentage.
+- Alsace GC:
+  - “Alsace Grand Cru”
+  - vineyard name
+  - grape variety
+- Alsace AOC:
   - “Alsace AOC”
   - (optional): GI
   - (optional): vineyard name
   - (compulsory): variety, or “Edelzwicker” indicates a white blend
-
-#### Cremant d’Alsace
-
-- Cremant d’Alsace [@wsearch_alsacelabel]
-  - indicates the wine is a white or rosé sparkling made from a blend of: pinot blanc, pinot gris, chardonnay and pinot noir, typically made dry
-
-### SGN and VT
-
-SGN and VT can be specified on Alsace AOC and Alsace GC bottles .
+- Sparkling wine:
+  - Cremant d’Alsace
+- VT and SGN
 
 ## Certified
 
-### Identify Grand Cru Varietals and Sites
+### 01 Identify Grand Cru Varietals and Sites
+
+- 2/3 in Haut Rhin
+- single varietal wines made from noble grapes only except some exceptions
+- schlossberg first gc vineyard in 1975
+- exceptions:
+  - altenberg de bergheim and kaefferkopf can use blends
+  - zotzenberg can use slyvanar
+  - Hengst, Kirchberg de Barr, and Vorbourg can make Pinot Noir
+
+Sources:
 
 - [@cms_alsacejurasavoie]
-  - 2/3 in Haut Rhin
-  - single varietal wines made from noble grapes only except some exceptions
-  - schlossberg first gc vineyard in 1975
-  - exceptions:
-    - altenberg de bergheim and kaefferkopf can use blends
-    - zotzenberg can use slyvanar
-    - Hengst, Kirchberg de Barr, and Vorbourg can make Pinot Noir
-
-The rule is thus: all sites must bottle varietal wine except for Altenberg de bergheim and Kaefferkopf, who can make blends from the Noble Grapes. Zotzenberg can use Sylvanar, ans Hengst, Kirchberg de Barr, and Vorbourg can make Pinot Noir.

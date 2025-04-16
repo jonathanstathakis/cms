@@ -75,39 +75,39 @@ An outline of the top level topics taken from the syllabus (in the order of appe
 
 ## Progress
 
-| #   | Topic                                                                          | Notes | Flashcards | Conf_rank | map |
-| --- | ------------------------------------------------------------------------------ | ----- | ---------- | --------- | --- |
-| 01. | [Alsace](topics/01_alsace)                                                     |       |            |           |     |
-| 02. | [Bordeaux](topics/02_bordeaux)                                                 |       |            |           |     |
-| 03. | [Burgundy](topics/03_burgundy)                                                 |       |            |           |     |
-| 04. | [Champagne](04_champagne)                                                      |       |            |           |     |
-| 05. | [Sparkling Wines](05_sparkling_wines)                                          |       |            |           |     |
-| 06. | [Loire](06_loire)                                                              |       |            |           |     |
-| 07. | [Rhone Valley](topics/07_rhone_valley)                                         |       |            |           |     |
-| 08. | [South of France](./topics/08_south_of_france.md)                              |       |            |           |     |
-| 09. | [Spain](09_spain)                                                              |       |            |           |     |
-| 10. | [Portugal](10_portugal)                                                        |       |            |           |     |
-| 11. | [Italy](11_italy)                                                              |       |            |           |     |
-| 12. | [Germany](12_germany)                                                          |       |            |           |     |
-| 13. | [Austria](13_austria)                                                          |       |            |           |     |
-| 14. | [Greece](14_greece)                                                            |       |            |           |     |
-| 15. | [Europe](15_europe)                                                            |       |            |           |     |
-| 16. | [Australia](16_australia)                                                      |       |            |           |     |
-| 17. | [New Zealand](17_newzealand)                                                   |       |            |           |     |
-| 18. | [United States and Canada](18_united_states_and_canada)                        |       |            |           |     |
-| 19. | [South America](19_south_america)                                              |       |            |           |     |
-| 20. | [South Africa](20_south_africa)                                                |       |            |           |     |
-| 21. | [Other New World Wines](21_othernewworldwines)                                 |       |            |           |     |
-| 22. | [Fortified Wines](22_fortifiedwines)                                           |       |            |           |     |
-| 23. | [Spirits](topics/23_spirits)                                                   |       |            |           |     |
-| 24. | [Aperitif wines, Liqueurs and Bitters](24_aperitif_wines_liqueurs_and_bitters) |       |            |           |     |
-| 25. | [Viticulture and Vinification](25_viticultureandvinification)                  |       |            |           |     |
-| 26. | [Beers and Ciders](26_beersandciders)                                          |       |            |           |     |
-| 27. | [Saké](27_sake)                                                                |       |            |           |     |
-| 28. | [Food and Wine Pairings](28_food_and_wine_pairing)                             |       |            |           |     |
-| 29. | [Business Aspects](29_business_aspects)                                        |       |            |           |     |
-| 30. | [Practical Service Aspects](30_practical_service_aspects)                      |       |            |           |     |
-| 31. | [Deductive Tasting](31_deductive_tasting)                                      |       |            |           |     |
+| #   | Topic                                                                          | Notes | cards | Conf_rank | map |
+| --- | ------------------------------------------------------------------------------ | ----- | ----- | --------- | --- |
+| 01. | [Alsace](topics/01_alsace)                                                     | x     |       | 5         |     |
+| 02. | [Bordeaux](topics/02_bordeaux)                                                 |       |       | 3         |     |
+| 03. | [Burgundy](topics/03_burgundy)                                                 | x     | x     | 1         |     |
+| 04. | [Champagne](04_champagne)                                                      | x     | x     | 4         |     |
+| 05. | [Sparkling Wines](05_sparkling_wines)                                          | x     |       | 5         |     |
+| 06. | [Loire](06_loire)                                                              | x     | x     | 5         |     |
+| 07. | [Rhone Valley](topics/07_rhone_valley)                                         |       |       | 3         |     |
+| 08. | [South of France](./topics/08_south_of_france.md)                              | x     |       | 4         |     |
+| 09. | [Spain](09_spain)                                                              | x     |       | 5         |     |
+| 10. | [Portugal](10_portugal)                                                        | x     |       | 5         |     |
+| 11. | [Italy](11_italy)                                                              | x     |       | 5         |     |
+| 12. | [Germany](12_germany)                                                          | x     |       | 5         |     |
+| 13. | [Austria](13_austria)                                                          | x     | x     | 2         |     |
+| 14. | [Greece](14_greece)                                                            |       |       | 5         |     |
+| 15. | [Europe](15_europe)                                                            |       |       | 5         |     |
+| 16. | [Australia](16_australia)                                                      |       |       | 3         |     |
+| 17. | [New Zealand](17_newzealand)                                                   |       |       | 3         |     |
+| 18. | [United States and Canada](18_united_states_and_canada)                        | x     | x     | 3         |     |
+| 19. | [South America](19_south_america)                                              | x     | x     | 4         |     |
+| 20. | [South Africa](20_south_africa)                                                | x     | x     | 4         |     |
+| 21. | [Other New World Wines](21_othernewworldwines)                                 | -     | -     | -         | -   |
+| 22. | [Fortified Wines](22_fortifiedwines)                                           |       |       | 5         |     |
+| 23. | [Spirits](topics/23_spirits)                                                   |       |       | 3         |     |
+| 24. | [Aperitif wines, Liqueurs and Bitters](24_aperitif_wines_liqueurs_and_bitters) |       |       | 3         |     |
+| 25. | [Viticulture and Vinification](25_viticultureandvinification)                  |       |       | 3         |     |
+| 26. | [Beers and Ciders](26_beersandciders)                                          |       |       | 3         |     |
+| 27. | [Saké](27_sake)                                                                |       |       | 3         |     |
+| 28. | [Food and Wine Pairings](28_food_and_wine_pairing)                             |       |       | 3         |     |
+| 29. | [Business Aspects](29_business_aspects)                                        |       |       | 3         |     |
+| 30. | [Practical Service Aspects](30_practical_service_aspects)                      |       |       | 3         |     |
+| 31. | [Deductive Tasting](31_deductive_tasting)                                      |       |       | 3         |     |
 
 ## Examinations
 
