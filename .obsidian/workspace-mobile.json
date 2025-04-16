@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "burgundy.md",
+                "file": "topics/03_burgundy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "burgundy"
+              "title": "03_burgundy"
             }
           }
         ]
@@ -59,7 +59,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "portland",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -140,7 +140,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "burgundy.md",
+            "file": "topics/03_burgundy.md",
             "followCursor": true,
             "showSearch": false,
             "searchQuery": ""
@@ -154,60 +154,66 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
       "obsidian-excalidraw-plugin:New drawing": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian42-brat:BRAT": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "attachments/burgundy/Pasted image 20250416144520.jpg",
+    "topics/03_burgundy.md",
     "cms.md",
+    "attachments/burgundy/chablis_grand_cru_climats.jpg.webarchive",
+    "attachments/burgundy/chablis_grand_cru_climats.webarchive",
+    "attachments/burgundy/web archive.webarchive",
+    "attachments/burgundy",
+    "Untitled 1/Untitled",
+    "Untitled 1",
+    "Untitled",
+    "topics/aop_and_aoc.md",
+    "topics/attachments/greece/map_of_greece_wine_regions.png",
+    "topics/attachments/greece",
+    "topics/attachments/south_of_france/south_west_wine_map.png",
+    "topics/attachments/south_of_france/languedoc_roussilln.png",
+    "topics/attachments/south_of_france",
+    "topics/log.md",
+    "topics/botrytis_wine_production.md",
+    "topics/trade_structure_bordeaux.md",
+    "attachments/alsace/locations_of_gcru_vineyards.png",
+    "attachments/alsace/map_of_subdistricts.jpg",
+    "attachments/alsace",
+    "topics/06_loire.md",
+    "spirits.md",
+    "service_exam/sparkling_wine_service.md",
+    "attachments/valle_del_rapel_map.jpeg",
+    "south_america.md",
+    "austria.md",
     "burgundy.md",
-    "attachments/syllabus.pdf",
     "syllabus.pdf.md",
     "cms_burgundy.md",
-    "burgundy",
     "bordeaux/bordeaux.md",
     "alsace/alsace.md",
     "Clippings/lutte raisonnée.md",
-    "Clippings",
     "cms_log.md",
     "misc_appendix/locality.md",
-    "misc_appendix",
     "reading_notes/french_wine_law.md",
     "reading_notes/reading_notes.md",
-    "reading_notes",
-    "attachments/CMS-Standards-of-Service-2020.pdf",
-    "attachments/CMS Oceania Intro & Certified Study Resources 2025.pdf",
-    "attachments/Certified-Tasting-Exam-Paper-2024.pdf",
-    "attachments/CMS-Oceania-Prospectus-2025.pdf",
-    "attachments/CMS Oceania Intro & Certified Study Resources 2025 1.pdf",
     "bordeaux/reading_notes/guildsomm_bordeaux_2024.md",
     "bordeaux/reading_notes/oxcomp_bordeaux.md",
     "bordeaux/reading_notes/guildsomm_bordeauxexpert.md",
     "bordeaux/attachments/map_of_bordeaux.png",
     "bordeaux/attachments/gsomm_bordeaux_appells.jpg",
     "bordeaux/attachments/bordeaux_appellations_wikipedia.png",
-    "bordeaux/attachments/naked_map_of_bordeaux_google.png",
-    "bordeaux/attachments/waterways and major appellations of bordeaux.md",
-    "bordeaux/attachments/map of first growths of bordeaux.md",
-    "bordeaux/classification_1855_dataset/README.md",
-    "bordeaux/Graves Classification.md",
-    "bordeaux/pavilion blanc second vin.md",
-    "bordeaux/Landes forest.md",
-    "bordeaux/en primeur.md",
-    "bordeaux/Sauternes AOP.md",
-    "bordeaux/Graves Supérieur AOP.md",
-    "bordeaux/Pessac-Léognan AOC.md",
-    "bordeaux/Graves AOP.md"
+    "bordeaux/attachments/waterways and major appellations of bordeaux.md"
   ]
 }

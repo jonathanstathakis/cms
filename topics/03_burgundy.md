@@ -3,7 +3,7 @@ title:
 aliases: []
 tags: []
 type:
-cdt: 2025-02-26T11:35:50
+ cdt: 2025-02-26T11:35:50
 mdt: 2025-02-26T11:57:48
 ---
 
@@ -376,6 +376,9 @@ Traditional production and aging decisions:
 - style:
   - prem cru: + pronounced acidity + medium weight + less character + intense minerality + steel + no new oak
   - grand cru: + similar to premier cru + richer + riper + new oak influence (optional) \* aged: + hazelnut + lemon + oystershell
+
+
+![[Pasted image 20250416144520.jpg]]
 
 ### 8. Principal Communes of the Côte d'Or and Location
 
