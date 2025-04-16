@@ -10,59 +10,104 @@ mdt: 2025-02-03T11:36:36
 
 Examination date: 2025-04-29
 
-```toc
-minLevel: 2
-```
+## TOC
 
-## Recently Modified Files
+<!-- vim-markdown-toc GFM -->
 
-```dataview
-table
-	mdt
-where
-	file.name != this.file.name
-sort
-	mdt desc
-limit 50
-```
+- [Topics](#topics)
+- [Progress](#progress)
+- [Examinations](#examinations)
+  - [Dates](#dates)
+  - [Introductory](#introductory)
+  - [Certified](#certified)
+- [Resources](#resources)
+  - [Syllabus](#syllabus)
+  - [Log](#log)
+  - [Reading Notes](#reading-notes)
+  - [Anki](#anki)
+  - [Service Standards](#service-standards)
+  - [Certified Examination Grid](#certified-examination-grid)
+  - [Prospectus](#prospectus)
+  - [CMS Website Link](#cms-website-link)
+  - [CMS Guide to Study Resources](#cms-guide-to-study-resources)
+  - [Study Tips](#study-tips)
+- [Misc. Appendix](#misc-appendix)
+
+<!-- vim-markdown-toc -->
 
 ## Topics
 
 An outline of the top level topics taken from the syllabus (in the order of appearance in the syllabus document).
 
-1. [[alsace|Alsace]]
-2. [[bordeaux|Bordeaux]]
-3. [[burgundy|Burgundy]]
-4. [[champagne|Champagne]]
-5. [[sparkling_wines|Sparkling Wines]]
-6. [[loire|Loire]]
-7. [[rhonevalley|Rhone Valley]]
-8. [[southoffrance|South of France]]
-9. [[spain|Spain]]
-10. [[portugal|Portugal]]
-11. [[italy|Italy]]
-12. [[germany|Germany]]
-13. [[austria|Austria]]
-14. [[greece|Greece]]
-15. [[europe|Europe]]
-16. [[australia|Australia]]
-17. [[newzealand|New Zealand]]
-18. [[unitedstatesandcanada|United States and Canada]]
-19. [[southamerica|South America]]
-20. [[southafrica|South Africa]]
-21. [[othernewworldwines|Other New World Wines]]
-22. [[fortifiedwines|Fortified Wines]]
-23. [[spirits|Spirits]]
-24. [[aperitifwinesliqueursandbitters|Aperitif wines, Liqueurs and Bitters]]
-25. [[viticultureandvinification|Viticulture and Vinification]]
-26. [[beersandciders|Beers and Ciders]]
-27. [[sake|Saké]]
-28. [[foodandwinepairings|Food and Wine Pairings]]
-29. [[businessaspects|Business Aspects]]
-30. [[practicalserviceaspects|Practical Service Aspects]]
-31. [[deductivetasting|Deductive Tasting]]
+1. [[topics/01_alsace|Alsace]]
+2. [[topics/02_bordeaux|Bordeaux]]
+3. [[topics/03_burgundy|Burgundy]]
+4. [[04_champagne|Champagne]]
+5. [[05_sparkling_wines|Sparkling Wines]]
+6. [[06_loire|Loire]]
+7. [[topics/07_rhone_valley|Rhone Valley]]
+8. [South of France](./topics/08_south_of_france.md)
+9. [[09_spain|Spain]]
+10. [[10_portugal|Portugal]]
+11. [[11_italy|Italy]]
+12. [[12_germany|Germany]]
+13. [[13_austria|Austria]]
+14. [[14_greece|Greece]]
+15. [[15_europe|Europe]]
+16. [[16_australia|Australia]]
+17. [[17_newzealand|New Zealand]]
+18. [[18_united_states_and_canada|United States and Canada]]
+19. [[19_south_america|South America]]
+20. [[20_south_africa|South Africa]]
+21. [[21_othernewworldwines|Other New World Wines]]
+22. [[22_fortifiedwines|Fortified Wines]]
+23. [[topics/23_spirits|Spirits]]
+24. [[24_aperitif_wines_liqueurs_and_bitters|Aperitif wines, Liqueurs and Bitters]]
+25. [[25_viticultureandvinification|Viticulture and Vinification]]
+26. [[26_beersandciders|Beers and Ciders]]
+27. [[27_sake|Saké]]
+28. [[28_food_and_wine_pairing|Food and Wine Pairings]]
+29. [[29_business_aspects|Business Aspects]]
+30. [[30_practical_service_aspects|Practical Service Aspects]]
+31. [[31_deductive_tasting|Deductive Tasting]]
 
 31 topics, from today (2025-01-09) I have 15 weeks. That means I need to work through two topics a week.
+
+## Progress
+
+| #   | Topic                                                                          | Notes | Flashcards | Conf_rank | map |
+| --- | ------------------------------------------------------------------------------ | ----- | ---------- | --------- | --- |
+| 01. | [Alsace](topics/01_alsace)                                                     |       |            |           |     |
+| 02. | [Bordeaux](topics/02_bordeaux)                                                 |       |            |           |     |
+| 03. | [Burgundy](topics/03_burgundy)                                                 |       |            |           |     |
+| 04. | [Champagne](04_champagne)                                                      |       |            |           |     |
+| 05. | [Sparkling Wines](05_sparkling_wines)                                          |       |            |           |     |
+| 06. | [Loire](06_loire)                                                              |       |            |           |     |
+| 07. | [Rhone Valley](topics/07_rhone_valley)                                         |       |            |           |     |
+| 08. | [South of France](./topics/08_south_of_france.md)                              |       |            |           |     |
+| 09. | [Spain](09_spain)                                                              |       |            |           |     |
+| 10. | [Portugal](10_portugal)                                                        |       |            |           |     |
+| 11. | [Italy](11_italy)                                                              |       |            |           |     |
+| 12. | [Germany](12_germany)                                                          |       |            |           |     |
+| 13. | [Austria](13_austria)                                                          |       |            |           |     |
+| 14. | [Greece](14_greece)                                                            |       |            |           |     |
+| 15. | [Europe](15_europe)                                                            |       |            |           |     |
+| 16. | [Australia](16_australia)                                                      |       |            |           |     |
+| 17. | [New Zealand](17_newzealand)                                                   |       |            |           |     |
+| 18. | [United States and Canada](18_united_states_and_canada)                        |       |            |           |     |
+| 19. | [South America](19_south_america)                                              |       |            |           |     |
+| 20. | [South Africa](20_south_africa)                                                |       |            |           |     |
+| 21. | [Other New World Wines](21_othernewworldwines)                                 |       |            |           |     |
+| 22. | [Fortified Wines](22_fortifiedwines)                                           |       |            |           |     |
+| 23. | [Spirits](topics/23_spirits)                                                   |       |            |           |     |
+| 24. | [Aperitif wines, Liqueurs and Bitters](24_aperitif_wines_liqueurs_and_bitters) |       |            |           |     |
+| 25. | [Viticulture and Vinification](25_viticultureandvinification)                  |       |            |           |     |
+| 26. | [Beers and Ciders](26_beersandciders)                                          |       |            |           |     |
+| 27. | [Saké](27_sake)                                                                |       |            |           |     |
+| 28. | [Food and Wine Pairings](28_food_and_wine_pairing)                             |       |            |           |     |
+| 29. | [Business Aspects](29_business_aspects)                                        |       |            |           |     |
+| 30. | [Practical Service Aspects](30_practical_service_aspects)                      |       |            |           |     |
+| 31. | [Deductive Tasting](31_deductive_tasting)                                      |       |            |           |     |
 
 ## Examinations
 
@@ -140,44 +185,6 @@ Includes information about examination structure.
 ### Study Tips
 
 ![[Study-Tips-1.pdf#height=400]]
-
-## Study Plan
-
-I think it is best to study the technical topics first then the taxonomic so that I can apply the technical logic to these problems, and practice the food and wine pairing logic, deductive tasting, service aspects, etc. After that we should tackle the most difficult topics first - Burgundy, Bordeaux, Champagne, Germany, etc. Thus, a study plan is as follows:
-
-1. [ ] [[deductivetasting|Deductive Tasting]]
-2. [ ] [[foodandwinepairings|Food and Wine Pairings]]
-3. [ ] [[viticultureandvinification|Viticulture and Vinification]]
-4. [ ] [[businessaspects|Business Aspects]]
-5. [ ] [[practicalserviceaspects|Practical Service Aspects]]
-6. [ ] [[bordeaux|Bordeaux]]
-7. [ ] [[burgundy|Burgundy]]
-8. [ ] [[italy|Italy]]
-9. [ ] [[champagne|Champagne]]
-10. [ ] [[sparkling_wines|Sparkling Wines]]
-11. [ ] [[germany|Germany]]
-12. [ ] [[austria|Austria]]
-13. [ ] [[alsace|Alsace]]
-14. [ ] [[loire|Loire]]
-15. [ ] [[rhonevalley|Rhone Valley]]
-16. [ ] [[southoffrance|South of France]]
-17. [ ] [[spain|Spain]]
-18. [ ] [[portugal|Portugal]]
-19. [ ] [[greece|Greece]]
-20. [ ] [[europe|Europe]]
-21. [ ] [[australia|Australia]]
-22. [ ] [[newzealand|New Zealand]]
-23. [ ] [[unitedstatesandcanada|United States and Canada]]
-24. [ ] [[southamerica|South America]]
-25. [ ] [[southafrica|South Africa]]
-26. [ ] [[othernewworldwines|Other New World Wines]]
-27. [ ] [[fortifiedwines|Fortified Wines]]
-28. [ ] [[spirits|Spirits]]
-29. [ ] [[aperitifwinesliqueursandbitters|Aperitif wines, Liqueurs and Bitters]]
-30. [ ] [[beersandciders|Beers and Ciders]]
-31. [ ] [[sake|Saké]]
-
-But how to study? It would be great if I could assemble notes for all the topics by half way to the exam then revise for the remainder. That would require assembling notes on 4 topics a week. Doable. That's the plan then. 7 weeks to assemble all the notes, then revise afterwards.
 
 # Misc. Appendix
 

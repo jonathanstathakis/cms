@@ -18,7 +18,6 @@
   - [03 Quality Marques from Leading Producers](#03-quality-marques-from-leading-producers)
   - [04 Coteaux Champenois Wines](#04-coteaux-champenois-wines)
   - [Classic Vintages 10 Years](#classic-vintages-10-years)
-    - [Sources](#sources)
 
 <!-- vim-markdown-toc -->
 
@@ -188,44 +187,37 @@ see 01.09.
 
 ### 03 Quality Marques from Leading Producers
 
-- Syndicat de grandes marques de Champagne?
-- Grandes Marques
-- Les Grandes Marques de Champagne
-- Club des Grandes Marques
-
-Tête de Cuvées.
-
-- Aÿ:
-  - Ayala: + grand cuvee
-  - Bollinger: + Vieilles Vignes, Francaises, R.D.
-  - Deutz: + Amour de Deutz
-- Mareuil-sur-Aÿ:
-  - Billecart-Salmon: + Clos St Hilare
-- Ludes:
-  - Canard-Duchêne: + Grande, Cuvée, Charles VII
-- Èpernay:
-  - Gosset: + Celebris, Grand Millésime
-  - Heidsieck & Co Monopole: + Diamant Bleu
-  - Mercier: + Vendange
-  - Moët & Chandon: + Dom Perignon
-  - Perrier Jouët: + Belle Époque
-  - Pol Roger: + Sir Winston Churchill
-- Reims:
-  - Charles Hiedsieck: + Blanc des Millénaires
-  - Krug: + Krug, Clos du Mesnil
-  - Lanson: + Noble Cuvée
-  - GH Mumm: + Mumm de Cremant
-  - Piper-Heidsieck: + Rare
-  - Pommery: + Cuvèe Louise
-  - Louis Roderer: + Cristal
-  - Ruinart: + Dom Ruinart, Ruinart Blanc de blancs
-  - Taittinger: + Comtes de Champagne
-  - Veuve Cliquot: + La Grande Dame, Carte Jaune, Cliquot Rich Reserve
-    Marne: + Joseph Perrier: + Josephine
-- Tours-sur-Marne:
-  - Laurent-Perrier: + Grand Siècle
-- Le Mesnil-sur-Oger:
-  - Salon: + Champagne Salon
+- Moët et Chandon:
+  - Dom Pérignon: Ch, PN
+- Taittinger:
+  - Comtes de Champagne:
+    - rosé: 70% PN, 30% Ch
+    - BdB
+- Louis Roederer:
+  - Cristal:
+    - Brut: 55% PN, 45% Ch
+    - Brut Rosé: ?
+- Laurent-Perrier:
+  - Grande Siècle: 50% Ch, 50% PN
+  - Alexandra (Vintage Rosé): 80% PN, 20% Ch
+- Perrier-Jouët:
+  - Belle Époque: 50% CH, 45% PN, 5% Meun.
+    - Brut
+    - Brut Rosé
+    - BdB
+- Pol Roger:
+  - Cuvée Sir Winston Churchill: PN, CH
+- Ruinart:
+  - Dom Ruinart:
+    - BdB
+    - Rosé: 85% Ch., 15% Ch.
+- Veuve Clicquot-Ponsardin:
+  - La Grande Dame:
+    - Brut: 65% PN, 35% Ch.
+    - Brut Rosé: ?
+- Krug:
+  - Clos de Mesnil: 100% Chardonnay
+  - Clos de d'Ambonnay: 100% Pinot Noir
 
 ### 04 Coteaux Champenois Wines
 
@@ -256,7 +248,7 @@ Tête de Cuvées.
 1985
 1983
 
-#### Sources
+Sources:
 
 - [Charles Heidsieck - Blanc de Millénaires](https://charlesheidsieck.com/en/wines/blanc-des-millenaires-2014)
   [Wine Spectator](https://www.winespectator.com/vintage-charts/region/champagne)

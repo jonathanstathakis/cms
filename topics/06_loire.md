@@ -1,5 +1,23 @@
 # Loire Valley
 
+<!-- vim-markdown-toc GFM -->
+
+- [01. Intro](#01-intro)
+  - [01. Climatic Influences](#01-climatic-influences)
+  - [02. Principal Soil Types](#02-principal-soil-types)
+  - [03. Districts and Sub-Districts of the Region](#03-districts-and-sub-districts-of-the-region)
+  - [04. Principal Grape Varietals and Wines Produced From Them](#04-principal-grape-varietals-and-wines-produced-from-them)
+  - [05. Styles of Wine](#05-styles-of-wine)
+  - [06. Principal AOP's](#06-principal-aops)
+  - [07. Labelling Terms](#07-labelling-terms)
+- [Certified](#certified)
+  - [01. Principal Wines](#01-principal-wines)
+  - [02. Grape Variety Synonyms](#02-grape-variety-synonyms)
+  - [03. Sur Lie Aging Requirements](#03-sur-lie-aging-requirements)
+  - [04. Smaller AC's of the Loire and Wines Produced](#04-smaller-acs-of-the-loire-and-wines-produced)
+
+<!-- vim-markdown-toc -->
+
 ## 01. Intro
 
 ### 01. Climatic Influences
@@ -207,8 +225,6 @@ guide.
 
 ### 07. Labelling Terms
 
-TODO: see if there are anymore terms.
-
 - Sur Lie:
   - originate from one of:
     - Muscadet Coteaux de la Loire AOP
@@ -224,7 +240,7 @@ TODO: see if there are anymore terms.
   - Moelleux: sweeter
   - Doux: very sweet.
 
-## 02. Certified
+## Certified
 
 ### 01. Principal Wines
 

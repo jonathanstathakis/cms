@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "efc29e8ec0198c23",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "5f0c2a2ea14dac3a",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "cms"
             }
+          },
+          {
+            "id": "049cc6c2f9faa9cf",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "bordeaux/attachments/map_of_bordeaux.png"
+              },
+              "icon": "lucide-image",
+              "title": "map_of_bordeaux"
+            }
+          },
+          {
+            "id": "3ffe9f3bf1437ed1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "bordeaux/attachments/map of first growths of bordeaux.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "map of first growths of bordeaux"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,8 +210,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5f0c2a2ea14dac3a",
+  "active": "3ffe9f3bf1437ed1",
   "lastOpenFiles": [
+    "topics/log.md",
+    "bordeaux/attachments/map_of_bordeaux.png",
     "cms.md",
     "burgundy.md",
     "attachments/syllabus.pdf",
@@ -212,7 +239,6 @@
     "bordeaux/Sauternes AOP.md",
     "bordeaux/Pessac-Léognan AOC.md",
     "bordeaux/pavilion blanc second vin.md",
-    "bordeaux/attachments/map_of_bordeaux.png",
     "bordeaux/attachments/gsomm_bordeaux_appells.jpg",
     "bordeaux/bordeaux/guildsomm_1855classification_2024.md",
     "inbox/syllabus_bordeaux.md",

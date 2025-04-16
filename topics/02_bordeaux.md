@@ -1,59 +1,121 @@
-# Syllabus
+# Bordeaux
 
-## Introductory
+## TOC
 
-### Factors Affecting Climate
+<!-- vim-markdown-toc GFM -->
 
-- maritime climate due to influence from the Gulf Stream in the Atlantic Ocean. Its influence is carried through inland by the wide Gironde Estuary [@oxcomp_bordeaux, p. 556], moderating extremes, protecting from winter freeze, spring frost [@guildsomm_bordeaux_2024].
-- coastal pine forests protect left bank from harsh west/northwesterly winds[@guildsomm_bordeaux_2024].
-- [[Landes forest]] in the south also moderates temperatures nad protects from strong oceanic winds [@oxcomp_bordeaux, p. 556].
-- more continental climate in St-Émilion and Pomerol [@guildsomm_bordeaux_2024].
-- mild, damp spring.
-- warm to hot summers
-- humid autumns
-- in Sauternes the Ciron converges with the Garonne
+- [Intro](#intro)
+  - [01 Factors Affecting Climate](#01-factors-affecting-climate)
+  - [02 Soil Types](#02-soil-types)
+  - [03 Production and Aging Techniques (Barrique Fermentation/Ageing)](#03-production-and-aging-techniques-barrique-fermentationageing)
+  - [04 Botrytis Wine Production](#04-botrytis-wine-production)
+  - [05 Districts, Subdistricts and Location](#05-districts-subdistricts-and-location)
+  - [06 Classification System 1855](#06-classification-system-1855)
+    - [First Growths](#first-growths)
+  - [07 Top Médoc Chateaux and Location](#07-top-médoc-chateaux-and-location)
+  - [08 St Emillion Classification](#08-st-emillion-classification)
+  - [09 "A" Category St Émilion Châteaux](#09-a-category-st-Émilion-châteaux)
+  - [10 Top Pomerol Châteaux](#10-top-pomerol-châteaux)
+  - [11 Grape Varietals](#11-grape-varietals)
+  - [12 Blending - Importance of Varietal in the Blend](#12-blending---importance-of-varietal-in-the-blend)
+  - [13 Styles of Wine from Principal Production Districts](#13-styles-of-wine-from-principal-production-districts)
+  - [14 Quality Levels, AOP, IGP](#14-quality-levels-aop-igp)
+  - [15 Labelling Terms](#15-labelling-terms)
+  - [16 Trade Structure - En Primeur, Negociants](#16-trade-structure---en-primeur-negociants)
+    - [En Primeur](#en-primeur)
+    - [Negociants](#negociants)
+- [Cert](#cert)
+  - [01 Well Known 1st - 5th Classified Growths from Médoc, Sauternes, St Émillion and Pessac Leognan](#01-well-known-1st---5th-classified-growths-from-médoc-sauternes-st-Émillion-and-pessac-leognan)
+  - [02 Location of top Bordeaux Properties](#02-location-of-top-bordeaux-properties)
+  - [03 Cru Bourgeois Classification](#03-cru-bourgeois-classification)
+  - [04 Styles of Wine from Smaller Districts](#04-styles-of-wine-from-smaller-districts)
+  - [05 All Bordeaux Sub-Districts](#05-all-bordeaux-sub-districts)
+  - [06 Individual Commune Names in the Principal Districts](#06-individual-commune-names-in-the-principal-districts)
+  - [07 Classic Vintages](#07-classic-vintages)
 
-### Soil Types
+<!-- vim-markdown-toc -->
+
+## Intro
+
+### 01 Factors Affecting Climate
+
+- maritime climate:
+  - Gulf Stream:
+    - in the Atlantic Ocean.
+    - effect carried inland by Gironde Estuary [@oxcomp_bordeaux, p. 556]
+    - moderating extremes, protecting from winter freeze, spring frost [@guildsomm_bordeaux_2024].
+- forests:
+  - coastal pines:
+    - protect left bank from harsh west/northwesterly winds[@guildsomm_bordeaux_2024].
+  - [[Landes forest]]:
+    - in the south also moderates temperatures and protects from strong oceanic winds [@oxcomp_bordeaux, p. 556].
+- right bank:
+  - more continental climate in St-Émilion and Pomerol [@guildsomm_bordeaux_2024].
+- general:
+  - mild, damp spring.
+  - warm to hot summers
+  - humid autumns
+
+### 02 Soil Types
 
 - left bank:
-  - bas-medoc
+  - bas-medoc:
     - clay heavy [@guildsomm_bordeaux_2024]
-  - haut-medoc
+  - haut-medoc:
     - well-draining gravelly soil [@guildsomm_bordeaux_2024]
     - best chateaux on gravel mounds called _croupes_ [@guildsomm_bordeaux_2024]
     - note: Margaux has a diverse range of soils relative to the other sub-regions of the Haut-Medoc [@guildsomm_bordeaux_2024].
-  - Graves
+  - Graves:
     - similar to Médoc but more sand [@guildsomm_bordeaux_2024]
-- right bank
-  - St-Emilion
+- right bank:
+  - St-Emilion:
     - 2 soil types, _côtes_ and _graves_.
       - _côtes_: steep limestone hillsides [@guildsomm_bordeaux_2024].
       - _graves_: gravelly limestone plateaus [@guildsomm_bordeaux_2024].
-  - Pomerol
-    - sand, gravel and topsoil of iron pan and rich class called _crasse de fer_ [@guildsomm_bordeaux_2024].
+  - Pomerol:
+    - _crasse de fer_:
+      - sand, gravel and topsoil of iron pan and rich class called _crasse de fer_ [@guildsomm_bordeaux_2024].
     - note: Petrus is distinct for its subsoil clays very close to the surface [@guildsomm_bordeaux_2024].
-  - Boug and Cotes de Bourg
+  - Boug and Cotes de Bourg:
     - limestone soil [@guildsomm_bordeaux_2024]
 
-### Production and Aging Techniques (Barrique Fermentation/Ageing)
+### 03 Production and Aging Techniques (Barrique Fermentation/Ageing)
+
+TODO: remove all of this and replace with whatever the intro article describes for Barrel ferment and ageing
 
 - sorting:
-  - fruit sorted by quality to isolate the densest, best fruit for a _grand vin_. Sorting is done optically (fruit appearance) and mechanically via a density sorter (float fruit in a water bath, fruit that sinks is dense enough for a _grand vin_) [@guildsomm_bordeauxexpert].
-- fruit preparation
+  - fruit sorted by quality
+  - isolate the densest, best fruit
+  - best fruit used for _grand vin_.
+  - methods:
+    - optically (fruit appearance)
+    - density sorter:
+      - float fruit in a water bath
+      - fruit that sinks is dense enough for a _grand vin_ [@guildsomm_bordeauxexpert].
+- fruit preparation:
   - destemming is common [@guildsomm_bordeauxexpert].
-- preprocessing
+- preprocessing:
   - chaptalization is permissible [@guildsomm_bordeauxexpert].
-  - water content removal by vacuum distillation or reverse osmosis can be seen in wetter and cooler vintages [@guildsomm_bordeauxexpert].
-- fermentation
+  - water content removal:
+    - by vacuum distillation
+    - reverse osmosis
+    - typically used in wetter and cooler vintages [@guildsomm_bordeauxexpert].
+- fermentation:
   - vessel:
     - red:
-      - all kinds of vessels used: large wood casks, stainless steel tank, buried expoxy-lined concrete vat, naked cement vat[@guildsomm_bordeauxexpert].
+      - large wood casks
+      - stainless steel tank
+      - buried expoxy-lined concrete vat
+      - naked cement vat[@guildsomm_bordeauxexpert].
     - white:
-      - dry and sweet typically fermented in barrique [@guildsomm_bordeauxexpert].
-    - estates may blend different vessel batches together to create a style [@guildsomm_bordeauxexpert].
+      - barrique [@guildsomm_bordeauxexpert].
+    - blend different vessel batches together to create a style [@guildsomm_bordeauxexpert].
   - cap management:
-    - _remontage_ (pump over) is traditional [@guildsomm_bordeauxexpert]
-    - _pigeage_ is sometimes used but run the risk of over-extraction in varieties like CS [@guildsomm_bordeauxexpert].
+    - _remontage_:
+      - (pump over) is traditional [@guildsomm_bordeauxexpert]
+    - _pigeage_:
+      - sometimes used
+      - risk of over-extraction in varieties like CS [@guildsomm_bordeauxexpert].
   - MLF:
     - reds:
       - MLF used for reds generally 3 months after harvest [@guildsomm_bordeauxexpert].
@@ -61,8 +123,8 @@
       - no MLF unless overly acidic [@guildsomm_bordeauxexpert].
   - micro-oxygenation:
     - used to soften green, rustic and tannic edges [@guildsomm_bordeauxexpert]
-- élevage
-  - formats
+- élevage:
+  - formats:
     - variety of formats used - oak barrique, concrete, steel [@wset_bordeaux]
     - red _grand vin_: 18 - 24 months, typically in 100% new oak in a range of cooperage styles [@guildsomm_bordeauxexpert].
     - white: 12 - 15 months in barrel, 50% new oak [@guildsomm_bordeauxexpert].
@@ -71,8 +133,10 @@
   - [[cliquage]] may be used [@guildsomm_bordeauxexpert].
 - assemblage
   - two schools of thought:
-    1. performed early in the year after harvest prior to [[en primeur]] in April so the foundation of the finished wine can be judged[@guildsomm_bordeauxexpert].
-    2. after [[en primeur]] just before bottling to enable each component to mature individually for as long as possible [@guildsomm_bordeauxexpert].
+    - just before [[en primeur]] in April:
+      - so the foundation of the finished wine can be judged[@guildsomm_bordeauxexpert].
+    - after [[en primeur]] just before bottling:
+      - enable each component to mature individually for as long as possible [@guildsomm_bordeauxexpert].
   - occurs 6 months after harvest [@wset_bordeaux]
 - clarification and stabilisation
   - finding and filtration common, either one or the other or both, or neither. [@guildsomm_bordeauxexpert]
@@ -81,45 +145,97 @@
   - closure:
     - Cork is used universally [@guildsomm_bordeauxexpert].
 
-### Botrytis Wine Production
+### 04 Botrytis Wine Production
 
-Botrytis wine is sweet white wine whose fruit has been infected by Botrytis cinerea, or noble rot. The mould pierces the skin of the fruit resulting in dehydration that concentrates acidity, sugars and glycerol, adding honey, saffron, ginger, dried fruit and iodine characters. The result is a viscous, golden, textural and aromatic wines. It is produced in the communes belonging to Sauternes AOP: Sauternes, Bommes, Preignac, and Barsac, records indicating that the style was conceived in the 18th century [@guildsomm_bordeauxexpert]. The best vineyards are located at the confluence of Ciron and Garonne where cool morning mists and humidity are generated that benefit noble rot infection [@guildsomm_bordeauxexpert].
+- botrytis wines are sweet whites influenced by infection with Botryis cinerea
+- dehydration concentrates acidity, sugars and glycerol
+- character:
+  - honey
+  - saffron
+  - ginger
+  - dried fruit
+  - iodine
+- properties:
+  - alcohol up to 14%
+  - RS between 120g - 160g/L.
+- Sauternes AOP:
+  - Sauternes
+  - Barsac
+  - Bommes
+  - Preignac
+- Best vineyards:
+  - at the confluence of the Ciron and Garonne
+  - confluence generates morning mists
+  - mist and humidity are optimal for Botrytis.
+- Varieties:
+  - Sémillon:
+    - favors production of Botrytis wines
+    - relatively thinner skin enhances the effects of the mould
+  - Sauvignon Blanc
+  - Muscadelle
+- tries:
+  - Botrytis does not infect evenly
+  - several passes are required to obtain a consistent crop.
+- common for harvests of potential Botrytis wine to be rejected if not to spec.
+- vinification:
+  - ferment in new oak barriques
+  - élevage in the same vessel
+  - sulfur dioxide to minimise volatile acidity and secondary fermentation.
 
-The _assemblage_ consists of Sémillon, Sauvignon Blanc, and Muscadelle, with sémillon as the dominant varietal because its thinner skin is more prone to infection. Cordon training is preferred as it results in smaller berries which are better for As botrytis does not affect grapes evenly, during picking several passes (_tries_) are required to produce a consistent crop, generally 3 - 4 passes are required. This is mandated by AOP law. If a vintage does not produce quality fruit OR botrytis infection then the wine will not be made [@guildsomm_bordeauxexpert]..  
-Chaptalization and cryo-extraction are permitted. Barrel fermentation is common, often in new oak barrique followed by élevage in the same vessel. Sulfur dixoide is used liberally to prevent development of volatile acidity and secondary fermentation. The final product can reach 14% alcohol with a residual sugar range of 120 - 160 g/L [@guildsomm_bordeauxexpert].
+### 05 Districts, Subdistricts and Location
 
-> [!Important Points]
->
-> - botrytis wines are sweet whites influenced by infection with Botryis cinerea
-> - resulting dehydration concentrates acidity, sugars and glycerol and adds honey, saffron, ginger, dried fruit and iodine character with alcohol up to 14% and RS between 120g - 160g/L.
-> - it is produced in Sauternes AOP which consists of the communes of Sauternes, Barsac, Bommes, and Preignac
-> - Best vineyards are located at the confluence of the Ciron and Garonne where the generated morning mists and humidity are optimal for Botrytis.
-> - _assemblage_ (in order of proportion): Sémillon, Sauvignon Blanc, Muscadelle.
-> - Sémillon favors production of Botrytis wines because its relatively thinner skin enhances the effects of the mould.
-> - Cordon training is preferred as it results in smaller berries: more surface area of rot per hectare
-> - Botrytis does not infect evenly so several passes are required to obtain a consistent crop.
-> - as dependence on rot progression introduces another varietal variable, it is unusually common for harvests of potential Botrytis wine to be rejected.
-> - Chaptalization and cryo-extraction are permitted
-> - Premium producers will ferment in new oak barriques followed by élevage in the same vessel
-> - sulfur dioxide is used librerally to minimise volatile acidity and secondary fermentation.
+- Left Bank:
+  - Médoc
+  - Graves
+  - Sauternes
+- Right Bank:
+  - Pomerol
+  - St Émilion
+- Entre-Deux-Mers [@johnson_worldatlaswine_2019, pp. 84].
 
-### Districts, Subdistricts and Location
+### 06 Classification System 1855
 
-The Bordeaux winegrowing region can be divided into the Left Bank and Right Bank of the Gironde Estuary, with the Left Bank further divided into the localities of Médoc, Graves and Sauternes, and the Right Bank into Pomerol and St Émilion in the west, centered around Libourne. Between these two divisions and the rivers of Dordogne and Garonne lies the Entre-Deux-Mers [@johnson_worldatlaswine_2019, pp. 84].
+- classification of the best chateaux (most expensive) in Bordeaux in 1855
+- creation:
+  - commissioned by Emperor Napoleon III for the Universal Exposition
+  * and carried out by Bordelais courtiers
+- ranks:
+  - Red:
+    - First Growths (_premiers Crus_)
+    - Second Growths (_Deuxièmes Crus_)
+    - Third Growths (_Troisèmes Crus_)
+    - Fourth Growths (_Quatrièmes Crus_)
+    - Fifth Growths (_Cinquièmes Crus_)
+  - white:
+    - Superior First Growth (_Premier Cru Supérieur_)
+    - First Growth (_Premier Cru_)
+    - Second Growths (_Deuxième Crus_) [@wiki_class1855].
+- The red first growths:
+  - Chateaux Lafite
+  - Latour
+  - Mouton Rothschild
+  - Margaux
+  - Haut-Brion.
+- changes: Mouton-Rothschild was elevated from second to first growth in 1973.
+- controversial: favours long-established, wealthy, conservative chateaux
 
-### Classification System 1855
+Sources:
 
-An immutable classification of the best chateaux (most expensive) in Bordeaux in 1855, commissioned by Emperor Napoleon III for the Universal Exposition and carried out by Bordelais courtiers. Included red and sweet white wine producers, with 5 ranks or growths for red and 3 ranks for white. Red: First Growths (_premiers Crus_), Second Growths (_Deuxièmes Crus_), Third Growths (_Troisèmes Crus_), Fourth Growths (_Quatrièmes Crus_), Fifth Growths (_Cinquièmes Crus_), white: Superior First Growth (_Premier Cru Supérieur_), First Growth (_Premier Cru_), Second Growths (_Deuxième Crus_) [@wiki_class1855]. The red first growths are Chateaux Lafite, Latour, Mouton Rothschild, Margaux, and Haut-Brion. While it is regarded as immutable, there have been some changes, for example Mouton-Rothschild was elevated from second to first growth in 1973. It is a controversial classification because it favours long-established, wealthy, jealous and generally conservative chateaux [@guildsomm_bordeaux_2024, @guildsomm_bordeauxexpert].
+- [@guildsomm_bordeaux_2024, @guildsomm_bordeauxexpert].
 
 #### First Growths
 
-```csvtable
-source: attachments/bordeaux_first_growths.csv
-```
+| color | growth | region | subregion | chateau           |
+| ----- | ------ | ------ | --------- | ----------------- |
+| red   | first  | medoc  | pauillac  | lafite            |
+| red   | first  | medoc  | pauillac  | mouton rothschild |
+| red   | first  | medoc  | margaux   | latour            |
+| red   | first  | medoc  | margaux   | margaux           |
+| red   | first  | graves | pessac    | haut-brion        |
 
-### Top Médoc Chateaux and Location
+### 07 Top Médoc Chateaux and Location
 
-- Cos d'Estournel (second, St-Estèphe)[@guildsomm_bordeaux_2024]
+- Cos d'Estournel (second, St-Estèphe) [@guildsomm_bordeaux_2024]
 - Montrose (seocnd, St-Éstephe) [@guildsomm_bordeauxexpert]
 - Lafite (Pauillac)
 - Mouton-Rothschild (Pauillac)
@@ -129,71 +245,101 @@ source: attachments/bordeaux_first_growths.csv
 - Margaux (Margaux)
 - Palmer (third growth, Margaux) [@guildsomm_bordeaux_2024]
 
-### St Emillion Classification
+### 08 St Emillion Classification
 
-The St-Émilion Classification was first drafted in 1955. and reviewed every 10 years or so, with the last review in 2022. After much discord, its current format possesses 3 tiers and includes 85 estates^[[vins-saint-emilion](https://vins-saint-emilion.com/en/welcome-in-the-vineyard/saint-emilion-wine-classification/)] - premier grand cru classé A (Pavie, Figeac), premier grand cru classé B (12 estates), grand cru classé (71 estates). To participate in the classification the wine must be sold within La Place de Bordeaux.
+- first drafted in 1955
+- reviewed every 10 years
+- last review in 2022
+- 3 tiers
+- 85 estates
+- cru:
+  - premier grand cru classé A:
+    - (Pavie, Figeac)
+    * premier grand cru classé B (12 estates)
+    * grand cru classé (71 estates)
+- must be sold within La Place de Bordeaux.
 
-```csvtable
-source: bordeau../attachments/st_emilion_class_2022.csv
-```
+| class  | chateau             |
+| ------ | ------------------- |
+| pgcc A | pavie               |
+| pgcc A | figeac              |
+| pgcc B | beausejour          |
+| pgcc B | canon               |
+| pgcc B | pavie-macquin       |
+| pgcc B | valandraud          |
+| pgcc B | beau-sejour becot   |
+| pgcc B | canon-la-gaffeliere |
+| pgcc B | troplong mandot     |
+| pgcc B | fourtet             |
+| pgcc B | belair-monange      |
+| pgcc B | larcis ducasse      |
+| pgcc B | trotte vieille      |
+| pgcc B | la mondotte         |
 
-### "A" Category St Émilion Châteaux
+Sources:
 
-```csvtable
-source: bordeau../attachments/st_emilion_class_2022_class_A.csv
-```
+- [vins-saint-emilion](https://vins-saint-emilion.com/en/welcome-in-the-vineyard/saint-emilion-wine-classification/)
+
+### 09 "A" Category St Émilion Châteaux
 
 | class | Chateau |
 | ----- | ------- |
 | A     | Pavie   |
 | A     | Figeac  |
 
-### Top Pomerol Châteaux
+### 10 Top Pomerol Châteaux
 
-````
+- petrus
+- vieux-chateau-certan
+- lafleur
+- le pin
+- trotanoy
 
-```csvtable
-source: bordeau../attachments/top_pomerol_chateaux.csv
-````
+### 11 Grape Varietals
 
-- Petrus
-- Vieux-Chateau-Certan
-- Lafleur
-- Le Pin
-- Trotanoy
+- black grapes:
+  - cabernet sauvignon
+  - merlot
+  - cabernet franc
+  - petit verdot
+  - malbec
+  - Carmenère [@guildsomm_bordeaux_2024]
+- white grapes:
+  - Sémillon
+  - Sauvignon Blanc
+  - Muscadelle [@wset_bordeaux]
 
-### Grape Varietals
+### 12 Blending - Importance of Varietal in the Blend
 
-- black grapes: cabernet sauvignon merlot, cabernet franc, petit verdot, malbec, Carmenère [@guildsomm_bordeaux_2024]
-- white grapes: Sémillon, Sauvignon Blanc, Muscadelle [@wset_bordeaux]
+- vintage variation:
+  - vintages in Bordeaux vary
+  - a variety that performs well in one vintage may not in the next
+- varieties:
+  - Primarily a mix of early and late blooming / ripening varieties
+  - Merlot and Cabernet Sauvignon
+  - protects from sporadic spring frost or rain at harvest
+  - guarantees a consistently quality and profitable harvest year on year
+- soil:
+  - merlot better in clay, dominates the blend
+  - Cabernet Sauvignon better in Gravel, dominates blends there
 
-### Blending - Importance of Varietal in the Blend
+### 13 Styles of Wine from Principal Production Districts
 
-blending _assemblage_ is important as vintages in Bordeaux vary and the variety that performs best one vintage may not perform so well in the next. Primarily a mix of early and late blooming / ripening varieties, i.e. Merlot and Cabernet Sauvignon, which protects from sporadic spring frost or rain at harvest guarantees a consistently quality and profitable harvest year on year. These varieties are also sensitive to soil types and since Bordeaux has a diverse range of soils, varieties with an affinity for one soil, say Merlot in clay, can carry the blend where say Cabernet Sauvignon is struggling to perform, and vice versa.
-
-### Styles of Wine from Principal Production Districts
-
-- Left Bank
-  - Médoc
+- Left Bank:
+  - Médoc:
     - Cabernet Dominant reds, increasing amount of dry whites.
-  - Graves
+  - Graves:
     - dry Red and white wines, with the addition of sweet whites in the south.
-  - Sauternes
+  - Sauternes:
     - botrytised sweet white wines.
-- Right Bank
+- Right Bank:
   - Merlot dominant red wines exclusively.
-- Entre-Deux-Mers
+- Entre-Deux-Mers:
   - red and white wines.
 
-### Quality Levels, AOP, IGP
+### 14 Quality Levels, AOP, IGP
 
-Note that AOC is provided by the French government, while AOP is part of the EU PDO [@guildsomm_frenchwinelaw_2024].
-
-AOC and AOP are for the most part interchangeable, AOC is provided and enforced by the French Government, AOP by the EU [@wiki_aoc, sec. 'Product coverage'].
-
-### Labelling Terms
-
-#### AOC of Bordeaux
+TODO: complete
 
 There are 47 AOC in Bordeaux [@wiki_bordeauxaop].
 
@@ -201,12 +347,12 @@ Most notable [@guildsomm_bordeauxexpert, sec. 'Winegrowing Regions of Bordeaux']
 
 - Left Bank:
   - Medoc:
-    - Medoc
-    - Haut-Medoc
-    - St-Estèphe
-    - Pauillac
-    - St-Julien
-    - Margaux
+    - Medoc AOP
+    - Haut-Medoc AOP
+    - St-Estèphe AOP
+    - Pauillac AOP
+    - St-Julien AOP
+    - Margaux AOP
   - Graves
     - [[Graves AOP]]
     - [[Graves Supérieur AOP]]
@@ -214,42 +360,48 @@ Most notable [@guildsomm_bordeauxexpert, sec. 'Winegrowing Regions of Bordeaux']
     - [[Sauternes AOP]]
     - Barsac AOP
 
-### Trade Structure - En Primeur, Negociants
+### 15 Labelling Terms
 
-#### Trade Structure
+TODO: complete
 
-- historically, chateaux would produce the wine, négociants would sell the wine, and primarily in the Médoc courtiers would broker deals between chateaux and négociants. [@guildsomm_bordeauxexpert]
-- The interwoven business relationship between the chateaux, négocients and courtiers is referred to as 'la Place de Bordeaux' [@vinovest_enprimeur].
+### 16 Trade Structure - En Primeur, Negociants
 
 #### En Primeur
 
-the sales of **yet to be released** wines (i.e. futures), typically classed growths [@oxcomp_bordeaux, pp. 1340] such as Chateau Petrus [@vinovest_enprimeur]. Historically it was a business deal between chateaux (through courtiers) and négociants to take advantage of good years and smoothing out cashflow. Interest expanded through wine media such as Robert Parker etc. in the 80's [@guildsomm_bordeauxexpert]
-
-The current system is as follows: cask samples are shown to critics in the spring after harvest who score samples [@oxcomp_bordeaux, pp. 1340]. Based on the scores the chateaus (through their _courtiers_ [@guildsomm_bordeaux_2024]) set a price of sale to négocients. The négocients then make en primeur available to their customers [@vinovest_enprimeur]. Futures are released in successively more expensive tranches until all are sold. The purchaser then waits up to 2 years for the purchased wine to be delivered [@guildsomm_bordeauxexpert].
-
-> [!Important points]
->
-> - _en primeur_, or 'in their prime' is the sale of wine futures by chateaux (typically classed growths) through courtiers to négocients, and in turn from négocients to distributors, retailers and consumers.
-> - 6 months after harvest a sample of the wine is presented to a board of critics who supply a score. Based on the rating, chateaux will release a proportion of production, or _tranche_ for purchase.
-> - A series of tranches are released, each more expensive than the next until all allocated stock is purchased.
-> - It can take up to 2 years for the purchaser to receive the promised product.
+- the sales of **yet to be released** wines
+- typically classed growths [@oxcomp_bordeaux, pp. 1340] such as Chateau Petrus [@vinovest_enprimeur]
+- Historically a business deal between chateaux (through courtiers) and négociants:
+  - take advantage of good years and smooth out cashflow
+- Interest expanded through wine media such as Robert Parker etc. in the 80's [@guildsomm_bordeauxexpert]
+- The current system is as follows:
+  - cask samples are shown to critics in the spring after harvest
+  - critics score the samples [@oxcomp_bordeaux, pp. 1340]
+  - Chateaus set a price of sale to négocients based on scores
+    (through their _courtiers_ [@guildsomm_bordeaux_2024])
+  - The négocients then make en primeur available to their customers [@vinovest_enprimeur]
+  - Futures are released in successively more expensive tranches until all are sold
+  - The purchaser waits up to 2 years for wine to be delivered [@guildsomm_bordeauxexpert].
 
 #### Negociants
 
-> [!Important points]
->
-> - historical:
->   - traditionally responsible for the sale of wine to consumers [@guildsomm_bordeauxexpert].
->   - They had the resources to store the wine and sell it piecemeal, while the chateaux needed to sell their harvest as soon as it was finished fermenting in order to fund next years production. [@guildsomm_bordeaux_2024]
->   - in terms of wine lifecycle, négocients provided storage over time in their _chai_[@oxcomp_bordeaux, pp. 570], so the wine could undergo élevage [@guildsomm_bordeaux_2024]
-> - current day négocients focused on negotiating business deals between principals and brokers, wine storage and maturation and sales direct to consumer [@oxcomp_bordeaux].
-> - prominent négocients include Barton, Cruse, Sichel, and Moueix [@oxcomp_bordeaux].
+- french wine merchants
+- purchased bulk quantities of raw ferment from chateaux
+- providing them with the financial support required to produce the next vintage
+- winemaking:
+  - Traditionally they fulfilled the role of _assemblage_ and _élevage_
+  - storing the wine in their _chai_ or warehouses before sale
+- Contemporary:
+  - negotiate business agreements between brokers and principals
+  - direct sales to consumers
+- Prominent négocients include Barton, Cruse, Sichel and Moueix [@oxcomp_bordeaux].
 
-Négociants are french wine merchants who purchased bulk quantities of raw ferment from chateaux, providing them with the financial support required to produce the next vintage. Traditionally they fulfilled the role of _assemblage_ and _élevage_ in a wines lifecycle, storing the wine in their _chai_ or warehouses before selling the finished product direct to consumers[@guildsomm_bordeauxexpert, @guildsomm_bordeaux_2024, @oxcomp_bordeaux, pp. 570]. Contemporarily, négocients are more focused on negotiating business agreements between brokers and principals as well as direct sales to consumers. Prominent négocients include Barton, Cruse, Sichel and Moueix [@oxcomp_bordeaux].
+Sources:
 
-## Certified
+- [@guildsomm_bordeauxexpert, @guildsomm_bordeaux_2024, @oxcomp_bordeaux, pp. 570]
 
-### Well Known 1st - 5th Classified Growths from the Médoc, Sauternes, St Émillion and Pessac Leognan
+## Cert
+
+### 01 Well Known 1st - 5th Classified Growths from Médoc, Sauternes, St Émillion and Pessac Leognan
 
 | Growth       | Region            | Chateau                                |
 | ------------ | ----------------- | -------------------------------------- |
@@ -273,23 +425,100 @@ Négociants are french wine merchants who purchased bulk quantities of raw ferme
 | fifth        | pauillac          | pontet-canet                           |
 | fifth        | pauillac          | lynch-bages                            |
 
-### Location of top Bordeaux Properties
+TODO: add map
+
+### 02 Location of top Bordeaux Properties
+
+TODO: make map of top Bordeaux Properties
 
 ![[medoc_first_growth_reds_map]]
 
-### Cru Bourgeois Classification
+### 03 Cru Bourgeois Classification
 
-Introduced in 1932, it originally included 444 properties excluded from the 1855 classification, introduced to provide marketing during the Great Depression and included three tiers: _cru bourgeois exceptionnel_, _cru bourgeois supérieur_, and _cru bourgeois_. It was however banned in 2007 after a controversial reclassification. After much reorganisation it settled in 2020 with 249 châteaux, 14 _crus bourgeois exceptionnels_, 56 _crus bourgeois supérieurs_, to be reviewed every 5 years [@guildsomm_bordeauxexpert, sec. "Other Classifications of the Médoc: Cru Bourgeois and Cru Artisan"].
+- Introduced in 1932
+- it originally included 444 properties excluded from the 1855 classification
+- introduced to provide marketing during the Great Depression
+- included three tiers:
+  - _cru bourgeois exceptionnel_
+  - _cru bourgeois supérieur_
+  - cru bourgeois\_
+- It was however banned in 2007 after a controversial reclassification
+- reorganisation (2020):
+  - 249 châteaux
+  - 14 _crus bourgeois exceptionnels_
+  - 56 _crus bourgeois supérieurs_
+  - to be reviewed every 5 years
 
-### Styles of Wine from Smaller Districts
+Sources:
 
-### All Bordeaux Sub-Districts
+- [@guildsomm_bordeauxexpert, sec "Other Classifications of the Médoc: Cru Bourgeois and Cru Artisan"].
+
+### 04 Styles of Wine from Smaller Districts
+
+TODO:
+
+### 05 All Bordeaux Sub-Districts
 
 Such as Liupiac, Cadillac, St. Croix du Mont, Fronsac, Loupiac.
 
-### Individual Commune Names in the Principal Districts
+- Côtes de Bordeaux:
+  - Francs
+  - Castillon
+  - Cadillac
+  - Blaye
+  - St. Foy
+  - Premières Côtes de Bordeaux
+  - Bourg/Côtes de Bourg/Bourgeais
+- Blaye
+- Côtes de Blaye
+- Entre-Deux-Mers:
+  - Entre-Deux-Mers AOP
+  - Cadillac AOP
+  - Graves de Vayres AOP
+  - Loupiac AOP
+  - Côtes de Bordeaux-Saint-Macaire AOP
+  - Sainte-Croix-du-Mont AOP
+- Generic Appellations:
+  - Bordeaux AOP
+  - Bordeaux Supérieur AOP
+  - Crémant de Bordeaux AOP: blanc, rosé
+- Graves:
+  - Graves AOP
+  - Graves Supérieures AOP
+  - Pessac-Léognan AOP
+  - Cérons AOP
+  - Barsac AOP
+  - Sauternes AOP
+- Médoc:
+  - Médoc AOP
+  - Haut-Médoc AOP
+  - Saint-Estèphe AOP
+  - Pauillac AOP
+  - Saint-Julien
+  - Listrac-Médoc AOP
+  - Moulis/Moulis-en-Médoc AOP
+  - Margaux AOP
+- Right Bank:
+  - Saint-Emilion:
+    - Saint-Émilion AOP
+    - Saint-Émilion Grand Cru AOP
+    - Lussac-St-Émilion AOP
+    - Montagne-St-Émilion AOP
+    - Puisseguin-St-Émilion AOP
+    - Saint-Georges-St-Émilion AOP
+  - Pomerol:
+    - Pomerol AOP
+    - Lalande-de-Pomerol AOP
+    - Canon Fronsac AOP
+    - Fronsac AOP
 
-### Classic Vintages
+### 06 Individual Commune Names in the Principal Districts
+
+TODO:
+
+### 07 Classic Vintages
+
+TODO:
 
 - 2009 and 2010 vintages in bordeaux considered of quality. [@oxcomp_bordeaux, pp. 552]
 - 1991 was heavily frost damaged and 1992 diluted [@oxcomp_bordeaux, pp. 552]
