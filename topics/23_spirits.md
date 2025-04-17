@@ -130,7 +130,7 @@ Crus:
 - Bois Ordinaries
 - Bois à terroirs
 
-![map of cognac](../attachments/Cognac-Official-Map-Crus-n141-770x544.jpg)
+![map of cognac](../attachments/23_spirits/Cognac-Official-Map-Crus-n141-770x544.jpg)
 
 ##### Terms Used In Prod
 

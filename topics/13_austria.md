@@ -192,9 +192,9 @@ Sources:
 - Weisswein: white wine
 - Winzergenossenschaft: cooperative
 
-<img src="../attachments/austria_banderole.jpg" alt='banderole' height="200" />
+<img src="../attachments/13_austria/austria_banderole.jpg" alt='banderole' height="200" />
 
-![wachau levels](../attachments/wachau_wines.webp)
+![wachau levels](../attachments/13_austria/wachau_wines.webp)
 
 Sources:
 
@@ -234,7 +234,7 @@ Sources:
 <details>
 <summary>DAC MAP</summary>
 
-![dac map](../attachments/austria_DAC.jpeg)
+![dac map](../attachments/13_austria/austria_DAC.jpeg)
 
 </details>
 
@@ -242,21 +242,21 @@ Sources:
 <summary> Burgenland DACs
   </summary>
 
-![burgenland](../attachments/austria_burgenland_dac.jpg)
+![burgenland](../attachments/13_austria/austria_burgenland_dac.jpg)
 
 </details>
 
 <details>
 <summary>Niederösterreich DACs</summary>
 
-![Niederösterreich](../attachments/austria_niederosterreich_dac.jpg)
+![Niederösterreich](../attachments/13_austria/austria_niederosterreich_dac.jpg)
 
 </details>
 
 <details>
 <summary>Steiermark DACs</summary>
 
-![Steiermark](../attachments/austria_steiermark_dac.jpg)
+![Steiermark](../attachments/13_austria/austria_steiermark_dac.jpg)
 
 </details>
 

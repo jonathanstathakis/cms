@@ -93,7 +93,7 @@
   - introduced in 1963
   - formalize and protect wine appellations
   - similar to french AOC/AOP
-- DOCG:
+- DOCG (Denominazione di Origine Controllata e Garantita):
   - top
   - considered equivalent to PDO
   - first awarded in 1980
@@ -150,19 +150,12 @@
 - red:
   - North:
     - Corvina: Valpolicella
-    - Nebbiolo:
-      - Barolo
-      - Barbaresco
-    - Barbera:
-      - Asti
-    - Dolcetto
-      - Alba
+    - Nebbiolo: Piedmont
+    - Barbera: Piedmont
+    - Dolcetto: Piedmont
   - Central:
-    - Sangiovese:
-      - Chianti
-      - Brunello
-    - Montepulciano:
-      - Abruzzo
+    - Sangiovese: Tuscany
+    - Montepulciano: Abruzzo
   - South:
     - Aglianico: Campania, Basilicata
     - Negroamaro: Apulia
@@ -174,7 +167,7 @@
 
 #### North
 
-![Map of Northern Italian Wine Regions](../attachments/italy/northern_italy_wine_regions.png)
+![Map of Northern Italian Wine Regions](../attachments/11_italy/northern_italy_wine_regions.png)
 
 ##### Piedmont
 
@@ -229,14 +222,13 @@
       - Neive
       - Treiso
 
-![Map of Piedmont Wine](../attachments/italy/map_of_piedmont.png)
+![Map of Piedmont Wine](../attachments/11_italy/map_of_piedmont.png)
 
-![Map of Piedmont DOC, DOCG](../attachments/italy/map_of_piedmont_doc_docg.png)
+![Map of Piedmont DOC, DOCG](../attachments/11_italy/map_of_piedmont_doc_docg.png)
 
 ##### Lombardy
 
 - Franciacorta: sparkling wine from Chardonnay, Pinot Noir, Pinot Bianco
-- Pinot Noir
 - Vatellina: Nebbiolo (Chiavennasca)
 - Sforzato: Nebbiolo made with dried grapes
 - Moscato di Scanzo: Red Moscato
@@ -258,6 +250,7 @@
 
 - white:
   - Gewürztraminer
+  - Pinot Grigio
 - red:
   - Schiava
   - Lagrein
@@ -279,6 +272,8 @@
       - Recioto della Valpolicella
   - Bardolino DOC: Corvina + Rondinella
 
+![Map of Veneto AOPs](../attachments/11_italy/map_of_veneto_aops.png)
+
 ##### Fruili-Venezia Giulia
 
 - white:
@@ -294,9 +289,11 @@
   - Merlot
 - orange wine
 
+![Map of Fruili AOP](../attachments/11_italy/map_of_fruili_aops.png)
+
 #### Central
 
-![Map of Central Italian Wine Regions](../attachments/italy/central_italy_wine_regions.png)
+![Map of Central Italian Wine Regions](../attachments/11_italy/central_italy_wine_regions.png)
 
 ##### Tuscany
 
@@ -343,7 +340,7 @@
 
 #### South
 
-![Map of Southern Italian Wine Regions](../attachments/italy/southern_italian_wine_regions.png)
+![Map of Southern Italian Wine Regions](../attachments/11_italy/southern_italian_wine_regions.png)
 
 ##### Campania
 
@@ -450,7 +447,7 @@ Sources:
 - non-vintage
 - 85% of the wine is Glera
 
-![Prosecco Quality Hierarchy](../attachments/italy/prosecco_quality_hierarchy.png)
+![Prosecco Quality Hierarchy](../attachments/11_italy/prosecco_quality_hierarchy.png)
 
 Sources:
 
@@ -679,4 +676,4 @@ Source:
 - Mntalbano
 - Montespertoli
 
-![Map of Chianti and Included Regions](../attachments/italy/map_chianti.png)
+![Map of Chianti and Included Regions](../attachments/11_italy/map_chianti.png)

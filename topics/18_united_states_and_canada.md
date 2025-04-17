@@ -1,4 +1,4 @@
-# United States and Canada
+}}}}}uu# United States and Canada
 
 ## TOC
 
@@ -105,7 +105,7 @@ TODO: Identify Varietal associated with San Francisco Bay Area
 <details>
   <summary>Map of Wine in California</summary>
 
-![California](../attachments/california_wine_map.jpg)
+![California](../attachments/18_united_states_and_canada/california_wine_map.jpg)
 
 </details>
 
@@ -177,7 +177,7 @@ Sources:
 <details>
 <summary>Map of Oregon Wine Regions</summary>
 
-![Oregon](../attachments/oregon_wine_map.png)
+![Oregon](../attachments/18_united_states_and_canada/oregon_wine_map.png)
 
 </details>
 
@@ -220,7 +220,7 @@ Sources:
 <details>
 <summary>Map of Washington Wine Area</summary>
 
-![washington_wine_map](../attachments/washington_wine_map.jpg)
+![washington_wine_map](../attachments/18_united_states_and_canada/washington_wine_map.jpg)
 
 </details>
 
@@ -329,7 +329,7 @@ AVAs. Principle AVAs are marked with 'x' based on preponderance of premium wines
 <details>
 <summary>Map of Sonoma AVA</summary>
 
-<img src="../attachments/sonoma wine map.jpg" alt="Sonoma AVA map"/>
+<img src="../attachments/18_united_states_and_canada/sonoma wine map.jpg" alt="Sonoma AVA map"/>
 
 </details>
 
@@ -365,7 +365,7 @@ AVAs. Principle AVAs are marked with 'x' based on preponderance of premium wines
 
 <details><summary>Map of Napa Valley AVAs</summary>
 
-<img src="../attachments/napa_valley_ava.png" alt="Map of Napa Valley AVas"/>
+<img src="../attachments/18_united_states_and_canada/napa_valley_ava.png" alt="Map of Napa Valley AVas"/>
 
 </details>
 
@@ -393,7 +393,7 @@ south:
 
 <details><summary>Map of Monterey AVAs</summary>
 
-<img src="../attachments/monterey_wine_map.png" alt="Map of Monterey AVAs">
+<img src="../attachments/18_united_states_and_canada/monterey_wine_map.png" alt="Map of Monterey AVAs">
 
 </details>
 
@@ -413,7 +413,7 @@ Principle AVAs marked with a 'x'. Identification is based on wine >$100 on [wine
 
 <details>
 <summary>Map of Santa Barbara AVAs</summary>
-<img src="../attachments/santa_barbara_map_ava.png" alt="Map of Santa Barbara AVAs">
+<img src="../attachments/18_united_states_and_canada/santa_barbara_map_ava.png" alt="Map of Santa Barbara AVAs">
 </details>
 
 ### 02 Principal Wine Districts of Washington / Oregon

@@ -32,11 +32,11 @@
 
 ## Maps
 
-![Wine Regions of Spain](../attachments/spain/map_wine_regions.png)
+![Wine Regions of Spain](../attachments/09_spain/map_wine_regions.png)
 
-![Wine Regions of Spain (Wine Folly)](../attachments/spain/wine_regions_wine_folly.png)
+![Wine Regions of Spain (Wine Folly)](../attachments/09_spain/wine_regions_wine_folly.png)
 
-![Wine Regions of Spain (Wine Folly 2)](../attachments/spain/wine_regions_wine_folly2.png)
+![Wine Regions of Spain (Wine Folly 2)](../attachments/09_spain/wine_regions_wine_folly2.png)
 
 ## Intro
 
@@ -376,7 +376,7 @@ See <https://assets.publishing.service.gov.uk/media/6682d6f0c7f64e23420901ea/Ria
 - O Rosal
 - Condado do Tea
 
-![Rias-Biaxas subzones](../attachments/spain/rias_biaxas_subzones.png)
+![Rias-Biaxas subzones](../attachments/09_spain/rias_biaxas_subzones.png)
 
 #### Sub-Districts of Navarra
 
@@ -386,7 +386,7 @@ See <https://assets.publishing.service.gov.uk/media/6682d6f0c7f64e23420901ea/Ria
 - Tierra Estella
 - Valdizarbe
 
-![Map of Navarra Subzones](../attachments/spain/navarra_subzones.png)
+![Map of Navarra Subzones](../attachments/09_spain/navarra_subzones.png)
 
 #### Sub-Districts of Penedes
 
@@ -413,11 +413,11 @@ Divided into altitude zones from lowest to highest:
 - Masos de Falset
 - Solones de El Molar
 
-![Map of Priorat Subzones](../attachments/spain/map_of_priorat_subzones.png)
+![Map of Priorat Subzones](../attachments/09_spain/map_of_priorat_subzones.png)
 
 ### 05 Location of and wines produced in: Ribera del Duero, Montsant, Toro, Rueda, Bierzo
 
-![Map of Regions Specified](../attachments/spain/02_05_map.png)
+![Map of Regions Specified](../attachments/09_spain/02_05_map.png)
 
 - Ribera del Duero:
   - location:

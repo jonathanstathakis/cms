@@ -64,7 +64,7 @@ Sources:
 - Terras Madeirenses
 - Açores
 
-![Map of Wine Districts of Portugal](../attachments/portugal/map_wine_districts.png)
+![Map of Wine Districts of Portugal](../attachments/10_portugal/map_wine_districts.png)
 
 ### 04 Principal Grape Varietals
 

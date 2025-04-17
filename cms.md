@@ -91,7 +91,7 @@ An outline of the top level topics taken from the syllabus.
 
 ## Examinations
 
-The format of the examinations, taken from the [Prospectus](./attachments/CMS-Oceania-Prospectus-2025.pdf).
+The format of the examinations, taken from the [Prospectus](cms_documents/CMS-Oceania-Prospectus-2025.pdf).
 
 ### Dates
 
@@ -125,11 +125,11 @@ From the prospectus, resources include the web portal, the textbook, a document 
 - [[log]]
 - [[reading_notes|CMS Reading Notes]]
 - anki deck
-- [CMS Service Standards](./attachments/CMS-Standards-of-Service-2020.pdf)
-- [Certified Exam Grid](./attachments/Certified-Tasting-Exam-Paper-2024.pdf)
+- [CMS Service Standards](cms_documents/CMS-Standards-of-Service-2020.pdf)
+- [Certified Exam Grid](cms_documents/Certified-Tasting-Exam-Paper-2024.pdf)
 - [cms website](http://www.courtofmastersommeliers.org/other/learning-resources/)
-- [cms study resources](./attachments/CMS Oceania Intro & Certified Study Resources 2025.pdf)
-- [cms study tips](./attachments/Study-Tips-1.pdf)
+- [cms study resources](cms_documents/CMS Oceania Intro & Certified Study Resources 2025.pdf)
+- [cms study tips](cms_documents/Study-Tips-1.pdf)
 
 # Misc. Appendix
 

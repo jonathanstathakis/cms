@@ -47,7 +47,7 @@
 - alsace is divided into two departments: Haut-Rhin and Bas-Rhin
 - Haut-Rhin contains generally higher wuality wine - 2/3 grcu vineyards
 
-![Map of Alsace Subdistricts](../attachments/alsace/map_of_subdistricts.png)
+![Map of Alsace Subdistricts](../attachments/01_alsace/map_of_subdistricts.jpg)
 
 ### 04 Location of the best vineyards and variety of soils
 
@@ -67,7 +67,7 @@
   - lower slopes possess limestone _base_
   - valley floor rich alluvial clay and gravel soils
 
-![Sites and Domaines of Alsace](../attachments/alsace/sites_doms_alsace.png)
+![Sites and Domaines of Alsace](../attachments/01_alsace/sites_doms_alsace.png)
 
 ### 05 Grape Varietals
 
@@ -153,9 +153,9 @@ Sources:
 
 - [@vinalsace_grandcruaop]
 
-![Map of Alsace AOP with Major Grand Crus Labelled](../attachments/alsace/alsace_aop_grand_crus.png)
+![Map of Alsace AOP with Major Grand Crus Labelled](../attachments/01_alsace/alsace_aop_grand_crus.png)
 
-![Map of Alsace With Grand Crus](../attachments/alsace/map_of_alsace_with_gcrus.png)
+![Map of Alsace With Grand Crus](../attachments/01_alsace/map_of_alsace_with_gcrus.png)
 
 #### Crémant
 
@@ -211,7 +211,7 @@ Sources:
   - grape maturity
   - yields
 
-![Map of Selected Alsace AOC Communal](../attachments/alsace/aoc_alsace_communale_map.png)
+![Map of Selected Alsace AOC Communal](../attachments/01_alsace/aoc_alsace_communale_map.png)
 
 #### AOC Alsace Lieu dit (Locations)
 
@@ -221,9 +221,9 @@ Sources:
 
 #### Lorraine
 
-![map of lorraine aop](../attachments/alsace/map_of_lorraine_aop.png)
+![map of lorraine aop](../attachments/01_alsace/map_of_lorraine_aop.png)
 
-[Alsace-Lorraine AOP](../attachments/alsace/alsace_lorraine_aop.png)
+[Alsace-Lorraine AOP](../attachments/01_alsace/alsace_lorraine_aop.png)
 
 ### 06 Styles of wine VT and SGN
 

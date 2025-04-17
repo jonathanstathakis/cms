@@ -1,7 +1,7 @@
 # South Africa
 
 <details><summary>GU of South Africa</summary>
-<img src="../attachments/map_south_africa_gu.jpg" alt="GU of South Africa">
+<img src="../attachments/20_south_africa/map_south_africa_gu.jpg" alt="GU of South Africa">
 </details>
 
 ## TOC
@@ -182,13 +182,13 @@ Sources:
 
 <details><summary>Map of South Africas Wine Regions</summary>
 
-<img src="../attachments/south_africa_wine_map.jpg" alt="Map of South African Wine Regions">
+<img src="../attachments/20_south_africa/south_africa_wine_map.jpg" alt="Map of South African Wine Regions">
 
 </details>
 
 <details><summary></summary>
 
-<img src="../attachments/south_africa_wine_map_v2.jpg" alt="An alternative map">
+<img src="../attachments/20_south_africa/south_africa_wine_map_v2.jpg" alt="An alternative map">
 
 </details>
 
