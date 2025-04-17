@@ -21,8 +21,8 @@
     - [Central](#central)
       - [Tuscany](#tuscany)
       - [Umbria](#umbria)
-      - [Marches](#marches)
-      - [Abuzzo](#abuzzo)
+      - [Marche](#marche)
+      - [Abruzzo](#abruzzo)
       - [Lazio](#lazio)
     - [South](#south)
       - [Campania](#campania)
@@ -52,7 +52,7 @@
       - [Tuscany DOCGs](#tuscany-docgs)
       - [Umbria DOCGs](#umbria-docgs)
       - [Marches DOCGs](#marches-docgs)
-      - [Abuzzo DOCGs](#abuzzo-docgs)
+      - [Abruzzo DOCGs](#abruzzo-docgs)
       - [Lazio DOCGs](#lazio-docgs)
     - [South DOCGs](#south-docgs)
     - [Campania DOCGs](#campania-docgs)
@@ -61,8 +61,8 @@
       - [Sicilia DOCGs](#sicilia-docgs)
       - [Sardinia DOCGs](#sardinia-docgs)
   - [02 Aging Requirements and Specified Terms](#02-aging-requirements-and-specified-terms)
-    - [Barolo](#barolo)
-    - [Barbaresco](#barbaresco)
+    - [Barolo DOCG](#barolo-docg)
+    - [Barbaresco DOCG](#barbaresco-docg)
     - [Chianti](#chianti)
     - [Vino Nobile](#vino-nobile)
     - [Brunello di Montalcino](#brunello-di-montalcino)
@@ -98,6 +98,7 @@
   - considered equivalent to PDO
   - first awarded in 1980
   - typically require minimum aging
+  - 77 DOCG
 
 ### 03 Wine Producing Districts and Location
 
@@ -318,7 +319,9 @@
 - red:
   - Sagrantino di Montefalco DOCG/Torgiano Rosso Riserva DOCG: Sagrantino
 
-##### Marches
+![Appellations of Umbria](../attachments/11_italy/appellations_umbria.png)
+
+##### Marche
 
 - white:
   - Verdicchio di Matelica Riserva DOCG: Verdicchio
@@ -328,15 +331,21 @@
     - Conero Rosso Riseva DOCG: Montepulciano/Sangiovese
   - sparkling: Vernaccia di Serrapetrona DOCG: Vernaccia
 
-##### Abuzzo
+![DOC of Marche](../attachments/11_italy/doc_marche.png)
+
+##### Abruzzo
 
 - red:
   - Montepulciano d'Abruzzo DOC: Montepulciano
   - Colline Teramane Montepulciano d'Abruzzo DOCG: Montepulciano
 
+![Map of Abruzzo DOC, DOCG](../attachments/11_italy/map_of_abruzzo_doc.png)
+
 ##### Lazio
 
 - Catelli Romani DOC: Trebbiano Toscano
+
+![Map of Lazio DOC](../attachments/11_italy/map_of_lazio_doc.png)
 
 #### South
 
@@ -348,6 +357,8 @@
   - Taurasi DOCG: Agliancio
   - Aglianico del Taburno DOCG: Aglianico
 
+![Appellations of Campania](../attachments/11_italy/appell_of_campania.png)
+
 ##### Apulia
 
 - Castel del Monte Rosso Riserva DOCG:
@@ -356,10 +367,14 @@
   - 90% Nero di Troia
 - Primitivo di Manduria Dolce Naturale DOCG: Primativo
 
+![Appellations of Apulia](../attachments/11_italy/appellations_of_apulia.png)
+
 ##### Basilicata
 
 - red:
-  - Aglianico del Vulture Superiore DOCG: Agliancioi
+  - Aglianico del Vulture Superiore DOCG: Agliancio
+
+![Appellations of Basilicata](../attachments/11_italy/app_basilicata.png)
 
 ##### Sicilia
 
@@ -370,11 +385,17 @@
   - Etna DOC: Nerello Macalese
   - Cerasuolo di Vittoria DOCG: Nero d'Avola
 
+![Appellations of Sicily](../attachments/11_italy/app_of_sicily.png)
+
 ##### Sardinia
 
-- Cannonau (Grenache)
-- Carignano (Carignan)
-- Vermentino di Gallura DOCG: Vermentino
+- red:
+  - Cannonau (Grenache)
+  - Carignano (Carignan)
+- white:
+  - Vermentino di Gallura DOCG: Vermentino
+
+![Appellations of Sardinia](../attachments/11_italy/apps_of_sardagna.png)
 
 ### 06 Production Methods
 
@@ -389,28 +410,44 @@
 - fermentation is stopped before completion
 - wine is semi-sweet or sweet
 
+![Botle of Recioto wine](../attachments/11_italy/recioto_wine.png)
+
+![Image of racks used for recioto](../attachments/11_italy/recioto_racks.png)
+
 #### Ripasso
 
 - lit. "re-passed"
 - a secondary fermentation of a wine
 - use unpressed skins of grapes used for Amarone or Recioto wine
 
+![Bottle of Ripasso wine](../attachments/11_italy/bottle_of_ripasso.png)
+
 #### Amarone
 
 - appassimento method
 - fermented to dry or near dryness
-- traditionally aged in _botti_
+- traditionally aged in _botti_ (large format vessels)
 - contemporary winemakers may use barrique.
+
+![Examples of Amarone](../attachments/11_italy/examples_of_amarone.png)
 
 #### Vin Santo
 
 - Trebbiano and Malvasia
+- made in tuscany
+- if fortified, is labelled Liquoroso
 - grapes are dried by hanging from rafters
 - usually dried for ~9 months (1st December following harvest)
 - fermentation is slow
-- fermentation and maturation in _caratelli_ barrels
+- fermentation and maturation in _caratelli_ barrels (small keg, 50 - 150 liters)
 - traditionally chestnut used for rapid oxidation
 - oak becoming more prevalent
+
+![Image of Vin Santo](../attachments/11_italy/example_of_vinsanto.png)
+
+Sources:
+
+- [Caratelli](https://italianwine.guide/the-dictionary/caratelli/)
 
 ### 07 Labelling Terms
 
@@ -429,16 +466,16 @@ Sources:
 ### 08 Prosecco Quality levels and Production Methods
 
 - production:
-  - charmat method. See [Charmat Method](/topics/05_sparkling_wines.md#charmat)
+  - charmat method. See [Charmat Method](05_sparkling_wines.md#charmat)
 - styles:
 - Frizzante:
   - slightly sparkling
 - Spumante superiore:
   - fully sparkling
-  - sweetness:
-    - brut
-    - demi-sec:
-      - secondary ferment in bottle
+- sweetness:
+  - brut
+  - demi-sec:
+  - secondary ferment in bottle
 - quality levels (in ascending order):
   1. prosecco DOC
   2. Prosecco DOC Treviso/Trieste
@@ -571,7 +608,7 @@ Sources:
 - Vernaccia di Serrapetrona DOCG
 - Offida DOCG
 
-##### Abuzzo DOCGs
+##### Abruzzo DOCGs
 
 - Colline Teramane Montepulciano d'Abruzzo DOCG
 
@@ -593,7 +630,7 @@ Sources:
 ##### Apulia DOCGs
 
 - Castel del Monte Rosso Riserva DOCG
-- Castel del Monte Nero di Troia Rieserva DOCG
+- Castel del Monte Nero di Troia Riserva DOCG
 - Castel del Monte Bombino Nero DOCG
 - Primitivo di Manduria Dolce Naturale DOCG
 
@@ -609,30 +646,29 @@ Sources:
 
 - Vermentino di Gallura DOCG
 
-Source:
-
 ### 02 Aging Requirements and Specified Terms
 
-#### Barolo
+#### Barolo DOCG
 
 - base:
   - min. 38 months from November 1 of harvest year
   - min. 18 months in wood
 - Riserva: 62 months
+  - min. 18 months in wood
 
-#### Barbaresco
+#### Barbaresco DOCG
 
 - base:
   - min. 26 months from November 1 of harvest year
   - must include 9 months in cask
-- Riserva: min. 50 months.
+- Riserva: min. 50 months:
+  - must include 9 months in cask
 
 #### Chianti
 
 - Chianti DOCG:
   - Chianti Normale: released 1 March year follwoing harvest
   - Riserva: 2 years of aging
-  - Superiore: Riserva with +0.5 alcohol and lower vineyard yields
 - Chianti Classico DOCG:
   - base: Release October 1st year following harvest
   - Riserva:
@@ -677,3 +713,5 @@ Source:
 - Montespertoli
 
 ![Map of Chianti and Included Regions](../attachments/11_italy/map_chianti.png)
+
+![Map of Chianti Subzones](../attachments/11_italy/subzones_chianti.png)

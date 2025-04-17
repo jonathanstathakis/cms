@@ -57,7 +57,7 @@ An outline of the top level topics taken from the syllabus.
 
 | #   | Topic                                                                          | Notes | cards | Conf_rank | map |
 | --- | ------------------------------------------------------------------------------ | ----- | ----- | --------- | --- |
-| 01. | [Alsace](topics/01_alsace)                                                     | x     | x     | 3         | x   |
+| 01. | [Alsace](topics/01_alsace)                                                     | x     | x     | 1         | x   |
 | 02. | [Bordeaux](topics/02_bordeaux)                                                 |       |       | 3         |     |
 | 03. | [Burgundy](topics/03_burgundy)                                                 | x     | x     | 1         |     |
 | 04. | [Champagne](04_champagne)                                                      | x     | x     | 4         |     |
@@ -67,7 +67,7 @@ An outline of the top level topics taken from the syllabus.
 | 08. | [South of France](./topics/08_south_of_france.md)                              | x     |       | 4         |     |
 | 09. | [Spain](09_spain)                                                              | x     |       | 5         |     |
 | 10. | [Portugal](10_portugal)                                                        | x     |       | 5         |     |
-| 11. | [Italy](11_italy)                                                              | x     |       | 5         |     |
+| 11. | [Italy](11_italy)                                                              | x     | x     | 2         | x   |
 | 12. | [Germany](12_germany)                                                          | x     |       | 5         |     |
 | 13. | [Austria](13_austria)                                                          | x     | x     | 2         |     |
 | 14. | [Greece](14_greece)                                                            |       |       | 5         |     |
@@ -77,7 +77,7 @@ An outline of the top level topics taken from the syllabus.
 | 18. | [United States and Canada](18_united_states_and_canada)                        | x     | x     | 3         |     |
 | 19. | [South America](19_south_america)                                              | x     | x     | 4         |     |
 | 20. | [South Africa](20_south_africa)                                                | x     | x     | 4         |     |
-| 21. | [Other New World Wines](21_othernewworldwines)                                 | -     | -     | -         | -   |
+| 21. | [Other New World Wines](21_othernewworldwines)                                 | -     | -     | 1         | -   |
 | 22. | [Fortified Wines](22_fortifiedwines)                                           |       |       | 5         |     |
 | 23. | [Spirits](topics/23_spirits)                                                   |       |       | 3         |     |
 | 24. | [Aperitif wines, Liqueurs and Bitters](24_aperitif_wines_liqueurs_and_bitters) |       |       | 3         |     |
