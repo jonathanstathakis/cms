@@ -10,6 +10,26 @@
   - [03 Wine Producing Districts and Location](#03-wine-producing-districts-and-location)
   - [04 Principal Grape Varietals and Regions](#04-principal-grape-varietals-and-regions)
   - [05 Principal Wines of Each Region and Varietals Used in Production](#05-principal-wines-of-each-region-and-varietals-used-in-production)
+    - [North](#north)
+      - [Piedmont](#piedmont)
+      - [Lombardy](#lombardy)
+      - [Liguria](#liguria)
+      - [Emilia-Romagna](#emilia-romagna)
+      - [Trentino-Alto Adige](#trentino-alto-adige)
+      - [Veneto](#veneto)
+      - [Fruili-Venezia Giulia](#fruili-venezia-giulia)
+    - [Central](#central)
+      - [Tuscany](#tuscany)
+      - [Umbria](#umbria)
+      - [Marches](#marches)
+      - [Abuzzo](#abuzzo)
+      - [Lazio](#lazio)
+    - [South](#south)
+      - [Campania](#campania)
+      - [Apulia](#apulia)
+      - [Basilicata](#basilicata)
+      - [Sicilia](#sicilia)
+      - [Sardinia](#sardinia)
   - [06 Production Methods](#06-production-methods)
     - [Recioto](#recioto)
     - [Ripasso](#ripasso)
@@ -19,6 +39,27 @@
   - [08 Prosecco Quality levels and Production Methods](#08-prosecco-quality-levels-and-production-methods)
 - [Cert](#cert)
   - [01 DOCG's in Each Region](#01-docgs-in-each-region)
+    - [North DOCGs](#north-docgs)
+      - [Piedmont DOCGs](#piedmont-docgs)
+      - [Lombardy DOCGs](#lombardy-docgs)
+      - [Emilia-Romagna DOCGs](#emilia-romagna-docgs)
+      - [Veneto DOCGs](#veneto-docgs)
+        - [Valpolicella DOCGs](#valpolicella-docgs)
+        - [Soave DOCGs](#soave-docgs)
+        - [Prosecco DOCGs](#prosecco-docgs)
+      - [Fruili-Venezia Giulia DOCGs](#fruili-venezia-giulia-docgs)
+    - [Central DOCGs](#central-docgs)
+      - [Tuscany DOCGs](#tuscany-docgs)
+      - [Umbria DOCGs](#umbria-docgs)
+      - [Marches DOCGs](#marches-docgs)
+      - [Abuzzo DOCGs](#abuzzo-docgs)
+      - [Lazio DOCGs](#lazio-docgs)
+    - [South DOCGs](#south-docgs)
+    - [Campania DOCGs](#campania-docgs)
+      - [Apulia DOCGs](#apulia-docgs)
+      - [Basilicata DOCGs](#basilicata-docgs)
+      - [Sicilia DOCGs](#sicilia-docgs)
+      - [Sardinia DOCGs](#sardinia-docgs)
   - [02 Aging Requirements and Specified Terms](#02-aging-requirements-and-specified-terms)
     - [Barolo](#barolo)
     - [Barbaresco](#barbaresco)
@@ -131,126 +172,212 @@
 
 ### 05 Principal Wines of Each Region and Varietals Used in Production
 
-- North:
-  - Piedmont:
-    - Red:
-      - Barbaresco DOCG: Nebbiolo
-      - Barolo DOCG: Nebbiolo
-      - Dolcetto
-      - Barbera
-    - white:
-      - Gavi: Cortese
-    - sweet:
-    - Moscato d'Asti: Moscato Bianco
-    - Brachetto
-  - Lombardy:
-    - Franciacorta: sparkling wine from Chardonnay, Pinot Noir, Pinot Bianco
-    - Pinot Noir
-    - Vatellina: Nebbiolo (Chiavennasca)
-    - Sforzato: Nebbiolo made with dried grapes
-    - Moscato di Scanzo: Red Moscato
-    - Oltrepò Pavese metodo Classico DOCG: min. 70% Pinot Nero
-  - Liguria:
-    - Colli di Luni: Pigato
-    - Riviera Ligure di Ponente Blanc: Pigato
-    - Riviera Ligure di Ponente Rosso: Rossese
-  - Emilia-Romagna:
-    - Romagna Albana: Albana
-    - Colli Bolognesi Pignoletto: Grechetto
-    - Lambrusco: Lambrusco
-  - Trentino-Alto Adige:
-    - white:
-      - Gewürztraminer
-    - red:
-      - Schiava
-      - Lagrein
-      - Pinot Noir
-      - Teroldego
-  - Veneto:
-    - sparkling:
-      - Prosecco: 85% Glera
-    - white:
-      - Pinot-Grigio
-      - Soave DOC:
-        - 70% Garganega + 30% Trebbiano di Soave and/or Chardonnay
-    - red:
-      - Valpolicella DOC: 45-95% Corvina + Rondinella
-        - subcategories:
-          - Amarone della Valpolicella
-          - Recioto della Valpolicella
-      - Bardolino DOC: Corvina + Rondinella
-  - Fruili-Venezia Giulia:
-    - white:
-      - Pinot Bianco
-      - Pinot Grigio
-      - Sauvignon (Sauvignon Blanc)
-      - Riabolla Gialla
-      - Friulano
-    - sweet:
-      - Verduzzo Gialla (ramandolo)
-    - red:
-      - Cabernet
-      - Merlot
-    - orange wine
-- Central:
-  - Tuscany:
-    - red:
-      - Chianti DOCG: Sangiovese blend
-      - Chianti Classico DOCG: Sangiovese blend
-      - Carmignano DOCG: Sangiovese blend
-      - Vino Nobile de Montepulciano DOCG: Sangiovese blend
-      - Mrellino di Scansano DOCG: Sangiovese blend
-      - Montecucco Sangiovese DOCG: Sangiovese blend
-      - Brunello di Montalcino DOCG: 100% Sangiovese
-      - Super-Tuscans: Sangiovese + Cabernet Sauvignon and/or Merlot
-    - white:
-      - Trebbiano
-      - Malvasia
-  - Umbria:
-    - White:
-      - Ovrieto DOC:
-        - Grechetto/Trebbino Toascano
-    - red:
-      - Sagrantino di Montefalco DOCG/Torgiano Rosso Riserva DOCG: Sagrantino
-  - Marches:
-    - white:
-      - Verdicchio di Matelica Riserva DOCG: Verdicchio
-      - Casteli di Jesi Verdicchio Riserva DOCG: Verdicchio
-    - red:
-      - still:
-        - Conero Rosso Riseva DOCG: Montepulciano/Sangiovese
-      - sparkling: Vernaccia di Serrapetrona DOCG: Vernaccia
-  - Abuzzo:
-    - red:
-      - Montepulciano d'Abruzzo DOC: Montepulciano
-      - Colline Teramane Montepulciano d'Abruzzo DOCG: Montepulciano
-  - Lazio:
-    - Catelli Romani DOC: Trebbiano Toscano
-- South:
-  - Campania:
-    - red:
-      - Taurasi DOCG: Agliancio
-      - Aglianico del Taburno DOCG: Aglianico
-  - Apulia:
-    - Castel del Monte Rosso Riserva DOCG:
-      - 65% Nero Di Troia
-    - Castel del Monte Nero di Troia Riserva DOCG:
-      - 90% Nero di Troia
-    - Primitivo di Manduria Dolce Naturale DOCG: Primativo
-  - Basilicata:
-    - red:
-      - Aglianico del Vulture Superiore DOCG: Agliancioi
-  - Sicilia:
-    - white:
-      - Catarrato
-      - Etna DOC: Carricante
-    - red:
-      - Etna DOC: Nerello Macalese
-      - Cerasuolo di Vittoria DOCG: Nero d'Avola
-  - Sardinia:
-    - Cannonau (Grenache)
-    - Carignano (Carignan)
-    - Vermentino di Gallura DOCG: Vermentino
+#### North
+
+![Map of Northern Italian Wine Regions](../attachments/italy/northern_italy_wine_regions.png)
+
+##### Piedmont
+
+- Geography:
+  - Surrounded by Apennines and Alps
+  - Po River
+  - winemaking in foothills south of Po Valley
+  - Asti, Alessandria, Cuneo
+  - Monferrato hills, Langhe hills
+- soils:
+  - calcareous marl, sandstone
+- climate:
+  - continental climate
+  - alps give rainshadow
+  - can see hail in Langhe hills
+- wines:
+  - Red:
+    - key grapes:
+      - Nebbiolo: high acid, alcohol, tannin
+      - Dolcetto: early ripening, fruity, lower acid
+      - Barbera: high acid, low tannin, style varies
+    - others:
+      - Brachetto
+      - Grignolino
+      - Ruchè
+      - Croatina
+      - Vespolina
+      - Freisa
+  - white:
+    - key:
+      - Cortese
+      - Arneis
+      - Erbaluce
+      - Favorita (Vermentino)
+  - sparkling white:
+    - key:
+      - Moscato Bianco
+- DOCG:
+  - Barolo DOCG:
+    - Nebbiolo
+    - 11 communes
+    - 5 key communes:
+      - La Morra: softer
+      - Barolo: softer
+      - Serralunga d'Alba: structured
+      - Monforte d'Alba: structured
+      - Castilione Falletto: structured
+  - Barbaresco DOCG:
+    - Nebbiolo
+    - 3 towns:
+      - Barbaresco
+      - Neive
+      - Treiso
+
+![Map of Piedmont Wine](../attachments/italy/map_of_piedmont.png)
+
+![Map of Piedmont DOC, DOCG](../attachments/italy/map_of_piedmont_doc_docg.png)
+
+##### Lombardy
+
+- Franciacorta: sparkling wine from Chardonnay, Pinot Noir, Pinot Bianco
+- Pinot Noir
+- Vatellina: Nebbiolo (Chiavennasca)
+- Sforzato: Nebbiolo made with dried grapes
+- Moscato di Scanzo: Red Moscato
+- Oltrepò Pavese metodo Classico DOCG: min. 70% Pinot Nero
+
+##### Liguria
+
+- Colli di Luni: Pigato
+- Riviera Ligure di Ponente Blanc: Pigato
+- Riviera Ligure di Ponente Rosso: Rossese
+
+##### Emilia-Romagna
+
+- Romagna Albana: Albana
+- Colli Bolognesi Pignoletto: Grechetto
+- Lambrusco: Lambrusco
+
+##### Trentino-Alto Adige
+
+- white:
+  - Gewürztraminer
+- red:
+  - Schiava
+  - Lagrein
+  - Pinot Noir
+  - Teroldego
+
+##### Veneto
+
+- sparkling:
+  - Prosecco: 85% Glera
+- white:
+  - Pinot-Grigio
+  - Soave DOC:
+    - 70% Garganega + 30% Trebbiano di Soave and/or Chardonnay
+- red:
+  - Valpolicella DOC: 45-95% Corvina + Rondinella
+    - subcategories:
+      - Amarone della Valpolicella
+      - Recioto della Valpolicella
+  - Bardolino DOC: Corvina + Rondinella
+
+##### Fruili-Venezia Giulia
+
+- white:
+  - Pinot Bianco
+  - Pinot Grigio
+  - Sauvignon (Sauvignon Blanc)
+  - Riabolla Gialla
+  - Friulano
+- sweet:
+  - Verduzzo Gialla (ramandolo)
+- red:
+  - Cabernet
+  - Merlot
+- orange wine
+
+#### Central
+
+![Map of Central Italian Wine Regions](../attachments/italy/central_italy_wine_regions.png)
+
+##### Tuscany
+
+- red:
+  - Chianti DOCG: Sangiovese blend
+  - Chianti Classico DOCG: Sangiovese blend
+  - Carmignano DOCG: Sangiovese blend
+  - Vino Nobile de Montepulciano DOCG: Sangiovese blend
+  - Mrellino di Scansano DOCG: Sangiovese blend
+  - Montecucco Sangiovese DOCG: Sangiovese blend
+  - Brunello di Montalcino DOCG: 100% Sangiovese
+  - Super-Tuscans: Sangiovese + Cabernet Sauvignon and/or Merlot
+- white:
+  - Trebbiano
+  - Malvasia
+
+##### Umbria
+
+- White:
+  - Ovrieto DOC:
+    - Grechetto/Trebbino Toascano
+- red:
+  - Sagrantino di Montefalco DOCG/Torgiano Rosso Riserva DOCG: Sagrantino
+
+##### Marches
+
+- white:
+  - Verdicchio di Matelica Riserva DOCG: Verdicchio
+  - Casteli di Jesi Verdicchio Riserva DOCG: Verdicchio
+- red:
+  - still:
+    - Conero Rosso Riseva DOCG: Montepulciano/Sangiovese
+  - sparkling: Vernaccia di Serrapetrona DOCG: Vernaccia
+
+##### Abuzzo
+
+- red:
+  - Montepulciano d'Abruzzo DOC: Montepulciano
+  - Colline Teramane Montepulciano d'Abruzzo DOCG: Montepulciano
+
+##### Lazio
+
+- Catelli Romani DOC: Trebbiano Toscano
+
+#### South
+
+![Map of Southern Italian Wine Regions](../attachments/italy/southern_italian_wine_regions.png)
+
+##### Campania
+
+- red:
+  - Taurasi DOCG: Agliancio
+  - Aglianico del Taburno DOCG: Aglianico
+
+##### Apulia
+
+- Castel del Monte Rosso Riserva DOCG:
+  - 65% Nero Di Troia
+- Castel del Monte Nero di Troia Riserva DOCG:
+  - 90% Nero di Troia
+- Primitivo di Manduria Dolce Naturale DOCG: Primativo
+
+##### Basilicata
+
+- red:
+  - Aglianico del Vulture Superiore DOCG: Agliancioi
+
+##### Sicilia
+
+- white:
+  - Catarrato
+  - Etna DOC: Carricante
+- red:
+  - Etna DOC: Nerello Macalese
+  - Cerasuolo di Vittoria DOCG: Nero d'Avola
+
+##### Sardinia
+
+- Cannonau (Grenache)
+- Carignano (Carignan)
+- Vermentino di Gallura DOCG: Vermentino
 
 ### 06 Production Methods
 
@@ -335,103 +462,157 @@ Sources:
 
 ### 01 DOCG's in Each Region
 
-- North:
-  - Piedmont:
-    - Barolo DOCG
-    - Barbaresco DOCG
-    - Langhe DOCG
-    - Barolo Chinato DOCG
-    - Roero DOCG
-    - Ghemme DOCG
-    - Gattinara DOCG
-    - Monferrato:
-      - Barbera d'Asti DOCG
-      - Berbera del Monferrato Superiore DOCG
-      - Ruchè di Castagnole Monferrato DOCG
-      - Nizza DOCG
-    - Dogliani DOCG
-    - Dolcetto di Ovada Superiore DOCG
-    - Dolcetto di Diano d'Alba DOCG
-    - Gavi DOCG
-    - Erbaluce di Caluso DOCG
-    - Asti DOCG
-    - Canelli DOCG
-    - Alta Langa DOCG
-    - Brachetto d'Acqui DOCG
-  - Lombardy:
-    - Franciacorta DOCG
-    - Oltrepò Pavese Metodo Classico DOCG
-    - Valtellina Superiore DOCG
-    - Sforzato di Valtellina DOCG
-    - Moscato di Scanzo DOCG
-  - Emilia-Romagna:
-    - Romagna Albana DOCG
-    - Colli Bolognesi Pignoletto DOCG
-  - Veneto:
-    - Valpolliella:
-      - Recioto della Valpollicella DOCG
-      - Amarone della Valpolicella DOCG
-    - Bardolino Superiore DOCG
-    - Soave:
-      - Recioto di Soave DOCG
-      - Soave Superiore DOCG
-    - Recioto di Gambellara DOCG
-    - Prosecco:
-      - Valdobbiadene Prosecco DOCG
-      - Asolo Prosecco DOCG
-    - Colli Euganei Fior d'Arancio DOCG
-    - Plave Malanotte DOCG
-    - Lison DOCG
-  - Fruili-Venezia Giulia:
-    - Ramandolo DOCG
-    - Colli Orientali del Friuli-Picolit DOCG
-    - Rosazzo DOCG
-    - Lison DOCG
-- Central:
-  - Tuscany:
-    - Chianti DOCG
-    - Chianti Classico DOCG
-    - Carmignano DOCG
-    - Vino Nobile di Montepulciano DOCG
-    - Morellino di Scansano DOCG
-    - Montecucco Sangiovese DOCG
-    - Brunello di Montalcino DOCG
-    - Rosso della Val di Cornia DOCG
-    - Suvereto DOCG
-    - Elba Aleatico Passito DOCG
-    - Vernaccia di San Gimignano DOCG
-  - Umbria:
-    - Sagrantino di Montefalco DOCG
-    - Torgiano Rosso Riserva DOCG
-  - Marches:
-    - Verdicchio di Matelica Riserva DOCG
-    - Castelli di jesi Verdicchio Riserva DOCG
-    - Conero Rosso Riserva DOCG
-    - Vernaccia di Serrapetrona DOCG
-    - Offida DOCG
-  - Abuzzo:
-    - Colline Teramane Montepulciano d'Abruzzo DOCG
-  - Lazio:
-    - Frascati Superiore DOCG
-    - Cannellino di Fascati DOCG
-    - Cesanese del Piglio DOCG
-- South:
-  - Campania:
-    - Taurasi DOCG
-    - Aglianico del Taburno DOCG
-    - Greco di Tufo DOCG
-    - Fiano di Avellino DOCG
-  - Apulia:
-    - Castel del Monte Rosso Riserva DOCG
-    - Castel del Monte Nero di Troia Rieserva DOCG
-    - Castel del Monte Bombino Nero DOCG
-    - Primitivo di Manduria Dolce Naturale DOCG
-  - Basilicata:
-    - Aglianico del Vulture Superiore DOCG
-  - Sicilia:
-    - Cerasuolo di Vittoria DOCG
-  - Sardinia:
-    - Vermentino di Gallura DOCG
+#### North DOCGs
+
+##### Piedmont DOCGs
+
+- Red only:
+  - Barolo DOCG: Rosso
+  - Barbaresco DOCG: Rosso
+  - Ghemme DOCG: Rosso
+  - Gattinara DOCG: Rosso
+  - Barbera d'Asti DOCG: Rosso
+  - Barbera del Monferrato Superiore DOCG: Rosso
+  - Ruchè di Castagnole Monferrato DOCG: Rosso
+  - Nizza DOCG: Rosso
+  - Dolcetto di Ovada Superiore DOCG: Rosso
+  - Dolcetto di Diano d'Alba DOCG: Rosso
+  - Dogliani DOCG: Rosso
+  - Brachetto d'Acqui DOCG: Rosso
+- white only:
+  - Gavi DOCG: Bianco
+  - Erbaluce di Caluso DOCG:
+    - Bianco
+    - Spumante
+    - Passito
+  - Asti DOCG:
+    - Spumante
+    - Moscato d'Asti
+  - Canelli DOCG: Frizzante Bianco
+  - Alta Langa DOCG: Spumante
+- red and white:
+  - Roero DOCG:
+    - Bianco
+    - Rosso
+- other:
+  - Barolo Chinato DOCG: aromatized wine
+
+##### Lombardy DOCGs
+
+- sparkling:
+  - Franciacorta DOCG: Spumante
+  - Oltrepò Pavese Metodo Classico DOCG: Spumante
+- red:
+  - Valtellina Superiore DOCG: Rosso
+  - Sforzato di Valtellina DOCG: Rosso
+- dessert:
+  - Moscato di Scanzo DOCG: Passito
+
+##### Emilia-Romagna DOCGs
+
+- Romagna Albana DOCG: Bianco
+- Colli Bolognesi Pignoletto DOCG: Bianco
+
+##### Veneto DOCGs
+
+###### Valpolicella DOCGs
+
+- Recioto della Valpolicella DOCG: Rosso
+- Amarone della Valpolicella DOCG: Rosso
+- Bardolino Superiore DOCG: Rosso
+
+###### Soave DOCGs
+
+- Recioto di Soave DOCG: Bianco
+- Soave Superiore DOCG: Bianco
+- Recioto di Gambellara DOCG: Bianco
+
+###### Prosecco DOCGs
+
+- Valdobbiadene Prosecco DOCG: Spumante
+- Asolo Prosecco DOCG: Spumante
+- Colli Euganei Fior d'Arancio DOCG: Bianco
+- Plave Malanotte DOCG: Rosso
+- Lison DOCG: Bianco
+
+##### Fruili-Venezia Giulia DOCGs
+
+- Ramandolo DOCG: Bianco Passito
+- Colli Orientali del Friuli-Picolit DOCG: Bianco
+- Rosazzo DOCG: Bianco
+- Lison DOCG: Bianco
+
+#### Central DOCGs
+
+##### Tuscany DOCGs
+
+- red:
+  - Chianti DOCG: Rosso
+  - Chianti Classico DOCG: Rosso
+  - Carmignano DOCG: Rosso
+  - Vino Nobile di Montepulciano DOCG: Rosso
+  - Morellino di Scansano DOCG: Rosso
+  - Montecucco Sangiovese DOCG: Rosso
+  - Brunello di Montalcino DOCG: Rosso
+  - Rosso della Val di Cornia DOCG: Rosso
+  - Suvereto DOCG: Rosso
+- white:
+  - Vernaccia di San Gimignano DOCG: Bianco
+- sweet:
+  - Elba Aleatico Passito DOCG: Passito
+
+##### Umbria DOCGs
+
+- Sagrantino di Montefalco DOCG
+- Torgiano Rosso Riserva DOCG
+
+##### Marches DOCGs
+
+- Verdicchio di Matelica Riserva DOCG
+- Castelli di jesi Verdicchio Riserva DOCG
+- Conero Rosso Riserva DOCG
+- Vernaccia di Serrapetrona DOCG
+- Offida DOCG
+
+##### Abuzzo DOCGs
+
+- Colline Teramane Montepulciano d'Abruzzo DOCG
+
+##### Lazio DOCGs
+
+- Frascati Superiore DOCG
+- Cannellino di Fascati DOCG
+- Cesanese del Piglio DOCG
+
+#### South DOCGs
+
+#### Campania DOCGs
+
+- Taurasi DOCG
+- Aglianico del Taburno DOCG
+- Greco di Tufo DOCG
+- Fiano di Avellino DOCG
+
+##### Apulia DOCGs
+
+- Castel del Monte Rosso Riserva DOCG
+- Castel del Monte Nero di Troia Rieserva DOCG
+- Castel del Monte Bombino Nero DOCG
+- Primitivo di Manduria Dolce Naturale DOCG
+
+##### Basilicata DOCGs
+
+- Aglianico del Vulture Superiore DOCG
+
+##### Sicilia DOCGs
+
+- Cerasuolo di Vittoria DOCG
+
+##### Sardinia DOCGs
+
+- Vermentino di Gallura DOCG
+
+Source:
 
 ### 02 Aging Requirements and Specified Terms
 

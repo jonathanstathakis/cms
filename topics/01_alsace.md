@@ -1,4 +1,4 @@
-# CMS - Alsace
+# Alsace
 
 ## TOC
 
@@ -14,12 +14,15 @@
     - [Alsace Grand Cru](#alsace-grand-cru)
     - [Crémant](#crémant)
     - [AOC Alsace](#aoc-alsace)
-      - [Communale (Villages)](#communale-villages)
-      - [Lieu dit (Locations)](#lieu-dit-locations)
+    - [AOC Alsace Communale (Villages)](#aoc-alsace-communale-villages)
+    - [AOC Alsace Lieu dit (Locations)](#aoc-alsace-lieu-dit-locations)
+    - [Lorraine](#lorraine)
   - [06 Styles of wine VT and SGN](#06-styles-of-wine-vt-and-sgn)
   - [07 Labelling Terms](#07-labelling-terms)
 - [Certified](#certified)
   - [01 Identify Grand Cru Varietals and Sites](#01-identify-grand-cru-varietals-and-sites)
+- [Resources](#resources)
+- [Sources](#sources)
 
 <!-- vim-markdown-toc -->
 
@@ -64,7 +67,7 @@
   - lower slopes possess limestone _base_
   - valley floor rich alluvial clay and gravel soils
 
-![Location of Grand Cru Vineyards Map](../attachments/alsace/locations_of_gcru_vineyards.png)
+![Sites and Domaines of Alsace](../attachments/alsace/sites_doms_alsace.png)
 
 ### 05 Grape Varietals
 
@@ -79,18 +82,50 @@
   - Chasselas
   - Sylvaner
   - Auxerrois
+  - Pinot Gris
 
 ### 06 Appellations of Alsace
 
-- Alsace./Vin d'Alsace AOP
-- Crémant d'Alsace AOP
-- Côtes de Toul AOP:
-  - PN rouge
-  - Auxerrois and Aubin blanc
-  - Gamay and Pinot Noir blend vin gris
-- Moselle AOP:
-  - Auxerrois white, Pinot Noir rouge, rosé
+- Alsace:
+  - Alsace./Vin d'Alsace AOP:
+    - blanc:
+      - varietal:
+        - Auxerrois
+        - Riesling
+        - Pinot Gris
+        - Gewurtztraminer
+        - Muscat
+        - Pinot BLanc
+        - chasselas
+        - Sylvaner
+      - blends:
+        - edelzwicker
+        - pinot
+      - VT and SGN:
+        - Gewurtztraminer
+        - Riesling
+        - Msucat
+        - PG
+    - rosé / Clairet:
+      - Pinot Noir
+    - rouge:
+      - Pinot Noir
+  - Crémant d'Alsace AOP:
+    - Mousseux Blanc: RI, PB, PN, PG, Auxerrois, Ch
+    - Mousseux rosé: PN
+  - Alsace Grand Cru AOP: refer to individual cru
+- Lorraine:
+  - Côtes de Toul AOP:
+    - PN rouge
+    - Auxerrois and Aubin blanc
+    - Gamay and Pinot Noir blend vin gris
+  - Moselle AOP:
+    - Auxerrois white, Pinot Noir rouge, rosé
+
+#### Alsace Grand Cru
+
 - Alsace Grand Cru AOP:
+
   - Schlossberg
   - 51 in total.
   - notable:
@@ -98,12 +133,9 @@
     - Rangen
     - Altenberg de Bergbieten
     - Brand
-    - Geisberg
     - Muenchberg
     - Vorbourg
     - Schoenenbourg
-
-#### Alsace Grand Cru
 
 - originated in 1975
 - orginally just schlossberg vineyard
@@ -120,6 +152,10 @@
 Sources:
 
 - [@vinalsace_grandcruaop]
+
+![Map of Alsace AOP with Major Grand Crus Labelled](../attachments/alsace/alsace_aop_grand_crus.png)
+
+![Map of Alsace With Grand Crus](../attachments/alsace/map_of_alsace_with_gcrus.png)
 
 #### Crémant
 
@@ -150,7 +186,7 @@ Sources:
 
 - [@vinsalsace_alsaceaoc]
 
-##### Communale (Villages)
+#### AOC Alsace Communale (Villages)
 
 - 14 communes
 - AOC Alsace:
@@ -175,23 +211,28 @@ Sources:
   - grape maturity
   - yields
 
-##### Lieu dit (Locations)
+![Map of Selected Alsace AOC Communal](../attachments/alsace/aoc_alsace_communale_map.png)
+
+#### AOC Alsace Lieu dit (Locations)
 
 - A named vineyard
 - more stringent restrictions than Communales
 - label the name of the vineyard alongside the AOC/AOP
 
-Sources:
+#### Lorraine
 
-- [@vinsalsace_alsaceaoc]
+![map of lorraine aop](../attachments/alsace/map_of_lorraine_aop.png)
+
+[Alsace-Lorraine AOP](../attachments/alsace/alsace_lorraine_aop.png)
 
 ### 06 Styles of wine VT and SGN
 
-- Vendanges de Tardives and Sélections de Grains Nobles added in 1984
-- imply sweetness but not required
-- apply to both Alsace AOP and Alsace GC AOP wines
-- require the wine to be single-varietal and pass a blind-tasting
-- hand-harvested
+- Background:
+  - Vendanges de Tardives and Sélections de Grains Nobles added in 1984
+  - imply sweetness but not required
+  - apply to both Alsace AOP and Alsace GC AOP wines
+  - require the wine to be single-varietal and pass a blind-tasting
+  - hand-harvested
 - SGN:
   - botrytised
   - favor botrytis character over varietal
@@ -200,7 +241,7 @@ Sources:
   - picking conc (g/L) musc, ri / pg, gw: 276 / 306
 - VT:
   - botyrtised (maybe)
-  - fsvor varital character over botrytis.
+  - favor varital character over botrytis.
   - passerillage (raisinating fruit)
   - sweet and dry(ish)
   - picking sugar conc: 224 g/l for muscat and ri, 270 for PG And GW
@@ -224,9 +265,17 @@ Sources:
   - (optional): GI
   - (optional): vineyard name
   - (compulsory): variety, or “Edelzwicker” indicates a white blend
+- Edelzwicker:
+  - Gentil: superior Edelzwicker with at least 50% noble grapes
 - Sparkling wine:
   - Cremant d’Alsace
 - VT and SGN
+- Pinot:
+  - mix of Pinot blends
+  - Pinot Noir
+  - Pinot Gris
+  - Pinot Blanc
+  - Auxerrois
 
 ## Certified
 
@@ -235,11 +284,16 @@ Sources:
 - 2/3 in Haut Rhin
 - single varietal wines made from noble grapes only except some exceptions
 - schlossberg first gc vineyard in 1975
+- Kaefferkopf was the latest addition in 2007
 - exceptions:
   - altenberg de bergheim and kaefferkopf can use blends
   - zotzenberg can use slyvanar
   - Hengst, Kirchberg de Barr, and Vorbourg can make Pinot Noir
 
-Sources:
+## Resources
+
+- <https://www.vinsalsace.com/en/carte/#!/aoc-alsace-communales/>
+
+## Sources
 
 - [@cms_alsacejurasavoie]

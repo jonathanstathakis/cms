@@ -8,104 +8,84 @@
   - [Principals of Distillation](#principals-of-distillation)
   - [Methods of Production, Terms Used and Qualities of the Following Products](#methods-of-production-terms-used-and-qualities-of-the-following-products)
     - [Scotch Whisky](#scotch-whisky)
-      - [Malt](#malt)
-        - [Methods of Production](#methods-of-production)
-        - [Qualities](#qualities)
-        - [Terms Used In Prod](#terms-used-in-prod)
+      - [Malt Scotch Whisky](#malt-scotch-whisky)
       - [Blended](#blended)
-        - [Methods of Production](#methods-of-production-1)
-        - [Qualities](#qualities-1)
-        - [Terms Used In Prod](#terms-used-in-prod-1)
     - [Irish Whiskey Types and Production](#irish-whiskey-types-and-production)
-      - [Methods of Production](#methods-of-production-2)
-      - [Qualities](#qualities-2)
-      - [Terms Used In Prod](#terms-used-in-prod-2)
     - [US Whiskey Types](#us-whiskey-types)
-      - [Methods of Production](#methods-of-production-3)
-      - [Qualities](#qualities-3)
-      - [Terms Used In Prod](#terms-used-in-prod-3)
     - [Cognac](#cognac)
-      - [Methods of Production](#methods-of-production-4)
-      - [Qualities](#qualities-4)
-      - [Terms Used In Prod](#terms-used-in-prod-4)
+      - [Methods of Production](#methods-of-production)
+      - [Qualities](#qualities)
+      - [Terms Used In Prod](#terms-used-in-prod)
       - [Ageing](#ageing)
       - [Examples of Products](#examples-of-products)
-      - [Sources](#sources)
     - [Calvados](#calvados)
     - [Tequila](#tequila)
-      - [Methods of Production](#methods-of-production-5)
-      - [Qualities](#qualities-5)
-      - [Terms Used In Prod](#terms-used-in-prod-5)
-    - [Gin:](#gin)
-      - [Methods of Production](#methods-of-production-6)
-      - [Qualities](#qualities-6)
-      - [Terms Used In Prod](#terms-used-in-prod-6)
-    - [Vodka:](#vodka)
-      - [Methods of Production](#methods-of-production-7)
-      - [Qualities](#qualities-7)
-      - [Terms Used In Prod](#terms-used-in-prod-7)
-    - [Rum:](#rum)
-      - [Methods of Production](#methods-of-production-8)
-      - [Qualities](#qualities-8)
-      - [Terms Used In Prod](#terms-used-in-prod-8)
-  - [Cert](#cert)
-    - [Identify Specific Spirit Types](#identify-specific-spirit-types)
-      - [Islay Whisky](#islay-whisky)
-      - [Fine Champagne](#fine-champagne)
-      - [Armagnac](#armagnac)
-        - [Producers](#producers)
-        - [Specific Terms](#specific-terms)
-        - [Sources](#sources-1)
-        - [Further Reading](#further-reading)
-      - [Marc/Grappa](#marcgrappa)
-      - [Tequila & Mezcal](#tequila--mezcal)
-      - [Eau de Vie (Fruit Spirits)](#eau-de-vie-fruit-spirits)
+    - [Gin](#gin)
+    - [Vodka](#vodka)
+    - [Rum](#rum)
+- [Cert](#cert)
+  - [Identify Specific Spirit Types](#identify-specific-spirit-types)
+    - [Islay Whisky](#islay-whisky)
+    - [Fine Champagne](#fine-champagne)
+    - [Armagnac](#armagnac)
+      - [Producers](#producers)
+      - [Specific Terms](#specific-terms)
+      - [Further Reading](#further-reading)
+    - [Marc/Grappa](#marcgrappa)
+    - [Tequila & Mezcal](#tequila--mezcal)
+    - [Eau de Vie (Fruit Spirits)](#eau-de-vie-fruit-spirits)
 
 <!-- vim-markdown-toc -->
 
-# Intro
+## Intro
 
-## Principals of Distillation
+### Principals of Distillation
 
-## Methods of Production, Terms Used and Qualities of the Following Products
+TODO:
 
-### Scotch Whisky
+### Methods of Production, Terms Used and Qualities of the Following Products
 
-#### Malt
+TODO:
+
+#### Scotch Whisky
+
+TODO:
+
+##### Malt Scotch Whisky
+
+TODO:
+
+- Methods of Production
+- Qualities
+- Terms Used In Prod
+
+##### Blended
+
+TODO:
+
+- Methods of Production
+- Qualities
+- Terms Used In Prod
+
+#### Irish Whiskey Types and Production
+
+TODO:
+
+- Methods of Production:
+- Qualities:
+- Terms Used In Prod:
+
+#### US Whiskey Types
+
+TODO:
+
+- Methods of Production:
+- Qualities:
+- Terms Used In Prod:
+
+#### Cognac
 
 ##### Methods of Production
-
-##### Qualities
-
-##### Terms Used In Prod
-
-#### Blended
-
-##### Methods of Production
-
-##### Qualities
-
-##### Terms Used In Prod
-
-### Irish Whiskey Types and Production
-
-#### Methods of Production
-
-#### Qualities
-
-#### Terms Used In Prod
-
-### US Whiskey Types
-
-#### Methods of Production
-
-#### Qualities
-
-#### Terms Used In Prod
-
-### Cognac
-
-#### Methods of Production
 
 - copper pot stills
 - two years in french oak from Limousin or Troncais
@@ -132,7 +112,7 @@
     - blending done to achieve house style
     - blending is done over years and over vineyards
 
-#### Qualities
+##### Qualities
 
 - Cru Cognac requires:
   - 90%:
@@ -152,7 +132,7 @@ Crus:
 
 ![map of cognac](../attachments/Cognac-Official-Map-Crus-n141-770x544.jpg)
 
-#### Terms Used In Prod
+##### Terms Used In Prod
 
 - _Charenatais_: copper alembic stills used in distillation
 - _eau de vie_: the general term for the product of the distillation and ageing process.
@@ -160,7 +140,7 @@ Crus:
 - _marriage_: the term for the blending process
 - _maitre de chai_: the term for the blender.
 
-#### Ageing
+##### Ageing
 
 - Levels according to BNIC:
   - V.S.:
@@ -183,7 +163,7 @@ Crus:
     - equal to X.O (10 years in cask)
     - used for marketing of highly matured spirits.
 
-#### Examples of Products
+##### Examples of Products
 
 - Courvoisier:
   - Courvoisier VS
@@ -194,13 +174,11 @@ Crus:
 - Rémy Martin:
   - Rémy Martin XO
 
-#### Sources
+Sources:
 
 - [Cognac](https://en.wikipedia.org/wiki/Cognac)
 
-### Calvados
-
-Note: this format currently (25-03-24) differs from the other sections as in an attempt to match markdown spec I am using level 1 bullets rather than headings for each of the subtopics.
+#### Calvados
 
 - from Normandy
 - brandy made from apples and/or pears
@@ -258,37 +236,37 @@ Note: this format currently (25-03-24) differs from the other sections as in an 
 
 ![map of Calvados](/Users/jonathan/jonathan/cms/cms/map_calvados.jpg)
 
-### Tequila
+#### Tequila
 
-#### Methods of Production
+TODO:
 
-#### Qualities
+- Methods of Production:
+- Qualities:
+- Terms Used In Prod:
 
-#### Terms Used In Prod
+#### Gin
 
-### Gin:
+TODO:
 
-#### Methods of Production
+- Methods of Production:
+- Qualities:
+- Terms Used In Prod:
 
-#### Qualities
+#### Vodka
 
-#### Terms Used In Prod
+TODO:
 
-### Vodka:
+- Methods of Production:
+- Qualities:
+- Terms Used In Prod:
 
-#### Methods of Production
+#### Rum
 
-#### Qualities
+TODO:
 
-#### Terms Used In Prod
-
-### Rum:
-
-#### Methods of Production
-
-#### Qualities
-
-#### Terms Used In Prod
+- Methods of Production:
+- Qualities:
+- Terms Used In Prod:
 
 ## Cert
 
@@ -296,7 +274,11 @@ Note: this format currently (25-03-24) differs from the other sections as in an 
 
 #### Islay Whisky
 
+TODO:
+
 #### Fine Champagne
+
+TODO:
 
 #### Armagnac
 
@@ -345,7 +327,7 @@ Note: this format currently (25-03-24) differs from the other sections as in an 
 
 - _Dame Jeanne_: name for large glass bottles used to store blending stock folliwing barrel maturation.
 
-##### Sources
+- Sources:
 
 - [Armagnac](https://en.wikipedia.org/wiki/Armagnac)
 - [Armagnac - The Region and AOC](https://www.armagnac.de/en/blogs/wissen/armagnac-region-aoc)
@@ -356,6 +338,12 @@ Note: this format currently (25-03-24) differs from the other sections as in an 
 
 #### Marc/Grappa
 
+TODO:
+
 #### Tequila & Mezcal
 
+TODO:
+
 #### Eau de Vie (Fruit Spirits)
+
+TODO:

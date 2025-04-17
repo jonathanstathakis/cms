@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cms.md",
+                "file": "topics/11_italy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "11_italy"
+            }
+          },
+          {
+            "id": "b5c66506d5fe32cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "topics/11_italy.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cms"
+              "title": "11_italy"
             }
           },
           {
@@ -56,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,21 +234,27 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3ffe9f3bf1437ed1",
+  "active": "b5c66506d5fe32cd",
   "lastOpenFiles": [
+    "topics/11_italy.md~",
+    "cms.md",
+    "bordeaux/attachments/map of first growths of bordeaux.md",
+    "attachments/italy/southern_italian_wine_regions.png",
+    "attachments/italy/central_italy_wine_regions.png",
+    "attachments/italy/northern_italy_wine_regions.png",
+    "attachments/italy/map_of_piedmont_doc_docg.png",
+    "attachments/italy/map_of_piedmont.png",
+    "attachments/alsace/aoc_alsace_communale_map.png",
+    "attachments/aoc_alsace_communale_map.png",
+    "attachments/alsace/alsace_aop_grand_crus.png",
+    "attachments/alsace/map_of_alsace_with_gcrus.png",
+    "attachments/alsace/sites_doms_alsace.png",
     "topics/06_loire.md~",
     "topics/05_sparkling_wines.md~",
     "attachments/burgundy/chablis_grand_cru_climats.jpg.webarchive",
-    "attachments/burgundy/Pasted image 20250416144520.jpg",
     "attachments/burgundy",
-    "attachments/alsace/map_of_subdistricts.jpg",
-    "attachments/alsace/6b8c50e73951f382411ada747c29bc88-1211429342.jpg",
-    "attachments/alsace/locations_of_gcru_vineyards.png",
-    "attachments/alsace/map_of_subdistricts.png",
     "attachments/alsace",
     "topics/log.md",
-    "bordeaux/attachments/map_of_bordeaux.png",
-    "cms.md",
     "burgundy.md",
     "attachments/syllabus.pdf",
     "alsace/alsace.md",
@@ -235,7 +265,6 @@
     "attachments/medoc_first_growth_reds_map.md",
     "alsace/cms_alsace.md",
     "documents/cms_intro_certified_invoice.pdf",
-    "cms_intro_certified_invoice.pdf",
     "bordeaux/bordeaux.md",
     "bordeaux/reading_notes/guildsomm_bordeauxexpert.md",
     "attachments/medoc_first_growth_map.md",
@@ -245,7 +274,6 @@
     "bordeaux/Sauternes AOP.md",
     "bordeaux/Pessac-Léognan AOC.md",
     "bordeaux/pavilion blanc second vin.md",
-    "bordeaux/attachments/gsomm_bordeaux_appells.jpg",
     "bordeaux/bordeaux/guildsomm_1855classification_2024.md",
     "inbox/syllabus_bordeaux.md",
     "bordeaux/classification_1855_dataset/README.md",
@@ -253,10 +281,6 @@
     "cms-deductivetasting-deductive-tasting.md",
     "cms-foodandwinepairings-food-and-wine-pairings.md",
     "bordeaux/bordaux_growths_table.md",
-    "general/sur souches.md",
-    "inbox/factors affecting climate.md",
-    "attachments/Bordeaux_v06_2021 Logo.jpg",
-    "Bordeaux_v06_2021 Logo.jpg",
-    "bordeaux/attachments/bordeaux_appellations_wikipedia.png"
+    "general/sur souches.md"
   ]
 }
