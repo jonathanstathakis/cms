@@ -571,7 +571,7 @@ Sources:
 
 ##### Fruili-Venezia Giulia DOCGs
 
-- Ramandolo DOCG: Bianco Passito
+- Ramandolo DOCG: Passito
 - Colli Orientali del Friuli-Picolit DOCG: Bianco
 - Rosazzo DOCG: Bianco
 - Lison DOCG: Bianco
