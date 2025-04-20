@@ -576,6 +576,7 @@ Sources:
 - Rosazzo DOCG: Bianco
 - Lison DOCG: Bianco
 
+![Ramandolo DOCG](Pasted%20image%2020250418122439.png)
 #### Central DOCGs
 
 ##### Tuscany DOCGs
