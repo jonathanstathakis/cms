@@ -191,7 +191,7 @@ Sources:
   - distillation either by:
     - double distillation in alembic pot still: _l'alambic à repasse_ or _charentais_
     - single continuous distillation in column still
-  - double distillation required for _Calvados Pays d'Auge_
+  - **double distillation in alembic pot still** is required for _Calvados Pays d'Auge_
 - Appellations:
   - Calvados AOC departments:
     - Calvados
@@ -234,7 +234,7 @@ Sources:
   - Boulard
   - Charles de Granville
 
-![map of Calvados](/Users/jonathan/jonathan/cms/cms/map_calvados.jpg)
+![map of Calvados](map_calvados.jpg)
 
 #### Tequila
 
@@ -326,6 +326,8 @@ TODO:
 ##### Specific Terms
 
 - _Dame Jeanne_: name for large glass bottles used to store blending stock folliwing barrel maturation.
+
+![Armagnac AOP](Pasted%20image%2020250420183745.png)
 
 - Sources:
 

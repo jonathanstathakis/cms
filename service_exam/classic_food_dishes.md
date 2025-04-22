@@ -23,7 +23,13 @@ A collection of classic dishes served in fine dining environments.
 - roast lamb
 - prime rib of beef au jus
 - pan-seared duck breast
-- Tartiflette
+- Tartiflette:
+	- cheese, potato, bacon
+	- recipe: https://chefjeanpierre.com/potato-recipes/tartiflette-recipe
+	- wine:
+		- type: high acid white to cut through all the fat and balance the salt
+		- option: rudy pichler federspiel riesling 2021
+		- source: https://www.bestheim.com/en/news/431-wine-with-tartiflette
 - filet mignon with bearnaise sauce
 - Gratin Dauphinois
 - Tartiflette
