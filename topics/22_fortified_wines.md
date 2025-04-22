@@ -12,7 +12,7 @@
     - [Sherry Production Methods](#sherry-production-methods)
     - [Sherry Wine Types](#sherry-wine-types)
     - [Non-Fortified Sherry](#non-fortified-sherry)
-  - [Port](#port)
+  - [Port (intro)](#port-intro)
     - [Douro Region and Production Centers](#douro-region-and-production-centers)
     - [Soils of Port](#soils-of-port)
     - [Permitted Varietals of Port](#permitted-varietals-of-port)
@@ -26,7 +26,7 @@
     - [Madeira Styles](#madeira-styles)
 - [Cert](#cert)
   - [Sherry: VOS and VORS Designations](#sherry-vos-and-vors-designations)
-  - [Port](#port-1)
+  - [Port](#port)
     - [Sub Districts](#sub-districts)
     - [Recent Port Vintages](#recent-port-vintages)
   - [Madeira Ageing and Designations](#madeira-ageing-and-designations)
@@ -61,6 +61,8 @@
       - much cooler than Jerez de la Frontera
   - same geographical locations, diff. aging requirements.
 
+![The Sherry Triangle](../attachments/22_fortified_wines/sherry_triangle.png)
+
 #### Soils of Sherry Wine
 
 - albariza:
@@ -70,7 +72,7 @@
   - best sherry
   - moisture retentive
   - found in Jerez Superior
-- ## barros:
+- barros:
   - fertile
   - difficult to work
   - higher prop. of clay
@@ -93,7 +95,7 @@
     - Palomino Fino:
       - more common
       - disease restistant
-    * Palomino de Jerez
+    - Palomino de Jerez
 - Pedo Ximénez:
   - used to sweeten sherry alongside Moscatel
   - can be imported from Montilla-Moriles DO as plantings in Jerez are rare
@@ -101,7 +103,7 @@
 - Moscatel:
   - used to sweeten sherry alongside PX
   - mostly cultivated in arenas near Chipiona
-  * commonly known as Muscat de Alexandria
+  - commonly known as Muscat de Alexandria
 
 #### Sherry Production Methods
 
@@ -191,10 +193,10 @@
     - for every liter taken from solera, 2 must remain
     - movement of wine through the tiers is called _trasiegos_
     - a solera system-specific character develops as the majority liquid is always the matured volume
-  * biological aging:
+  - biological aging:
     - añada replenishes nutrients in solera
     - trasiegos adds more oxygen
-  * can be used for oxidative and biological aging
+  - can be used for oxidative and biological aging
 - cabeceo:
   - blending and sweetening of sherry
   - done on small scale then proportions applied to larger batch
@@ -294,13 +296,30 @@ terms:
 
 #### Non-Fortified Sherry
 
-TODO:
+- Vinos de Pasto:
+  - low ABV white
+  - for local consumption
+  - terroir focus
+  - can use sherry production methods such as soleo and flor
+- sherry base wine with naturally higher ABV (15%):
+  - unfortified wines could not use Jerez-Xérès-Sherry DO
+  - Jerez-Xérès-Sherry DO updated in 2022 to allow styles without Fortification but require minimum 15% ABV
 
-### Port
+Sources:
+
+- <https://www.sherrynotes.com/2019/background/towards-unfortified-sherry/>
+
+### Port (intro)
 
 #### Douro Region and Production Centers
 
+- Duriense IGP
+- Porto DOP
+
 #### Soils of Port
+
+- Schist is the preferred soil type for Port
+- found in Douro Region
 
 #### Permitted Varietals of Port
 
@@ -327,7 +346,120 @@ white:
 
 #### Port Production Methods
 
+- harvest
+- destem:
+  - full
+  - partial
+- crush:
+  - traditional:
+    - foot crush in open granite trough _lagares_
+- primary fermentation:
+  - traditional:
+    - fermented in _lagares_
+  - modern:
+    - autovinifiers
+    - open-top fermentation with pump over
+  - 2 to 3 days
+  - maximmise extraction of color and flavor before too much RS lost
+  - white and rosé less maceration
+- fermentation arrest:
+  - stop primary ferment when desired RS reached
+  - stop by pressing fermenting wine off solids
+- beneficio (foritification/mutage):
+  - done when 1/3 sugar converted to alcohol
+  - fortifiy to 19 - 22% ABV
+  - use aguadente: 77% ABV neutral grape spirit
+  - kills yeasts present
+  - ratio:
+    - typically 1:4 aguadente to wine
+    - white port more wine to be lower alcohol.
+- maturation:
+  - done in a pipe:
+    - traditional barrel
+    - 550L
+
 #### Port Types: Ageing and Qualities
+
+- Ruby:
+  - aging:
+    - aged in bulk
+    - 2 - 3 years
+    - no vintage date
+  - qualities:
+    - uncomplicated
+    - deeply colored
+    - inexpensive
+- Ruby Reserve Port:
+  - more complex than basic port
+- Vintage Port:
+  - background:
+    - declared in exceptional harvests
+    - authoriesed by IVDP
+  - aging:
+    - aged in casks
+    - bottled by July 30 of third year after harvest
+    - will mature in bottle for decades
+  - qualities:
+    - young: brash fruit
+    - matured: complex attributes
+- Single quinta Vintage Port:
+  - estate-level vintage port
+  - same production methods as vintage port
+  - examples include:
+    - Warre's Quinta de Cavadinha
+    - Taylor's Quinta de Vargellas
+    - Dow's Quinta do Bomfim
+- Late-Bottled Vintage Port:
+  - aging:
+    - 4 - 6 years in cask
+    - do not improve with bottle age
+  - qualities:
+    - tawny and ruby qualities
+  - production:
+    - single vintage
+    - filtered before bottling
+  - if labelled Envelhecido em Garrafa indicates 3 years bottle age
+- Tawny:
+  - aging:
+    - no cask aging
+    - paler wine due to:
+      - provenance of grapes
+      - lower extraction
+      - addition of white port to blend
+- Reserve Tawny:
+  - aging:
+    - 7 years prior to bottling
+    - will not develop in bottle
+  - production:
+    - blend of several vintages
+  - qualities:
+    - youthful freshness and creamy delicate from maturity
+- Tawny with Indication of Age:
+  - age statements:
+    - levels:
+      - 10
+      - 20
+      - 30
+      - 40
+      - 50
+    - statement:
+      - an approximation based on how the wine taste compares to expectation for the age statement
+  - production:
+    - from high-quality fruit
+    - racked once annually
+    - blending prior to bottling
+  - aging:
+    - aged in seasoned wood
+  - qualities:
+    - as ascend in age more concentrated and developed
+    - oxidative, rancio character by 40 years of age
+    - 20 years preferred for balance of youthful and rancio character
+- Colheita Tawny:
+  - vintage dated port
+  - aging:
+    - 7 years in cask
+    - can stay in cask for decades
+    - some producers only bottle to order
 
 ### Madeira
 
@@ -431,6 +563,32 @@ white:
 
 #### Sub Districts
 
+- Douro subzones:
+  - Baixo Corgo: highest density of plantings
+  - Cima Corgo: highest total acerage
+  - Douro Superior: most arid and sparsely planted
+
 #### Recent Port Vintages
 
+- 2017
+- 2016
+- 2011
+- 2007
+- 2003
+- 2000
+
+Sources:
+
+- <https://www.ivdp.pt/pt/vinhos/vinhos-do-porto/vintages/>
+
 ### Madeira Ageing and Designations
+
+- Rainwater:
+  - maximum age 10 years
+- Vinho de Canteiro:
+  - 2 years in wood
+  - cant be bottled until 36 months after final fortification
+- Vinho de Estufagem:
+  - min. 12 months after estufagem
+- Solera:
+  - min. 5 years in solera
