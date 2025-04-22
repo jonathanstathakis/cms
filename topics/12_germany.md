@@ -9,7 +9,7 @@
   - [Resources](#resources)
   - [01 Climatic Influences. Effects of Climatic Conditions on Wines](#01-climatic-influences-effects-of-climatic-conditions-on-wines)
   - [02 German Quality Structure: Qualitätswein, Pradikatswein](#02-german-quality-structure-qualitätswein-pradikatswein)
-  - [03 Anbaugebeit and Location](#03-anbaugebeit-and-location)
+  - [03 Anbaugebiet and Location](#03-anbaugebiet-and-location)
   - [04 Production Terms](#04-production-terms)
   - [05 Principal Grape Varietals and Crossings](#05-principal-grape-varietals-and-crossings)
   - [06 Notable Wine Villages in Districts](#06-notable-wine-villages-in-districts)
@@ -25,7 +25,7 @@
 - [Cert](#cert)
   - [01 Location of Principal Wine Villages and Appropriate Aunbaugebeit](#01-location-of-principal-wine-villages-and-appropriate-aunbaugebeit)
   - [02 Labelling Terms: Classic, Selection](#02-labelling-terms-classic-selection)
-  - [VDP Structure: Erste Lage, Grosse Gewächs, etc](#vdp-structure-erste-lage-grosse-gewächs-etc)
+  - [03 VDP Structure: Erste Lage, Grosse Gewächs, etc](#03-vdp-structure-erste-lage-grosse-gewächs-etc)
 
 <!-- vim-markdown-toc -->
 
@@ -51,15 +51,19 @@ See [Rheinhessen Wine Villages](https://www.google.com/maps/d/edit?hl=en&mid=1Rm
 
 ### 02 German Quality Structure: Qualitätswein, Pradikatswein
 
-- categories:
+categories:
 
-  - wein (formally Tafelwein)
-  - landwein (IGP):
-    - trocken
-    - halbtrocken
-    - from one of 26 landweingebiete
-  - Qualitätswein:
-    - Prädikatswein:
+- Wein (formally Tafelwein)
+- Deutscher Wein:
+  - must be made from German grapes
+- landwein (IGP):
+  - trocken
+  - halbtrocken
+  - from one of 26 landweingebiete
+- Qualitätswein:
+  - from one of 13 aunbaugebete
+  * Prädikatswein:
+    - categories:
       - Kabinett: 70 - 85
       - Spätlese: 76 - 95
       - Auslese: 83 - 105
@@ -67,27 +71,36 @@ See [Rheinhessen Wine Villages](https://www.google.com/maps/d/edit?hl=en&mid=1Rm
       - Eiswein:
       - Trockenbeerenauslese: 150 - 154
 
-- Prädikatswein Minimum Must Weight:
+heirarchy (descending order):
 
-### 03 Anbaugebeit and Location
+1. Prädikatswein
+2. Qualitätswein
+3. Landwein
+4. Wein/Deutscher Wein
 
-Anbaugebeit are major wine regions.
+### 03 Anbaugebiet and Location
+
+13 regions, or Anbaugebiete
+
+Anbaugebiet are major wine regions.
 
 The division is as follows: Land is divided into Anbaugebeite which contains districts, or Bereich, which in turn can contain Grosslage, collections of vineyards, as well as Einzellage, single vineyards.
 
-- Ahr
-- Baden
-- Franken
-- Hessische-Bergstrasse
-- Mittelrhein
-- Mosel
-- Nahe
-- Pfalz
-- Rheingau
-- Rheinhessen
-- Saale-Unstrut
-- Sachsen
-- Württemberg
+1. Ahr
+2. Baden
+3. Franken
+4. Hessische-Bergstrasse
+5. Mittelrhein
+6. Mosel
+7. Nahe
+8. Pfalz
+9. Rheingau
+10. Rheinhessen
+11. Saale-Unstrut
+12. Sachsen
+13. Württemberg
+
+![Map of Anbaugebiete](../attachments/12_germany/map_of_anbaugebiete.png)
 
 ### 04 Production Terms
 
@@ -298,7 +311,7 @@ See [[#06 Notable Wine Villages in Districts]].
   - hand-harvested
   - release September 1 year following harvest
 
-### VDP Structure: Erste Lage, Grosse Gewächs, etc
+### 03 VDP Structure: Erste Lage, Grosse Gewächs, etc
 
 - regional: Gutswein
 - village: Ortswein

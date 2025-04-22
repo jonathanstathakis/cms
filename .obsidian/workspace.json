@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "0dd91da036d459ca",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "111d66ca4f7e4c93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "topics/11_italy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "11_italy"
-            }
-          },
-          {
-            "id": "b5c66506d5fe32cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "topics/11_italy.md",
+                "file": "cms.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "11_italy"
+              "title": "cms"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,8 +185,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b5c66506d5fe32cd",
+  "active": "111d66ca4f7e4c93",
   "lastOpenFiles": [
+    "topics/11_italy.md",
     "attachments/11_italy/subzones_chianti.png",
     "attachments/11_italy/example_of_vinsanto.png",
     "attachments/11_italy/examples_of_amarone.png",
@@ -222,7 +198,6 @@
     "attachments/11_italy/app_of_sicily.png",
     "attachments/11_italy/app_basilicata.png",
     "attachments/11_italy/appellations_of_apulia.png",
-    "attachments/11_italy/appell_of_campania.png",
     "reading_notes/bordeaux/reading_notes/oxcomp_bordeaux.md",
     "reading_notes/bordeaux/reading_notes/guildsomm_bordeauxexpert.md",
     "reading_notes/bordeaux/reading_notes/guildsomm_bordeaux_2024.md",
