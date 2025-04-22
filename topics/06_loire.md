@@ -20,6 +20,8 @@
 
 <!-- vim-markdown-toc -->
 
+![](IMG_3156.jpeg)
+
 ## 01. Intro
 
 ### 01. Climatic Influences
@@ -69,7 +71,11 @@
 - Central Vineyards / Center Loire
 - Other Appellations of Central France / Upper Loire
 
-Categories taken from guildsomm and [winefolly](https://winefolly.com/deep-dive/loire-valley-wine-guide/).
+
+
+Sources:
+
+- Categories taken from guildsomm and [winefolly](https://winefolly.com/deep-dive/loire-valley-wine-guide/).
 
 ### 04. Principal Grape Varietals and Wines Produced From Them
 
