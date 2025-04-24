@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0dd91da036d459ca",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "111d66ca4f7e4c93",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cms.md",
-                "mode": "preview",
+                "file": "topics/06_loire.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cms"
+              "title": "06_loire"
+            }
+          },
+          {
+            "id": "4104502b79dc63da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "topics/06_loire.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "06_loire"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,21 +69,6 @@
         "id": "d1035dd771a662fb",
         "type": "tabs",
         "children": [
-          {
-            "id": "07b578eb367dbddf",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "burgundy.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of burgundy"
-            }
-          },
           {
             "id": "7f010555b828fbbf",
             "type": "leaf",
@@ -161,13 +171,28 @@
               "icon": "links-going-out",
               "title": "Outgoing links from cms_champagne"
             }
+          },
+          {
+            "id": "07b578eb367dbddf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "topics/06_loire.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 06_loire"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 538.5,
-    "collapsed": true
+    "width": 287.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,8 +210,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "111d66ca4f7e4c93",
+  "active": "4104502b79dc63da",
   "lastOpenFiles": [
+    "cms.md",
+    "topics/06_loire.md",
     "topics/11_italy.md",
     "attachments/11_italy/subzones_chianti.png",
     "attachments/11_italy/example_of_vinsanto.png",
@@ -229,9 +256,7 @@
     "reading_notes/guildsomm_austria.md",
     "reading_notes/gs_comp_austria.md",
     "attachments/02_bordeaux/medoc_first_growth_reds_map.md",
-    "cms.md",
     "topics/log.md",
-    "burgundy.md",
-    "alsace/alsace.md"
+    "burgundy.md"
   ]
 }

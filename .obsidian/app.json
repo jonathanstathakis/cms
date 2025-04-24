@@ -3,5 +3,6 @@
   "promptDelete": false,
   "showInlineTitle": false,
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "/attachments"
+  "attachmentFolderPath": "/attachments",
+  "vimMode": true
 }

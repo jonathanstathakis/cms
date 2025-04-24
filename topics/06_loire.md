@@ -1,3 +1,12 @@
+---
+title: 
+aliases: []
+tags: []
+type:
+cdt: 2025-04-23T01:35:47
+mdt: 2025-04-24T17:18:51
+---
+
 # Loire Valley
 
 ## TOC
@@ -46,32 +55,42 @@
 
 ### 02. Principal Soil Types
 
-- Pays Nantais:
-  - sevre-et-maine: mix of gneiss, silica, clay, granite
-- Anjou-Saumur:
-  - Savennières AOP: blue schist and volcanic soils
-  - Saumur: Soft tuffeau limestone (like Touraine)
-  - Champigny: _field of fire_, hard limestone, iron-rich with shale
-- Touraine:
-  - Chinon: tuffeau (slopes), clay, varennes (closer to river to Vienne)
-  - Bourgeil: sand and limestone
-  - Saint-Nicolas-de-Bourgeil: light alluvial soil
-  - vouray: tuffeau subsoil
-- Central Vineyards:
-  - Sancerre: silex (flint), terres blanches (kimm. marl), caillotes (stone + fossils)
-  - Pouilly-Fume: silex
+#### Soils of Pays Nantais
+
+- sevre-et-maine: mix of gneiss, silica, clay, granite
+
+#### Soils of Anjou-Saumur
+
+- Savennières AOP: blue schist and volcanic soils
+- Saumur: Soft tuffeau limestone (like Touraine)
+- Champigny: _field of fire_, hard limestone, iron-rich with shale
+
+#### Soils of Touraine
+
+- Chinon: tuffeau (slopes), clay, varennes (closer to river to Vienne)
+- Bourgeil: sand and limestone
+- Saint-Nicolas-de-Bourgeil: light alluvial soil
+- vouray: tuffeau subsoil
+
+#### Soils of the Central Vineyards
+
+- Sancerre: silex (flint), terres blanches (kimm. marl), caillotes (stone + fossils)
+- Pouilly-Fume: silex
 
 ### 03. Districts and Sub-Districts of the Region
 
-- Lower Loire:
-  - Pays Nantais
-- Middle Loire:
+#### Districts and Subdistricts of Lower Loire
+
+- Pays Nantais
+
+#### Districts and Subdistricts of Middle Loire
+
   - Anjou-Saumur
   - Touraine
-- Central Vineyards / Center Loire
+
+#### Districts and Subdistricts of Central Vineyards / Center Loire
+
 - Other Appellations of Central France / Upper Loire
-
-
 
 Sources:
 
@@ -79,51 +98,54 @@ Sources:
 
 ### 04. Principal Grape Varietals and Wines Produced From Them
 
-TODO: add wines produced from each variety
+TODO: add wines produced from each variety  
 TODO: decide whether to limit to one example AOP or list all AOP. At the moment just listing a few.
 
-- White:
-  - Chenin Blanc:
-    - Dry white wine eg. Savennieres AOP
-    - botrytised sweet white wine e.g. Quarts de Chaume AOP
-    - dry to sweet sparkling wine, e.g. Vouray AOP.
-  - Sauvignon Blanc:
-    - dry white wine, e.g. Saumur AOP, Sancerre AOP, Pouilly-Fume AOP, Touraine AOP.
-  - Melon de Bourgogne:
-    - dry white wine as Muscadet e.g.: Muscadet AOP, Muscadet Coteaux de la Loire AOP, Muscadet Côtes de Grandlieu AOP, Muscadet Sèvre-et-Maine AOP
-- Red:
-  - Cabernet Franc:
-    - rouge:
-      - Anjou AOP
-      - Anjou-Villages AOP (CF/CS blends)
-      - Anjou Brissac AOP
-      - Saumur AOP (CF/CS/Pineau d'Aunis blends)
-      - Saumur-Champigny AOP
-      - Chinon AOP
-      - Orlèans AOP
-      - Orlèans-Cléry AOP
-    - rosé:
-      - Saumur AOP: CF dominant blends
-    - rosé Mousseux:
-      - Touraine AOP
-  - Groslot/Grolleau:
-    - rosé:
-      - Anjou AOP
-      - Touraine AOP
-    - rosé Mousseux:
-      - Touraine AOP
-    - rouge:
-      - Touraine AOP
-  - Pinot Noir:
-    - rouge:
-      - Cheverny AOP: Pinot Noir blends
-      - Valencay AOP
-    - rosé:
-      - Cheverny AOP: PN blends
-  - Gamay:
-    - Saint-Pourcain AOP
-    - Châteaumeillant AOP
-    - Côtes d'Auvergne AOP
+#### Principal White Varieties
+
+- Chenin Blanc:
+	- Dry white wine eg. Savennieres AOP
+	- botrytised sweet white wine e.g. Quarts de Chaume AOP
+- dry to sweet sparkling wine, e.g. Vouray AOP.
+- Sauvignon Blanc:
+	- dry white wine, e.g. Saumur AOP, Sancerre AOP, Pouilly-Fume AOP, Touraine AOP.
+- Melon de Bourgogne:
+	- dry white wine as Muscadet e.g.: Muscadet AOP, Muscadet Coteaux de la Loire AOP, Muscadet Côtes de Grandlieu AOP, Muscadet Sèvre-et-Maine AOP
+
+#### Principal Red Varieties
+
+- Cabernet Franc:
+	- rouge:
+	  - Anjou AOP
+	  - Anjou-Villages AOP (CF/CS blends)
+	  - Anjou Brissac AOP
+	  - Saumur AOP (CF/CS/Pineau d'Aunis blends)
+	  - Saumur-Champigny AOP
+	  - Chinon AOP
+	  - Orlèans AOP
+	  - Orlèans-Cléry AOP
+	- rosé:
+	  - Saumur AOP: CF dominant blends
+	- rosé Mousseux:
+	  - Touraine AOP
+- Groslot/Grolleau:
+	- rosé:
+	  - Anjou AOP
+	  - Touraine AOP
+	- rosé Mousseux:
+	  - Touraine AOP
+	- rouge:
+	  - Touraine AOP
+- Pinot Noir:
+	- rouge:
+	  - Cheverny AOP: Pinot Noir blends
+	  - Valencay AOP
+	- rosé:
+	  - Cheverny AOP: PN blends
+- Gamay:
+	- Saint-Pourcain AOP
+	- Châteaumeillant AOP
+	- Côtes d'Auvergne AOP
 
 ### 05. Styles of Wine
 
@@ -144,100 +166,116 @@ Possible choices:
 - Blanc Doux
 - Liquoreux.
 
-- Pays Nantais:
+#### Styles of Wine Of Pays Nantais
+
+- Blanc
+- Rosé
+- Rouge
+
+#### Styles of Wine Of Anjou-Saumur
+
+- Blanc
+- Rouge
+- Vin Mousseux blanc
+- Vin Mousseux Rosé
+- Liquoreux
+- Blanc Sec to Doux
+
+#### Styles of Wine Of Touraine
+
+- Blanc
+- Rosé
+- Rouge
+- Mousseux Blanc
+- Mousseux Rosé
+- Pétillant Blanc
+- Pétillant Rosé
+
+#### Styles of Wine Of Central Vineyards
+
   - Blanc
   - Rosé
   - Rouge
-- Anjou-Saumur:
-  - Blanc
-  - Rouge
-  - Vin Mousseux blanc
-  - Vin Mousseux Rosé
-  - Liquoreux
-  - Blanc Sec to Doux
-- Touraine:
-  - Blanc
-  - Rosé
-  - Rouge
-  - Mousseux Blanc
-  - Mousseux Rosé
-  - Pétillant Blanc
-  - Pétillant Rosé
-- Central Vineyards:
-  - Blanc
-  - Rosé
-  - Rouge
-- Other
 
 ### 06. Principal AOP's
 
 TODO: summarise each AOP
 
-The list of _principal_ AOP is based on the AOP for each district described in the guildsomm intro study
+The list of _principal_ AOP is based on the AOP for each district described in the guildsomm intro study  
 guide.
 
-- General:
-- Pays Nantais:
-  - Muscadet AOP
-  - Muscadet Coteaux de la Loire AOP
-  - Muscadet Côtes de Grandlieu AOP
-  - Muscadet Sevre et Maine AOP
-- Anjou-Saumur:
+#### Principal AOP of Pays Nantais
+
+- Muscadet AOP
+- Muscadet Coteaux de la Loire AOP
+- Muscadet Côtes de Grandlieu AOP
+- Muscadet Sevre et Maine AOP
+
+#### Principal AOP of Anjou-Saumur
+
   - Anjou:
-    - Anjou AOP
-    - Savennieres AOP
-    - Roche Aux moines AOP
-    - Coulée de Serrant AOP (monopole)
-    - Coteaux de Layon AOP (sweet)
-    - coteaux de l'Aubance AOP (sweet)
-    - Bonnezeaux AOP (sweet)
-    - Quarts de Chaume AOP (sweet)
-    - Anjou-Villages AOP
-    - Anjou-Brissac AOP
+	- Anjou AOP
+	- Savennieres AOP
+	- Roche Aux moines AOP
+	- Coulée de Serrant AOP (monopole)
+	- Coteaux de Layon AOP (sweet)
+	- coteaux de l'Aubance AOP (sweet)
+	- Bonnezeaux AOP (sweet)
+	- Quarts de Chaume AOP (sweet)
+	- Anjou-Villages AOP
+	- Anjou-Brissac AOP
   - Saumur:
-    - Saumur AOP
-    - Cabernet de Saumur AOP
-    - Cremant de Loire AOP
-    - Saumur-Champigny AOP
-    - Haut-Poitou AOP
-- Touraine:
-  - Chinon AOP
-  - bourgeil AOP
-  - saint-nicholas-de-bourgeil AOP
-  - vouray AOP
-  - montlouis-sur-loire AOP
-  - touraine AOP
-  - touraine-noble-joué AOP
-  - coteaux du loire AOP
-  - jasnières AOP
-  - coteaux du vendomois AOP
-  - cheverny AOP
-  - cour-cheverny AOP
-  - Valency AOP
-- Central Vineyards:
-  - Sancerre AOP
-  - pouilly-fumé AOP
-  - pouilly-sur-loire AOP
-  - menetou-salon AOP
-  - reuilly AOP
-  - quincy AOP
-  - coteaux de giennois AOP
-  - orléans AOP
-  - orléans-cléry AOP
-- Other Appellations of Central France:
-  - cotes du forez AOP
-  - cote roannise AOP
-  - chateaumeillant AOP
-  - cotes d'auvergne AOP
-  - saint-pourcain AOP
+	- Saumur AOP
+	- Cabernet de Saumur AOP
+	- Cremant de Loire AOP
+	- Saumur-Champigny AOP
+	- Haut-Poitou AOP
+
+#### Principal AOP of Touraine
+
+- Chinon AOP
+- bourgeil AOP
+- saint-nicholas-de-bourgeil AOP
+- vouray AOP
+- montlouis-sur-loire AOP
+- touraine AOP
+- touraine-noble-joué AOP
+- coteaux du loire AOP
+- jasnières AOP
+- coteaux du vendomois AOP
+- cheverny AOP
+- cour-cheverny AOP
+- Valency AOP
+ 
+
+#### Principal AOP of Central Vineyards
+
+ 
+- Sancerre AOP
+- pouilly-fumé AOP
+- pouilly-sur-loire AOP
+- menetou-salon AOP
+- reuilly AOP
+- quincy AOP
+- coteaux de giennois AOP
+- orléans AOP
+- orléans-cléry AOP
+
+#### Principal AOP of Other Appellations of Central France
+
+- cotes du forez AOP
+- cote roannise AOP
+- chateaumeillant AOP
+- cotes d'auvergne AOP
+- saint-pourcain AOP
 
 ### 07. Labelling Terms
 
 - Sur Lie:
   - originate from one of:
-    - Muscadet Coteaux de la Loire AOP
-    - Muscadet Côtes de Grandlieu AOP
-    - Muscadet Sèvre-et-Maine AOP
+	- Muscadet Coteaux de la Loire AOP
+	- Muscadet Côtes de Grandlieu AOP
+	- Muscadet Sèvre-et-Maine AOP
   - wines are matured _Sur Lie_.
   - Not specify sub-appellation.
 - Val de Loire:
@@ -261,13 +299,13 @@ guide.
   - Pinot Noir
 - Anjou-Saumur:
   - saumur:
-    - sparkling
-    - dry whites from CB, SB and SG
-    - reds from CF, CS and/or Pineau d'Aunis
+	- sparkling
+	- dry whites from CB, SB and SG
+	- reds from CF, CS and/or Pineau d'Aunis
   - anjou:
-    - CB (sweet and dry)
-    - rose from grolleau
-    - red from CF or blends of CF/CS
+	- CB (sweet and dry)
+	- rose from grolleau
+	- red from CF or blends of CF/CS
 - Touraine:
   - reds from CF
   - rosé
@@ -302,20 +340,25 @@ Sources:
 
 TODO: add other AOC's.
 
-- St. Pourcain AOP:
-  - southernmost and most remote region under Loire.
-  - Allier department.
-  - produce: Blanc, Rose, Rouge
-  - blanc: Chardonnay dominant whites
-  - Rose: Gamay
-  - Rouge: Gamay Pinot Noir blends.
-- Cheverny AOP:
-  - Touraine, eastern edge.
-  - Rouge: Pinot Noir and Gamay
-  - White: lean Sauvignon Blanc dominant.
-- Orleans AOP:
-  - Central Vineyards
-  - just east of Touraine
-  - all three wines
-  - rouge: large amount of PM
-  - blanc: large amount of CH
+#### St. Pourcain AOP
+
+- southernmost and most remote region under Loire.
+- Allier department.
+- produce: Blanc, Rose, Rouge
+- blanc: Chardonnay dominant whites
+- Rose: Gamay
+- Rouge: Gamay Pinot Noir blends.
+
+#### Cheverny AOP
+
+- Touraine, eastern edge.
+- Rouge: Pinot Noir and Gamay
+- White: lean Sauvignon Blanc dominant.
+
+#### Orleans AOP
+
+- Central Vineyards
+- just east of Touraine
+- all three wines
+- rouge: large amount of PM
+- blanc: large amount of CH
