@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "topics/27_sake.md",
+                "file": "topics/06_loire.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "27_sake"
+              "title": "06_loire"
             }
           }
         ]
@@ -140,7 +140,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "topics/27_sake.md",
+            "file": "topics/06_loire.md",
             "followCursor": true,
             "showSearch": false,
             "searchQuery": ""
@@ -170,9 +170,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "topics/26_beers_and_ciders.md",
+    "attachments/IMG_3167.jpeg",
+    "attachments/IMG_3163 2.jpeg",
+    "attachments/IMG_3163 1.jpeg",
+    "attachments/IMG_3163.jpeg",
+    "attachments/IMG_3162.jpeg",
+    "attachments/IMG_3161.gif",
     "cms.md",
     "topics/06_loire.md",
+    "topics/27_sake.md",
+    "topics/26_beers_and_ciders.md",
     "topics/09_spain.md",
     "topics/attachments/IMG_3156.jpeg",
     "attachments/06_loire",
@@ -180,11 +187,6 @@
     "attachments/12_germany/rheinhessen.png",
     "attachments/12_germany/map_of_anbaugebiete.png",
     "attachments/12_germany/fanconia.png",
-    "attachments/11_italy/Untitled 2.png",
-    "attachments/12_germany/ahr.png",
-    "attachments/12_germany/rhineland.png",
-    "attachments/12_germany/mosel-saar-ruwer.png",
-    "attachments/12_germany/rheingau.png",
     "attachments/15_europe",
     "attachments/22_fortified_wines",
     "topics/04_champagne.md",
@@ -213,8 +215,6 @@
     "reading_notes/bordeaux/Landes forest.md",
     "reading_notes/bordeaux/en primeur.md",
     "reading_notes/bordeaux/Sauternes AOP.md",
-    "reading_notes/bordeaux/Graves Supérieur AOP.md",
-    "reading_notes/bordeaux/Pessac-Léognan AOC.md",
-    "reading_notes/bordeaux/_bordeaux.md"
+    "reading_notes/bordeaux/Graves Supérieur AOP.md"
   ]
 }

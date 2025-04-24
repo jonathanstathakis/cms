@@ -4,5 +4,6 @@
   "showInlineTitle": false,
   "useMarkdownLinks": true,
   "attachmentFolderPath": "/attachments",
-  "vimMode": true
+  "vimMode": true,
+  "livePreview": false
 }

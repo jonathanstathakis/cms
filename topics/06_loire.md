@@ -31,29 +31,35 @@ mdt: 2025-04-24T17:18:51
 
 ![](IMG_3156.jpeg)
 
-## 01. Intro
+## 01 Intro
 
-### 01. Climatic Influences
+### 01 Climatic Influences
 
-- General:
-- Pays Nantais:
+####  Climatic Influences of Pays Nantais
+
   - cool
   - wet
   - maritime (Atlantic)
-- Anjou-Saumur:
+
+#### Climatic Influences of Anjou-Saumur
+
   - northerly
   - mild contental climate
   - some maritime influence from Atlantic
   - forests of Vendee to southwest reduce rainfall and wind from atlantic.
-  - Mists from Layon help for botrytis.
-- Touraine:
+  - Mists from Layon help for botrytis
+
+#### Climatic Influences of Touraine
+
   - half maritime, half continental [winesearcher](https://www.wine-searcher.com/regions-touraine)
-- Central Vineyards:
+
+#### Climatic Influences of Central Vineyards
+
   - continental - as continental as [possible](https://www.thewinedoctor.com/regionalguides/loire_centre_02_climate.shtml)
   - frost
   - short summer
 
-### 02. Principal Soil Types
+### 02 Principal Soil Types
 
 #### Soils of Pays Nantais
 
@@ -147,7 +153,7 @@ TODO: decide whether to limit to one example AOP or list all AOP. At the moment 
 	- Châteaumeillant AOP
 	- Côtes d'Auvergne AOP
 
-### 05. Styles of Wine
+### 05 Styles of Wine
 
 TODO: add description of each, possible varieties to make from them.
 
@@ -211,6 +217,8 @@ guide.
 - Muscadet Côtes de Grandlieu AOP
 - Muscadet Sevre et Maine AOP
 
+![](IMG_3163%202.jpeg)
+
 #### Principal AOP of Anjou-Saumur
 
   - Anjou:
@@ -231,6 +239,8 @@ guide.
 	- Saumur-Champigny AOP
 	- Haut-Poitou AOP
 
+![](IMG_3163.jpeg)
+
 #### Principal AOP of Touraine
 
 - Chinon AOP
@@ -247,10 +257,10 @@ guide.
 - cour-cheverny AOP
 - Valency AOP
  
+![](IMG_3163%201.jpeg)
 
 #### Principal AOP of Central Vineyards
 
- 
 - Sancerre AOP
 - pouilly-fumé AOP
 - pouilly-sur-loire AOP
@@ -261,6 +271,8 @@ guide.
 - orléans AOP
 - orléans-cléry AOP
 
+![](IMG_3167.jpeg)
+
 #### Principal AOP of Other Appellations of Central France
 
 - cotes du forez AOP
@@ -268,6 +280,7 @@ guide.
 - chateaumeillant AOP
 - cotes d'auvergne AOP
 - saint-pourcain AOP
+
 
 ### 07. Labelling Terms
 
