@@ -5,13 +5,25 @@
 <!-- vim-markdown-toc GFM -->
 
 - [Intro](#intro)
-  - [Principals of Distillation](#principals-of-distillation)
-  - [Methods of Production, Terms Used and Qualities of the Following Products](#methods-of-production-terms-used-and-qualities-of-the-following-products)
+  - [01 Principals of Distillation](#01-principals-of-distillation)
+  - [02 Methods of Production, Terms Used and Qualities of the Following Products](#02-methods-of-production-terms-used-and-qualities-of-the-following-products)
     - [Scotch Whisky](#scotch-whisky)
       - [Malt Scotch Whisky](#malt-scotch-whisky)
-      - [Blended](#blended)
+        - [Methods of Production of Malt Scotch](#methods-of-production-of-malt-scotch)
+        - [Qualities of Malt Scotch](#qualities-of-malt-scotch)
+        - [Terms Used In Prod of Malt Scotch](#terms-used-in-prod-of-malt-scotch)
+      - [Blended Scotch](#blended-scotch)
+        - [Methods of Production of Blended Scotch](#methods-of-production-of-blended-scotch)
+        - [Qualities of Blended Scotch](#qualities-of-blended-scotch)
+        - [Terms Used In Prod of Blended Scotch](#terms-used-in-prod-of-blended-scotch)
     - [Irish Whiskey Types and Production](#irish-whiskey-types-and-production)
+      - [Methods of Production of Irish Whiskey](#methods-of-production-of-irish-whiskey)
+      - [Qualities of Irish Whiskey](#qualities-of-irish-whiskey)
+      - [Terms Used In Prod of Irish Whiskey](#terms-used-in-prod-of-irish-whiskey)
     - [US Whiskey Types](#us-whiskey-types)
+      - [Methods of Production of US Whiskey](#methods-of-production-of-us-whiskey)
+      - [Qualities of US Whiskey](#qualities-of-us-whiskey)
+      - [Terms Used In Prod of US Whiskey](#terms-used-in-prod-of-us-whiskey)
     - [Cognac](#cognac)
       - [Methods of Production](#methods-of-production)
       - [Qualities](#qualities)
@@ -20,11 +32,23 @@
       - [Examples of Products](#examples-of-products)
     - [Calvados](#calvados)
     - [Tequila](#tequila)
+      - [Methods of Production of Tequila](#methods-of-production-of-tequila)
+      - [Qualities of Tequila](#qualities-of-tequila)
+      - [Terms Used In Prod of Tequila](#terms-used-in-prod-of-tequila)
     - [Gin](#gin)
+      - [Methods of Production of Gin](#methods-of-production-of-gin)
+      - [Qualities of Gin](#qualities-of-gin)
+      - [Terms Used In Prod of Gin](#terms-used-in-prod-of-gin)
     - [Vodka](#vodka)
+      - [Methods of Production of Vodka](#methods-of-production-of-vodka)
+      - [Qualities of Vodka](#qualities-of-vodka)
+      - [Terms Used In Prod of Vodka](#terms-used-in-prod-of-vodka)
     - [Rum](#rum)
+      - [Methods of Production of Rum](#methods-of-production-of-rum)
+      - [Qualities of Rum](#qualities-of-rum)
+      - [Terms Used In Prod of Rum](#terms-used-in-prod-of-rum)
 - [Cert](#cert)
-  - [Identify Specific Spirit Types](#identify-specific-spirit-types)
+  - [01 Identify Specific Spirit Types](#01-identify-specific-spirit-types)
     - [Islay Whisky](#islay-whisky)
     - [Fine Champagne](#fine-champagne)
     - [Armagnac](#armagnac)
@@ -39,11 +63,11 @@
 
 ## Intro
 
-### Principals of Distillation
+### 01 Principals of Distillation
 
 TODO:
 
-### Methods of Production, Terms Used and Qualities of the Following Products
+### 02 Methods of Production, Terms Used and Qualities of the Following Products
 
 TODO:
 
@@ -55,33 +79,41 @@ TODO:
 
 TODO:
 
-- Methods of Production
-- Qualities
-- Terms Used In Prod
+###### Methods of Production of Malt Scotch
 
-##### Blended
+###### Qualities of Malt Scotch
+
+###### Terms Used In Prod of Malt Scotch
+
+##### Blended Scotch
 
 TODO:
 
-- Methods of Production
-- Qualities
-- Terms Used In Prod
+###### Methods of Production of Blended Scotch
+
+###### Qualities of Blended Scotch
+
+###### Terms Used In Prod of Blended Scotch
 
 #### Irish Whiskey Types and Production
 
 TODO:
 
-- Methods of Production:
-- Qualities:
-- Terms Used In Prod:
+##### Methods of Production of Irish Whiskey
+
+##### Qualities of Irish Whiskey
+
+##### Terms Used In Prod of Irish Whiskey
 
 #### US Whiskey Types
 
 TODO:
 
-- Methods of Production:
-- Qualities:
-- Terms Used In Prod:
+##### Methods of Production of US Whiskey
+
+##### Qualities of US Whiskey
+
+##### Terms Used In Prod of US Whiskey
 
 #### Cognac
 
@@ -240,37 +272,45 @@ Sources:
 
 TODO:
 
-- Methods of Production:
-- Qualities:
-- Terms Used In Prod:
+##### Methods of Production of Tequila
+
+##### Qualities of Tequila
+
+##### Terms Used In Prod of Tequila
 
 #### Gin
 
 TODO:
 
-- Methods of Production:
-- Qualities:
-- Terms Used In Prod:
+##### Methods of Production of Gin
+
+##### Qualities of Gin
+
+##### Terms Used In Prod of Gin
 
 #### Vodka
 
 TODO:
 
-- Methods of Production:
-- Qualities:
-- Terms Used In Prod:
+##### Methods of Production of Vodka
+
+##### Qualities of Vodka
+
+##### Terms Used In Prod of Vodka
 
 #### Rum
 
 TODO:
 
-- Methods of Production:
-- Qualities:
-- Terms Used In Prod:
+##### Methods of Production of Rum
+
+##### Qualities of Rum
+
+##### Terms Used In Prod of Rum
 
 ## Cert
 
-### Identify Specific Spirit Types
+### 01 Identify Specific Spirit Types
 
 #### Islay Whisky
 

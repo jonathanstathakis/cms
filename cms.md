@@ -79,15 +79,15 @@ An outline of the top level topics taken from the syllabus.
 | 20. | South Africa                         | x            | x     | x           | 4         |     |                 |                |
 | 21. | Other New World Wines                | #            | -     | -           | 1         | -   | -               | -              |
 | 22. | Fortified Wines                      | x            | x     |             | 5         |     |                 |                |
-| 23. | Spirits                              | -            |       |             | 3         |     |                 |                |
-| 24. | Aperitif wines, Liqueurs and Bitters | -            |       |             | 3         |     |                 |                |
-| 25. | Viticulture and Vinification         | -            |       |             | 3         |     |                 |                |
-| 26. | Beers and Ciders                     | -            |       |             | 3         |     |                 |                |
-| 27. | Saké                                 | -            |       |             | 3         |     |                 |                |
-| 28. | Food and Wine Pairings               | -            | -     |             | 3         |     |                 |                |
-| 29. | Business Aspects                     | -            | -     |             | 3         |     |                 |                |
-| 30. | Practical Service Aspects            | -            | -     |             | 3         |     |                 |                |
-| 31. | Deductive Tasting                    | -            | -     |             | 3         |     |                 |                |
+| 23. | Spirits                              | x            |       |             | 3         |     |                 |                |
+| 24. | Aperitif wines, Liqueurs and Bitters | x            |       |             | 3         |     |                 |                |
+| 25. | Viticulture and Vinification         |              |       |             | 3         |     |                 |                |
+| 26. | Beers and Ciders                     | x            |       |             | 3         |     |                 |                |
+| 27. | Saké                                 | x            |       |             | 3         |     |                 |                |
+| 28. | Food and Wine Pairings               |              | -     |             | 3         |     |                 |                |
+| 29. | Business Aspects                     |              | -     |             | 3         |     |                 |                |
+| 30. | Practical Service Aspects            |              | -     |             | 3         |     |                 |                |
+| 31. | Deductive Tasting                    |              | -     |             | 3         |     |                 |                |
 
 ## Examinations
 
