@@ -6,14 +6,14 @@ Examination date: 2025-04-29
 
 <!-- vim-markdown-toc GFM -->
 
-- [Topics](#topics)
-- [Progress](#progress)
-- [Examinations](#examinations)
-  - [Dates](#dates)
-  - [Introductory](#introductory)
-  - [Certified](#certified)
-- [Resources](#resources)
-- [Misc. Appendix](#misc-appendix)
+  * [Topics](#topics)
+  * [Progress](#progress)
+  * [Examinations](#examinations)
+    * [Dates](#dates)
+    * [Introductory](#introductory)
+    * [Certified](#certified)
+  * [Resources](#resources)
+* [Misc. Appendix](#misc-appendix)
 
 <!-- vim-markdown-toc -->
 

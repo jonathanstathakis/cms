@@ -4,22 +4,22 @@
 
 <!-- vim-markdown-toc GFM -->
 
-- [01 Intro](#01-intro)
-  - [01 Climatic Influences](#01-climatic-influences)
-  - [02 Champagne AC and Sub-Districts](#02-champagne-ac-and-sub-districts)
-  - [03 Permitted Grape Varietals](#03-permitted-grape-varietals)
-  - [04 Soils](#04-soils)
-  - [05 Production Methods](#05-production-methods)
-  - [06 Styles](#06-styles)
-  - [07 Qualities](#07-qualities)
-  - [08 Labelling Terms](#08-labelling-terms)
-  - [09 Bottle Sizes](#09-bottle-sizes)
-- [02 Certified](#02-certified)
-  - [01 Yields and Extraction Amounts](#01-yields-and-extraction-amounts)
-  - [02 Bottle Sizes and Volumes](#02-bottle-sizes-and-volumes)
-  - [03 Quality Marques from Leading Producers](#03-quality-marques-from-leading-producers)
-  - [04 Coteaux Champenois Wines](#04-coteaux-champenois-wines)
-  - [Classic Vintages 10 Years](#classic-vintages-10-years)
+* [01 Intro](#01-intro)
+  * [01 Climatic Influences](#01-climatic-influences)
+  * [02 Champagne AC and Sub-Districts](#02-champagne-ac-and-sub-districts)
+  * [03 Permitted Grape Varietals](#03-permitted-grape-varietals)
+  * [04 Soils](#04-soils)
+  * [05 Production Methods](#05-production-methods)
+  * [06 Styles](#06-styles)
+  * [07 Qualities](#07-qualities)
+  * [08 Labelling Terms](#08-labelling-terms)
+  * [09 Bottle Sizes](#09-bottle-sizes)
+* [02 Certified](#02-certified)
+  * [01 Yields and Extraction Amounts](#01-yields-and-extraction-amounts)
+  * [02 Bottle Sizes and Volumes](#02-bottle-sizes-and-volumes)
+  * [03 Quality Marques from Leading Producers](#03-quality-marques-from-leading-producers)
+  * [04 Coteaux Champenois Wines](#04-coteaux-champenois-wines)
+  * [Classic Vintages 10 Years](#classic-vintages-10-years)
 
 <!-- vim-markdown-toc -->
 

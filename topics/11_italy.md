@@ -4,69 +4,70 @@
 
 <!-- vim-markdown-toc GFM -->
 
-- [Intro](#intro)
-  - [01 Climatic Influences](#01-climatic-influences)
-  - [02 Quality Structure IGT, DOC, DOCG](#02-quality-structure-igt-doc-docg)
-  - [03 Wine Producing Districts and Location](#03-wine-producing-districts-and-location)
-  - [04 Principal Grape Varietals and Regions](#04-principal-grape-varietals-and-regions)
-  - [05 Principal Wines of Each Region and Varietals Used in Production](#05-principal-wines-of-each-region-and-varietals-used-in-production)
-    - [North](#north)
-      - [Piedmont](#piedmont)
-      - [Lombardy](#lombardy)
-      - [Liguria](#liguria)
-      - [Emilia-Romagna](#emilia-romagna)
-      - [Trentino-Alto Adige](#trentino-alto-adige)
-      - [Veneto](#veneto)
-      - [Fruili-Venezia Giulia](#fruili-venezia-giulia)
-    - [Central](#central)
-      - [Tuscany](#tuscany)
-      - [Umbria](#umbria)
-      - [Marche](#marche)
-      - [Abruzzo](#abruzzo)
-      - [Lazio](#lazio)
-    - [South](#south)
-      - [Campania](#campania)
-      - [Apulia](#apulia)
-      - [Basilicata](#basilicata)
-      - [Sicilia](#sicilia)
-      - [Sardinia](#sardinia)
-  - [06 Production Methods](#06-production-methods)
-    - [Recioto](#recioto)
-    - [Ripasso](#ripasso)
-    - [Amarone](#amarone)
-    - [Vin Santo](#vin-santo)
-  - [07 Labelling Terms](#07-labelling-terms)
-  - [08 Prosecco Quality levels and Production Methods](#08-prosecco-quality-levels-and-production-methods)
-- [Cert](#cert)
-  - [01 DOCG's in Each Region](#01-docgs-in-each-region)
-    - [North DOCGs](#north-docgs)
-      - [Piedmont DOCGs](#piedmont-docgs)
-      - [Lombardy DOCGs](#lombardy-docgs)
-      - [Emilia-Romagna DOCGs](#emilia-romagna-docgs)
-      - [Veneto DOCGs](#veneto-docgs)
-        - [Valpolicella DOCGs](#valpolicella-docgs)
-        - [Soave DOCGs](#soave-docgs)
-        - [Prosecco DOCGs](#prosecco-docgs)
-      - [Fruili-Venezia Giulia DOCGs](#fruili-venezia-giulia-docgs)
-    - [Central DOCGs](#central-docgs)
-      - [Tuscany DOCGs](#tuscany-docgs)
-      - [Umbria DOCGs](#umbria-docgs)
-      - [Marches DOCGs](#marches-docgs)
-      - [Abruzzo DOCGs](#abruzzo-docgs)
-      - [Lazio DOCGs](#lazio-docgs)
-    - [South DOCGs](#south-docgs)
-    - [Campania DOCGs](#campania-docgs)
-      - [Apulia DOCGs](#apulia-docgs)
-      - [Basilicata DOCGs](#basilicata-docgs)
-      - [Sicilia DOCGs](#sicilia-docgs)
-      - [Sardinia DOCGs](#sardinia-docgs)
-  - [02 Aging Requirements and Specified Terms](#02-aging-requirements-and-specified-terms)
-    - [Barolo DOCG](#barolo-docg)
-    - [Barbaresco DOCG](#barbaresco-docg)
-    - [Chianti](#chianti)
-    - [Vino Nobile](#vino-nobile)
-    - [Brunello di Montalcino](#brunello-di-montalcino)
-  - [03 Sub-Districts of Chianti](#03-sub-districts-of-chianti)
+* [Intro](#intro)
+  * [01 Climatic Influences](#01-climatic-influences)
+  * [02 Quality Structure IGT, DOC, DOCG](#02-quality-structure-igt-doc-docg)
+  * [03 Wine Producing Districts and Location](#03-wine-producing-districts-and-location)
+  * [04 Principal Grape Varietals and Regions](#04-principal-grape-varietals-and-regions)
+  * [05 Principal Wines of Each Region and Varietals Used in Production](#05-principal-wines-of-each-region-and-varietals-used-in-production)
+    * [North](#north)
+      * [Piedmont](#piedmont)
+      * [Lombardy](#lombardy)
+      * [Liguria](#liguria)
+      * [Emilia-Romagna](#emilia-romagna)
+      * [Trentino-Alto Adige](#trentino-alto-adige)
+      * [Veneto](#veneto)
+      * [Fruili-Venezia Giulia](#fruili-venezia-giulia)
+    * [Central](#central)
+      * [Tuscany](#tuscany)
+      * [Umbria](#umbria)
+      * [Marche](#marche)
+      * [Abruzzo](#abruzzo)
+      * [Lazio](#lazio)
+    * [South](#south)
+      * [Campania](#campania)
+      * [Apulia](#apulia)
+      * [Basilicata](#basilicata)
+      * [Sicilia](#sicilia)
+      * [Sardinia](#sardinia)
+  * [06 Production Methods](#06-production-methods)
+    * [Recioto](#recioto)
+    * [Ripasso](#ripasso)
+    * [Amarone](#amarone)
+    * [Vin Santo](#vin-santo)
+  * [07 Labelling Terms](#07-labelling-terms)
+  * [08 Prosecco Quality levels and Production Methods](#08-prosecco-quality-levels-and-production-methods)
+* [Cert](#cert)
+  * [01 DOCG's in Each Region](#01-docgs-in-each-region)
+    * [North DOCGs](#north-docgs)
+      * [Piedmont DOCGs](#piedmont-docgs)
+      * [Lombardy DOCGs](#lombardy-docgs)
+      * [Emilia-Romagna DOCGs](#emilia-romagna-docgs)
+      * [Veneto DOCGs](#veneto-docgs)
+        * [Valpolicella DOCGs](#valpolicella-docgs)
+        * [Soave DOCGs](#soave-docgs)
+        * [Prosecco DOCGs](#prosecco-docgs)
+      * [Fruili-Venezia Giulia DOCGs](#fruili-venezia-giulia-docgs)
+    * [Central DOCGs](#central-docgs)
+      * [Tuscany DOCGs](#tuscany-docgs)
+      * [Umbria DOCGs](#umbria-docgs)
+      * [Marches DOCGs](#marches-docgs)
+      * [Abruzzo DOCGs](#abruzzo-docgs)
+      * [Lazio DOCGs](#lazio-docgs)
+    * [South DOCGs](#south-docgs)
+    * [Campania DOCGs](#campania-docgs)
+      * [Apulia DOCGs](#apulia-docgs)
+      * [Basilicata DOCGs](#basilicata-docgs)
+      * [Sicilia DOCGs](#sicilia-docgs)
+      * [Sardinia DOCGs](#sardinia-docgs)
+  * [02 Aging Requirements and Specified Terms](#02-aging-requirements-and-specified-terms)
+    * [Barolo DOCG](#barolo-docg)
+    * [Barbaresco DOCG](#barbaresco-docg)
+    * [Chianti](#chianti)
+    * [Chianti Classico DOCG](#chianti-classico-docg)
+    * [Vino Nobile](#vino-nobile)
+    * [Brunello di Montalcino](#brunello-di-montalcino)
+  * [03 Sub-Districts of Chianti](#03-sub-districts-of-chianti)
 
 <!-- vim-markdown-toc -->
 
@@ -577,6 +578,7 @@ Sources:
 - Lison DOCG: Bianco
 
 ![Ramandolo DOCG](Pasted%20image%2020250418122439.png)
+
 #### Central DOCGs
 
 ##### Tuscany DOCGs
@@ -649,9 +651,57 @@ Sources:
 
 ### 02 Aging Requirements and Specified Terms
 
+Key Facts:
+
+- Specifications of start time:
+  - In Italy, harvest is between September and October. Thus October 1st for CC is equivalent to 1 year
+  - conversely, Piedmont DOCG state from Nov. 1, presumably after vinification.
+  - Brunello gives 3 months to vinify before aging starts - maximal extraction.
+- Specifications about wood:
+  - note difference between wood and cask
+- Piedmont:
+  - Barolos spend twice s much time in wood as Barbarescos
+  - Barolo spends 1 year longer maturing than Barbaresco
+  - Both Barolo and Barbaresco spend x years + 2 months for minimum. The 2 months is to push the release date to the year FOLLOWING the end of the yearly maturation duration
+- Normale vs. Riserva:
+  - Brunello Riserva is matured for 1 year longer than Normale
+  - Barolo Riserva is matured for 2 years longer than Normale
+  - Barbaresco Riserva is matured for 2 year slonger than Normale
+  - Vino Nobile Riserva is matured for 1 year longer and stipulates 6 months of bottle maturation
+  - Chianti Classico DOCG Normale Riserva needs 1 year more and stipulates 3 months in bottle
+  - Chianti DOCG Riserva asks for 2 years, 18 months longer than Normale
+- Gran Selezione: 6 months longer maturation than Chianti Classico DOCG
+
+Table of minimums, longest to shortest (in months):
+
+| DOCG             | Normale                                                         | Riserva                                                    | Gran Selezione                |
+| ---------------- | --------------------------------------------------------------- | ---------------------------------------------------------- | ----------------------------- |
+| Brunello         | Jan 1st 5 years after harv., 2 years in cask, 4 month in bottle | 6 years after harvest, 2 years in cask, 4 months in bottle |                               |
+| Barolo           | 38 months from Nov. 1 year of harvest, 18 months in wood        | 62 months, 18 months in wood                               |                               |
+| Barbaresco       | 26 months from Nov. 1, 9 months in cask                         | 50 months, 9 months in cask                                |                               |
+| Vino Nobile      | 2 years, 1 year in wood                                         | 3 years, 6 months in bottle                                |                               |
+| Chianti Classico | October 1 year following harvest (12 mths)                      | 24 months, 3 months in bottle                              | 30 months, 3 months in bottle |
+| Chianti          | March 1 year following harvest (6 mths)                         | 2 years                                                    |                               |
+
+(in years, months):
+
+| DOCG             | Normale                                      | Riserva                                       | Gran Selezione                           |
+| ---------------- | -------------------------------------------- | --------------------------------------------- | ---------------------------------------- |
+| Brunello         | 5 years@, 2 years in cask, 4 month in bottle | 6 years@, 2 years in cask, 4 months in bottle |                                          |
+| Barolo           | 3 years and 2 months\*, 18 months in wood    | 5 years and 2 months\*, 18 months in wood     |                                          |
+| Barbaresco       | 2 years and 2 months\*, 9 months in cask     | 4 years and 2 months\*, 9 months in cask      |                                          |
+| Vino Nobile      | 2 years@, 1 year in wood                     | 3 years, 6 months in bottle                   |                                          |
+| Chianti Classico | ~12 mths+                                    | 2 years+, 3 months in bottle                  | 2 years and 6 months, 3 months in bottle |
+| Chianti          | ~6 mths%                                     | 2 years%                                      |                                          |
+
+\*: from Nov. 1st of Harvest year (i.e. 1 month after harvest)
++: October 1+ year following harvest
+%: March 1 year following harvest
+@: from Jan. 1st year following harvest
+
 #### Barolo DOCG
 
-- base:
+- Normale:
   - min. 38 months from November 1 of harvest year
   - min. 18 months in wood
 - Riserva: 62 months
@@ -659,7 +709,7 @@ Sources:
 
 #### Barbaresco DOCG
 
-- base:
+- Normale:
   - min. 26 months from November 1 of harvest year
   - must include 9 months in cask
 - Riserva: min. 50 months:
@@ -668,23 +718,25 @@ Sources:
 #### Chianti
 
 - Chianti DOCG:
-  - Chianti Normale: released 1 March year follwoing harvest
+  - Chianti Normale: released 1 March year following harvest
   - Riserva: 2 years of aging
-- Chianti Classico DOCG:
-  - base: Release October 1st year following harvest
-  - Riserva:
-    - min. 24 months
-    - 3 months in bottle
-    - min. alcohol 12.5%
-  - Gran Selezione:
-    - min. 30 months
-    - 3 months in bottle
-    - min. 13% ABV
-    - min. 90% Sangiovese
+
+#### Chianti Classico DOCG
+
+- Normale: Release October 1st year following harvest
+- Riserva:
+  - min. 24 months
+  - 3 months in bottle
+  - min. alcohol 12.5%
+- Gran Selezione:
+  - min. 30 months
+  - 3 months in bottle
+  - min. 13% ABV
+  - min. 90% Sangiovese
 
 #### Vino Nobile
 
-- base:
+- Normale:
   - min. 2 years
   - min. 1 year in wood
 - Riserva:
@@ -693,7 +745,7 @@ Sources:
 
 #### Brunello di Montalcino
 
-- base:
+- Normale:
   - min. 2 years in cask
   - min. 4 months in bottle
   - canot be releasd until January 1st of the 5th year following harvest
