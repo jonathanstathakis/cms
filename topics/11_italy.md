@@ -532,6 +532,8 @@ Sources:
 - other:
   - Barolo Chinato DOCG: aromatized wine
 
+![](../attachments/attachments/.png)
+
 ##### Lombardy DOCGs
 
 - sparkling:

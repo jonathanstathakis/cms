@@ -4,60 +4,60 @@
 
 <!-- vim-markdown-toc GFM -->
 
-- [Intro](#intro)
-  - [01 Principals of Distillation](#01-principals-of-distillation)
-  - [02 Methods of Production, Terms Used and Qualities of the Following Products](#02-methods-of-production-terms-used-and-qualities-of-the-following-products)
-    - [Scotch Whisky](#scotch-whisky)
-      - [Malt Scotch Whisky](#malt-scotch-whisky)
-        - [Methods of Production of Malt Scotch](#methods-of-production-of-malt-scotch)
-        - [Qualities of Malt Scotch](#qualities-of-malt-scotch)
-        - [Terms Used In Prod of Malt Scotch](#terms-used-in-prod-of-malt-scotch)
-      - [Blended Scotch](#blended-scotch)
-        - [Methods of Production of Blended Scotch](#methods-of-production-of-blended-scotch)
-        - [Qualities of Blended Scotch](#qualities-of-blended-scotch)
-        - [Terms Used In Prod of Blended Scotch](#terms-used-in-prod-of-blended-scotch)
-    - [Irish Whiskey Types and Production](#irish-whiskey-types-and-production)
-      - [Methods of Production of Irish Whiskey](#methods-of-production-of-irish-whiskey)
-      - [Qualities of Irish Whiskey](#qualities-of-irish-whiskey)
-      - [Terms Used In Prod of Irish Whiskey](#terms-used-in-prod-of-irish-whiskey)
-    - [US Whiskey Types](#us-whiskey-types)
-      - [Methods of Production of US Whiskey](#methods-of-production-of-us-whiskey)
-      - [Qualities of US Whiskey](#qualities-of-us-whiskey)
-      - [Terms Used In Prod of US Whiskey](#terms-used-in-prod-of-us-whiskey)
-    - [Cognac](#cognac)
-      - [Methods of Production](#methods-of-production)
-      - [Qualities](#qualities)
-      - [Terms Used In Prod](#terms-used-in-prod)
-      - [Ageing](#ageing)
-      - [Examples of Products](#examples-of-products)
-    - [Calvados](#calvados)
-    - [Tequila](#tequila)
-      - [Methods of Production of Tequila](#methods-of-production-of-tequila)
-      - [Qualities of Tequila](#qualities-of-tequila)
-      - [Terms Used In Prod of Tequila](#terms-used-in-prod-of-tequila)
-    - [Gin](#gin)
-      - [Methods of Production of Gin](#methods-of-production-of-gin)
-      - [Qualities of Gin](#qualities-of-gin)
-      - [Terms Used In Prod of Gin](#terms-used-in-prod-of-gin)
-    - [Vodka](#vodka)
-      - [Methods of Production of Vodka](#methods-of-production-of-vodka)
-      - [Qualities of Vodka](#qualities-of-vodka)
-      - [Terms Used In Prod of Vodka](#terms-used-in-prod-of-vodka)
-    - [Rum](#rum)
-      - [Methods of Production of Rum](#methods-of-production-of-rum)
-      - [Qualities of Rum](#qualities-of-rum)
-      - [Terms Used In Prod of Rum](#terms-used-in-prod-of-rum)
-- [Cert](#cert)
-  - [01 Identify Specific Spirit Types](#01-identify-specific-spirit-types)
-    - [Islay Whisky](#islay-whisky)
-    - [Fine Champagne](#fine-champagne)
-    - [Armagnac](#armagnac)
-      - [Producers](#producers)
-      - [Specific Terms](#specific-terms)
-      - [Further Reading](#further-reading)
-    - [Marc/Grappa](#marcgrappa)
-    - [Tequila & Mezcal](#tequila--mezcal)
-    - [Eau de Vie (Fruit Spirits)](#eau-de-vie-fruit-spirits)
+* [Intro](#intro)
+  * [01 Principals of Distillation](#01-principals-of-distillation)
+  * [02 Methods of Production, Terms Used and Qualities of the Following Products](#02-methods-of-production-terms-used-and-qualities-of-the-following-products)
+    * [Scotch Whisky](#scotch-whisky)
+      * [Malt Scotch Whisky](#malt-scotch-whisky)
+        * [Methods of Production of Malt Scotch](#methods-of-production-of-malt-scotch)
+        * [Qualities of Malt Scotch](#qualities-of-malt-scotch)
+        * [Terms Used In Prod of Malt Scotch](#terms-used-in-prod-of-malt-scotch)
+      * [Blended Scotch](#blended-scotch)
+        * [Methods of Production of Blended Scotch](#methods-of-production-of-blended-scotch)
+        * [Qualities of Blended Scotch](#qualities-of-blended-scotch)
+        * [Terms Used In Prod of Blended Scotch](#terms-used-in-prod-of-blended-scotch)
+    * [Irish Whiskey Types and Production](#irish-whiskey-types-and-production)
+      * [Methods of Production of Irish Whiskey](#methods-of-production-of-irish-whiskey)
+      * [Qualities of Irish Whiskey](#qualities-of-irish-whiskey)
+      * [Terms Used In Prod of Irish Whiskey](#terms-used-in-prod-of-irish-whiskey)
+    * [US Whiskey Types](#us-whiskey-types)
+      * [Methods of Production of US Whiskey](#methods-of-production-of-us-whiskey)
+      * [Qualities of US Whiskey](#qualities-of-us-whiskey)
+      * [Terms Used In Prod of US Whiskey](#terms-used-in-prod-of-us-whiskey)
+    * [Cognac](#cognac)
+      * [Methods of Production](#methods-of-production)
+      * [Qualities](#qualities)
+      * [Terms Used In Prod](#terms-used-in-prod)
+      * [Ageing](#ageing)
+      * [Examples of Products](#examples-of-products)
+    * [Calvados](#calvados)
+    * [Tequila](#tequila)
+      * [Methods of Production of Tequila](#methods-of-production-of-tequila)
+      * [Qualities of Tequila](#qualities-of-tequila)
+      * [Terms Used In Prod of Tequila](#terms-used-in-prod-of-tequila)
+    * [Gin](#gin)
+      * [Methods of Production of Gin](#methods-of-production-of-gin)
+      * [Qualities of Gin](#qualities-of-gin)
+      * [Terms Used In Prod of Gin](#terms-used-in-prod-of-gin)
+    * [Vodka](#vodka)
+      * [Methods of Production of Vodka](#methods-of-production-of-vodka)
+      * [Qualities of Vodka](#qualities-of-vodka)
+      * [Terms Used In Prod of Vodka](#terms-used-in-prod-of-vodka)
+    * [Rum](#rum)
+      * [Methods of Production of Rum](#methods-of-production-of-rum)
+      * [Qualities of Rum](#qualities-of-rum)
+      * [Terms Used In Prod of Rum](#terms-used-in-prod-of-rum)
+* [Cert](#cert)
+  * [01 Identify Specific Spirit Types](#01-identify-specific-spirit-types)
+    * [Islay Whisky](#islay-whisky)
+    * [Fine Champagne](#fine-champagne)
+    * [Armagnac](#armagnac)
+      * [Producers](#producers)
+      * [Specific Terms](#specific-terms)
+      * [Further Reading](#further-reading)
+    * [Marc/Grappa](#marcgrappa)
+    * [Tequila & Mezcal](#tequila--mezcal)
+    * [Eau de Vie (Fruit Spirits)](#eau-de-vie-fruit-spirits)
 
 <!-- vim-markdown-toc -->
 
@@ -223,7 +223,6 @@ Sources:
   - distillation either by:
     - double distillation in alembic pot still: _l'alambic à repasse_ or _charentais_
     - single continuous distillation in column still
-  - **double distillation in alembic pot still** is required for _Calvados Pays d'Auge_
 - Appellations:
   - Calvados AOC departments:
     - Calvados
@@ -234,7 +233,13 @@ Sources:
     - tends to be single-column distillation
   - AOC calvados Pays d'Auge:
     - covers the east end of the department of Calvados
-    - minimum six weeks fermentation of cider
+    - requirements:
+      - minimum six weeks fermentation of cider
+      - double distillation in copper pot still
+      - 2 years in oak cask
+      - no more than 30% pear cider
+    - sources:
+      - <https://www.guildsomm.com/research/compendium/w/spirtsandcocktails/1087/calvados-pays-d-auge-aoc>
   - AOC calvados Domfrontais
   - Fermier calvados:
     - farm-made

@@ -4,29 +4,29 @@
 
 <!-- vim-markdown-toc GFM -->
 
-- [Maps](#maps)
-- [Intro](#intro)
-  - [01 Climatic Influences](#01-climatic-influences)
-  - [02 Quality structure for Spain: Vinos de la Tierra, DO DOCa Vinos de Pagos](#02-quality-structure-for-spain-vinos-de-la-tierra-do-doca-vinos-de-pagos)
-  - [03 Wine districts of Spain & location](#03-wine-districts-of-spain--location)
-  - [04 Principal varietals and synonyms of grapes: ie: Tempranillo, Mazuelo](#04-principal-varietals-and-synonyms-of-grapes-ie-tempranillo-mazuelo)
-  - [05 Wine ageing regime & terms](#05-wine-ageing-regime--terms)
-  - [06 Principal wines of main wine districts: Rías Baixas, Navarra, Rioja, Toro, Ribera del Duero, Penedes, Rueda, Priorat, Valdepeñas](#06-principal-wines-of-main-wine-districts-rías-baixas-navarra-rioja-toro-ribera-del-duero-penedes-rueda-priorat-valdepeñas)
-  - [07 Styles of wine and varietals used](#07-styles-of-wine-and-varietals-used)
-  - [08 Cava wine production](#08-cava-wine-production)
-  - [09 Labelling terms](#09-labelling-terms)
-- [Certified](#certified)
-  - [01 Specific ageing requirements for Rioja wines](#01-specific-ageing-requirements-for-rioja-wines)
-  - [02 DOCa’s of Spain](#02-docas-of-spain)
-  - [03 Quality hierarchy: Rioja, Priorat](#03-quality-hierarchy-rioja-priorat)
-    - [Quality Heirarchy in Rioja](#quality-heirarchy-in-rioja)
-    - [Quality Heirarchy of Priorat](#quality-heirarchy-of-priorat)
-  - [04 Sub districts of Rias Baixas, Navarra, Penedes & Priorat (Vino de Pueblo)](#04-sub-districts-of-rias-baixas-navarra-penedes--priorat-vino-de-pueblo)
-    - [Sub-Districts of Rías-Baixas](#sub-districts-of-rías-baixas)
-    - [Sub-Districts of Navarra](#sub-districts-of-navarra)
-    - [Sub-Districts of Penedes](#sub-districts-of-penedes)
-    - [Sub-Districts of Priorat](#sub-districts-of-priorat)
-  - [05 Location of and wines produced in: Ribera del Duero, Montsant, Toro, Rueda, Bierzo](#05-location-of-and-wines-produced-in-ribera-del-duero-montsant-toro-rueda-bierzo)
+* [Maps](#maps)
+* [Intro](#intro)
+  * [01 Climatic Influences](#01-climatic-influences)
+  * [02 Quality structure for Spain: Vinos de la Tierra, DO DOCa Vinos de Pagos](#02-quality-structure-for-spain-vinos-de-la-tierra-do-doca-vinos-de-pagos)
+  * [03 Wine districts of Spain & location](#03-wine-districts-of-spain--location)
+  * [04 Principal varietals and synonyms of grapes: ie: Tempranillo, Mazuelo](#04-principal-varietals-and-synonyms-of-grapes-ie-tempranillo-mazuelo)
+  * [05 Wine ageing regime & terms](#05-wine-ageing-regime--terms)
+  * [06 Principal wines of main wine districts: Rías Baixas, Navarra, Rioja, Toro, Ribera del Duero, Penedes, Rueda, Priorat, Valdepeñas](#06-principal-wines-of-main-wine-districts-rías-baixas-navarra-rioja-toro-ribera-del-duero-penedes-rueda-priorat-valdepeñas)
+  * [07 Styles of wine and varietals used](#07-styles-of-wine-and-varietals-used)
+  * [08 Cava wine production](#08-cava-wine-production)
+  * [09 Labelling terms](#09-labelling-terms)
+* [Certified](#certified)
+  * [01 Specific ageing requirements for Rioja wines](#01-specific-ageing-requirements-for-rioja-wines)
+  * [02 DOCa’s of Spain](#02-docas-of-spain)
+  * [03 Quality hierarchy: Rioja, Priorat](#03-quality-hierarchy-rioja-priorat)
+    * [Quality Heirarchy in Rioja](#quality-heirarchy-in-rioja)
+    * [Quality Heirarchy of Priorat](#quality-heirarchy-of-priorat)
+  * [04 Sub districts of Rias Baixas, Navarra, Penedes & Priorat (Vino de Pueblo)](#04-sub-districts-of-rias-baixas-navarra-penedes--priorat-vino-de-pueblo)
+    * [Sub-Districts of Rías-Baixas](#sub-districts-of-rías-baixas)
+    * [Sub-Districts of Navarra](#sub-districts-of-navarra)
+    * [Sub-Districts of Penedes](#sub-districts-of-penedes)
+    * [Sub-Districts of Priorat](#sub-districts-of-priorat)
+  * [05 Location of and wines produced in: Ribera del Duero, Montsant, Toro, Rueda, Bierzo](#05-location-of-and-wines-produced-in-ribera-del-duero-montsant-toro-rueda-bierzo)
 
 <!-- vim-markdown-toc -->
 
@@ -195,6 +195,7 @@ red:
   - Ribera del Duero: Tino del País, Tinto Fino
   - Toro: Tinta de Toro
   - Ull de Llebre
+  - Cencibel (Catalunia)
 
 ### 05 Wine ageing regime & terms
 

@@ -18,6 +18,15 @@
   * [01 Yields and Extraction Amounts](#01-yields-and-extraction-amounts)
   * [02 Bottle Sizes and Volumes](#02-bottle-sizes-and-volumes)
   * [03 Quality Marques from Leading Producers](#03-quality-marques-from-leading-producers)
+    * [Moët et Chandon](#moët-et-chandon)
+    * [Taittinger](#taittinger)
+    * [Louis Roederer](#louis-roederer)
+    * [Laurent-Perrier](#laurent-perrier)
+    * [Perrier-Jouët](#perrier-jouët)
+    * [Pol Roger](#pol-roger)
+    * [Ruinart](#ruinart)
+    * [Veuve Clicquot-Ponsardin](#veuve-clicquot-ponsardin)
+    * [Krug](#krug)
   * [04 Coteaux Champenois Wines](#04-coteaux-champenois-wines)
   * [Classic Vintages 10 Years](#classic-vintages-10-years)
 
@@ -189,37 +198,339 @@ see 01.09.
 
 ### 03 Quality Marques from Leading Producers
 
-- Moët et Chandon:
-  - Dom Pérignon: Ch, PN
-- Taittinger:
-  - Comtes de Champagne:
+#### Moët et Chandon
+
+- Dom Pérignon:
+  - varieties:
+    - Ch, PN
+  - labels:
+    - Dom Pérignon:
+      - 8 - 9 years lees aging
+    * Plénitude 2:
+      - 15 - 20 years lees aging
+    * Plenitude 3:
+      - undefined, longer than P2
+  - styles:
+    - Brut
+    - Rosé
+  - vintages:
+    - years:
+      - 2015
+      - 2013
+      - 2012
+      - 2010
+      - 2009
+      - 2008
+      - 2006
+      - 2005
+      - 2004
+      - 2003
+      - 2002
+      - 2000
+    - description:
+      - latest release was 2015
+      - didnt make a vintage in:
+        - 2014
+        - 2011
+        - 2010
+        - 2007
+        - 2001
+  - style:
+  * approx. equal prop of PN and Ch.
+  * current releases:
+    - Dom Pérignon: 2015
+    - Dom Pérignon Rosé: 2009
+
+Sources:
+
+- <https://en.wikipedia.org/wiki/Dom_P%C3%A9rignon>
+
+#### Taittinger
+
+- Comtes de Champagne:
+  - means count of Champagne, the ruler during the medieval ages
+  * styles:
     - rosé: 70% PN, 30% Ch
     - BdB
-- Louis Roederer:
-  - Cristal:
-    - Brut: 55% PN, 45% Ch
-    - Brut Rosé: ?
-- Laurent-Perrier:
-  - Grande Siècle: 50% Ch, 50% PN
-  - Alexandra (Vintage Rosé): 80% PN, 20% Ch
-- Perrier-Jouët:
-  - Belle Époque: 50% CH, 45% PN, 5% Meun.
-    - Brut
-    - Brut Rosé
-    - BdB
-- Pol Roger:
-  - Cuvée Sir Winston Churchill: PN, CH
-- Ruinart:
-  - Dom Ruinart:
-    - BdB
-    - Rosé: 85% Ch., 15% Ch.
-- Veuve Clicquot-Ponsardin:
-  - La Grande Dame:
-    - Brut: 65% PN, 35% Ch.
-    - Brut Rosé: ?
-- Krug:
-  - Clos de Mesnil: 100% Chardonnay
-  - Clos de d'Ambonnay: 100% Pinot Noir
+  * releases:
+    - BdB:
+      - years:
+        - 2014
+        - 2013
+        - 2012
+        - 2011
+        - 2008
+        - 2007
+        - 2006
+        - 2005
+        - 2004
+        - 2002
+        - 2000
+      - description:
+        - latest release 2014, vintage every year except for 2010, 2009, 2003, 2001
+    - rosé:
+      - years:
+        - 2012
+        - 2009
+        - 2008
+        - 2007
+        - 2006
+        - 2005
+        - 2004
+        - 2003
+        - 2002
+        - 2000
+      * description:
+        - latest release in 2012 (?)
+        - didnt make a vintage in:
+          - 2011
+          - 2010
+          - 2001
+
+Sources:
+
+- <https://www.wine-searcher.com/find/taittinger+comte+de+brut+champagne+blancdeblanc+france>
+- <https://www.wine-searcher.com/find/taittinger+comte+de+brut+rose+champagne+france/2020#t3>
+
+#### Louis Roederer
+
+- Cristal:
+  - Brut:
+    - 55% PN, 45% Ch
+    - vintages:
+      - years:
+        - 2016
+        - 2015
+        - 2014
+        - 2013
+        - 2012
+        - 2009
+        - 2008
+        - 2007
+        - 2006
+        - 2005
+        - 2004
+        - 2002
+        - 2000
+      - description:
+        - latest release 2016
+        - made a vintage every year except for:
+          - 2011
+          - 2010
+          - 2003
+          - 2001
+  - Brut Rosé:
+    - more PN than Ch.
+    - saignée
+    - vintages:
+      - years:
+        - 2017
+        - 2016
+        - 2015
+        - 2014
+        - 2013
+        - 2012
+        - 2009
+        - 2008
+        - 2007
+        - 2006
+        - 2005
+        - 2004
+        - 2002
+        - 2000
+      - description:
+        - latest release 2017
+        - made a vintage every year except for:k
+          - 2011
+          - 2010
+          - 2003
+          - 2001
+  - biodynamic since 2012
+
+Sources:
+
+- <https://en.wikipedia.org/wiki/Cristal_(wine)>
+- <https://www.wine-searcher.com/find/louis+roederer+cristal+millesime+brut+champagne+france>
+- <https://www.wine-searcher.com/find/louis+roederer+cristal+brut+rose+millesime+champagne+france>
+
+#### Laurent-Perrier
+
+- Grande Siècle:
+
+  - 50% Ch, 50% PN
+  - edition based, not vintage.
+  - multi-vintage blends
+  - unoaked, fermented and matured in stainless steel
+  - 22nd edition was the first to state the number.
+  - last release:
+    - No. 26:
+      - 65% 2008
+      - 25% 2007
+      - 10% 2006
+
+- Alexandra (Vintage Rosé):
+  - 80% PN, 20% Ch
+  - vintages:
+    - years:
+      - 2012
+      - 2007
+      - 2006
+      - 2004
+    - description:
+      - 4 releases since 2000: 2012, 2007, 2006, 2004
+
+Sources:
+
+- <https://www.wine-searcher.com/find/grand+siecle+par+laurent+perrier+champagne+brut+france>
+
+* <https://www.wine-searcher.com/find/grand+siecle+par+laurent+perrier+no+26+champagne+brut+france>
+* <https://www.champagneclub.com/the-true-elegance-of-grand-siecle-no23-to-no26/>
+* <https://www.wine-searcher.com/find/laurent+perrier+alexandra+rose+champagne+france>
+
+#### Perrier-Jouët
+
+- Belle Époque: 50% CH, 45% PN, 5% Meun.
+  - Brut:
+    - vintages:
+      - years:
+        - 2016
+        - 2015
+        - 2014
+        - 2013
+        - 2012
+        - 2011
+        - 2008
+        - 2007
+        - 2006
+        - 2005
+        - 2004
+        - 2002
+        - 2000
+      - description:
+        - TODO:
+  - Brut Rosé:
+    - vintages:
+      - years:
+        - 2016
+        - 2015
+        - 2014
+        - 2013
+        - 2012
+        - 2010
+        - 2008
+        - 2007
+        - 2006
+        - 2005
+        - 2004
+        - 2002
+      - description:
+        - TODO:
+  - BdB:
+    - vintages:
+      - years:
+        - 2017
+        - 2015
+        - 2014
+        - 2012
+        - 2010
+        - 2007
+        - 2006
+        - 2004
+        - 2002
+        - 2000
+      - description:
+        - TODO
+
+Sources:
+
+- <https://www.wine-searcher.com/find/perrier+jouet+belle+epoque+fleur+de+millesime+brut+champagne+france>
+- <https://www.wine-searcher.com/find/perrier+jouet+belle+epoque+fleur+de+brut+rose+millesime+champagne+france>
+- <https://www.wine-searcher.com/find/perrier+jouet+belle+epoque+fleur+de+brut+millesime+champagne+blancdeblanc+france/2018>
+
+#### Pol Roger
+
+- Cuvée Sir Winston Churchill: PN, CH
+  - vintages:
+    - years:
+      - 2015
+      - 2014
+      - 2012
+      - 2009
+      - 2008
+      - 2006
+      - 2004
+      - 2002
+      - 2000
+    - description:
+      - TODO:
+
+Sources:
+
+- <https://www.wine-searcher.com/find/pol+roger+cuvee+sir+winston+church+hill+brut+champagne+france>
+
+#### Ruinart
+
+- Dom Ruinart:
+  - BdB:
+    - vintages:
+      - years:
+        - 2013
+        - 2010
+        - 2009
+        - 2007
+        - 2006
+        - 2004
+        - 2002
+      - description:
+        - TODO:
+  - Rosé:
+    - 85% Ch., 15% Ch.
+    - vintages:
+      - years:
+        - 2010
+        - 2009
+        - 2008
+        - 2007
+        - 2004
+        - 2002
+      - description:
+        - TODO:
+
+Sources:
+
+- <https://www.wine-searcher.com/find/domruinart+blancdeblanc+brut+millesime+champagne+france#t2>
+- <https://www.wine-searcher.com/find/domruinart+rose+millesime+champagne+france>
+
+#### Veuve Clicquot-Ponsardin
+
+- La Grande Dame:
+
+  - Brut:
+    - 65% PN, 35% Ch.
+  - vintages:
+
+    - 2018
+    - 2015
+    - 2012
+    - 2009
+    - 2008
+    - 2006
+    - 2004
+    - 2000
+
+  - description:
+
+    - TODO:
+
+  - Brut Rosé:
+    - vintages:
+      - years:
+        -
+
+#### Krug
+
+- Clos de Mesnil: 100% Chardonnay
+- Clos de d'Ambonnay: 100% Pinot Noir
 
 ### 04 Coteaux Champenois Wines
 

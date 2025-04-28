@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "e791d39de8fdd26a",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "1edbc97277ad2df2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "topics/06_loire.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "06_loire"
-            }
-          },
-          {
-            "id": "4104502b79dc63da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "topics/06_loire.md",
-                "mode": "source",
+                "file": "cms.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "06_loire"
+              "title": "cms"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "topics/06_loire.md",
+                "file": "cms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 06_loire"
+              "title": "Outline of cms"
             }
           }
         ],
@@ -210,8 +185,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4104502b79dc63da",
+  "active": "1edbc97277ad2df2",
   "lastOpenFiles": [
+    "cms.md",
+    "topics/06_loire.md",
+    "reading_notes/bordeaux/bordeaux.db.wal",
     "attachments/06_loire/pays_nantais.jpeg",
     "attachments/06_loire/central_vineyards_aops.jpeg",
     "attachments/06_loire/touraine_aops.jpeg",
@@ -222,9 +200,6 @@
     "attachments/touraine_aops.jpeg",
     "attachments/IMG_3167.jpeg",
     "attachments/IMG_3163.jpeg",
-    "attachments/IMG_3163 2.jpeg",
-    "cms.md",
-    "topics/06_loire.md",
     "topics/11_italy.md",
     "reading_notes/bordeaux/reading_notes/oxcomp_bordeaux.md",
     "reading_notes/bordeaux/reading_notes/guildsomm_bordeauxexpert.md",
@@ -249,7 +224,6 @@
     "attachments/02_bordeaux/waterways and major appellations of bordeaux.md",
     "attachments/02_bordeaux/top_pomerol_chateaux.csv",
     "attachments/02_bordeaux/st_emilion_class_2022.csv",
-    "attachments/02_bordeaux/st_emilion_class_2022_class_A.csv",
     "attachments/02_bordeaux/map of first growths of bordeaux.md",
     "bordeaux/attachments/waterways and major appellations of bordeaux.md",
     "bordeaux/attachments/map of first growths of bordeaux.md",
