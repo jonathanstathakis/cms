@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e791d39de8fdd26a",
+        "id": "1f3df8ffbf7b1dd2",
         "type": "tabs",
         "children": [
           {
-            "id": "1edbc97277ad2df2",
+            "id": "ddaf7db5b858f6b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433,
-    "collapsed": true
+    "width": 433
   },
   "right": {
     "id": "2fa0dd337b78af51",
@@ -185,7 +184,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1edbc97277ad2df2",
+  "active": "ddaf7db5b858f6b6",
   "lastOpenFiles": [
     "cms.md",
     "topics/06_loire.md",
